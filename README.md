@@ -1,7 +1,6 @@
-<h1 align="center"> ✯ viptv.work的Github仓库 ✯ </h1>
+# VIPTV - 网络电视工具链 
 
-### Hi, I'm viptv.work👋
->I am a frontEnd web developer from China.
+> 简单, 强大, 快速, 无广告, 最高质量的IPTV服务.
 
 🔗 https://viptv-work.github.io
 
