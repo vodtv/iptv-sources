@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://vitejs.dev/logo.sv](https://raw.githubusercontent.com/viptv-work/viptv-work.github.io/master/docs/VIPTV-LOGO-LONG-FINAL%401x-600x175.png" height="200">
+<img src="https://raw.githubusercontent.com/viptv-work/viptv-work.github.io/master/docs/VIPTV-LOGO-LONG-FINAL%401x-600x175.png" height="200">
 </p>
 
 <h1 align="center">
