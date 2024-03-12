@@ -1,7 +1,5 @@
 # <div align="center"><a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">镜像1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">镜像2</a></div>
 
----
-
 ## 目录
 
 - ❓  [如何使用](#如何使用)
