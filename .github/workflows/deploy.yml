@@ -7,25 +7,29 @@ on:
     - cron: '0 0,8 * * *'
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        node-version: [20.x]
+        os: [ubuntu-latest]
+        node_version: [18, 20]
+    name: "Build&Deploy: node-${{ matrix.node_version }}, ${{ matrix.os }}"
     steps:
     - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4   
+    - name: Install pnpm
+      uses: pnpm/action-setup@v3.0.0
+    - name: Set node version to ${{ matrix.node_version }}
+      uses: actions/setup-node@v4   
       with:
-        node-version: ${{ matrix.node-version }}
-        cache: "npm"
-    - name:  Install and Build
-      run: |   
-        npm install 
-        npm run build 
-        npm run dist
-
+        node-version: ${{ matrix.node_version }}
+        cache: "pnpm"
+    - name: Install deps
+      run: pnpm install
+    - name: Build
+      run: pnpm run build
+    - name: Dist
+      run: pnpm run dist 
     - name: "Jekyll theme"
       run: mv ./.github/_config.temp.yml ./data/_config.yml    
-    
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
