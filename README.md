@@ -43,7 +43,7 @@
 | epg.pw China National | <https://vodtv.cn/cn_n.m3u> <br> <https://vodtv.cn/txt/cn_n.txt> | [List for epg.pw China National](https://vodtv.cn/list/cn_n.list) | normal,8 |
 | epg.pw China Country | <https://vodtv.cn/cn_c.m3u> <br> <https://vodtv.cn/txt/cn_c.txt> | [List for epg.pw China Country](https://vodtv.cn/list/cn_c.list) | normal,104 |
 | epg.pw China Province | <https://vodtv.cn/cn_p.m3u> <br> <https://vodtv.cn/txt/cn_p.txt> | [List for epg.pw China Province](https://vodtv.cn/list/cn_p.list) | normal,34 |
-| epg.pw All | <https://vodtv.cn/all.m3u> <br> <https://vodtv.cn/txt/all.txt> | [List for epg.pw All](https://vodtv.cn/list/all.list) | normal,1846 |
+| epg.pw All | <https://vodtv.cn/all.m3u> <br> <https://vodtv.cn/txt/all.txt> | [List for epg.pw All](https://vodtv.cn/list/all.list) | normal,1845 |
 | qwerttvv/Beijing-IPTV IPTV Unicom | <https://vodtv.cn/q_bj_iptv_unicom.m3u> <br> <https://vodtv.cn/txt/q_bj_iptv_unicom.txt> | [List for qwerttvv/Beijing-IPTV IPTV Unicom](https://vodtv.cn/list/q_bj_iptv_unicom.list) | normal,133 |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | <https://vodtv.cn/q_bj_iptv_unicom_m.m3u> <br> <https://vodtv.cn/txt/q_bj_iptv_unicom_m.txt> | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](https://vodtv.cn/list/q_bj_iptv_unicom_m.list) | normal,133 |
 | qwerttvv/Beijing-IPTV IPTV Mobile | <https://vodtv.cn/q_bj_iptv_mobile.m3u> <br> <https://vodtv.cn/txt/q_bj_iptv_mobile.txt> | [List for qwerttvv/Beijing-IPTV IPTV Mobile](https://vodtv.cn/list/q_bj_iptv_mobile.list) | normal,147 |
@@ -180,19 +180,19 @@
   <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv@gh-pages/cn.m3u</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/cn@gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv@gh-pages/txt/cn.txt</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/cn@gh-pages/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv@gh-pages/epg/51zmt.xml</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/cn@gh-pages/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv@gh-pages/sources/cn.json</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/cn@gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
@@ -209,19 +209,19 @@
   <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv@gh-pages/cn.m3u</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/cn@gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv@gh-pages/txt/cn.txt</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/cn@gh-pages/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv@gh-pages/epg/51zmt.xml</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/cn@gh-pages/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv@gh-pages/sources/cn.json</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/cn@gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
@@ -238,26 +238,26 @@
    <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv/gh-pages/cn.m3u</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/cn/gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv/gh-pages/txt/cn.txt</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/cn/gh-pages/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv/gh-pages/epg/51zmt.xml</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/cn/gh-pages/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv/gh-pages/sources/cn.json</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/cn/gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
 
 ## 当前更新
 
- - Auto Updated M3U  AT **Tue Mar 12 2024 08:29:26 GMT+0000 (Coordinated Universal Time)**
+ - Auto Updated M3U  AT **Tue Mar 12 2024 08:36:25 GMT+0000 (Coordinated Universal Time)**
 
 ## 免责申明
 
