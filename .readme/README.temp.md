@@ -1,6 +1,4 @@
-<div align="center">
-<h1><a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">镜像1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">镜像2</a></h1> 
-</div>
+# <div align="center"><a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">镜像1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">镜像2</a></div>
 
 ---
 
