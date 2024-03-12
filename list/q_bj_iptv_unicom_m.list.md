@@ -1,6 +1,6 @@
 # List for **qwerttvv/Beijing-IPTV IPTV Unicom Multicast**
 
-> M3U: <https://iptv.vodtv.cn/q_bj_iptv_unicom_m.m3u>, TXT: <https://iptv.vodtv.cn/txt/q_bj_iptv_unicom_m.txt>
+> M3U: <https://vodtv.cn/q_bj_iptv_unicom_m.m3u>, TXT: <https://vodtv.cn/txt/q_bj_iptv_unicom_m.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -138,4 +138,4 @@
 | 132 | 高网 | [高网](rtp://239.3.1.88:4120) |
 | 133 | 魅力时尚 | [魅力时尚](rtp://239.3.1.196:9012) |
 
-Updated at **Tue Mar 12 2024 06:46:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 12 2024 06:51:32 GMT+0000 (Coordinated Universal Time)**

@@ -1,6 +1,6 @@
 # List for **YueChan-Live IPTV**
 
-> M3U: <https://iptv.vodtv.cn/ycl_iptv.m3u>, TXT: <https://iptv.vodtv.cn/txt/ycl_iptv.txt>
+> M3U: <https://vodtv.cn/ycl_iptv.m3u>, TXT: <https://vodtv.cn/txt/ycl_iptv.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -155,4 +155,4 @@
 | 149 | 魅力潇湘 | [魅力潇湘](http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3) |
 | 150 | 精品萌宠 | [精品萌宠](http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3) |
 
-Updated at **Tue Mar 12 2024 06:46:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 12 2024 06:51:31 GMT+0000 (Coordinated Universal Time)**

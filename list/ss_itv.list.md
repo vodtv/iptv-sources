@@ -1,6 +1,6 @@
 # List for **ssili126 tv itv**
 
-> M3U: <https://iptv.vodtv.cn/ss_itv.m3u>, TXT: <https://iptv.vodtv.cn/txt/ss_itv.txt>
+> M3U: <https://vodtv.cn/ss_itv.m3u>, TXT: <https://vodtv.cn/txt/ss_itv.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -646,4 +646,4 @@
 | 640 | 风云足球 | [风云足球](http://42.5.185.189:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0) |
 | 641 | 黑龙江 | [黑龙江](http://42.5.185.189:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0) |
 
-Updated at **Tue Mar 12 2024 06:46:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 12 2024 06:51:32 GMT+0000 (Coordinated Universal Time)**

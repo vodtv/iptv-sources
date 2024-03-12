@@ -1,6 +1,6 @@
 # List for **iptv.org stream China**
 
-> M3U: <https://iptv.vodtv.cn/o_s_cn.m3u>, TXT: <https://iptv.vodtv.cn/txt/o_s_cn.txt>
+> M3U: <https://vodtv.cn/o_s_cn.m3u>, TXT: <https://vodtv.cn/txt/o_s_cn.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -509,4 +509,4 @@
 | 503 | 山西法治 | [山西法治](http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8) |
 | 504 | 山西文体 | [山西文体](http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8) |
 
-Updated at **Tue Mar 12 2024 06:46:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 12 2024 06:51:32 GMT+0000 (Coordinated Universal Time)**

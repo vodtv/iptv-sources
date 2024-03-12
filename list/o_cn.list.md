@@ -1,6 +1,6 @@
 # List for **iptv.org China**
 
-> M3U: <https://iptv.vodtv.cn/o_cn.m3u>, TXT: <https://iptv.vodtv.cn/txt/o_cn.txt>
+> M3U: <https://vodtv.cn/o_cn.m3u>, TXT: <https://vodtv.cn/txt/o_cn.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -542,4 +542,4 @@
 | 536 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 537 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Tue Mar 12 2024 06:46:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 12 2024 06:51:32 GMT+0000 (Coordinated Universal Time)**

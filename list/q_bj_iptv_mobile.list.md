@@ -1,6 +1,6 @@
 # List for **qwerttvv/Beijing-IPTV IPTV Mobile**
 
-> M3U: <https://iptv.vodtv.cn/q_bj_iptv_mobile.m3u>, TXT: <https://iptv.vodtv.cn/txt/q_bj_iptv_mobile.txt>
+> M3U: <https://vodtv.cn/q_bj_iptv_mobile.m3u>, TXT: <https://vodtv.cn/txt/q_bj_iptv_mobile.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -152,4 +152,4 @@
 | 146 | 高网 | [高网](http://192.168.123.1:23234/rtp/228.1.1.169:4120) |
 | 147 | 魅力时尚 | [魅力时尚](http://192.168.123.1:23234/rtp/228.1.1.86:9012) |
 
-Updated at **Tue Mar 12 2024 06:46:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 12 2024 06:51:32 GMT+0000 (Coordinated Universal Time)**

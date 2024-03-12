@@ -1,6 +1,6 @@
 # List for **epg.pw China**
 
-> M3U: <https://iptv.vodtv.cn/cn.m3u>, TXT: <https://iptv.vodtv.cn/txt/cn.txt>
+> M3U: <https://vodtv.cn/cn.m3u>, TXT: <https://vodtv.cn/txt/cn.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -234,4 +234,4 @@
 | 228 | [BD]黑龙江卫视 | [[BD]黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 | 229 | [VGA]黑龙卫视 | [[VGA]黑龙卫视](https://epg.pw/stream/e8c2bbc78da7ade48859fcff9ce2ecce3b97f1ed6213f5020b1729ec5c4173d8.m3u8) |
 
-Updated at **Tue Mar 12 2024 06:46:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 12 2024 06:51:31 GMT+0000 (Coordinated Universal Time)**
