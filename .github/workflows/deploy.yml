@@ -22,7 +22,7 @@ jobs:
         npm install yarn -g 
         yarn install
         yarn build 
-        yarn run dist
+        yarn dist
 
     - name: "Jekyll theme"
       run: mv ./.github/_config.temp.yml ./data/_config.yml    
