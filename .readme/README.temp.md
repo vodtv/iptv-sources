@@ -1,10 +1,8 @@
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/viptv-work/img@main/iptv/about-IPTV.jpg" height="200" />
-<h1 > IPTV </h1> 
-<h4>收集来自世界各地IPTV播放源</h4>  
-<h3 >
+<img src="https://raw.gitcode.com/iptv/img/blobs/6a9b8eb4cd46cd0692a973ddfead90695cb9bfdb/VIPTV-LOGO-LONG-FINAL@1x-360x105.png" height="200" />
+<h1 >
 <a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">镜像1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">镜像2</a>
-</h3> 
+</h1> 
 </div>
 
 ---
