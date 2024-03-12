@@ -157,19 +157,19 @@
   <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv@gh-pages/cn.m3u</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/cn@gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv@gh-pages/txt/cn.txt</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/cn@gh-pages/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv@gh-pages/epg/51zmt.xml</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/cn@gh-pages/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv@gh-pages/sources/cn.json</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/cn@gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
@@ -186,19 +186,19 @@
   <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv@gh-pages/cn.m3u</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/cn@gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv@gh-pages/txt/cn.txt</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/cn@gh-pages/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv@gh-pages/epg/51zmt.xml</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/cn@gh-pages/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv@gh-pages/sources/cn.json</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/cn@gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
@@ -215,19 +215,19 @@
    <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv/gh-pages/cn.m3u</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/cn/gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv/gh-pages/txt/cn.txt</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/cn/gh-pages/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv/gh-pages/epg/51zmt.xml</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/cn/gh-pages/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv/gh-pages/sources/cn.json</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/cn/gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
