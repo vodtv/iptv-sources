@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [18.x]
+        node-version: [20.x]
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-node@v4   
@@ -30,7 +30,7 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.DEPLOY_SECRET }}
+        github_token: ${{ secrets.ACTION_TOKEN }}
         publish_dir: ./data
         enable_jekyll: true
         cname: iptv.vodtv.cn
