@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # <div align="center"><a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">镜像1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">镜像2</a></div>
 
 ## 目录
@@ -248,7 +252,7 @@
 
 ## 当前更新
 
- - Auto Updated M3U  AT **Tue Mar 12 2024 09:57:53 GMT+0000 (Coordinated Universal Time)**
+ - Auto Updated M3U  AT **Tue Mar 12 2024 10:06:18 GMT+0000 (Coordinated Universal Time)**
 
 ## 免责申明
 
