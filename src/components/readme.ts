@@ -85,5 +85,4 @@ export const updateReadme = (
     fs.mkdirSync(path.join(path.resolve(), "data"));
   }
   fs.writeFileSync(path.join(path.resolve(), "data", "README.md"), after);
-  fs.writeFileSync(path.join(path.resolve(), "README.md"), after);
 };
