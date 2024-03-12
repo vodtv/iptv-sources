@@ -38,7 +38,7 @@ export const converter = OpenCC.Converter({ from: "hk", to: "cn" });
 export const sites_matrix: TREADMEMirrorSitesMatrix = [
   {
     protocol: "https",
-    url: "https://iptv.vodtv.cn",
+    url: "https://vodtv.cn",
     frequence: "per 2h",
     idc: "github",
     provider: "[vodtv](https://github.com/vodtv)",
@@ -53,16 +53,16 @@ export const sites_matrix: TREADMEMirrorSitesMatrix = [
 ]
 
 export const get_custom_url = () =>
-  !!process.env.CUSTOM_URL ? process.env.CUSTOM_URL : "https://iptv.vodtv.cn"
+  !!process.env.CUSTOM_URL ? process.env.CUSTOM_URL : "https://vodtv.cn"
 
 export const get_rollback_urls = () => {
   const matrix_url = sites_matrix.map((m) => m.url)
   if (!process.env.ROLLBACK_URLS) {
-    return ["https://iptv.vodtv.cn", ...matrix_url]
+    return ["https://vodtv.cn", ...matrix_url]
   }
   return process.env.ROLLBACK_URLS.split(",")
     .map((url) => url.trim())
-    .concat(["https://iptv.vodtv.cn", ...matrix_url])
+    .concat(["https://vodtv.cn", ...matrix_url])
 }
 
 

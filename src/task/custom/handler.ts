@@ -2,8 +2,7 @@ import fs from "fs"
 import path from "path"
 
 import type { ICustom } from "./define"
-import { config_path, data_path, write_custom_path } from "../const"
-import { m3u2txt, trimAny } from "../../utils"
+import { config_path, data_path, write_custom_path, m3u2txt, trimAny } from "../../utils"
 
 const loadConfigCustom = (): ICustom | undefined => {
   if (!fs.existsSync(config_path)) {
