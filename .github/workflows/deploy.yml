@@ -1,0 +1,39 @@
+name: Build and Deploy
+on:  
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0,8 * * *'
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [20.x]
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4   
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: "npm"
+    - name:  Install and Build
+      run: |   
+        npm install yarn -g 
+        yarn install
+        yarn build 
+        CLOSE_SOURCE_PROXY=true && yarn run dist
+
+    - name: "Jekyll theme"
+      run: mv ./.github/_config.temp.yml ./data/_config.yml    
+    
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.DEPLOY_SECRET }}
+        user_name: ${{ secrets.MY_USER_NAME }}
+        user_email: ${{ secrets.MY_USER_EMAIL }}
+        publish_dir: ./data
+        enable_jekyll: true
+        cname: iptv.vodtv.cn
+   

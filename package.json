@@ -1,0 +1,32 @@
+{
+  "name": "iptv",
+  "version": "1.0.5",
+  "main": "main.js",
+  "repository": "git@github.com:vodtv/iptv.git",
+  "author": "vodtv <viptvx@gmail.com>",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development tsup --watch",
+    "build": "tsup",
+    "dist": "node ./dist/main.js"
+  },
+  "devDependencies": {
+    "@rollup/wasm-node": "^4.12.0",
+    "@types/markdown-it": "^13.0.7",
+    "@types/node": "^20.11.25",
+    "@types/opencc-js": "^1.0.3",
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.1.0",
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "markdown-it": "^14.0.0",
+    "opencc-js": "^1.0.5"
+  },
+  "resolutions": {
+    "rollup": "npm:@rollup/wasm-node"
+  }
+}
