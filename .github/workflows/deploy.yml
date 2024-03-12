@@ -22,7 +22,7 @@ jobs:
         npm install yarn -g 
         yarn install
         yarn build 
-        CLOSE_SOURCE_PROXY=true && yarn run dist
+        yarn run dist
 
     - name: "Jekyll theme"
       run: mv ./.github/_config.temp.yml ./data/_config.yml    
@@ -31,8 +31,6 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.DEPLOY_SECRET }}
-        user_name: ${{ secrets.MY_USER_NAME }}
-        user_email: ${{ secrets.MY_USER_EMAIL }}
         publish_dir: ./data
         enable_jekyll: true
         cname: iptv.vodtv.cn
