@@ -17,11 +17,12 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: "npm"
-    - name: install yarn
-        run: npm install yarn -g
-    - run: yarn install
-    - run: yarn build
-    - run: CLOSE_SOURCE_PROXY=true && yarn m3u
+    - name:  Install and Build
+      run: |   
+        npm install yarn -g 
+        yarn install
+        yarn build 
+        yarn dist
 
     - name: "Jekyll theme"
       run: mv ./.github/_config.temp.yml ./data/_config.yml    
