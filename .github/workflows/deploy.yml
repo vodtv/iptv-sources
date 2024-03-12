@@ -11,23 +11,20 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node_version: [18, 20]
+        node_version: [20.x]
     name: "Build&Deploy: node-${{ matrix.node_version }}, ${{ matrix.os }}"
     steps:
     - uses: actions/checkout@v4
-    - name: Install pnpm
-      uses: pnpm/action-setup@v3.0.0
-    - name: Set node version to ${{ matrix.node_version }}
+    - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v4   
       with:
         node-version: ${{ matrix.node_version }}
-        cache: "pnpm"
-    - name: Install deps
-      run: pnpm install
-    - name: Build
-      run: pnpm run build
-    - name: Dist
-      run: pnpm run dist 
+        cache: "npm"
+    - name: install yarn
+      run: npm install yarn -g
+    - run: yarn install
+    - run: yarn build
+    - run: CLOSE_SOURCE_PROXY=true && yarn dist
     - name: "Jekyll theme"
       run: mv ./.github/_config.temp.yml ./data/_config.yml    
     - name: Deploy
