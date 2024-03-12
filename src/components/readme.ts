@@ -33,7 +33,7 @@ export const updateChannelList = (
   const after = list
     .replace(
       "<!-- list_title_here -->",
-      `# List for **${name}**\n\n> M3U: <https://iptv.vodtv.cn/${f_name}.m3u>, TXT: <https://iptv.vodtv.cn/txt/${f_name}.txt>`
+      `# List for **${name}**\n\n> M3U: <https://vodtv.cn/${f_name}.m3u>, TXT: <https://vodtv.cn/txt/${f_name}.txt>`
     )
     .replace(
       "<!-- channels_here -->",
@@ -70,9 +70,9 @@ export const updateReadme = (
       `${sources
         ?.map(
           (d, idx) =>
-            `| ${d.name} | <https://iptv.vodtv.cn/${d.f_name
-            }.m3u> <br> <https://iptv.vodtv.cn/txt/${d.f_name}.txt> | [List for ${d.name
-            }](https://iptv.vodtv.cn/list/${d.f_name}.list) | ${counts[idx] === undefined ? "update failed" : counts[idx]
+            `| ${d.name} | <https://vodtv.cn/${d.f_name
+            }.m3u> <br> <https://vodtv.cn/txt/${d.f_name}.txt> | [List for ${d.name
+            }](https://vodtv.cn/list/${d.f_name}.list) | ${counts[idx] === undefined ? "update failed" : counts[idx]
             } |`
         )
         .join("\n")}`
