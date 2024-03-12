@@ -19,10 +19,9 @@ jobs:
         cache: "npm"
     - name:  Install and Build
       run: |   
-        npm install yarn -g 
-        yarn install
-        yarn build 
-        yarn dist
+        npm install 
+        npm run build 
+        npm run dist
 
     - name: "Jekyll theme"
       run: mv ./.github/_config.temp.yml ./data/_config.yml    
@@ -33,5 +32,5 @@ jobs:
         github_token: ${{ secrets.ACTION_TOKEN }}
         publish_dir: ./data
         enable_jekyll: true
-        cname: iptv.vodtv.cn
+        cname: vodtv.cn
    
