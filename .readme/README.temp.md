@@ -1,8 +1,4 @@
----
-layout: default
----
-
-# <div align="center"><a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">镜像1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">镜像2</a></div>
+<h1> <div align="center"><a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">镜像1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">镜像2</a></div></h1>
 
 ## 目录
 
