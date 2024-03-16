@@ -601,4 +601,4 @@
 | 595 | 黑龙江 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 596 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Mar 16 2024 16:08:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 16 2024 16:36:46 GMT+0000 (Coordinated Universal Time)**
