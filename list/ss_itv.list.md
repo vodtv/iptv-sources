@@ -1,637 +1,604 @@
 # List for **ssili126 tv itv**
 
-> M3U: <https://vodtv.cn/ss_itv.m3u>, TXT: <https://vodtv.cn/txt/ss_itv.txt>
+> M3U: [ss_itv.m3u](/ss_itv.m3u), TXT: [ss_itv.txt](/txt/ss_itv.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | CCTV1 | [CCTV1](http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 2 | CCTV1 | [CCTV1](http://58.210.23.42:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 3 | CCTV1 | [CCTV1](http://123.160.235.166:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 4 | CCTV1 | [CCTV1](http://222.185.245.194:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 5 | CCTV1 | [CCTV1](http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 6 | CCTV1 | [CCTV1](http://123.182.209.123:8088/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 7 | CCTV1 | [CCTV1](http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 8 | CCTV1 | [CCTV1](http://116.233.232.229:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 9 | CCTV2 | [CCTV2](http://221.226.4.10:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 10 | CCTV2 | [CCTV2](http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 11 | CCTV2 | [CCTV2](http://123.160.235.166:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 12 | CCTV2 | [CCTV2](http://222.185.245.194:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 13 | CCTV2 | [CCTV2](http://123.182.209.123:8088/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 14 | CCTV2 | [CCTV2](http://113.57.150.190:9000/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 15 | CCTV2 | [CCTV2](http://58.210.60.226:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 16 | CCTV2 | [CCTV2](http://112.6.117.141:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 17 | CCTV3 | [CCTV3](http://221.226.4.10:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 18 | CCTV3 | [CCTV3](http://222.185.245.194:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 19 | CCTV3 | [CCTV3](http://123.160.235.166:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 20 | CCTV3 | [CCTV3](http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 21 | CCTV3 | [CCTV3](http://113.57.150.190:9000/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 22 | CCTV3 | [CCTV3](http://112.6.117.141:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 23 | CCTV3 | [CCTV3](http://123.182.209.123:8088/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 24 | CCTV3 | [CCTV3](http://58.210.60.226:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 25 | CCTV4 | [CCTV4](http://221.226.4.10:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 26 | CCTV4 | [CCTV4](http://113.57.150.190:9000/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 27 | CCTV4 | [CCTV4](http://123.160.235.166:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 28 | CCTV4 | [CCTV4](http://222.185.245.194:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 29 | CCTV4 | [CCTV4](http://175.0.50.196:8899/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 30 | CCTV4 | [CCTV4](http://220.180.109.207:9902/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 31 | CCTV4 | [CCTV4](http://58.210.60.226:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 32 | CCTV4 | [CCTV4](http://112.6.117.141:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 33 | CCTV5 | [CCTV5](http://221.226.4.10:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 34 | CCTV5 | [CCTV5](http://221.226.4.10:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 35 | CCTV5 | [CCTV5](http://58.210.23.42:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 36 | CCTV5 | [CCTV5](http://58.210.60.226:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 37 | CCTV5 | [CCTV5](http://222.185.245.194:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 38 | CCTV5 | [CCTV5](http://123.160.235.166:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 39 | CCTV5 | [CCTV5](http://112.6.117.141:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 40 | CCTV5 | [CCTV5](http://58.220.219.14:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 41 | CCTV5+ | [CCTV5+](http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 42 | CCTV5+ | [CCTV5+](http://111.225.113.218:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 43 | CCTV5+ | [CCTV5+](http://219.145.20.162:4300/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 44 | CCTV5+ | [CCTV5+](http://113.218.218.5:8001/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 45 | CCTV5+ | [CCTV5+](http://116.233.232.229:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 46 | CCTV5+ | [CCTV5+](http://219.145.20.162:30/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 47 | CCTV5+ | [CCTV5+](http://219.145.20.162:9160/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 48 | CCTV5+ | [CCTV5+](http://219.145.20.162:7848/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 49 | CCTV6 | [CCTV6](http://221.226.4.10:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 50 | CCTV6 | [CCTV6](http://222.185.245.194:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 51 | CCTV6 | [CCTV6](http://58.210.60.226:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 52 | CCTV6 | [CCTV6](http://113.57.150.190:9000/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 53 | CCTV6 | [CCTV6](http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 54 | CCTV6 | [CCTV6](http://112.6.117.141:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 55 | CCTV6 | [CCTV6](http://123.160.235.166:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 56 | CCTV6 | [CCTV6](http://219.145.20.162:4300/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 57 | CCTV7 | [CCTV7](http://222.185.245.194:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 58 | CCTV7 | [CCTV7](http://113.57.150.190:9000/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 59 | CCTV7 | [CCTV7](http://123.160.235.166:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 60 | CCTV7 | [CCTV7](http://58.210.60.226:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 61 | CCTV7 | [CCTV7](http://112.6.117.141:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 62 | CCTV7 | [CCTV7](http://58.220.219.14:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 63 | CCTV7 | [CCTV7](http://221.226.4.10:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 64 | CCTV7 | [CCTV7](http://61.130.72.18:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 65 | CCTV8 | [CCTV8](http://58.210.60.226:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 66 | CCTV8 | [CCTV8](http://123.160.235.166:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 67 | CCTV8 | [CCTV8](http://222.185.245.194:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 68 | CCTV8 | [CCTV8](http://123.182.209.123:8088/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 69 | CCTV8 | [CCTV8](http://112.6.117.141:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 70 | CCTV8 | [CCTV8](http://222.92.7.170:3333/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 71 | CCTV8 | [CCTV8](http://221.226.4.10:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 72 | CCTV8 | [CCTV8](http://61.130.72.18:8888/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 73 | CCTV8纪录 | [CCTV8纪录](http://112.6.117.141:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 74 | CCTV9 | [CCTV9](http://221.226.4.10:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 75 | CCTV9 | [CCTV9](http://222.185.245.194:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 76 | CCTV9 | [CCTV9](http://61.130.72.18:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 77 | CCTV9 | [CCTV9](http://113.57.150.190:9000/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 78 | CCTV9 | [CCTV9](http://123.160.235.166:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 79 | CCTV9 | [CCTV9](http://219.145.20.162:4300/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 80 | CCTV9 | [CCTV9](http://116.233.232.229:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 81 | CCTV9 | [CCTV9](http://183.63.15.42:9901/tsfile/live/37329_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 82 | CCTV10 | [CCTV10](http://42.49.189.17:9008/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 83 | CCTV10 | [CCTV10](http://222.185.245.194:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 84 | CCTV10 | [CCTV10](http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 85 | CCTV10 | [CCTV10](http://58.210.60.226:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 86 | CCTV10 | [CCTV10](http://123.160.235.166:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 87 | CCTV10 | [CCTV10](http://219.145.20.162:4300/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 88 | CCTV10 | [CCTV10](http://112.6.117.141:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 89 | CCTV10 | [CCTV10](http://58.210.23.42:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 90 | CCTV11 | [CCTV11](http://113.57.150.190:9000/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 91 | CCTV11 | [CCTV11](http://123.160.235.166:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 92 | CCTV11 | [CCTV11](http://219.145.20.162:4300/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 93 | CCTV11 | [CCTV11](http://112.6.117.141:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 94 | CCTV11 | [CCTV11](http://58.210.23.42:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 95 | CCTV11 | [CCTV11](http://61.130.72.18:8888/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 96 | CCTV11 | [CCTV11](http://222.185.245.194:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 97 | CCTV11 | [CCTV11](http://113.218.218.5:8001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 98 | CCTV12 | [CCTV12](http://221.226.4.10:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 99 | CCTV12 | [CCTV12](http://222.185.245.194:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 100 | CCTV12 | [CCTV12](http://123.160.235.166:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 101 | CCTV12 | [CCTV12](http://113.57.150.190:9000/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 102 | CCTV12 | [CCTV12](http://58.210.60.226:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 103 | CCTV12 | [CCTV12](http://123.182.209.123:8088/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 104 | CCTV12 | [CCTV12](http://112.6.117.141:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 105 | CCTV12 | [CCTV12](http://61.130.72.18:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 106 | CCTV13 | [CCTV13](http://123.160.235.166:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 107 | CCTV13 | [CCTV13](http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 108 | CCTV13 | [CCTV13](http://58.220.219.14:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 109 | CCTV13 | [CCTV13](http://113.57.150.190:9000/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 110 | CCTV13 | [CCTV13](http://123.182.209.123:8088/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 111 | CCTV13 | [CCTV13](http://112.6.117.141:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 112 | CCTV13 | [CCTV13](http://58.210.60.226:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 113 | CCTV13 | [CCTV13](http://58.210.23.42:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 114 | CCTV14 | [CCTV14](http://221.226.4.10:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 115 | CCTV14 | [CCTV14](http://222.185.245.194:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 116 | CCTV14 | [CCTV14](http://123.160.235.166:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 117 | CCTV14 | [CCTV14](http://58.210.60.226:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 118 | CCTV14 | [CCTV14](http://113.218.218.5:8001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 119 | CCTV14 | [CCTV14](http://61.130.72.18:8888/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 120 | CCTV14 | [CCTV14](http://58.210.23.42:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 121 | CCTV14 | [CCTV14](http://183.63.15.42:9901/tsfile/live/37334_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 122 | CCTV15 | [CCTV15](http://58.210.23.42:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 123 | CCTV15 | [CCTV15](http://113.57.150.190:9000/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 124 | CCTV15 | [CCTV15](http://123.160.235.166:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 125 | CCTV15 | [CCTV15](http://123.182.209.123:8088/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 126 | CCTV15 | [CCTV15](http://112.6.117.141:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 127 | CCTV15 | [CCTV15](http://222.185.245.194:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 128 | CCTV15 | [CCTV15](http://58.210.60.226:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 129 | CCTV15 | [CCTV15](http://113.218.218.5:8001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 130 | CCTV16 | [CCTV16](http://116.233.232.229:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 131 | CCTV17 | [CCTV17](http://113.57.150.190:9000/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 132 | CCTV17 | [CCTV17](http://42.5.185.189:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 133 | CCTV17 | [CCTV17](http://116.233.232.229:7777/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 134 | CCTV少儿 | [CCTV少儿](http://112.6.117.141:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 135 | CCTV怀旧剧场 | [CCTV怀旧剧场](http://121.19.134.69:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 136 | CCTV第一剧场 | [CCTV第一剧场](http://121.19.134.69:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 137 | CCTV风云剧场 | [CCTV风云剧场](http://121.19.134.69:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 138 | CCTV风云足球 | [CCTV风云足球](http://121.19.134.69:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 139 | CCTV风云音乐 | [CCTV风云音乐](http://121.19.134.69:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 140 | 三沙卫视 | [三沙卫视](http://116.233.232.229:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 141 | 上海卫视 | [上海卫视](http://222.185.245.194:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 142 | 上海卫视 | [上海卫视](http://113.57.150.190:9000/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 143 | 上海卫视 | [上海卫视](http://113.57.103.216:9000/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 144 | 上海卫视 | [上海卫视](http://222.92.7.170:3333/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 145 | 上海卫视 | [上海卫视](http://58.210.60.226:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 146 | 上海卫视 | [上海卫视](http://219.145.93.74:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 147 | 上海卫视 | [上海卫视](http://219.145.20.162:4300/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 148 | 上海卫视 | [上海卫视](http://219.145.20.162:30/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 149 | 东南卫视 | [东南卫视](http://123.160.235.166:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 150 | 东南卫视 | [东南卫视](http://116.233.232.229:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 151 | 东南卫视 | [东南卫视](http://61.130.72.18:8888/tsfile/live/0119_2.m3u8?key=txiptv&playlive=1&authid=0) |
-| 152 | 东南卫视 | [东南卫视](http://222.185.245.194:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 153 | 东南卫视 | [东南卫视](http://58.210.60.226:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 154 | 东南卫视 | [东南卫视](http://221.226.4.10:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 155 | 东南卫视 | [东南卫视](http://58.210.23.42:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 156 | 东南卫视 | [东南卫视](http://111.225.113.218:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 157 | 东方卫视 | [东方卫视](http://221.226.4.10:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 158 | 东方卫视 | [东方卫视](http://61.136.172.236:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 159 | 东方卫视 | [东方卫视](http://123.160.235.166:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 160 | 东方卫视 | [东方卫视](http://123.182.209.123:8088/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 161 | 东方卫视 | [东方卫视](http://180.167.104.105:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 162 | 东方卫视 | [东方卫视](http://58.220.219.14:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 163 | 东方卫视 | [东方卫视](http://58.210.23.42:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 164 | 东方卫视 | [东方卫视](http://111.225.113.218:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 165 | 云南卫视 | [云南卫视](http://113.57.150.190:9000/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 166 | 云南卫视 | [云南卫视](http://123.160.235.166:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 167 | 云南卫视 | [云南卫视](http://113.57.103.216:9000/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 168 | 云南卫视 | [云南卫视](http://112.6.117.141:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 169 | 云南卫视 | [云南卫视](http://61.130.72.18:8888/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 170 | 云南卫视 | [云南卫视](http://222.185.245.194:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 171 | 云南卫视 | [云南卫视](http://58.210.23.42:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 172 | 云南卫视 | [云南卫视](http://58.210.60.226:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 173 | 兵团卫视 | [兵团卫视](http://116.233.232.229:7777/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 174 | 兵团卫视 | [兵团卫视](http://219.135.208.218:8083/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 175 | 兵团卫视 | [兵团卫视](http://42.5.185.189:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 176 | 兵团卫视 | [兵团卫视](http://220.180.109.207:9902/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 177 | 内蒙卫视 | [内蒙卫视](http://222.185.245.194:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 178 | 内蒙卫视 | [内蒙卫视](http://58.210.23.42:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 179 | 内蒙卫视 | [内蒙卫视](http://222.92.7.170:3333/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 180 | 内蒙卫视 | [内蒙卫视](http://58.210.60.226:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 181 | 内蒙卫视 | [内蒙卫视](http://222.92.7.170:3334/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 182 | 内蒙古卫视 | [内蒙古卫视](http://116.233.232.229:7777/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 183 | 内蒙古卫视 | [内蒙古卫视](http://112.6.117.141:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 184 | 内蒙古卫视 | [内蒙古卫视](http://219.145.20.162:4300/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 185 | 内蒙古卫视 | [内蒙古卫视](http://219.145.20.162:7848/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 186 | 内蒙古卫视 | [内蒙古卫视](http://219.145.20.162:9006/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 187 | 内蒙古卫视 | [内蒙古卫视](http://219.145.20.162:4949/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 188 | 内蒙古卫视 | [内蒙古卫视](http://219.145.20.162:1494/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 189 | 内蒙古卫视 | [内蒙古卫视](http://219.145.20.162:500/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 190 | 农林卫视 | [农林卫视](http://42.5.185.189:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 191 | 北京卫视 | [北京卫视](http://221.226.4.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 192 | 北京卫视 | [北京卫视](http://222.185.245.194:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 193 | 北京卫视 | [北京卫视](http://123.160.235.166:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 194 | 北京卫视 | [北京卫视](http://58.210.60.226:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 195 | 北京卫视 | [北京卫视](http://112.6.117.141:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 196 | 北京卫视 | [北京卫视](http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 197 | 北京卫视 | [北京卫视](http://61.130.72.18:8888/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 198 | 北京卫视 | [北京卫视](http://58.210.23.42:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 199 | 北京卫视CMIPTV | [北京卫视CMIPTV](http://112.6.117.141:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 200 | 厦门卫视 | [厦门卫视](http://42.5.185.189:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 201 | 吉林卫视 | [吉林卫视](http://116.233.232.229:7777/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 202 | 吉林卫视 | [吉林卫视](http://58.210.60.226:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 203 | 吉林卫视 | [吉林卫视](http://221.226.4.10:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 204 | 吉林卫视 | [吉林卫视](http://222.185.245.194:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 205 | 吉林卫视 | [吉林卫视](http://58.210.23.42:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 206 | 吉林卫视 | [吉林卫视](http://222.92.7.170:3334/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 207 | 吉林卫视 | [吉林卫视](http://111.225.113.218:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 208 | 吉林卫视 | [吉林卫视](http://222.92.7.170:3333/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 209 | 四川卫视 | [四川卫视](http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 210 | 四川卫视 | [四川卫视](http://123.182.209.123:8088/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 211 | 四川卫视 | [四川卫视](http://116.233.232.229:7777/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 212 | 四川卫视 | [四川卫视](http://58.220.219.14:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 213 | 四川卫视 | [四川卫视](http://58.210.23.42:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 214 | 四川卫视 | [四川卫视](http://221.226.4.10:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 215 | 四川卫视 | [四川卫视](http://58.210.60.226:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 216 | 四川卫视 | [四川卫视](http://61.130.72.18:8888/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 217 | 天津卫视 | [天津卫视](http://221.226.4.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 218 | 天津卫视 | [天津卫视](http://58.210.60.226:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 219 | 天津卫视 | [天津卫视](http://58.210.23.42:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 220 | 天津卫视 | [天津卫视](http://123.160.235.166:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 221 | 天津卫视 | [天津卫视](http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 222 | 天津卫视 | [天津卫视](http://222.185.245.194:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 223 | 天津卫视 | [天津卫视](http://116.233.232.229:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 224 | 天津卫视 | [天津卫视](http://58.220.219.14:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 225 | 宁夏卫视 | [宁夏卫视](http://116.233.232.229:7777/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 226 | 宁夏卫视 | [宁夏卫视](http://112.6.117.141:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 227 | 宁夏卫视 | [宁夏卫视](http://58.210.23.42:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 228 | 宁夏卫视 | [宁夏卫视](http://222.185.245.194:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 229 | 宁夏卫视 | [宁夏卫视](http://58.210.60.226:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 230 | 宁夏卫视 | [宁夏卫视](http://115.171.86.183:9901/tsfile/live/16063_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 231 | 宁夏卫视 | [宁夏卫视](http://219.145.93.74:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 232 | 宁夏卫视 | [宁夏卫视](http://123.182.209.123:8088/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 233 | 安徽卫视 | [安徽卫视](http://113.57.150.190:9000/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 234 | 安徽卫视 | [安徽卫视](http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 235 | 安徽卫视 | [安徽卫视](http://123.182.209.123:8088/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 236 | 安徽卫视 | [安徽卫视](http://116.233.232.229:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 237 | 安徽卫视 | [安徽卫视](http://222.185.245.194:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 238 | 安徽卫视 | [安徽卫视](http://58.210.23.42:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 239 | 安徽卫视 | [安徽卫视](http://61.130.72.18:8888/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 240 | 安徽卫视 | [安徽卫视](http://58.210.60.226:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 241 | 山东卫视 | [山东卫视](http://221.226.4.10:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 242 | 山东卫视 | [山东卫视](http://222.185.245.194:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 243 | 山东卫视 | [山东卫视](http://123.160.235.166:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 244 | 山东卫视 | [山东卫视](http://58.210.60.226:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 245 | 山东卫视 | [山东卫视](http://112.6.117.141:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 246 | 山东卫视 | [山东卫视](http://58.210.23.42:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 247 | 山东卫视 | [山东卫视](http://111.225.113.218:808/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 248 | 山东卫视 | [山东卫视](http://115.171.86.183:9901/tsfile/live/16041_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 249 | 山西卫视 | [山西卫视](http://113.57.150.190:9000/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 250 | 山西卫视 | [山西卫视](http://116.233.232.229:7777/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 251 | 山西卫视 | [山西卫视](http://123.182.209.123:8088/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 252 | 山西卫视 | [山西卫视](http://123.160.235.166:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 253 | 山西卫视 | [山西卫视](http://112.6.117.141:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 254 | 山西卫视 | [山西卫视](http://221.226.4.10:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 255 | 山西卫视 | [山西卫视](http://58.210.60.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 256 | 山西卫视 | [山西卫视](http://219.145.93.74:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 257 | 山西卫视CMIPTV | [山西卫视CMIPTV](http://112.6.117.141:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 258 | 广东南方卫视 | [广东南方卫视](http://219.135.208.218:8083/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 259 | 广东卫视 | [广东卫视](http://222.185.245.194:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 260 | 广东卫视 | [广东卫视](http://221.226.4.10:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 261 | 广东卫视 | [广东卫视](http://113.57.150.190:9000/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 262 | 广东卫视 | [广东卫视](http://123.160.235.166:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 263 | 广东卫视 | [广东卫视](http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 264 | 广东卫视 | [广东卫视](http://116.233.232.229:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 265 | 广东卫视 | [广东卫视](http://61.130.72.18:8888/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 266 | 广东卫视 | [广东卫视](http://183.63.15.42:9901/tsfile/live/37338_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 267 | 广西卫视 | [广西卫视](http://221.226.4.10:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 268 | 广西卫视 | [广西卫视](http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 269 | 广西卫视 | [广西卫视](http://123.160.235.166:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 270 | 广西卫视 | [广西卫视](http://116.233.232.229:7777/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 271 | 广西卫视 | [广西卫视](http://112.6.117.141:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 272 | 广西卫视 | [广西卫视](http://222.185.245.194:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 273 | 广西卫视 | [广西卫视](http://58.210.60.226:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 274 | 广西卫视 | [广西卫视](http://58.210.23.42:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 275 | 广西卫视CMIPTV | [广西卫视CMIPTV](http://112.6.117.141:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 276 | 新疆卫视 | [新疆卫视](http://58.220.219.14:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0) |
-| 277 | 新疆卫视 | [新疆卫视](http://112.6.117.141:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 278 | 新疆卫视 | [新疆卫视](http://123.160.235.166:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 279 | 新疆卫视 | [新疆卫视](http://58.210.60.226:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0) |
-| 280 | 新疆卫视 | [新疆卫视](http://123.182.209.123:8088/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 281 | 新疆卫视 | [新疆卫视](http://111.225.113.218:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 282 | 新疆卫视 | [新疆卫视](http://115.171.86.183:9901/tsfile/live/16065_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 283 | 新疆卫视 | [新疆卫视](http://222.92.7.170:3333/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0) |
-| 284 | 旅游卫视 | [旅游卫视](http://112.6.117.141:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 285 | 江苏卫视 | [江苏卫视](http://222.185.245.194:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 286 | 江苏卫视 | [江苏卫视](http://221.226.4.10:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 287 | 江苏卫视 | [江苏卫视](http://58.210.23.42:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 288 | 江苏卫视 | [江苏卫视](http://58.210.60.226:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 289 | 江苏卫视 | [江苏卫视](http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 290 | 江苏卫视 | [江苏卫视](http://113.57.150.190:9000/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 291 | 江苏卫视 | [江苏卫视](http://118.253.0.237:2023/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 292 | 江苏卫视 | [江苏卫视](http://222.92.7.170:3333/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 293 | 江西卫视 | [江西卫视](http://58.210.23.42:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 294 | 江西卫视 | [江西卫视](http://123.160.235.166:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 295 | 江西卫视 | [江西卫视](http://123.182.209.123:8088/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 296 | 江西卫视 | [江西卫视](http://58.210.60.226:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 297 | 江西卫视 | [江西卫视](http://183.63.15.42:9901/tsfile/live/37351_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 298 | 江西卫视 | [江西卫视](http://111.225.113.218:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 299 | 江西卫视 | [江西卫视](http://219.145.93.74:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 300 | 江西卫视 | [江西卫视](http://222.185.245.194:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 301 | 河北卫视 | [河北卫视](http://58.210.60.226:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 302 | 河北卫视 | [河北卫视](http://222.185.245.194:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 303 | 河北卫视 | [河北卫视](http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 304 | 河北卫视 | [河北卫视](http://58.220.219.14:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 305 | 河北卫视 | [河北卫视](http://115.171.86.183:9901/tsfile/live/16052_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 306 | 河北卫视 | [河北卫视](http://111.225.113.218:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 307 | 河北卫视 | [河北卫视](http://58.210.23.42:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 308 | 河北卫视 | [河北卫视](http://222.92.7.170:3333/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 309 | 河南卫视 | [河南卫视](http://123.160.235.166:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 310 | 河南卫视 | [河南卫视](http://116.233.232.229:7777/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 311 | 河南卫视 | [河南卫视](http://222.92.7.170:3334/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 312 | 河南卫视 | [河南卫视](http://112.6.117.141:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 313 | 河南卫视 | [河南卫视](http://58.210.60.226:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 314 | 河南卫视 | [河南卫视](http://221.226.4.10:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 315 | 河南卫视 | [河南卫视](http://58.210.23.42:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 316 | 河南卫视 | [河南卫视](http://111.225.113.218:808/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 317 | 浙江卫视 | [浙江卫视](http://221.226.4.10:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 318 | 浙江卫视 | [浙江卫视](http://123.160.235.166:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 319 | 浙江卫视 | [浙江卫视](http://113.57.150.190:9000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 320 | 浙江卫视 | [浙江卫视](http://58.210.60.226:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 321 | 浙江卫视 | [浙江卫视](http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 322 | 浙江卫视 | [浙江卫视](http://222.185.245.194:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 323 | 浙江卫视 | [浙江卫视](http://116.233.232.229:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 324 | 浙江卫视 | [浙江卫视](http://61.130.72.18:8888/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 325 | 海南卫视 | [海南卫视](http://221.226.4.10:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 326 | 海南卫视 | [海南卫视](http://58.220.219.14:9901/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0) |
-| 327 | 海南卫视 | [海南卫视](http://222.185.245.194:9901/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0) |
-| 328 | 海南卫视 | [海南卫视](http://111.225.113.218:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 329 | 海南卫视 | [海南卫视](http://58.210.60.226:9901/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0) |
-| 330 | 海南卫视 | [海南卫视](http://222.92.7.170:3333/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0) |
-| 331 | 海南卫视 | [海南卫视](http://116.233.232.229:7777/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 332 | 海南卫视 | [海南卫视](http://219.145.20.162:4300/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 333 | 深圳卫视 | [深圳卫视](http://221.226.4.10:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 334 | 深圳卫视 | [深圳卫视](http://123.160.235.166:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 335 | 深圳卫视 | [深圳卫视](http://116.233.232.229:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 336 | 深圳卫视 | [深圳卫视](http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 337 | 深圳卫视 | [深圳卫视](http://222.185.245.194:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 338 | 深圳卫视 | [深圳卫视](http://58.210.60.226:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 339 | 深圳卫视 | [深圳卫视](http://58.210.23.42:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 340 | 深圳卫视 | [深圳卫视](http://61.130.72.18:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 341 | 湖北卫视 | [湖北卫视](http://221.226.4.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 342 | 湖北卫视 | [湖北卫视](http://61.136.172.236:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 343 | 湖北卫视 | [湖北卫视](http://116.233.232.229:7777/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 344 | 湖北卫视 | [湖北卫视](http://58.210.23.42:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 345 | 湖北卫视 | [湖北卫视](http://183.63.15.42:9901/tsfile/live/37353_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 346 | 湖北卫视 | [湖北卫视](http://58.210.60.226:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 347 | 湖北卫视 | [湖北卫视](http://123.182.209.123:8088/tsfile/live/faacts/0132_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 348 | 湖北卫视 | [湖北卫视](http://111.225.113.218:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 349 | 湖南卫视 | [湖南卫视](http://222.185.245.194:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 350 | 湖南卫视 | [湖南卫视](http://58.210.60.226:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 351 | 湖南卫视 | [湖南卫视](http://123.160.235.166:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 352 | 湖南卫视 | [湖南卫视](http://221.226.4.10:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 353 | 湖南卫视 | [湖南卫视](http://222.92.7.170:3334/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 354 | 湖南卫视 | [湖南卫视](http://112.6.117.141:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 355 | 湖南卫视 | [湖南卫视](http://58.210.23.42:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 356 | 湖南卫视 | [湖南卫视](http://61.130.72.18:8888/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 357 | 甘肃卫视 | [甘肃卫视](http://116.233.232.229:7777/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 358 | 甘肃卫视 | [甘肃卫视](http://112.6.117.141:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 359 | 甘肃卫视 | [甘肃卫视](http://58.210.60.226:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 360 | 甘肃卫视 | [甘肃卫视](http://222.185.245.194:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 361 | 甘肃卫视 | [甘肃卫视](http://58.210.23.42:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 362 | 甘肃卫视 | [甘肃卫视](http://111.225.113.218:808/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 363 | 甘肃卫视 | [甘肃卫视](http://123.182.209.123:8088/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 364 | 甘肃卫视 | [甘肃卫视](http://115.171.86.183:9901/tsfile/live/16057_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 365 | 西藏卫视 | [西藏卫视](http://222.185.245.194:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0) |
-| 366 | 西藏卫视 | [西藏卫视](http://58.210.60.226:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0) |
-| 367 | 西藏卫视 | [西藏卫视](http://123.182.209.123:8088/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 368 | 西藏卫视 | [西藏卫视](http://58.220.219.14:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0) |
-| 369 | 西藏卫视 | [西藏卫视](http://116.233.232.229:7777/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 370 | 西藏卫视 | [西藏卫视](http://111.225.113.218:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 371 | 西藏卫视 | [西藏卫视](http://222.92.7.170:3333/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0) |
-| 372 | 西藏卫视 | [西藏卫视](http://219.145.93.74:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 373 | 贵州卫视 | [贵州卫视](http://61.136.172.236:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 374 | 贵州卫视 | [贵州卫视](http://113.57.150.190:9000/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 375 | 贵州卫视 | [贵州卫视](http://222.185.245.194:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 376 | 贵州卫视 | [贵州卫视](http://221.226.4.10:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 377 | 贵州卫视 | [贵州卫视](http://61.130.72.18:8888/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 378 | 贵州卫视 | [贵州卫视](http://58.210.60.226:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 379 | 贵州卫视 | [贵州卫视](http://111.225.113.218:808/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 380 | 贵州卫视 | [贵州卫视](http://58.220.219.14:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 381 | 辽宁卫视 | [辽宁卫视](http://221.226.4.10:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 382 | 辽宁卫视 | [辽宁卫视](http://113.57.150.190:9000/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 383 | 辽宁卫视 | [辽宁卫视](http://123.160.235.166:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 384 | 辽宁卫视 | [辽宁卫视](http://123.182.209.123:8088/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 385 | 辽宁卫视 | [辽宁卫视](http://116.233.232.229:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 386 | 辽宁卫视 | [辽宁卫视](http://58.210.23.42:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 387 | 辽宁卫视 | [辽宁卫视](http://61.130.72.18:8888/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 388 | 辽宁卫视 | [辽宁卫视](http://58.210.60.226:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 389 | 重庆卫视 | [重庆卫视](http://221.226.4.10:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 390 | 重庆卫视 | [重庆卫视](http://58.210.23.42:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 391 | 重庆卫视 | [重庆卫视](http://123.160.235.166:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 392 | 重庆卫视 | [重庆卫视](http://61.136.172.236:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 393 | 重庆卫视 | [重庆卫视](http://113.57.150.190:9000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 394 | 重庆卫视 | [重庆卫视](http://116.233.232.229:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 395 | 重庆卫视 | [重庆卫视](http://61.130.72.18:8888/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 396 | 重庆卫视 | [重庆卫视](http://222.185.245.194:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 397 | 陕西卫视 | [陕西卫视](http://113.57.150.190:9000/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 398 | 陕西卫视 | [陕西卫视](http://112.6.117.141:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 399 | 陕西卫视 | [陕西卫视](http://58.210.60.226:9901/tsfile/live/0120_7.m3u8?key=txiptv&playlive=1&authid=0) |
-| 400 | 陕西卫视 | [陕西卫视](http://123.182.209.123:8088/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 401 | 陕西卫视 | [陕西卫视](http://111.225.113.218:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 402 | 陕西卫视 | [陕西卫视](http://116.233.232.229:7777/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 403 | 陕西卫视 | [陕西卫视](http://222.185.245.194:9901/tsfile/live/0120_7.m3u8?key=txiptv&playlive=1&authid=0) |
-| 404 | 陕西卫视 | [陕西卫视](http://222.92.7.170:3334/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 405 | 青海卫视 | [青海卫视](http://123.160.235.166:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 406 | 青海卫视 | [青海卫视](http://123.182.209.123:8088/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 407 | 青海卫视 | [青海卫视](http://221.226.4.10:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 408 | 青海卫视 | [青海卫视](http://111.225.113.218:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 409 | 青海卫视 | [青海卫视](http://219.145.93.74:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 410 | 青海卫视 | [青海卫视](http://116.233.232.229:7777/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 411 | 青海卫视 | [青海卫视](http://123.138.216.44:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 412 | 青海卫视 | [青海卫视](http://42.5.185.189:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 413 | 黑龙江卫视 | [黑龙江卫视](http://221.226.4.10:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 414 | 黑龙江卫视 | [黑龙江卫视](http://58.210.60.226:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 415 | 黑龙江卫视 | [黑龙江卫视](http://123.182.209.123:8088/tsfile/live/faacts/0143_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 416 | 黑龙江卫视 | [黑龙江卫视](http://222.92.7.170:3333/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 417 | 黑龙江卫视 | [黑龙江卫视](http://222.185.245.194:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 418 | 黑龙江卫视 | [黑龙江卫视](http://58.210.23.42:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 419 | 黑龙江卫视 | [黑龙江卫视](http://115.171.86.183:9901/tsfile/live/16044_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 420 | 黑龙江卫视 | [黑龙江卫视](http://116.233.232.229:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 421 | CETV1 | [CETV1](http://111.225.113.218:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 422 | QTV1 | [QTV1](http://112.6.117.141:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 423 | 张家口1 | [张家口1](http://121.19.134.69:808/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 424 | 高碑店1 | [高碑店1](http://121.19.134.69:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 425 | CETV2 | [CETV2](http://111.225.113.218:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 426 | QTV2 | [QTV2](http://112.6.117.141:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 427 | QTV3 | [QTV3](http://112.6.117.141:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 428 | 4K电源 | [4K电源](http://115.171.86.183:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 429 | CETV4 | [CETV4](http://121.19.134.69:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 430 | CETV4 | [CETV4](http://111.225.113.218:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 431 | QTV4 | [QTV4](http://112.6.117.141:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 432 | QTV5 | [QTV5](http://112.6.117.141:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 433 | QTV6 | [QTV6](http://112.6.117.141:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 434 | BTV影视 | [BTV影视](http://115.171.86.183:9901/tsfile/live/16029_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 435 | BTV新闻 | [BTV新闻](http://115.171.86.183:9901/tsfile/live/16027_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 436 | BTV生活 | [BTV生活](http://115.171.86.183:9901/tsfile/live/16031_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 437 | BTV纪实科教 | [BTV纪实科教](http://115.171.86.183:9901/tsfile/live/16033_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 438 | BTV财经 | [BTV财经](http://115.171.86.183:9901/tsfile/live/16030_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 439 | CETV | [CETV](http://116.233.232.229:7777/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 440 | CGTN | [CGTN](http://116.233.232.229:7777/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 441 | ICS | [ICS](http://116.233.232.229:7777/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 442 | IPTV古装剧场 | [IPTV古装剧场](http://118.253.0.237:2023/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 443 | IPTV经典剧场 | [IPTV经典剧场](http://118.253.0.237:2023/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 444 | 七彩戏剧 | [七彩戏剧](http://116.233.232.229:7777/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 445 | 上海 | [上海](http://42.5.185.189:9901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 446 | 上海娱乐 | [上海娱乐](http://180.167.104.105:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 447 | 上海教育台 | [上海教育台](http://116.233.232.229:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 448 | 上海纪实 | [上海纪实](http://180.167.104.105:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 449 | 东南 | [东南](http://42.5.185.189:9901/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 450 | 东奥纪实 | [东奥纪实](http://123.138.216.44:9902/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 451 | 东方影视 | [东方影视](http://116.233.232.229:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 452 | 东方财经 | [东方财经](http://116.233.232.229:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 453 | 中国教育 | [中国教育](http://113.57.150.190:9000/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 454 | 五星体育 | [五星体育](http://180.167.104.105:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 455 | 五星体育 | [五星体育](http://116.233.232.229:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 456 | 优漫卡通 | [优漫卡通](http://221.226.4.10:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 457 | 优漫卡通 | [优漫卡通](http://42.5.185.189:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 458 | 佳嘉卡通 | [佳嘉卡通](http://42.5.185.189:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 459 | 保定生活健康 | [保定生活健康](http://111.225.113.218:808/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 460 | 公共 | [公共](http://123.160.235.166:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 461 | 动作电影 | [动作电影](http://42.5.185.189:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 462 | 动漫秀场 | [动漫秀场](http://116.233.232.229:7777/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 463 | 动漫秀场 | [动漫秀场](http://221.226.4.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 464 | 北京 | [北京](http://42.5.185.189:9901/tsfile/live/1151_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 465 | 卡酷动漫 | [卡酷动漫](http://42.5.185.189:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 466 | 卡酷动画 | [卡酷动画](http://123.182.209.123:8088/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 467 | 卡酷卡通 | [卡酷卡通](http://116.233.232.229:7777/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 468 | 卡酷少儿 | [卡酷少儿](http://116.233.232.229:7777/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 469 | 吉林 | [吉林](http://42.5.185.189:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 470 | 吉林怀视 | [吉林怀视](http://112.6.117.141:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 471 | 唐山新闻综合 | [唐山新闻综合](http://121.19.134.69:808/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 472 | 嘉佳卡通 | [嘉佳卡通](http://116.233.232.229:7777/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 473 | 四川 | [四川](http://42.5.185.189:9901/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 474 | 天津 | [天津](http://42.5.185.189:9901/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 475 | 安徽 | [安徽](http://42.5.185.189:9901/tsfile/live/1152_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 476 | 家庭影院 | [家庭影院](http://42.5.185.189:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 477 | 山东 | [山东](http://42.5.185.189:9901/tsfile/live/1134_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 478 | 山东体育 | [山东体育](http://112.6.117.141:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 479 | 山东公共 | [山东公共](http://112.6.117.141:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 480 | 山东农科 | [山东农科](http://112.6.117.141:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 481 | 山东国际 | [山东国际](http://112.6.117.141:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 482 | 山东少儿 | [山东少儿](http://112.6.117.141:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 483 | 山东影视 | [山东影视](http://112.6.117.141:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 484 | 山东教育 | [山东教育](http://111.225.113.218:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 485 | 山东生活 | [山东生活](http://112.6.117.141:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 486 | 山东综艺 | [山东综艺](http://112.6.117.141:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 487 | 山东齐鲁 | [山东齐鲁](http://112.6.117.141:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 488 | 广东 | [广东](http://42.5.185.189:9901/tsfile/live/1146_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 489 | 广东体育 | [广东体育](http://116.21.123.204:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 490 | 广东体育 | [广东体育](http://219.135.208.218:8083/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 491 | 广东公共 | [广东公共](http://219.135.208.218:8083/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 492 | 广东影视 | [广东影视](http://219.135.208.218:8083/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 493 | 广东新闻 | [广东新闻](http://219.135.208.218:8083/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 494 | 广东珠江 | [广东珠江](http://219.135.208.218:8083/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 495 | 广东综艺 | [广东综艺](http://219.135.208.218:8083/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 496 | 快乐垂钓 | [快乐垂钓](http://116.233.232.229:7777/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 497 | 新动漫 | [新动漫](http://42.5.185.189:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 498 | 新闻 | [新闻](http://123.160.235.166:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 499 | 新闻综合 | [新闻综合](http://180.167.104.105:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 500 | 新闻综合 | [新闻综合](http://116.233.232.229:7777/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 501 | 曲周新闻 | [曲周新闻](http://123.182.209.123:8088/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 502 | 梨园 | [梨园](http://123.160.235.166:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 503 | 梨园 | [梨园](http://123.182.209.123:8088/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 504 | 欢笑剧场 | [欢笑剧场](http://116.233.232.229:7777/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 505 | 武术世界 | [武术世界](http://121.19.134.69:808/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 506 | 民生 | [民生](http://123.160.235.166:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 507 | 江苏 | [江苏](http://42.5.185.189:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 508 | 江苏体育休闲 | [江苏体育休闲](http://221.226.4.10:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 509 | 江苏公共新闻 | [江苏公共新闻](http://221.226.4.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 510 | 江苏城市 | [江苏城市](http://221.226.4.10:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 511 | 江苏城市 | [江苏城市](http://58.210.60.226:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0) |
-| 512 | 江苏城市 | [江苏城市](http://222.185.245.194:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0) |
-| 513 | 江苏城市 | [江苏城市](http://222.92.7.170:3333/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0) |
-| 514 | 江苏城市 | [江苏城市](http://222.92.7.170:3334/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 515 | 江苏影视 | [江苏影视](http://221.226.4.10:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 516 | 江苏综艺 | [江苏综艺](http://221.226.4.10:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 517 | 江苏综艺 | [江苏综艺](http://222.92.7.170:3334/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 518 | 江苏综艺 | [江苏综艺](http://58.210.60.226:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0) |
-| 519 | 江苏综艺 | [江苏综艺](http://222.185.245.194:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0) |
-| 520 | 江苏综艺 | [江苏综艺](http://222.92.7.170:3333/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0) |
-| 521 | 江苏综艺 | [江苏综艺](http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0) |
-| 522 | 河北公共 | [河北公共](http://123.182.209.123:8088/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 523 | 河北公共 | [河北公共](http://111.225.113.218:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 524 | 河北农民 | [河北农民](http://123.182.209.123:8088/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 525 | 河北农民 | [河北农民](http://111.225.113.218:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 526 | 河北少儿科教 | [河北少儿科教](http://111.225.113.218:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 527 | 河北少儿科教 | [河北少儿科教](http://123.182.209.123:8088/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 528 | 河北影视剧 | [河北影视剧](http://111.225.113.218:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 529 | 河北杂技 | [河北杂技](http://111.225.113.218:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 530 | 河北经济 | [河北经济](http://123.182.209.123:8088/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 531 | 河北经济生活 | [河北经济生活](http://111.225.113.218:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 532 | 河北都市 | [河北都市](http://123.182.209.123:8088/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 533 | 法制 | [法制](http://123.160.235.166:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 534 | 法治天地 | [法治天地](http://221.226.4.10:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 535 | 法治天地 | [法治天地](http://116.233.232.229:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 536 | 浦东台 | [浦东台](http://180.167.104.105:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 537 | 淘电影 | [淘电影](http://115.171.86.183:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 538 | 深圳 | [深圳](http://42.5.185.189:9901/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 539 | 深圳都市 | [深圳都市](http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8) |
-| 540 | 游戏风云 | [游戏风云](http://116.233.232.229:7777/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 541 | 游戏风云 | [游戏风云](http://180.167.104.105:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 542 | 湖北 | [湖北](http://42.5.185.189:9901/tsfile/live/1144_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 543 | 湖北经视 | [湖北经视](http://113.57.150.190:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 544 | 湖南 | [湖南](http://42.5.185.189:9901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 545 | 湖南公共 | [湖南公共](http://118.253.0.237:2023/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 546 | 湖南公共 | [湖南公共](http://223.159.10.204:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 547 | 湖南国际 | [湖南国际](http://223.159.10.204:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 548 | 湖南娱乐 | [湖南娱乐](http://118.253.0.237:2023/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 549 | 湖南娱乐 | [湖南娱乐](http://42.49.189.17:9008/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 550 | 湖南娱乐 | [湖南娱乐](http://223.159.10.204:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 551 | 湖南教育 | [湖南教育](http://223.159.10.204:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 552 | 湖南爱晚 | [湖南爱晚](http://42.49.189.17:9008/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 553 | 湖南电影 | [湖南电影](http://118.253.0.237:2023/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 554 | 湖南电影 | [湖南电影](http://42.49.189.17:9008/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 555 | 湖南电影 | [湖南电影](http://223.159.10.204:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 556 | 湖南电视剧 | [湖南电视剧](http://118.253.0.237:2023/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 557 | 湖南电视剧 | [湖南电视剧](http://42.49.189.17:9008/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 558 | 湖南电视剧 | [湖南电视剧](http://223.159.10.204:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 559 | 湖南电视台 | [湖南电视台](http://118.253.0.237:2023/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 560 | 湖南经视 | [湖南经视](http://42.49.189.17:9008/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 561 | 湖南经视 | [湖南经视](http://223.159.10.204:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 562 | 湖南经视 | [湖南经视](http://118.253.0.237:2023/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 563 | 湖南都市 | [湖南都市](http://113.218.218.5:8001/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 564 | 湖南都市 | [湖南都市](http://118.253.0.237:2023/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 565 | 湖南都市 | [湖南都市](http://42.49.189.17:9008/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 566 | 湖南都市 | [湖南都市](http://223.159.10.204:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 567 | 湖南都市 | [湖南都市](http://175.0.50.196:8899/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 568 | 生活时尚 | [生活时尚](http://116.233.232.229:7777/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 569 | 电影 | [电影](http://42.5.185.189:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 570 | 电视剧 | [电视剧](http://113.57.150.190:9000/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 571 | 电视剧 | [电视剧](http://180.167.104.105:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 572 | 石家庄娱乐 | [石家庄娱乐](http://123.182.209.123:8088/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 573 | 石家庄新闻 | [石家庄新闻](http://123.182.209.123:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 574 | 石家庄生活 | [石家庄生活](http://123.182.209.123:8088/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 575 | 石家庄都市 | [石家庄都市](http://123.182.209.123:8088/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 576 | 移动戏曲 | [移动戏曲](http://123.160.235.166:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 577 | 移动电视 | [移动电视](http://42.5.185.189:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 578 | 第一剧场 | [第一剧场](http://42.5.185.189:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 579 | 第一财经 | [第一财经](http://180.167.104.105:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 580 | 第一财经 | [第一财经](http://116.233.232.229:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 581 | 纪实人文 | [纪实人文](http://116.233.232.229:7777/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 582 | 纪实科教 | [纪实科教](http://116.233.232.229:7777/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 583 | 老故事 | [老故事](http://123.182.209.123:8088/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 584 | 茶 | [茶](http://116.233.232.229:7777/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 585 | 西安二套 | [西安二套](http://219.145.93.74:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 586 | 足球 | [足球](http://113.57.150.190:9000/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 587 | 辽宁公共 | [辽宁公共](http://42.5.185.189:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 588 | 辽宁北方 | [辽宁北方](http://42.5.185.189:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 589 | 辽宁影视剧 | [辽宁影视剧](http://42.5.185.189:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 590 | 辽宁生活 | [辽宁生活](http://42.5.185.189:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 591 | 辽宁都市 | [辽宁都市](http://42.5.185.189:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 592 | 邯郸公共 | [邯郸公共](http://123.182.209.123:8088/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 593 | 邯郸新闻 | [邯郸新闻](http://123.182.209.123:8088/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 594 | 都市 | [都市](http://123.160.235.166:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 595 | 都市 | [都市](http://116.233.232.229:7777/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 596 | 都市剧场 | [都市剧场](http://116.233.232.229:7777/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 597 | 重庆 | [重庆](http://42.5.185.189:9901/tsfile/live/1127_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 598 | 金色学堂 | [金色学堂](http://116.233.232.229:7777/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 599 | 金鹰卡通 | [金鹰卡通](http://113.57.150.190:9000/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 600 | 金鹰卡通 | [金鹰卡通](http://116.233.232.229:7777/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 601 | 金鹰卡通 | [金鹰卡通](http://111.225.113.218:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 602 | 金鹰卡通 | [金鹰卡通](http://123.182.209.123:8088/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 603 | 金鹰卡通 | [金鹰卡通](http://42.5.185.189:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 604 | 金鹰卡通 | [金鹰卡通](http://106.46.113.15:8011/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 605 | 金鹰卡通 | [金鹰卡通](http://223.159.10.204:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 606 | 金鹰纪实 | [金鹰纪实](http://123.182.209.123:8088/tsfile/live/faacts/1020_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 607 | 金鹰纪实 | [金鹰纪实](http://116.233.232.229:7777/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 608 | 金鹰纪实 | [金鹰纪实](http://223.159.10.204:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 609 | 陕西一套 | [陕西一套](http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 610 | 陕西二套 | [陕西二套](http://219.145.93.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 611 | 陕西生活 | [陕西生活](http://219.145.20.162:4300/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 612 | 陕西生活 | [陕西生活](http://219.145.20.162:9160/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 613 | 陕西生活 | [陕西生活](http://219.145.20.162:7848/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 614 | 陕西生活 | [陕西生活](http://219.145.20.162:9006/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 615 | 陕西生活 | [陕西生活](http://219.145.20.162:4949/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 616 | 陕西生活 | [陕西生活](http://219.145.20.162:500/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 617 | 陕西生活 | [陕西生活](http://219.145.20.162:5873/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 618 | 陕西生活 | [陕西生活](http://219.145.20.162:2375/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 619 | 陕西西部影视 | [陕西西部影视](http://219.145.20.162:4300/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 620 | 陕西西部影视 | [陕西西部影视](http://219.145.20.162:30/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 621 | 陕西西部影视 | [陕西西部影视](http://219.145.20.162:9160/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 622 | 陕西西部影视 | [陕西西部影视](http://219.145.20.162:7848/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 623 | 陕西西部影视 | [陕西西部影视](http://219.145.20.162:9006/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 624 | 陕西西部影视 | [陕西西部影视](http://219.145.20.162:4949/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 625 | 陕西西部影视 | [陕西西部影视](http://219.145.20.162:1494/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 626 | 陕西西部影视 | [陕西西部影视](http://219.145.20.162:500/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0) |
-| 627 | 靓妆 | [靓妆](http://123.182.209.123:8088/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 628 | 风云足球 | [风云足球](http://42.5.185.189:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 629 | 黑龙江 | [黑龙江](http://42.5.185.189:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 1 | CCTV1 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 2 | CCTV1 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 3 | CCTV1 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37321_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 4 | CCTV1 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 5 | CCTV1 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 6 | CCTV1 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 7 | CCTV1 | IPv4 直链 | <http://219.145.20.162:4786/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 8 | CCTV1 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 9 | CCTV2 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 10 | CCTV2 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 11 | CCTV2 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 12 | CCTV2 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 13 | CCTV2 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 14 | CCTV2 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 15 | CCTV2 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 16 | CCTV2 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 17 | CCTV3 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37323_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 18 | CCTV3 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 19 | CCTV3 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 20 | CCTV3 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 21 | CCTV3 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 22 | CCTV3 | IPv4 直链 | <http://219.145.20.162:5938/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 23 | CCTV3 | IPv4 直链 | <http://219.145.20.162:901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 24 | CCTV3 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 25 | CCTV4 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 26 | CCTV4 | IPv4 直链 | <http://220.180.109.207:9902/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 27 | CCTV4 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 28 | CCTV4 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 29 | CCTV4 | IPv4 直链 | <http://219.145.20.162:222/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 30 | CCTV4 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 31 | CCTV4 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 32 | CCTV4 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 33 | CCTV5 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 34 | CCTV5 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 35 | CCTV5 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 36 | CCTV5 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37325_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 37 | CCTV5 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 38 | CCTV5 | IPv4 直链 | <http://219.145.20.162:16022/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 39 | CCTV5 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 40 | CCTV5 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 41 | CCTV5+ | IPv4 直链 | <http://113.218.218.5:8001/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 42 | CCTV5+ | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 43 | CCTV5+ | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 44 | CCTV5+ | IPv4 直链 | <http://219.145.20.162:4786/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 45 | CCTV5+ | IPv4 直链 | <http://219.145.20.162:901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 46 | CCTV5+ | IPv4 直链 | <http://219.145.20.162:9334/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 47 | CCTV5+ | IPv4 直链 | <http://219.145.20.162:8546/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 48 | CCTV5+ | IPv4 直链 | <http://123.138.216.44:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 49 | CCTV6 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 50 | CCTV6 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 51 | CCTV6 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23237_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 52 | CCTV6 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 53 | CCTV6 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 54 | CCTV6 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 55 | CCTV6 | IPv4 直链 | <http://219.145.20.162:175/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 56 | CCTV6 | IPv4 直链 | <http://219.145.20.162:4786/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 57 | CCTV7 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 58 | CCTV7 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 59 | CCTV7 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 60 | CCTV7 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37327_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 61 | CCTV7 | IPv4 直链 | <http://219.145.20.162:222/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 62 | CCTV7 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 63 | CCTV7 | IPv4 直链 | <http://219.145.20.162:16022/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 64 | CCTV7 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 65 | CCTV8 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37328_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 66 | CCTV8 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 67 | CCTV8 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 68 | CCTV8 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 69 | CCTV8 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 70 | CCTV8 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 71 | CCTV8 | IPv4 直链 | <http://219.145.20.162:16022/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 72 | CCTV8 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 73 | CCTV8纪录 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 74 | CCTV9 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37329_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 75 | CCTV9 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 76 | CCTV9 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 77 | CCTV9 | IPv4 直链 | <http://175.0.50.196:8899/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 78 | CCTV9 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 79 | CCTV9 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 80 | CCTV9 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 81 | CCTV9 | IPv4 直链 | <http://219.145.20.162:222/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 82 | CCTV10 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 83 | CCTV10 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 84 | CCTV10 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 85 | CCTV10 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 86 | CCTV10 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 87 | CCTV10 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37330_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 88 | CCTV10 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 89 | CCTV10 | IPv4 直链 | <http://219.145.20.162:5938/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 90 | CCTV11 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 91 | CCTV11 | IPv4 直链 | <http://113.218.218.5:8001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 92 | CCTV11 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 93 | CCTV11 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 94 | CCTV11 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 95 | CCTV11 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 96 | CCTV11 | IPv4 直链 | <http://219.145.20.162:4786/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 97 | CCTV11 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 98 | CCTV12 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 99 | CCTV12 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 100 | CCTV12 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 101 | CCTV12 | IPv4 直链 | <http://113.218.218.5:8001/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 102 | CCTV12 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37332_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 103 | CCTV12 | IPv4 直链 | <http://219.145.20.162:222/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 104 | CCTV12 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 105 | CCTV12 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 106 | CCTV13 | IPv4 直链 | <http://175.0.50.196:8899/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 107 | CCTV13 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 108 | CCTV13 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 109 | CCTV13 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 110 | CCTV13 | IPv4 直链 | <http://113.218.218.5:8001/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 111 | CCTV13 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 112 | CCTV13 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37333_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 113 | CCTV13 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 114 | CCTV14 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 115 | CCTV14 | IPv4 直链 | <http://113.218.218.5:8001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 116 | CCTV14 | IPv4 直链 | <http://219.145.20.162:5938/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 117 | CCTV14 | IPv4 直链 | <http://175.0.50.196:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 118 | CCTV14 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 119 | CCTV14 | IPv4 直链 | <http://219.145.20.162:16022/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 120 | CCTV14 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 121 | CCTV14 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37334_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 122 | CCTV15 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37335_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 123 | CCTV15 | IPv4 直链 | <http://220.180.109.207:9902/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 124 | CCTV15 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 125 | CCTV15 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 126 | CCTV15 | IPv4 直链 | <http://113.218.218.5:8001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 127 | CCTV15 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 128 | CCTV15 | IPv4 直链 | <http://219.145.20.162:222/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 129 | CCTV15 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 130 | CCTV16 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 131 | CCTV16 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 132 | CCTV17 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 133 | CCTV俄语 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 134 | CCTV少儿 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 135 | CCTV法语 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 136 | CCTV英语新闻 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 137 | CCTV西班牙 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 138 | CCTV阿拉伯语 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 139 | CCTV风云剧场 | IPv4 直链 | <http://121.19.134.69:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 140 | CCTV风云足球 | IPv4 直链 | <http://121.19.134.69:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 141 | 三沙卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 142 | 上海卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 143 | 上海卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 144 | 上海卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 145 | 上海卫视 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 146 | 上海卫视 | IPv4 直链 | <http://219.145.20.162:5938/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 147 | 上海卫视 | IPv4 直链 | <http://219.145.20.162:16022/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 148 | 上海卫视 | IPv4 直链 | <http://219.145.20.162:222/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 149 | 上海卫视 | IPv4 直链 | <http://219.145.20.162:4786/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 150 | 东南卫视 | IPv4 直链 | <http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 151 | 东南卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0119_2.m3u8?key=txiptv&playlive=1&authid=0> |
+| 152 | 东南卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 153 | 东南卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 154 | 东南卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 155 | 东南卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 156 | 东南卫视 | IPv4 直链 | <http://219.145.20.162:5938/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 157 | 东南卫视 | IPv4 直链 | <http://219.145.20.162:16022/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 158 | 东方卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 159 | 东方卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 160 | 东方卫视 | IPv4 直链 | <http://121.19.134.69:808/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 161 | 东方卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 162 | 东方卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 163 | 东方卫视 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23268_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 164 | 东方卫视 | IPv4 直链 | <http://111.74.155.231:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 165 | 东方卫视 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 166 | 云南卫视 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 167 | 云南卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 168 | 云南卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 169 | 云南卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 170 | 云南卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 171 | 云南卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 172 | 云南卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 173 | 云南卫视 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0136_2.m3u8?key=txiptv&playlive=0&authid=0> |
+| 174 | 兵团卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 175 | 兵团卫视 | IPv4 直链 | <http://220.180.109.207:9902/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 176 | 内蒙卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 177 | 内蒙卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 178 | 内蒙卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 179 | 内蒙卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 180 | 内蒙古卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 181 | 内蒙古卫视 | IPv4 直链 | <http://115.171.86.183:9901/tsfile/live/16061_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 182 | 内蒙古卫视 | IPv4 直链 | <http://175.0.50.196:8899/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 183 | 内蒙古卫视 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 184 | 内蒙古卫视 | IPv4 直链 | <http://219.145.20.162:5938/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 185 | 内蒙古卫视 | IPv4 直链 | <http://219.145.20.162:222/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 186 | 内蒙古卫视 | IPv4 直链 | <http://219.145.20.162:4786/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 187 | 内蒙古卫视 | IPv4 直链 | <http://219.145.20.162:901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 188 | 农林卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 189 | 北京卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 190 | 北京卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 191 | 北京卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 192 | 北京卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 193 | 北京卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 194 | 北京卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 195 | 北京卫视 | IPv4 直链 | <http://121.19.134.69:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 196 | 北京卫视 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 197 | 北京卫视CMIPTV | IPv4 直链 | <http://112.6.117.141:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 198 | 厦门卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 199 | 吉林卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 200 | 吉林卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 201 | 吉林卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 202 | 吉林卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 203 | 吉林卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 204 | 吉林卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 205 | 吉林卫视 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 206 | 吉林卫视 | IPv4 直链 | <http://219.145.20.162:5938/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 207 | 四川卫视 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 208 | 四川卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 209 | 四川卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 210 | 四川卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 211 | 四川卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 212 | 四川卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 213 | 四川卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0114_3.m3u8?key=txiptv&playlive=1&authid=0> |
+| 214 | 四川卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 215 | 天津卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 216 | 天津卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 217 | 天津卫视 | IPv4 直链 | <http://111.225.113.218:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 218 | 天津卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 219 | 天津卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 220 | 天津卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 221 | 天津卫视 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37349_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 222 | 天津卫视 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 223 | 宁夏卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 224 | 宁夏卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 225 | 宁夏卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 226 | 宁夏卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 227 | 宁夏卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 228 | 宁夏卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 229 | 宁夏卫视 | IPv4 直链 | <http://115.171.86.183:9901/tsfile/live/16063_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 230 | 宁夏卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 231 | 安徽卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 232 | 安徽卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 233 | 安徽卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 234 | 安徽卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 235 | 安徽卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 236 | 安徽卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 237 | 安徽卫视 | IPv4 直链 | <http://219.145.20.162:5938/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 238 | 安徽卫视 | IPv4 直链 | <http://219.145.20.162:16022/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 239 | 山东卫视 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37350_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 240 | 山东卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 241 | 山东卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 242 | 山东卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 243 | 山东卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 244 | 山东卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 245 | 山东卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 246 | 山东卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 247 | 山西卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 248 | 山西卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 249 | 山西卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 250 | 山西卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 251 | 山西卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 252 | 山西卫视 | IPv4 直链 | <http://115.171.86.183:9901/tsfile/live/16060_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 253 | 山西卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 254 | 山西卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 255 | 山西卫视CMIPTV | IPv4 直链 | <http://112.6.117.141:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 256 | 广东卫视 | IPv4 直链 | <http://219.137.29.141:4433/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 257 | 广东卫视 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37338_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 258 | 广东卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 259 | 广东卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 260 | 广东卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 261 | 广东卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 262 | 广东卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 263 | 广东卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 264 | 广西卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 265 | 广西卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 266 | 广西卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 267 | 广西卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 268 | 广西卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 269 | 广西卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 270 | 广西卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 271 | 广西卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 272 | 广西卫视CMIPTV | IPv4 直链 | <http://112.6.117.141:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 273 | 新疆卫视 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 274 | 新疆卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 275 | 新疆卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0> |
+| 276 | 新疆卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0> |
+| 277 | 新疆卫视 | IPv4 直链 | <http://115.171.86.183:9901/tsfile/live/16065_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 278 | 新疆卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 279 | 新疆卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 280 | 新疆卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 281 | 旅游卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 282 | 江苏卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 283 | 江苏卫视 | IPv4 直链 | <http://219.137.29.141:4433/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 284 | 江苏卫视 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 285 | 江苏卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 286 | 江苏卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 287 | 江苏卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 288 | 江苏卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 289 | 江苏卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 290 | 江西卫视 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37351_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 291 | 江西卫视 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 292 | 江西卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 293 | 江西卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 294 | 江西卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 295 | 江西卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 296 | 江西卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 297 | 江西卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 298 | 河北卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 299 | 河北卫视 | IPv4 直链 | <http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 300 | 河北卫视 | IPv4 直链 | <http://220.180.109.207:9902/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 301 | 河北卫视 | IPv4 直链 | <http://175.0.50.196:8899/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 302 | 河北卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 303 | 河北卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 304 | 河北卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 305 | 河北卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 306 | 河南卫视 | IPv4 直链 | <http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 307 | 河南卫视 | IPv4 直链 | <http://175.0.50.196:8899/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 308 | 河南卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 309 | 河南卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 310 | 河南卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 311 | 河南卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 312 | 河南卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 313 | 河南卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 314 | 浙江卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 315 | 浙江卫视 | IPv4 直链 | <http://219.137.29.141:4433/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 316 | 浙江卫视 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 317 | 浙江卫视 | IPv4 直链 | <http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 318 | 浙江卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 319 | 浙江卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 320 | 浙江卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 321 | 浙江卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 322 | 海南卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0> |
+| 323 | 海南卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 324 | 海南卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0> |
+| 325 | 海南卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0> |
+| 326 | 海南卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0> |
+| 327 | 海南卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 328 | 海南卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 329 | 海南卫视 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23272_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 330 | 海峡卫视 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 331 | 深圳卫视 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 332 | 深圳卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 333 | 深圳卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 334 | 深圳卫视 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37352_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 335 | 深圳卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 336 | 深圳卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 337 | 深圳卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 338 | 深圳卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 339 | 湖北卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 340 | 湖北卫视 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37353_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 341 | 湖北卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 342 | 湖北卫视 | IPv4 直链 | <http://115.171.86.183:9901/tsfile/live/16048_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 343 | 湖北卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 344 | 湖北卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 345 | 湖北卫视 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/faacts/0132_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 346 | 湖北卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 347 | 湖南卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 348 | 湖南卫视 | IPv4 直链 | <http://219.137.29.141:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 349 | 湖南卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 350 | 湖南卫视 | IPv4 直链 | <http://175.0.50.196:8899/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 351 | 湖南卫视 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37343_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 352 | 湖南卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 353 | 湖南卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 354 | 湖南卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 355 | 甘肃卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 356 | 甘肃卫视 | IPv4 直链 | <http://115.171.86.183:9901/tsfile/live/16057_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 357 | 甘肃卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=1&authid=0> |
+| 358 | 甘肃卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 359 | 甘肃卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 360 | 甘肃卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 361 | 甘肃卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 362 | 甘肃卫视 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 363 | 西藏卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0> |
+| 364 | 西藏卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 365 | 西藏卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0> |
+| 366 | 西藏卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 367 | 西藏卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 368 | 西藏卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 369 | 西藏卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0> |
+| 370 | 西藏卫视 | IPv4 直链 | <http://220.180.109.207:9902/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 371 | 贵州卫视 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 372 | 贵州卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 373 | 贵州卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 374 | 贵州卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0114_5.m3u8?key=txiptv&playlive=1&authid=0> |
+| 375 | 贵州卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 376 | 贵州卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 377 | 贵州卫视 | IPv4 直链 | <http://115.171.86.183:9901/tsfile/live/16046_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 378 | 贵州卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 379 | 辽宁卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 380 | 辽宁卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 381 | 辽宁卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 382 | 辽宁卫视 | IPv4 直链 | <http://183.63.15.42:9901/tsfile/live/37354_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 383 | 辽宁卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 384 | 辽宁卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 385 | 辽宁卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 386 | 辽宁卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 387 | 重庆卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 388 | 重庆卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0114_4.m3u8?key=txiptv&playlive=1&authid=0> |
+| 389 | 重庆卫视 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 390 | 重庆卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 391 | 重庆卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 392 | 重庆卫视 | IPv4 直链 | <http://61.130.72.18:8888/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 393 | 重庆卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 394 | 重庆卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 395 | 陕西卫视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 396 | 陕西卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0120_7.m3u8?key=txiptv&playlive=1&authid=0> |
+| 397 | 陕西卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 398 | 陕西卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0120_7.m3u8?key=txiptv&playlive=1&authid=0> |
+| 399 | 陕西卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0120_7.m3u8?key=txiptv&playlive=1&authid=0> |
+| 400 | 陕西卫视 | IPv4 直链 | <http://123.138.216.44:9902/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 401 | 陕西卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 402 | 陕西卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 403 | 青海卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 404 | 青海卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 405 | 青海卫视 | IPv4 直链 | <http://121.19.134.69:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 406 | 青海卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 407 | 青海卫视 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 408 | 青海卫视 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 409 | 青海卫视 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 410 | 黑龙江卫视 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 411 | 黑龙江卫视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 412 | 黑龙江卫视 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 413 | 黑龙江卫视 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 414 | 黑龙江卫视 | IPv4 直链 | <http://58.210.23.42:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 415 | 黑龙江卫视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 416 | 黑龙江卫视 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 417 | 黑龙江卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 418 | QTV1 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 419 | QTV2 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 420 | QTV3 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 421 | 4K电源 | IPv4 直链 | <http://115.171.86.183:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 422 | QTV4 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 423 | QTV5 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 424 | QTV6 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 425 | BTV休闲体育 | IPv4 直链 | <http://115.171.86.183:9901/tsfile/live/16034_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 426 | CAN亚洲新闻台 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 427 | CETV | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 428 | CGTN | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 429 | CGTN | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 430 | ICS | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 431 | IPTV古装剧场 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 432 | IPTV经典剧场 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 433 | KBS韩国广播电视 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 434 | NHK日本广播协会 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 435 | TVB星河 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 436 | 七彩戏剧 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 437 | 三明综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23298_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 438 | 上海 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 439 | 上海ICS | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 440 | 上海娱乐 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 441 | 上海纪实 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 442 | 东南 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 443 | 东方影视 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 444 | 东方财经 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 445 | 东方购物 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 446 | 中国气象 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 447 | 五星体育 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 448 | 五星体育 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 449 | 五星体育 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 450 | 优漫卡通 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 451 | 佳嘉卡通 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 452 | 保定公共 | IPv4 直链 | <http://121.19.134.69:808/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 453 | 保定生活健康 | IPv4 直链 | <http://121.19.134.69:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 454 | 保定生活健康 | IPv4 直链 | <http://111.225.113.218:808/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 455 | 公共 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 456 | 凤凰中文 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 457 | 动作电影 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 458 | 动漫秀场 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 459 | 南平综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23295_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 460 | 卡酷动漫 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 461 | 卡酷动画 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 462 | 卡酷卡通 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 463 | 卡酷少儿 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 464 | 吉林 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 465 | 吉林怀视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 466 | 嘉佳卡通 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 467 | 宁德综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23296_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 468 | 安徽 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1152_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 469 | 家庭影院 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 470 | 山东 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1134_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 471 | 山东体育 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 472 | 山东公共 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 473 | 山东农科 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 474 | 山东国际 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 475 | 山东少儿 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 476 | 山东影视 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 477 | 山东教育 | IPv4 直链 | <http://111.225.113.218:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 478 | 山东生活 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 479 | 山东综艺 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 480 | 山东齐鲁 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 481 | 广东 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1146_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 482 | 广东体育 | IPv4 直链 | <http://219.137.29.141:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 483 | 快乐垂钓 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 484 | 快乐垂钓 | IPv4 直链 | <http://121.19.134.69:808/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 485 | 新动漫 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 486 | 新闻 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 487 | 新闻综合 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 488 | 枫叶 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 489 | 梨园 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 490 | 梨园 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 491 | 欢笑剧场 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 492 | 民生 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 493 | 江苏 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 494 | 江苏城市 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0> |
+| 495 | 江苏城市 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 496 | 江苏城市 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0> |
+| 497 | 江苏综艺 | IPv4 直链 | <http://222.185.245.194:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0> |
+| 498 | 江苏综艺 | IPv4 直链 | <http://222.92.7.170:3333/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0> |
+| 499 | 江苏综艺 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 500 | 江苏综艺 | IPv4 直链 | <http://58.210.60.226:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0> |
+| 501 | 江西影视旅 | IPv4 直链 | <http://111.74.155.231:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 502 | 江西教育标 | IPv4 直链 | <http://111.74.155.231:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 503 | 江西新闻 | IPv4 直链 | <http://111.74.155.231:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 504 | 江西经济生活 | IPv4 直链 | <http://111.74.155.231:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 505 | 河北都市 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 506 | 泉州综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 507 | 法制 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 508 | 法治天下 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 509 | 法治天地 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 510 | 浙江 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1128_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 511 | 浦东台 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 512 | 深圳都市 | livepull-tcyzb.sztv.com.cn | <http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8> |
+| 513 | 游戏风云 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 514 | 游戏风云 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 515 | 湖北 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1144_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 516 | 湖南 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 517 | 湖南公共 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 518 | 湖南公共 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 519 | 湖南公共 | IPv4 直链 | <http://175.0.50.196:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 520 | 湖南国际 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 521 | 湖南娱乐 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 522 | 湖南娱乐 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 523 | 湖南娱乐 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 524 | 湖南教育 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 525 | 湖南爱晚 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 526 | 湖南电影 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 527 | 湖南电影 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 528 | 湖南电影 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 529 | 湖南电视剧 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 530 | 湖南电视剧 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 531 | 湖南电视剧 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 532 | 湖南电视台 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 533 | 湖南经视 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 534 | 湖南经视 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 535 | 湖南经视 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 536 | 湖南都市 | IPv4 直链 | <http://118.253.0.237:2023/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 537 | 湖南都市 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 538 | 湖南都市 | IPv4 直链 | <http://42.49.189.17:9008/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 539 | 湖南都市 | IPv4 直链 | <http://113.218.218.5:8001/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 540 | 漳州综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23303_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 541 | 炫动卡通 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 542 | 炫动卡通 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 543 | 生活时尚 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 544 | 电影 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 545 | 电视剧 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 546 | 福州综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 547 | 福建文体 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23291_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 548 | 福建电视剧 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 549 | 福建经济 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23289_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 550 | 福建综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 551 | 移动戏曲 | IPv4 直链 | <http://123.160.235.166:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 552 | 第一剧场 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 553 | 第一财经 | IPv4 直链 | <http://222.71.189.186:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 554 | 第一财经 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 555 | 第一财经 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 556 | 纪实人文 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 557 | 纪实科教 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 558 | 茶 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 559 | 西安二套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 560 | 财富天下 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 561 | 辽宁体育 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 562 | 辽宁公共 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 563 | 辽宁北方 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 564 | 辽宁影视剧 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 565 | 辽宁生活 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 566 | 辽宁经济 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 567 | 邯郸民生都市 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 568 | 都市 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 569 | 都市剧场 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 570 | 重庆 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1127_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 571 | 金色 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 572 | 金色学堂 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 573 | 金鹰卡通 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 574 | 金鹰卡通 | IPv4 直链 | <http://121.19.134.69:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 575 | 金鹰卡通 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 576 | 金鹰卡通 | IPv4 直链 | <http://106.46.113.15:8011/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 577 | 金鹰卡通 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 578 | 金鹰卡通 | IPv4 直链 | <http://175.0.50.196:8899/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 579 | 金鹰纪实 | IPv4 直链 | <http://116.233.232.229:7777/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 580 | 金鹰纪实 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/faacts/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 581 | 金鹰纪实 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 582 | 金鹰纪实 | IPv4 直链 | <http://223.159.10.204:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 583 | 陕西一套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 584 | 陕西二套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 585 | 陕西生活 | IPv4 直链 | <http://219.145.20.162:16085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 586 | 陕西生活 | IPv4 直链 | <http://219.145.20.162:5938/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 587 | 陕西生活 | IPv4 直链 | <http://219.145.20.162:16022/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 588 | 陕西生活 | IPv4 直链 | <http://219.145.20.162:4786/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 589 | 陕西生活 | IPv4 直链 | <http://219.145.20.162:901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 590 | 陕西生活 | IPv4 直链 | <http://219.145.20.162:9334/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 591 | 陕西生活 | IPv4 直链 | <http://219.145.20.162:8546/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 592 | 陕西生活 | IPv4 直链 | <http://219.145.20.162:1443/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
+| 593 | 靓妆 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 594 | 风云足球 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 595 | 黑龙江 | IPv4 直链 | <http://42.5.185.189:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 596 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Mar 16 2024 08:09:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 16 2024 11:59:54 GMT+0000 (Coordinated Universal Time)**
