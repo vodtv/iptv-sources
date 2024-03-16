@@ -90,7 +90,7 @@
   <tbody>
     <tr>
       <td>iptv</td>
-      <td>https://www.gitlink.org.cn/api/iptv/iptv/raw/cn.iptv?ref=gh-pages</td>
+      <td>https://www.gitlink.org.cn/api/iptv/iptv/raw/cn.m3u?ref=gh-pages</td>
     </tr>
      <tr>
       <td>TXT</td>
@@ -119,7 +119,7 @@
   <tbody>
     <tr>
       <td>iptv</td>
-      <td>https://raw.gitcode.com/iptv/iptv/raw/gh-pages/cn.iptv</td>
+      <td>https://raw.gitcode.com/iptv/iptv/raw/gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
