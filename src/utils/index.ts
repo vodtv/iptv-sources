@@ -10,19 +10,21 @@ export const config_path = path.resolve("config")
 
 export const config_custom_path = path.join(config_path, "custom")
 
-export const data_path = path.resolve("data")
+export const dist_path = path.resolve("dist")
 
-export const txt_path = path.join(data_path, "txt")
+export const TMPL_DIR = process.env.TMPL_DIR || 'src/tmpl'
 
-export const epg_path = path.join(data_path, "epg")
+export const txt_path = path.join(dist_path, "txt")
 
-export const list_path = path.join(data_path, "list")
+export const epg_path = path.join(dist_path, "epg")
 
-export const sources_path = path.join(data_path, "sources")
+export const list_path = path.join(dist_path, "list")
 
-export const tvbox_path = path.join(data_path, "tvbox")
+export const sources_path = path.join(dist_path, "sources")
 
-export const write_custom_path = path.join(data_path, "custom")
+export const tvbox_path = path.join(dist_path, "tvbox")
+
+export const write_custom_path = path.join(dist_path, "custom")
 
 export const README_DIR = path.join(".readme")
 

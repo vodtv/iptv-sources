@@ -26,12 +26,12 @@ jobs:
     - run: yarn build
     - run: CLOSE_SOURCE_PROXY=true && yarn dist
     - name: "Jekyll theme"
-      run: mv ./.github/_config.temp.yml ./data/_config.yml    
+      run: mv ./.github/_config.tmpl.yml ./data/_config.yml    
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.ACTION_TOKEN }}
-        publish_dir: ./data
+        publish_dir: ./dist
         enable_jekyll: true
         cname: vodtv.cn
    

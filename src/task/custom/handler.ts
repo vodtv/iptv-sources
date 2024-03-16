@@ -2,7 +2,7 @@ import fs from "fs"
 import path from "path"
 
 import type { ICustom } from "./define"
-import { config_path, data_path, write_custom_path, m3u2txt, trimAny } from "../../utils"
+import { config_path, dist_path, write_custom_path, m3u2txt, trimAny } from "../../utils"
 
 const loadConfigCustom = (): ICustom | undefined => {
   if (!fs.existsSync(config_path)) {
@@ -25,7 +25,7 @@ const loadConfigCustom = (): ICustom | undefined => {
 
 const getFilenames = () => {
   return fs
-    .readdirSync(path.join(data_path, "txt"))
+    .readdirSync(path.join(dist_path, "txt"))
     .map((f) => f.replace(".txt", ""))
     .filter((f) => f !== "channels")
 }
@@ -57,7 +57,7 @@ export const runCustomTask = () => {
     console.log(`Customize Source ${f}`)
 
     const arr = fs
-      .readFileSync(path.join(data_path, `${f}.m3u`), "utf-8")
+      .readFileSync(path.join(dist_path, `${f}.m3u`), "utf-8")
       .split("\n")
     let res = [arr[0]]
 

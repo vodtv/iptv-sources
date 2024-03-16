@@ -1,3 +1,4 @@
+import { ISource } from "../types"
 import { collectM3uSource, replace_github_raw_proxy_url, converter, handle_m3u } from "../utils"
 
 

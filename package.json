@@ -2,14 +2,12 @@
   "name": "vodtv",
   "version": "1.0.5",
   "main": "main.js",
-  "repository": "git@github.com:vodtv/vodtv.git",
+  "repository": "git@github.com:vodtv/vodtv.cn.git",
   "author": "vodtv <viptvx@gmail.com>",
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development tsup --watch",
-    "build": "tsup",
-    "dist": "node ./dist/main.js"
+    "tsup": "tsup && node ./dist/main.js"
   },
   "devDependencies": {
     "@rollup/wasm-node": "^4.12.0",

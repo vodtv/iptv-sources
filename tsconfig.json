@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "strict": true,
+  },
+  "include": [
+    "src/types/index.d.ts"
+  ],
+  "exclude": [
+    "./node_modules"
+  ]
+}

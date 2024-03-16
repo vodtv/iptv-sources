@@ -9,7 +9,7 @@ export const updateChannelsJson = (
   sources_res: Array<[string, number | undefined]>,
   epgs: TChannelsSources
 ) => {
-  const json_p = path.resolve("data", "channels.json")
+  const json_p = path.resolve("dist", "channels.json")
   const url = get_custom_url()
 
   const result: IChannelsResult = {
@@ -26,8 +26,8 @@ export const updateChannelsJson = (
     updated_at: new Date().getTime(),
   }
 
-  if (!fs.existsSync(path.resolve("data"))) {
-    fs.mkdirSync(path.resolve("data"))
+  if (!fs.existsSync(path.resolve("dist"))) {
+    fs.mkdirSync(path.resolve("dist"))
   }
 
   fs.writeFileSync(json_p, JSON.stringify(result))

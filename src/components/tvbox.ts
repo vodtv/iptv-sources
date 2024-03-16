@@ -52,7 +52,7 @@ export const writeTvBoxJson = (
   srcs: ITvBoxLiveSrc[],
   group?: string
 ) => {
-  const tvbox_p = path.resolve("data", "tvbox")
+  const tvbox_p = path.resolve("dist", "tvbox")
   if (!fs.existsSync(tvbox_p)) {
     fs.mkdirSync(tvbox_p)
   }

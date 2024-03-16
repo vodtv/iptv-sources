@@ -15,23 +15,23 @@ export const getContent = async (src: ISource | TEPGSource) => {
   return [res.status, await res.text(), now]
 }
 
-export const writeM3u = (name: string, data: string) => {
-  if (!fs.existsSync(path.join(path.resolve(), "data"))) {
-    fs.mkdirSync(path.join(path.resolve(), "data"));
+export const writeM3u = (name: string, dist: string) => {
+  if (!fs.existsSync(path.join(path.resolve(), "dist"))) {
+    fs.mkdirSync(path.join(path.resolve(), "dist"));
   }
 
-  fs.writeFileSync(path.join(path.resolve(), "data", `${name}.m3u`), data);
+  fs.writeFileSync(path.join(path.resolve(), "dist", `${name}.m3u`), dist);
 };
 export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
   const m3uArray = m3u.split("\n")
   let txt = m3u2txt(m3uArray)
 
-  if (!fs.existsSync(path.join(path.resolve(), "data", "txt"))) {
-    fs.mkdirSync(path.join(path.resolve(), "data", "txt"))
+  if (!fs.existsSync(path.join(path.resolve(), "dist", "txt"))) {
+    fs.mkdirSync(path.join(path.resolve(), "dist", "txt"))
   }
 
   fs.writeFileSync(
-    path.join(path.resolve(), "data", "txt", `${f_name}.txt`),
+    path.join(path.resolve(), "dist", "txt", `${f_name}.txt`),
     txt
   )
 }
@@ -46,12 +46,12 @@ export const writeSources = (
     srcs[k] = v
   }
 
-  if (!fs.existsSync(path.resolve("data", "sources"))) {
-    fs.mkdirSync(path.resolve("data", "sources"))
+  if (!fs.existsSync(path.resolve("dist", "sources"))) {
+    fs.mkdirSync(path.resolve("dist", "sources"))
   }
 
   fs.writeFileSync(
-    path.resolve("data", "sources", `${f_name}.json`),
+    path.resolve("dist", "sources", `${f_name}.json`),
     JSON.stringify({
       name,
       sources: srcs,
@@ -60,7 +60,7 @@ export const writeSources = (
 }
 
 export const mergeSources = () => {
-  const sources_p = path.resolve("data", "sources")
+  const sources_p = path.resolve("dist", "sources")
 
   const files = fs.readdirSync(sources_p)
 
@@ -88,16 +88,16 @@ export const mergeSources = () => {
 
 
 export const writeEpgXML = (f_name: string, xml: string) => {
-  if (!fs.existsSync(path.join(path.resolve(), "data", "epg"))) {
-    fs.mkdirSync(path.join(path.resolve(), "data", "epg"))
+  if (!fs.existsSync(path.join(path.resolve(), "dist", "epg"))) {
+    fs.mkdirSync(path.join(path.resolve(), "dist", "epg"))
   }
 
-  fs.writeFileSync(path.resolve("data", "epg", `${f_name}.xml`), xml)
+  fs.writeFileSync(path.resolve("dist", "epg", `${f_name}.xml`), xml)
 }
 
 
 export const mergeTxts = () => {
-  const txts_p = path.resolve("data", "txt")
+  const txts_p = path.resolve("dist", "txt")
 
   const files = fs.readdirSync(txts_p)
 
@@ -121,4 +121,4 @@ const cleanDir = (p: string) => {
   }
 };
 
-export const cleanFiles = () => cleanDir(path.join(path.resolve(), "data"));
+export const cleanFiles = () => cleanDir(path.join(path.resolve(), "dist"));

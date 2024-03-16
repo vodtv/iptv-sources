@@ -1,4 +1,5 @@
-import type { TEPGSource } from "../types/"
+import { TEPGSource } from "../types";
+
 
 export const epgs_sources: TEPGSource[] = [
   {
