@@ -23,8 +23,7 @@ jobs:
     - name: install yarn
       run: npm install yarn -g
     - run: yarn install
-    - run: yarn build
-    - run: CLOSE_SOURCE_PROXY=true && yarn dist
+    - run: CLOSE_SOURCE_PROXY=true && yarn tsup
     - name: "Jekyll theme"
       run: mv ./.github/_config.tmpl.yml ./data/_config.yml    
     - name: Deploy
