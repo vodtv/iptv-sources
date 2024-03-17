@@ -1,4 +1,4 @@
-<h1> <a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">CDN1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">CDN2</a> - <a href="https://cdn.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/">CDN3</a></h1>
+<div align="center"><h1> <a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">CDN1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">CDN2</a> - <a href="https://cdn.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/">CDN3</a></h1></div>
 
 ## 目录
 
@@ -35,7 +35,7 @@
 | epg.pw China National | [cn_n.m3u](/cn_n.m3u) <br> [cn_n.txt](/txt/cn_n.txt) | [List for epg.pw China National](/list/cn_n.list) | 8 | - |
 | epg.pw China Country | [cn_c.m3u](/cn_c.m3u) <br> [cn_c.txt](/txt/cn_c.txt) | [List for epg.pw China Country](/list/cn_c.list) | 104 | - |
 | epg.pw China Province | [cn_p.m3u](/cn_p.m3u) <br> [cn_p.txt](/txt/cn_p.txt) | [List for epg.pw China Province](/list/cn_p.list) | 34 | - |
-| epg.pw All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for epg.pw All](/list/all.list) | 2496 | - |
+| epg.pw All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for epg.pw All](/list/all.list) | 2495 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom | [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u) <br> [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom](/list/q_bj_iptv_unicom.list) | 133 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](/list/q_bj_iptv_unicom_m.list) | 133 | - |
 | qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 147 | - |
