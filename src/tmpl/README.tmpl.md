@@ -1,4 +1,4 @@
-<h1> <a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">CDN1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">CDN2</a> - <a href="https://cdn.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/">CDN3</a></h1>
+<div align="center"><h1> <a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">CDN1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">CDN2</a> - <a href="https://cdn.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/">CDN3</a></h1></div>
 
 ## 目录
 
