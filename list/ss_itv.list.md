@@ -588,4 +588,4 @@
 | 582 | 陕西生活 | IPv4 直链 | <http://219.145.20.108:44158/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 583 | 靓妆 | IPv4 直链 | <http://123.182.209.123:8088/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Mar 17 2024 06:46:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 17 2024 06:49:28 GMT+0000 (Coordinated Universal Time)**
