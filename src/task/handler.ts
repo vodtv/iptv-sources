@@ -1,9 +1,8 @@
 import fs from "fs"
 import path from "path"
 
-import { config_path } from "../const"
-import type { IEnv } from "./define"
-import { trimAny } from "../../utils"
+import type { IEnv } from "../types"
+import { trimAny, config_path } from "../utils"
 
 export const loadConfigEnv = (): IEnv | undefined => {
   if (!fs.existsSync(config_path)) {

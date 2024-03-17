@@ -1,6 +1,5 @@
 import path from "path"
 import fs from "fs"
-
 import { get_custom_url } from "../utils"
 import type { TChannelsSources, IChannelsResult } from "../types";
 
@@ -11,7 +10,6 @@ export const updateChannelsJson = (
 ) => {
   const json_p = path.resolve("dist", "channels.json")
   const url = get_custom_url()
-
   const result: IChannelsResult = {
     builderVersion: 1,
     channels: sources?.map((source, idx) => ({
@@ -25,10 +23,8 @@ export const updateChannelsJson = (
     })),
     updated_at: new Date().getTime(),
   }
-
   if (!fs.existsSync(path.resolve("dist"))) {
     fs.mkdirSync(path.resolve("dist"))
   }
-
   fs.writeFileSync(json_p, JSON.stringify(result))
 }

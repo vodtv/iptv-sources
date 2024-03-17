@@ -1,17 +1,7 @@
 import fs from "fs";
 import path from "path";
-import type { TEPGSource } from "../types"
+import type { TREADMESources, TREADMEEPGSources } from "../types"
 import { handle_m3u, get_from_info } from "../utils"
-
-export interface IREADMESource {
-  name: string
-  f_name: string
-  count?: number | undefined
-}
-
-export type TREADMESources = IREADMESource[]
-export type TREADMEEPGSources = TEPGSource[]
-
 
 export const updateChannelList = (
   name: string,
@@ -21,7 +11,6 @@ export const updateChannelList = (
 ) => {
   const list_temp_p = path.join(path.resolve(), "src/tmpl/LIST.tmpl.md")
   const list = fs.readFileSync(list_temp_p, "utf8").toString()
-
   const m3uArray = handle_m3u(m3u)
   const channelRegExp = /\#EXTINF:-1([^,]*),(.*)/
   let i = 1
@@ -35,7 +24,6 @@ export const updateChannelList = (
     ])
     i += 2
   }
-
   const after = list
     .replace(
       "<!-- list_title_here -->",
@@ -52,13 +40,10 @@ export const updateChannelList = (
         )
         .join("\n")}\n\nUpdated at **${new Date()}**`
     )
-
   const list_p = path.join(path.resolve(), "dist", "list")
-
   if (!fs.existsSync(list_p)) {
     fs.mkdirSync(list_p)
   }
-
   fs.writeFileSync(path.join(list_p, `${f_name}.list.md`), after)
 }
 
@@ -71,7 +56,6 @@ export const updateReadme = (
 ) => {
   const readme_temp_p = path.join(path.resolve(), "src/tmpl/README.tmpl.md")
   const readme = fs.readFileSync(readme_temp_p, "utf8").toString()
-
   const after = readme
     .replace(
       "<!-- channels_here -->",
@@ -104,10 +88,8 @@ export const updateReadme = (
         )
         .join("\n")}\n\nUpdated at **${new Date()}**`
     )
-
   if (!fs.existsSync(path.join(path.resolve(), "dist"))) {
     fs.mkdirSync(path.join(path.resolve(), "dist"))
   }
-
   fs.writeFileSync(path.join(path.resolve(), "dist", "README.md"), after)
 }

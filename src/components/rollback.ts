@@ -2,7 +2,6 @@ import { hrtime } from "process"
 import { ISource, TEPGSource } from "../types"
 import { get_rollback_urls } from "../utils"
 
-
 export const updateByRollback = async (
   sr: ISource,
   sr_filter: ISource["filter"],
@@ -24,14 +23,12 @@ export const updateByRollback = async (
       const text = await res.text()
       return sr_filter(text as string, "rollback")
     }
-
     console.log(
       `Fetch m3u Rollback from ${rollback_urls[idx]} FAILED, try next...`
     )
     if (++idx < rollback_urls.length) {
       return updateByRollback(sr, sr_filter, idx)
     }
-
     console.log(`All failed, give up ${sr.name}!`)
     return undefined
   } catch (e) {
@@ -41,7 +38,6 @@ export const updateByRollback = async (
     if (++idx < rollback_urls.length) {
       return updateByRollback(sr, sr_filter, idx)
     }
-
     console.log(`All failed, give up ${sr.name}!`)
     return undefined
   }
@@ -66,14 +62,12 @@ export const updateEPGByRollback = async (
       )
       return await res.text()
     }
-
     console.log(
       `Fetch EPG Rollback from ${rollback_urls[idx]} FAILED, try next...`
     )
     if (++idx < rollback_urls.length) {
       return updateEPGByRollback(sr, idx)
     }
-
     console.log(`All failed, give up ${sr.name}!`)
     return undefined
   } catch (e) {
@@ -83,7 +77,6 @@ export const updateEPGByRollback = async (
     if (++idx < rollback_urls.length) {
       return updateEPGByRollback(sr, idx)
     }
-
     console.log(`All failed, give up ${sr.name}!`)
     return undefined
   }
