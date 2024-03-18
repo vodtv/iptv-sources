@@ -1,4 +1,4 @@
-# List for **ssili126 tv itv**
+# List for **自动获取酒店源**
 
 > M3U: [ss_itv.m3u](/ss_itv.m3u), TXT: [ss_itv.txt](/txt/ss_itv.txt)
 
@@ -589,4 +589,4 @@
 | 583 | 陕西都市青春 | IPv4 直链 | <http://219.145.20.40:6668/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 584 | 陕西都市青春 | IPv4 直链 | <http://219.145.20.40:10230/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Mon Mar 18 2024 11:28:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 18 2024 15:16:53 GMT+0000 (Coordinated Universal Time)**

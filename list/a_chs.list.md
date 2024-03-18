@@ -1,4 +1,4 @@
-# List for **adultiptv.net chs**
+# List for **成人IPTV**
 
 > M3U: [a_chs.m3u](/a_chs.m3u), TXT: [a_chs.txt](/txt/a_chs.txt)
 
@@ -30,4 +30,4 @@
 | 24 | AdultIPTV.net Gay | live.adultiptv.net | <http://live.adultiptv.net/gay.m3u8> |
 | 25 | AdultIPTV.net Asian | live.adultiptv.net | <http://live.adultiptv.net/asian.m3u8> |
 
-Updated at **Mon Mar 18 2024 11:28:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 18 2024 15:16:52 GMT+0000 (Coordinated Universal Time)**
