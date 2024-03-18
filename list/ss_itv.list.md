@@ -612,4 +612,4 @@
 | 606 | 陕西生活 | IPv4 直链 | <http://219.145.20.108:9295/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 607 | 陕西生活 | IPv4 直链 | <http://219.145.20.108:5111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Mon Mar 18 2024 00:36:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 18 2024 08:10:34 GMT+0000 (Coordinated Universal Time)**
