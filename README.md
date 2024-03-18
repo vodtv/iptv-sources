@@ -24,7 +24,6 @@
 | YanG_1989 Adult | [y_a.m3u](/y_a.m3u) <br> [y_a.txt](/txt/y_a.txt) | [List for YanG_1989 Adult](/list/y_a.list) | 1210 | - |
 | joevess/IPTV home | [j_home.m3u](/j_home.m3u) <br> [j_home.txt](/txt/j_home.txt) | [List for joevess/IPTV home](/list/j_home.list) | 51 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](/j_iptv.m3u) <br> [j_iptv.txt](/txt/j_iptv.txt) | [List for joevess/IPTV iptv](/list/j_iptv.list) | 503 | - |
-| Meroser/IPTV IPTV | [m_iptv.m3u](/m_iptv.m3u) <br> [m_iptv.txt](/txt/m_iptv.txt) | [List for Meroser/IPTV IPTV](/list/m_iptv.list) | update failed | - |
 | iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 9961 | - |
 | iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 537 | - |
 | iptv.org stream China | [o_s_cn.m3u](/o_s_cn.m3u) <br> [o_s_cn.txt](/txt/o_s_cn.txt) | [List for iptv.org stream China](/list/o_s_cn.list) | 504 | - |
@@ -40,7 +39,7 @@
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](/list/q_bj_iptv_unicom_m.list) | 133 | - |
 | qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 147 | - |
 | qwerttvv/Beijing-IPTV IPTV Mobile Multicast | [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u) <br> [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](/list/q_bj_iptv_mobile_m.list) | 130 | - |
-| ssili126 tv itv | [ss_itv.m3u](/ss_itv.m3u) <br> [ss_itv.txt](/txt/ss_itv.txt) | [List for ssili126 tv itv](/list/ss_itv.list) | 607 | - |
+| ssili126 tv itv | [ss_itv.m3u](/ss_itv.m3u) <br> [ss_itv.txt](/txt/ss_itv.txt) | [List for ssili126 tv itv](/list/ss_itv.list) | 584 | - |
 
 ## CDN加速
 
