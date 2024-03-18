@@ -6,7 +6,6 @@ export * from "./fanmingming_live"
 export * from "./qwerttvv_bj_iptv"
 export * from "./joevess_iptv"
 export * from "./ssili126_tv"
-export * from "./meroser_iptv"
 export * from "./adultiptv_net"
 
 import {
@@ -19,8 +18,7 @@ import {
   fanmingming_live_sources,
   qwerttvv_bj_iptv_sources,
   joevess_iptv_sources,
-  ssili126_tv_sources,
-  meroser_iptv_sources
+  ssili126_tv_sources
 } from "."
 
 export const sources = [
@@ -29,7 +27,6 @@ export const sources = [
   ...yuechan_live_sources,
   ...yang_m3u_sources,
   ...joevess_iptv_sources,
-  ...meroser_iptv_sources,
   ...iptv_org_sources,
   ...iptv_org_stream_sources,
   ...epg_pw_sources,
