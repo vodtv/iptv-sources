@@ -17,6 +17,6 @@
 | 11 | [SD]澳门卫视 | epg.pw | <https://epg.pw/stream/a9b0fa1f40816c056c6e8201cf21bd5d9bed75145b2ae46e7eae5073d5918189.m3u8> |
 | 12 | [HD]澳门资讯 | live4.tdm.com.mo:80 | <rtmp://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live> |
 | 13 | [BD]澳门莲花 | epg.pw | <https://epg.pw/stream/07600e6d5693914a7ef6931ae6394ded0d536f1928f926c4924f38ba34a9a916.ctv> |
-| 14 | [BD]澳门资讯 | epg.pw | <https://epg.pw/stream/df07814fabb1663ac92b3f84ece74ca5a524a5a3a6af19435ff064633fa59197.m3u8> |
+| 14 | [HD]澳门资讯 | epg.pw | <https://epg.pw/stream/df07814fabb1663ac92b3f84ece74ca5a524a5a3a6af19435ff064633fa59197.m3u8> |
 
-Updated at **Tue Mar 19 2024 00:35:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 19 2024 08:10:11 GMT+0000 (Coordinated Universal Time)**
