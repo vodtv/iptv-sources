@@ -588,4 +588,4 @@
 | 582 | 陕西西部影视 | IPv4 直链 | <http://113.140.69.126:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 583 | 齐鲁 | IPv4 直链 | <http://144.52.162.231:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Mar 20 2024 00:34:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 20 2024 08:09:55 GMT+0000 (Coordinated Universal Time)**

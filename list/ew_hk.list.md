@@ -40,7 +40,7 @@
 | 34 | [SD]亚太第一卫视 | epg.pw | <https://epg.pw/stream/a2c2ffd09e659172ea977d6c76d5196243883a2650e311f1d3ae571e948aab2b.ctv> |
 | 35 | [BD]凤凰卫视美洲 | epg.pw | <https://epg.pw/stream/997fe823aeb78e625302f8c59ed83a33f5ffdd675b2c6b67aa50708d902d9883.ctv> |
 | 36 | [SD]天映经典 | epg.pw | <https://epg.pw/stream/b14f188cf1a82fc7cf93a65ddde6971b6a502577029f3fc887e13e045033bc7b.m3u8> |
-| 37 | [VGA]天映频道 | epg.pw | <https://epg.pw/stream/13d82adf9559fe4d638b034948d2ef0b2dfef376d175da601585565bb4b13d47.ctv> |
+| 37 | [BD]天映频道 | epg.pw | <https://epg.pw/stream/e6e326ff18624c5a513d9663ed91a0aae2c5d30a6baca900796bb58f2a619f94.m3u8> |
 | 38 | [HD]恐怖电影 | epg.pw | <https://epg.pw/stream/23e67d0411967f24179857780e9915934224f032f582ee4e82cc7da2b9bc3c24.ctv> |
 | 39 | [BD]无线新闻 | epg.pw | <https://epg.pw/stream/02565069b3338f3fd818803ab5fd3d3f8f3d9dd474aeaab2232bf83e07442b18.m3u8> |
 | 40 | [BD]tvb明珠台 | epg.pw | <https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.m3u8> |
@@ -58,9 +58,8 @@
 | 52 | [HD]香港国际财经台 | epg.pw | <https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8> |
 | 53 | [HD]香港有线新闻 | epg.pw | <https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv> |
 | 54 | [SD]香港卫视文旅 | epg.pw | <https://epg.pw/stream/3bba1f61c9bbdb7c3299de2153884249bff20165adcea8abe1fe4fb837f7eb31.m3u8> |
-| 55 | [BD]凤凰美洲 | epg.pw | <https://epg.pw/stream/62f237b63da87af8fbb5082e97a53fd7ee94b9bc10b95e2baf575507285077a1.ctv> |
-| 56 | [HD]凤凰卫视 | epg.pw | <https://epg.pw/stream/64af1f1dbf226d8a106c11ae081ac6cafcab64544071604c6de3bff238456092.ctv> |
-| 57 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
-| 58 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8> |
+| 55 | [HD]凤凰卫视 | epg.pw | <https://epg.pw/stream/64af1f1dbf226d8a106c11ae081ac6cafcab64544071604c6de3bff238456092.ctv> |
+| 56 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
+| 57 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8> |
 
-Updated at **Wed Mar 20 2024 00:34:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 20 2024 08:09:55 GMT+0000 (Coordinated Universal Time)**
