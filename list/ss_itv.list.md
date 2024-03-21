@@ -574,4 +574,4 @@
 | 568 | 陕西都市青春 | IPv4 直链 | <http://113.140.69.126:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 569 | 齐鲁 | IPv4 直链 | <http://144.52.162.231:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Mar 21 2024 00:36:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 21 2024 08:10:05 GMT+0000 (Coordinated Universal Time)**
