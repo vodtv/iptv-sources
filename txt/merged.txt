@@ -86,7 +86,7 @@ AdultIPTV.net_Asian,http://live.adultiptv.net/asian.m3u8
 [SD]万州影视文艺,https://epg.pw/stream/0db1fe6d9f439ccf06fa6ffcec21201991d909523dcf02f59828ee836c1f226b.m3u8
 [BD]都市剧场,https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
 [HD]陕西影视频道[ipv6],https://epg.pw/stream/f3cdf1ddc40c4b8cd8aa92f65945ddb3254a343538aeb01352dee51896b6af1e.m3u8
-[VGA]陕西影视,https://epg.pw/stream/a0dc949f3e65da9ebc2c1d93a1e2fb33cb21e3b4a3c41f2632dcb77f1a80b608.ctv
+[BD]陕西影视,https://epg.pw/stream/a0dc949f3e65da9ebc2c1d93a1e2fb33cb21e3b4a3c41f2632dcb77f1a80b608.ctv
 [SD]陕西西部电影[ipv6],https://epg.pw/stream/318a64a14fc9f1b992a21c72c71cfd4a89394cc5c5223234aa15277077764e2b.m3u8
 [BD]黑莓电影[ipv6],https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 [BD]黑龙江影视[ipv6],https://epg.pw/stream/6186d8420f7e86d3337615a008072538610d9e9a20c1d01d4087add26fcbe019.m3u8
@@ -130,7 +130,7 @@ AdultIPTV.net_Asian,http://live.adultiptv.net/asian.m3u8
 [SD]大湾区卫视,https://epg.pw/stream/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.m3u8
 [BD]天津卫视,https://epg.pw/stream/851329efba96e41290e0de9cf7d926f06496f98010159f86bb1407c4166da2e7.m3u8
 [SD]安多卫视[ipv6],https://epg.pw/stream/8e4f0385cec55d0651e098bc548a52dd8948995d4c052205c8667df425adb6c9.m3u8
-[BD]安徽国际,https://epg.pw/stream/cd57ff12ae0d56bd0f5300230a0572fedce2e8709aba8b0c0f77b59845243b0e.ctv
+[VGA]安徽国际,https://epg.pw/stream/cd57ff12ae0d56bd0f5300230a0572fedce2e8709aba8b0c0f77b59845243b0e.ctv
 [BD]安徽导视,https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8
 [BD]安徽经济生活,https://epg.pw/stream/3938a495fba6df0234433ccd5edf43a52ab2cd39f2f57bac480ae9b63d27c55f.m3u8
 [BD]安徽卫视,https://epg.pw/stream/817f687ce1bbfda41c2a754577233a89194e4737bcf6006d99d2fcb9f7ae2df3.m3u8
@@ -582,7 +582,7 @@ AdultIPTV.net_Asian,http://live.adultiptv.net/asian.m3u8
 [SD]万州影视文艺,https://epg.pw/stream/0db1fe6d9f439ccf06fa6ffcec21201991d909523dcf02f59828ee836c1f226b.m3u8
 [BD]都市剧场,https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
 [HD]陕西影视频道[ipv6],https://epg.pw/stream/f3cdf1ddc40c4b8cd8aa92f65945ddb3254a343538aeb01352dee51896b6af1e.m3u8
-[VGA]陕西影视,https://epg.pw/stream/a0dc949f3e65da9ebc2c1d93a1e2fb33cb21e3b4a3c41f2632dcb77f1a80b608.ctv
+[BD]陕西影视,https://epg.pw/stream/a0dc949f3e65da9ebc2c1d93a1e2fb33cb21e3b4a3c41f2632dcb77f1a80b608.ctv
 [SD]陕西西部电影[ipv6],https://epg.pw/stream/318a64a14fc9f1b992a21c72c71cfd4a89394cc5c5223234aa15277077764e2b.m3u8
 [BD]黑莓电影[ipv6],https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 [BD]黑龙江影视[ipv6],https://epg.pw/stream/6186d8420f7e86d3337615a008072538610d9e9a20c1d01d4087add26fcbe019.m3u8
@@ -626,7 +626,7 @@ AdultIPTV.net_Asian,http://live.adultiptv.net/asian.m3u8
 [SD]大湾区卫视,https://epg.pw/stream/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.m3u8
 [BD]天津卫视,https://epg.pw/stream/851329efba96e41290e0de9cf7d926f06496f98010159f86bb1407c4166da2e7.m3u8
 [SD]安多卫视[ipv6],https://epg.pw/stream/8e4f0385cec55d0651e098bc548a52dd8948995d4c052205c8667df425adb6c9.m3u8
-[BD]安徽国际,https://epg.pw/stream/cd57ff12ae0d56bd0f5300230a0572fedce2e8709aba8b0c0f77b59845243b0e.ctv
+[VGA]安徽国际,https://epg.pw/stream/cd57ff12ae0d56bd0f5300230a0572fedce2e8709aba8b0c0f77b59845243b0e.ctv
 [BD]安徽导视,https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8
 [BD]安徽经济生活,https://epg.pw/stream/3938a495fba6df0234433ccd5edf43a52ab2cd39f2f57bac480ae9b63d27c55f.m3u8
 [BD]安徽卫视,https://epg.pw/stream/817f687ce1bbfda41c2a754577233a89194e4737bcf6006d99d2fcb9f7ae2df3.m3u8
@@ -9735,6 +9735,7 @@ TV_Mittelrhein_(720p),https://live2.telvi.de/hls/tvm_hd720.m3u8
 TV_Mon_(720p),https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 TV_Monaco_(1080p),https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2024/media.m3u8
 TV_Montaña_Canal_10_(1080p),https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
+TV_Mu_(720p)_[Not_24/7],https://e.siar.us/live/tvmu.m3u8
 TV_Mundo_Maior_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UC5-IOBnk-mFdQgKS-niajYg.m3u8
 TV_Natura_(360p)_[Not_24/7],https://media1.tvnatura.cz/live_out/1/live.m3u8
 TV_NOE_(720p),https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8
@@ -10170,7 +10171,6 @@ ZAD_TV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCOll3M-P7oKs5cSrQ9y
 Zalaegerszegi_TV_(360p),https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 Zaracay_TV_(1080p)_[Not_24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 Zarok_TV_(720p),https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-Zarok_TV_Sorani_(720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 ZDF_(720p),https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 ZDFinfo_(720p),https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 ZDFneo_(720p),https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
@@ -14851,6 +14851,9 @@ Woman_TV_(1080p),https://embedlp.becdn.net/womantv.m3u8
 Comedy;Movies,#genre#
 Xtrema_Cine_Comedy_(344p),https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 
+Animation;Education;Family;Kids;Music,#genre#
+Zarok_TV_Sorani_(720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+
 Kids;Science,#genre#
 ЭлТР_Билим_Илим_(480p)_[Not_24/7],http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 
@@ -15409,6 +15412,9 @@ CCTV-10_(1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 Music,#genre#
 CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV-16_(1080p),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+
+Animation;Education;Family;Kids;Music,#genre#
+Zarok_TV_Sorani_(720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 
 Animation;Kids,#genre#
 优漫卡通_(576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
