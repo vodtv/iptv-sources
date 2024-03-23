@@ -621,4 +621,4 @@
 | 615 | 黑龙江 | IPv4 直链 | <http://123.189.36.56:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 616 | 齐鲁 | IPv4 直链 | <http://144.52.162.231:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Mar 23 2024 00:34:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 23 2024 08:08:56 GMT+0000 (Coordinated Universal Time)**
