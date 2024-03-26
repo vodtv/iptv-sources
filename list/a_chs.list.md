@@ -30,4 +30,4 @@
 | 24 | AdultIPTV.net Gay | live.adultiptv.net | <http://live.adultiptv.net/gay.m3u8> |
 | 25 | AdultIPTV.net Asian | live.adultiptv.net | <http://live.adultiptv.net/asian.m3u8> |
 
-Updated at **Tue Mar 26 2024 00:35:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 26 2024 08:10:14 GMT+0000 (Coordinated Universal Time)**

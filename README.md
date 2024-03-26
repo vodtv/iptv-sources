@@ -19,7 +19,7 @@
 | 成人IPTV | [a_chs.m3u](/a_chs.m3u) <br> [a_chs.txt](/txt/a_chs.txt) | [List for 成人IPTV](/list/a_chs.list) | 25 | - |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 166 | - |
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6(Invalid)](/list/fmml_dv6.list) | 100 | - |
-| YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 142 | - |
+| YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 150 | - |
 | YanG-1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG-1989 Gather](/list/y_g.list) | 2194 | - |
 | YanG_1989 Adult | [y_a.m3u](/y_a.m3u) <br> [y_a.txt](/txt/y_a.txt) | [List for YanG_1989 Adult](/list/y_a.list) | 1210 | - |
 | joevess/IPTV home | [j_home.m3u](/j_home.m3u) <br> [j_home.txt](/txt/j_home.txt) | [List for joevess/IPTV home](/list/j_home.list) | 51 | - |
@@ -37,7 +37,7 @@
 | epg.pw 香港 | [ew_hk.m3u](/ew_hk.m3u) <br> [ew_hk.txt](/txt/ew_hk.txt) | [List for epg.pw 香港](/list/ew_hk.list) | 54 | - |
 | epg.pw 澳門 | [ew_om.m3u](/ew_om.m3u) <br> [ew_om.txt](/txt/ew_om.txt) | [List for epg.pw 澳門](/list/ew_om.list) | 14 | - |
 | epg.pw 台灣 | [ew_tw.m3u](/ew_tw.m3u) <br> [ew_tw.txt](/txt/ew_tw.txt) | [List for epg.pw 台灣](/list/ew_tw.list) | 140 | - |
-| epg.pw ipv6 | [ew_ipv6.m3u](/ew_ipv6.m3u) <br> [ew_ipv6.txt](/txt/ew_ipv6.txt) | [List for epg.pw ipv6](/list/ew_ipv6.list) | 2412 | - |
+| epg.pw ipv6 | [ew_ipv6.m3u](/ew_ipv6.m3u) <br> [ew_ipv6.txt](/txt/ew_ipv6.txt) | [List for epg.pw ipv6](/list/ew_ipv6.list) | 2415 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom | [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u) <br> [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom](/list/q_bj_iptv_unicom.list) | 131 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](/list/q_bj_iptv_unicom_m.list) | 131 | - |
 | qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 146 | - |
