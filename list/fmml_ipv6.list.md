@@ -2,8 +2,10 @@
 
 > M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
+## 频道详情
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
 | 1 | CCTV-1 综合 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8> |
 | 2 | CCTV-2 财经 | 中国移动陕西 | <http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8> |
 | 3 | CCTV-3 综艺 | 中国移动陕西 | <http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8> |
@@ -171,4 +173,14 @@
 | 165 | CGTN西语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 166 | CGTN阿语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 
-Updated at **Wed Mar 27 2024 00:35:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **3/27/2024 7:43:49 AM**
+
+## 使用说明
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://viptv.work/about/contribute！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

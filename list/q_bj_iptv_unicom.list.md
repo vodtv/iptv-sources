@@ -2,8 +2,10 @@
 
 > M3U: [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u), TXT: [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
+## 频道详情
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
 | 1 | BRTV北京卫视[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.241:8000> |
 | 2 | BRTV新闻[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.159:8000> |
 | 3 | BRTV影视[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.158:8000> |
@@ -136,4 +138,14 @@
 | 130 | 音乐现场 | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.70:4120> |
 | 131 | 魅力时尚 | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.196:9012> |
 
-Updated at **Wed Mar 27 2024 00:35:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **3/27/2024 7:43:49 AM**
+
+## 使用说明
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://viptv.work/about/contribute！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

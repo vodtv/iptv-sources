@@ -2,8 +2,10 @@
 
 > M3U: [o_cn.m3u](/o_cn.m3u), TXT: [o_cn.txt](/txt/o_cn.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
+## 频道详情
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
 | 1 | ABN China (720p) | mediaserver.abnvideos.com | <https://mediaserver.abnvideos.com/streams/abnchina.m3u8> |
 | 2 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 | 3 | Angel TV Chinese (720p) | cdn3.wowza.com | <https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8> |
@@ -544,4 +546,14 @@
 | 538 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 539 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Wed Mar 27 2024 00:35:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **3/27/2024 7:43:49 AM**
+
+## 使用说明
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://viptv.work/about/contribute！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

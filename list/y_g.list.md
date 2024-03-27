@@ -2,8 +2,10 @@
 
 > M3U: [y_g.m3u](/y_g.m3u), TXT: [y_g.txt](/txt/y_g.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
+## 频道详情
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
 | 1 | Love Nrture 4K「自然」 | d18dyiwu97wm6q.cloudfront.net | <https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8> |
 | 2 | Loupe 4K | d2dw21aq0j0l5c.cloudfront.net | <https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8> |
 | 3 | Fashion 4K「时尚」 | fash2043.cloudycdn.services | <https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8> |
@@ -2199,4 +2201,14 @@
 | 2193 | 足球超级猎食者(上) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8> |
 | 2194 | 足球超级猎食者(下) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8> |
 
-Updated at **Wed Mar 27 2024 00:35:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **3/27/2024 7:43:49 AM**
+
+## 使用说明
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://viptv.work/about/contribute！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

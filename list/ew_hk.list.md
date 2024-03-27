@@ -2,8 +2,10 @@
 
 > M3U: [ew_hk.m3u](/ew_hk.m3u), TXT: [ew_hk.txt](/txt/ew_hk.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
+## 频道详情
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
 | 1 | [HD]Astro 华丽台 | epg.pw | <https://epg.pw/stream/ed3cb928cc3a187bd6456c7562f0f0a99c08f065b5177134aee9931518cc61f5.ctv> |
 | 2 | [HD]tvri world | epg.pw | <https://epg.pw/stream/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
 | 3 | [BD]hoy tv | epg.pw | <https://epg.pw/stream/6c4c08eb53624afd083983403681668ad240d09e2e3cb3d86a7090554f27ebfd.m3u8> |
@@ -59,4 +61,14 @@
 | 53 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 54 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8> |
 
-Updated at **Wed Mar 27 2024 00:35:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **3/27/2024 7:43:49 AM**
+
+## 使用说明
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://viptv.work/about/contribute！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

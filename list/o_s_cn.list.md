@@ -2,8 +2,10 @@
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
+## 频道详情
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
 | 1 | BesTV超级 (576p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8> |
 | 2 | Bread TV面包台 (720p) | video.bread-tv.com:8091 | <https://video.bread-tv.com:8091/hls-live24/online/index.m3u8> |
 | 3 | CCTV-1 (1080p) | 中国移动陕西 | <http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8> |
@@ -510,4 +512,14 @@
 | 504 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
 | 505 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 
-Updated at **Wed Mar 27 2024 00:35:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **3/27/2024 7:43:49 AM**
+
+## 使用说明
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://viptv.work/about/contribute！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

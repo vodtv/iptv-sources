@@ -2,8 +2,10 @@
 
 > M3U: [y_a.m3u](/y_a.m3u), TXT: [y_a.txt](/txt/y_a.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
+## 频道详情
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
 | 1 | 《两周年JK特别版》狂肏清纯少女蜜鲍 | j9.avstatic.com | <https://j9.avstatic.com/contents/videos/33000/33044/index.m3u8> |
 | 2 | 冲浪少女的碎碎念 | j9.avstatic.com | <https://j9.avstatic.com/contents/videos/35000/35874/index.m3u8> |
 | 3 | 风花雪「第一视角」 | j9.avstatic.com | <https://j9.avstatic.com/contents/videos/30000/30135/index.m3u8> |
@@ -1215,4 +1217,14 @@
 | 1209 | ysn-565渚 | t15.cdn2020.com:12339 | <https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8> |
 | 1210 | ysn-566高瀬 | t15.cdn2020.com:12339 | <https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8> |
 
-Updated at **Wed Mar 27 2024 00:35:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **3/27/2024 7:43:49 AM**
+
+## 使用说明
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://viptv.work/about/contribute！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

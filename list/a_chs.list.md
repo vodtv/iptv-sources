@@ -2,8 +2,10 @@
 
 > M3U: [a_chs.m3u](/a_chs.m3u), TXT: [a_chs.txt](/txt/a_chs.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
+## 频道详情
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
 | 1 | AdultIPTV.net Live Cams | live.adultiptv.net | <http://live.adultiptv.net/livecams.m3u8> |
 | 2 | AdultIPTV.net MILF | live.adultiptv.net | <http://live.adultiptv.net/milf.m3u8> |
 | 3 | AdultIPTV.net Big Dick | live.adultiptv.net | <http://live.adultiptv.net/bigdick.m3u8> |
@@ -30,4 +32,14 @@
 | 24 | AdultIPTV.net Gay | live.adultiptv.net | <http://live.adultiptv.net/gay.m3u8> |
 | 25 | AdultIPTV.net Asian | live.adultiptv.net | <http://live.adultiptv.net/asian.m3u8> |
 
-Updated at **Wed Mar 27 2024 00:35:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **3/27/2024 7:43:49 AM**
+
+## 使用说明
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://viptv.work/about/contribute！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

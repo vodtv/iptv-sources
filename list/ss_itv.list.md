@@ -1,9 +1,11 @@
-# List for **自动获取酒店源**
+# List for **全国 酒店组播源**
 
 > M3U: [ss_itv.m3u](/ss_itv.m3u), TXT: [ss_itv.txt](/txt/ss_itv.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
+## 频道详情
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
 | 1 | CCTV1 | IPv4 直链 | <http://222.92.7.170:3334/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 2 | CCTV1 | IPv4 直链 | <http://123.101.98.20:9898/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 3 | CCTV1 | IPv4 直链 | <http://112.6.117.141:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
@@ -586,4 +588,14 @@
 | 580 | 陕西西部影视 | IPv4 直链 | <http://113.140.69.126:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 581 | 风云足球 | IPv4 直链 | <http://123.189.36.56:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Mar 27 2024 00:35:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **3/27/2024 7:43:49 AM**
+
+## 使用说明
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://viptv.work/about/contribute！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！
