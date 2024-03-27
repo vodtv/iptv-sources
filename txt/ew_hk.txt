@@ -12,7 +12,7 @@
 [BD]凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 
 新闻,#genre#
-[BD]hoy,https://epg.pw/stream/5965a963eabcfdf92d8f4ec02d414a6075538b35d4ecd2b0c4fe1b9cfe6f8542.m3u8
+[BD]hoy_tv,https://epg.pw/stream/6c4c08eb53624afd083983403681668ad240d09e2e3cb3d86a7090554f27ebfd.m3u8
 [BD]hoy资讯台,https://epg.pw/stream/e28850f2f99282aa83bdbf4afe4859fd85cbcd496aacd646046e511f0252539a.m3u8
 [BD]now新闻台,https://epg.pw/stream/81f5ffef845e8ea1bb69389d2413f8d7869efc69fbbeffd9b5cf200a853efdf8.ctv
 [HD]rthk32,https://epg.pw/stream/5f2f369a9803a7a2042899025a61af3ca1d0c95611bbb1ed406307634499a4ed.m3u8

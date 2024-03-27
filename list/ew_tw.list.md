@@ -47,8 +47,8 @@
 | 41 | [VGA]「河南」新野综合 | epg.pw | <https://epg.pw/stream/e22466cc931f87ee3348117d7805f44f25f699df8a5b91430e2fc4039b901076.m3u8> |
 | 42 | [BD]三立inews | epg.pw | <https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8> |
 | 43 | [VGA]三立国际 | epg.pw | <https://epg.pw/stream/1252ad40c48513f7671b71be735be04f6b6638d865cd4d6c0d90811a86c2d9ce.m3u8> |
-| 44 | [HD]三立戏剧台 | epg.pw | <https://epg.pw/stream/049ee4698de273b5353e0ce9fda310b06631b3478a80563937d325c8f6af87ce.m3u8> |
-| 45 | [BD]三立新闻 | epg.pw | <https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8> |
+| 44 | [VGA]三立戏剧台 | epg.pw | <https://epg.pw/stream/049ee4698de273b5353e0ce9fda310b06631b3478a80563937d325c8f6af87ce.m3u8> |
+| 45 | [BD]三立新闻 | epg.pw | <https://epg.pw/stream/c5939738ee7c97ed8c4c3b2eca5d623ec7e302ae819a856cfcc9f17a0348c1c8.ctv> |
 | 46 | [HD]三立综合 | epg.pw | <https://epg.pw/stream/f45f2f4dd98d6d7c1daf32cd10e644820b35bf672c512022787b45b8e7a53ace.m3u8> |
 | 47 | [BD]三立台湾 | epg.pw | <https://epg.pw/stream/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8> |
 | 48 | [BD]三立都会台 | epg.pw | <https://epg.pw/stream/b3aa00e58291cac23e7153ecf7a5650bd97f584c57bb5ddd5d71f92dccec2c9d.m3u8> |
@@ -114,7 +114,7 @@
 | 108 | [BD]民视新闻 hd | epg.pw | <https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8> |
 | 109 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
 | 110 | [HD]经典电影 | epg.pw | <https://epg.pw/stream/98b5e5e277185eb959abcae72d13987779650fbb0afc1369c19a91f0e8cc5bc4.ctv> |
-| 111 | [HD]纬来戏剧 | epg.pw | <https://epg.pw/stream/06af5d797b97066fba1768bb5a76b8f05f1e6b821e5f08061417c6ea62810232.m3u8> |
+| 111 | [BD]纬来戏剧 | epg.pw | <https://epg.pw/stream/06af5d797b97066fba1768bb5a76b8f05f1e6b821e5f08061417c6ea62810232.m3u8> |
 | 112 | [BD]纬来日本1 | epg.pw | <https://epg.pw/stream/dbde0ad56b855018a5d6aacb35578dd7f5c5c18996c7833a1b156079ec21a299.m3u8> |
 | 113 | [HD]纬来日本台 | epg.pw | <https://epg.pw/stream/c0a78fdb054292392e27c2224d5f645bfc29dc5998f70133f29b5422940ca35d.m3u8> |
 | 114 | [BD]纬来综合 | epg.pw | <https://epg.pw/stream/7d501b1e8c12e47b411505569ebcb16eb120d36ae42c0c44630c3b9828420d82.m3u8> |
@@ -145,4 +145,4 @@
 | 139 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 140 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **Tue Mar 26 2024 08:10:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 27 2024 00:35:08 GMT+0000 (Coordinated Universal Time)**
