@@ -8,6 +8,9 @@ overrides:
   rollup: npm:@rollup/wasm-node
 
 dependencies:
+  dayjs:
+    specifier: ^1.11.10
+    version: 1.11.10
   dotenv:
     specifier: ^16.4.5
     version: 16.4.5
@@ -504,6 +507,10 @@ packages:
       shebang-command: 2.0.0
       which: 2.0.2
     dev: true
+
+  /dayjs@1.11.10:
+    resolution: {integrity: sha512-vjAczensTgRcqDERK0SR2XMwsF/tSvnvlv6VcF2GIhg6Sx4yOIt/irsr1RDJsKiIyBzJDpCoXiWWq28MqH2cnQ==}
+    dev: false
 
   /debug@4.3.4(supports-color@5.5.0):
     resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==}

@@ -32,10 +32,13 @@ export const PUBLIC_DIR = process.env.PUBLIC_DIR || './.gh-pages'
 
 export const OWNER = 'vodtv'
 
-export const REPO = 'm3u'
+export const REPO = 'iptv-source'
+
+export const update_time = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString()
 
 export const converter = OpenCC.Converter({ from: "hk", to: "cn" });
 
+export const RAW_URL = !!process.env.RAW_URL ? process.env.RAW_URL : `https://raw.vodtv.cn` || `https://raw.viptv.work`
 
 export const sites_matrix: TREADMEMirrorSitesMatrix = [
   {
@@ -47,10 +50,10 @@ export const sites_matrix: TREADMEMirrorSitesMatrix = [
   },
   {
     protocol: "https",
-    url: "https://iptv.viptv.work",
+    url: "https://iptvjs.github.io",
     frequence: "per 2h",
     idc: "github",
-    provider: "[viptv](https://github.com/viptvx)",
+    provider: "[iptvjs](https://github.com/iptvjs)",
   }
 ]
 

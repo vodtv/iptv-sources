@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import type { TREADMESources, TREADMEEPGSources } from "../types"
-import { handle_m3u, get_from_info } from "../utils"
+import { handle_m3u, get_from_info, update_time } from "../utils"
 
 export const updateChannelList = (
   name: string,
@@ -26,19 +26,19 @@ export const updateChannelList = (
   }
   const after = list
     .replace(
-      "<!-- list_title_here -->",
+      "{list_title}",
       `# List for **${name}**${rollback ? "(Rollback)" : ""
       }\n\n> M3U: [${f_name}.m3u](/${f_name}.m3u), TXT: [${f_name}.txt](/txt/${f_name}.txt)`
     )
     .replace(
-      "<!-- channels_here -->",
+      "{update_channels}",
       `${channels
         ?.map(
           (c, idx) =>
             `| ${idx + 1} | ${c[0].replace("|", "")} | ${c[1]} | <${c[2]
             }> |`
         )
-        .join("\n")}\n\nUpdated at **${new Date()}**`
+        .join("\n")}\n\nUpdated at **${update_time}**`
     )
   const list_p = path.join(path.resolve(), "dist", "list")
   if (!fs.existsSync(list_p)) {
@@ -56,9 +56,10 @@ export const updateReadme = (
 ) => {
   const readme_temp_p = path.join(path.resolve(), "src/tmpl/README.tmpl.md")
   const readme = fs.readFileSync(readme_temp_p, "utf8").toString()
+
   const after = readme
     .replace(
-      "<!-- channels_here -->",
+      "{update_channels}",
       `${sources
         ?.map(
           (s, idx) =>
@@ -71,10 +72,11 @@ export const updateReadme = (
             } | ${sources_res?.[idx]?.[0] === "rollback" ? "✅" : "-"
             } |`
         )
-        .join("\n")}`
+        .join("\n")}\n\nUpdated at **${update_time}**`
     )
+
     .replace(
-      "<!-- epgs_here -->",
+      "{update_epgs}",
       `${epgs
         ?.map(
           (e, idx) =>
@@ -86,7 +88,7 @@ export const updateReadme = (
               : "update failed"
             } |`
         )
-        .join("\n")}\n\nUpdated at **${new Date()}**`
+        .join("\n")}\n\nUpdated at **${update_time}**`
     )
   if (!fs.existsSync(path.join(path.resolve(), "dist"))) {
     fs.mkdirSync(path.join(path.resolve(), "dist"))

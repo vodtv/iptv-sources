@@ -29,7 +29,6 @@ Promise.allSettled(
     console.log(`[TASK] Fetch ${sr.name}`)
     try {
       const [status, text, now] = await getContent(sr)
-
       if (/^[2]/.test(status.toString()) && !!text) {
         console.log(
           `Fetch m3u from ${sr.name} finished, cost ${(parseInt(hrtime.bigint().toString()) -
@@ -45,7 +44,6 @@ Promise.allSettled(
           ["o_all", "all"].includes(sr.f_name) ? "skip" : "normal",
           sourcesCollector.collect
         )
-
         writeM3u(sr.f_name, m3u)
         writeM3uToTxt(sr.name, sr.f_name, m3u)
         writeSources(sr.name, sr.f_name, sourcesCollector.result())
@@ -121,7 +119,6 @@ Promise.allSettled(
         }
       })
     )
-
     return {
       sources: result,
       epgs: epgs,
@@ -138,6 +135,7 @@ Promise.allSettled(
     updateChannelsJson(sources, sources_res, epgs_sources)
     updateReadme(sources, sources_res, epgs_sources, epgs_res)
   })
+
   .then(() => {
     console.log(`[TASK] Make custom sources`)
     runCustomTask()

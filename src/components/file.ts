@@ -20,18 +20,6 @@ export const writeM3u = (name: string, dist: string) => {
   fs.writeFileSync(path.join(path.resolve(), "dist", `${name}.m3u`), dist);
 };
 
-export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
-  const m3uArray = m3u.split("\n")
-  let txt = m3u2txt(m3uArray)
-  if (!fs.existsSync(path.join(path.resolve(), "dist", "txt"))) {
-    fs.mkdirSync(path.join(path.resolve(), "dist", "txt"))
-  }
-  fs.writeFileSync(
-    path.join(path.resolve(), "dist", "txt", `${f_name}.txt`),
-    txt
-  )
-}
-
 export const writeSources = (
   name: string,
   f_name: string,
@@ -51,6 +39,27 @@ export const writeSources = (
       sources: srcs,
     })
   )
+}
+
+export const writeM3uToTxt = (name: string, f_name: string, m3u: string) => {
+  const m3uArray = m3u.split("\n")
+  let txt = m3u2txt(m3uArray)
+  if (!fs.existsSync(path.join(path.resolve(), "dist", "txt"))) {
+    fs.mkdirSync(path.join(path.resolve(), "dist", "txt"))
+  }
+  fs.writeFileSync(
+    path.join(path.resolve(), "dist", "txt", `${f_name}.txt`),
+    txt
+  )
+}
+
+export const mergeTxts = () => {
+  const txts_p = path.resolve("dist", "txt")
+  const files = fs.readdirSync(txts_p)
+  const txts = files
+    .map((d) => fs.readFileSync(path.join(txts_p, d).toString()))
+    .join("\n")
+  fs.writeFileSync(path.join(txts_p, "merged.txt"), txts)
 }
 
 export const mergeSources = () => {
@@ -82,26 +91,17 @@ export const writeEpgXML = (f_name: string, xml: string) => {
   fs.writeFileSync(path.resolve("dist", "epg", `${f_name}.xml`), xml)
 }
 
-export const mergeTxts = () => {
-  const txts_p = path.resolve("dist", "txt")
-  const files = fs.readdirSync(txts_p)
-  const txts = files
-    .map((d) => fs.readFileSync(path.join(txts_p, d).toString()))
-    .join("\n")
-  fs.writeFileSync(path.join(txts_p, "merged.txt"), txts)
-}
-
 const cleanDir = (p: string) => {
   if (fs.existsSync(p)) {
     fs.readdirSync(p).forEach((file) => {
-      const isDir = fs.statSync(path.join(p, file)).isDirectory();
+      const isDir = fs.statSync(path.join(p, file)).isDirectory()
       if (isDir) {
-        cleanDir(path.join(p, file));
+        cleanDir(path.join(p, file))
       } else {
-        fs.unlinkSync(path.join(p, file));
+        fs.unlinkSync(path.join(p, file))
       }
-    });
+    })
   }
-};
+}
 
 export const cleanFiles = () => cleanDir(path.join(path.resolve(), "dist"));
