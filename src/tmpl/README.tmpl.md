@@ -16,17 +16,13 @@
 ## 播放列表
 
 | channel | url | list | count | isRollback |
-
 | ------- | --- | ---- | ----- | ---------- |
-
 {update_channels}
 
 ## EPG
 
 | epg | url | isRollback |
-
 | --- | --- | ---------- |
-
 {update_epgs}
 
 ## CDN加速
