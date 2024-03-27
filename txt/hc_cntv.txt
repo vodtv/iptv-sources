@@ -61,13 +61,13 @@ CCTV-15_音乐,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575502.m3u
 CCTV-16_4K,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575402.m3u8
 CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 CGNT_记录频道,http://player.200877926.top/169l/vjs/?id=https://livedoc.cgtn.com/1000d/prog_index.m3u8
-CGNT_新闻频道,http://player.200877926.top/169l/vjs/?id=http://live.cgtn.com/1000/prog_index.m3u8
+CGNT_新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 
 卫视台,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
 凤凰资讯,http://1.62.64.212/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰中文,http://1.62.64.76/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=a60f6e4089240b84fc1994d9d7dbf423&volcTime=1711614098
+东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=4651634aa988658d37695d425c547495&volcTime=1711615147
 江苏卫视,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295602.m3u8
 安徽卫视,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000298002.m3u8
 重庆卫视,http://player.200877926.top/videojs.php?id=https://sjlivecdn9.cbg.cn/202403271525/app_2/_definst_/ls_2.stream/chunklist.m3u8
@@ -76,11 +76,10 @@ CGNT_新闻频道,http://player.200877926.top/169l/vjs/?id=http://live.cgtn.com/
 黑龙江卫视,http://player.200877926.top/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 山东卫视,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294802.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-四川卫视,https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c8aa6a86a39a78b046a137f3d1928c70&wsTime=1711537211
 广东卫视,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292702.m3u8
 宁夏卫视,http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=1352d7951711669095
-西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=17193fb0b86dd46ba3c52ea692deca09&time=6603d8b6
+西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=8ce0795ff2d332260699a4586bdb9382&time=6603dbe3
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655
 海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=e971904a1711534666
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=be349b721711532751

@@ -1,6 +1,6 @@
-# List for **上海市 电信组播源**
+# List for **北京市 移动组播源**
 
-> M3U: [310ctmt.m3u](/310ctmt.m3u), TXT: [310ctmt.txt](/txt/310ctmt.txt)
+> M3U: [110cmmt.m3u](/110cmmt.m3u), TXT: [110cmmt.txt](/txt/110cmmt.txt)
 
 ## 频道详情
 
@@ -81,7 +81,7 @@
 | 73 | 金鹰纪实 | IPv4 直链 | <http://117.133.95.38:8887/rtp/228.1.1.34:8156> |
 | 74 | 2024-03-22 19:03:39 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **3/27/2024 8:40:34 AM**
+Updated at **3/27/2024 8:53:47 AM**
 
 ## 使用说明
 
