@@ -588,7 +588,7 @@
 | 580 | 陕西西部影视 | IPv4 直链 | <http://113.140.69.126:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 581 | 风云足球 | IPv4 直链 | <http://123.189.36.56:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/27/2024 8:13:50 AM**
+Updated at **3/27/2024 8:40:34 AM**
 
 ## 使用说明
 

@@ -1,10 +1,12 @@
 <div align="center"><h1> <a href="https://gitcode.com/iptv/iptv">CDN1</a> | <a href="https://gitlink.org.cn/iptv/iptv">CDN2</a> | <a href="https://cdn.jsdelivr.net/gh/vodtv/iptv-source@gh-pages/">CDN3</a></h1></div>
 
 ## 目录
+
 - ❓  [如何使用](#如何使用)
 - 📺 [播放列表](#播放列表)
+- 📚 [EPG](#epg)
 - 🚀 [CDN加速](#CDN加速)
-- 🆕 [当前更新](#当前更新)
+- 🆕 [资源出处](#资源出处)
 - 📖 [免责申明](#免责申明)
 
 ## 如何使用
@@ -13,11 +15,10 @@
 
 ## 播放列表
 
-<details>
-<summary>打开Playlists</summary>
-<br>
 | channel | url | list | count | isRollback |
+
 | ------- | --- | ---- | ----- | ---------- |
+
 | 成人IPTV | [a_chs.m3u](/a_chs.m3u) <br> [a_chs.txt](/txt/a_chs.txt) | [List for 成人IPTV](/list/a_chs.list) | 25 | - |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 166 | - |
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6(Invalid)](/list/fmml_dv6.list) | 100 | - |
@@ -53,17 +54,17 @@
 | 山西省 电信组播源 | [140ctmt.m3u](/140ctmt.m3u) <br> [140ctmt.txt](/txt/140ctmt.txt) | [List for 山西省 电信组播源](/list/140ctmt.list) | 25 | - |
 | 吉林省 电信组播源 | [220ctmt.m3u](/220ctmt.m3u) <br> [220ctmt.txt](/txt/220ctmt.txt) | [List for 吉林省 电信组播源](/list/220ctmt.list) | 48 | - |
 | 江苏省 电信组播源 | [320ctmt.m3u](/320ctmt.m3u) <br> [320ctmt.txt](/txt/320ctmt.txt) | [List for 江苏省 电信组播源](/list/320ctmt.list) | 68 | - |
-| 江苏省 电信酒店源 | [320ctht.m3u](/320ctht.m3u) <br> [320ctht.txt](/txt/320ctht.txt) | [List for 江苏省 电信酒店源](/list/320ctht.list) | update failed | - |
-| 浙江省 电信组播源 | [330ctmt.m3u](/330ctmt.m3u) <br> [330ctmt.txt](/txt/330ctmt.txt) | [List for 浙江省 电信组播源](/list/330ctmt.list) | 283 | - |
-| 浙江省 电信酒店源 | [330ctht.m3u](/330ctht.m3u) <br> [330ctht.txt](/txt/330ctht.txt) | [List for 浙江省 电信酒店源](/list/330ctht.list) | update failed | - |
+| 江苏省 电信酒店源 | [320ctht.m3u](/320ctht.m3u) <br> [320ctht.txt](/txt/320ctht.txt) | [List for 江苏省 电信酒店源](/list/320ctht.list) | 66 | - |
+| 浙江省 电信组播源 | [330ctmt.m3u](/330ctmt.m3u) <br> [330ctmt.txt](/txt/330ctmt.txt) | [List for 浙江省 电信组播源](/list/330ctmt.list) | update failed | - |
+| 浙江省 电信酒店源 | [330ctht.m3u](/330ctht.m3u) <br> [330ctht.txt](/txt/330ctht.txt) | [List for 浙江省 电信酒店源](/list/330ctht.list) | 22 | - |
 | 安徽省 电信组播源 | [340ctmt.m3u](/340ctmt.m3u) <br> [340ctmt.txt](/txt/340ctmt.txt) | [List for 安徽省 电信组播源](/list/340ctmt.list) | 49 | - |
 | 福建省 电信组播源 | [350ctmt.m3u](/350ctmt.m3u) <br> [350ctmt.txt](/txt/350ctmt.txt) | [List for 福建省 电信组播源](/list/350ctmt.list) | 242 | - |
 | 福建省 联通酒店源 | [350cuht.m3u](/350cuht.m3u) <br> [350cuht.txt](/txt/350cuht.txt) | [List for 福建省 联通酒店源](/list/350cuht.list) | update failed | - |
 | 福建省 电信酒店源 | [350ctht.m3u](/350ctht.m3u) <br> [350ctht.txt](/txt/350ctht.txt) | [List for 福建省 电信酒店源](/list/350ctht.list) | 37 | - |
 | 江西省 电信组播源 | [360ctmt.m3u](/360ctmt.m3u) <br> [360ctmt.txt](/txt/360ctmt.txt) | [List for 江西省 电信组播源](/list/360ctmt.list) | update failed | - |
-| 山东省 电信组播源 | [370ctmt.m3u](/370ctmt.m3u) <br> [370ctmt.txt](/txt/370ctmt.txt) | [List for 山东省 电信组播源](/list/370ctmt.list) | 358 | - |
-| 河南省 联通组播源 | [410cumt.m3u](/410cumt.m3u) <br> [410cumt.txt](/txt/410cumt.txt) | [List for 河南省 联通组播源](/list/410cumt.list) | update failed | - |
-| 河南省 联通酒店源 | [410cuht.m3u](/410cuht.m3u) <br> [410cuht.txt](/txt/410cuht.txt) | [List for 河南省 联通酒店源](/list/410cuht.list) | update failed | - |
+| 山东省 电信组播源 | [370ctmt.m3u](/370ctmt.m3u) <br> [370ctmt.txt](/txt/370ctmt.txt) | [List for 山东省 电信组播源](/list/370ctmt.list) | update failed | - |
+| 河南省 联通组播源 | [410cumt.m3u](/410cumt.m3u) <br> [410cumt.txt](/txt/410cumt.txt) | [List for 河南省 联通组播源](/list/410cumt.list) | 124 | - |
+| 河南省 联通酒店源 | [410cuht.m3u](/410cuht.m3u) <br> [410cuht.txt](/txt/410cuht.txt) | [List for 河南省 联通酒店源](/list/410cuht.list) | 13 | - |
 | 河南省 电信酒店源 | [410ctht.m3u](/410ctht.m3u) <br> [410ctht.txt](/txt/410ctht.txt) | [List for 河南省 电信酒店源](/list/410ctht.list) | update failed | - |
 | 湖北省 电信组播源 | [420ctm.m3u](/420ctm.m3u) <br> [420ctm.txt](/txt/420ctm.txt) | [List for 湖北省 电信组播源](/list/420ctm.list) | update failed | - |
 | 广东省 电信组播源 | [440ctmt.m3u](/440ctmt.m3u) <br> [440ctmt.txt](/txt/440ctmt.txt) | [List for 广东省 电信组播源](/list/440ctmt.list) | update failed | - |
@@ -76,42 +77,40 @@
 | 辽宁省 联通组播源 | [210cumt.m3u](/210cumt.m3u) <br> [210cumt.txt](/txt/210cumt.txt) | [List for 辽宁省 联通组播源](/list/210cumt.list) | update failed | - |
 | 甘肃省 电信组播源 | [130cumt.m3u](/130cumt.m3u) <br> [130cumt.txt](/txt/130cumt.txt) | [List for 甘肃省 电信组播源](/list/130cumt.list) | update failed | - |
 | 北京市 移动组播源 | [110cmmt.m3u](/110cmmt.m3u) <br> [110cmmt.txt](/txt/110cmmt.txt) | [List for 北京市 移动组播源](/list/110cmmt.list) | update failed | - |
-| 北京市 联通组播源 | [110cumt.m3u](/110cumt.m3u) <br> [110cumt.txt](/txt/110cumt.txt) | [List for 北京市 联通组播源](/list/110cumt.list) | 147 | - |
-| 上海市 电信组播源 | [310ctmt.m3u](/310ctmt.m3u) <br> [310ctmt.txt](/txt/310ctmt.txt) | [List for 上海市 电信组播源](/list/310ctmt.list) | update failed | - |
+| 北京市 联通组播源 | [110cumt.m3u](/110cumt.m3u) <br> [110cumt.txt](/txt/110cumt.txt) | [List for 北京市 联通组播源](/list/110cumt.list) | update failed | - |
+| 上海市 电信组播源 | [310ctmt.m3u](/310ctmt.m3u) <br> [310ctmt.txt](/txt/310ctmt.txt) | [List for 上海市 电信组播源](/list/310ctmt.list) | 74 | - |
 | 上海市 电信酒店源 | [110cumt.m3u](/110cumt.m3u) <br> [110cumt.txt](/txt/110cumt.txt) | [List for 上海市 电信酒店源](/list/110cumt.list) | update failed | - |
 | 天津市 联通组播源 | [120cumt.m3u](/120cumt.m3u) <br> [120cumt.txt](/txt/120cumt.txt) | [List for 天津市 联通组播源](/list/120cumt.list) | update failed | - |
 | 重庆市 联通组播源 | [500cmmt.m3u](/500cmmt.m3u) <br> [500cmmt.txt](/txt/500cmmt.txt) | [List for 重庆市 联通组播源](/list/500cmmt.list) | update failed | - |
-| 广西壮族自治区 电信组播源 | [450ctmt.m3u](/450ctmt.m3u) <br> [450ctmt.txt](/txt/450ctmt.txt) | [List for 广西壮族自治区 电信组播源](/list/450ctmt.list) | 87 | - |
+| 广西壮族自治区 电信组播源 | [450ctmt.m3u](/450ctmt.m3u) <br> [450ctmt.txt](/txt/450ctmt.txt) | [List for 广西壮族自治区 电信组播源](/list/450ctmt.list) | update failed | - |
 | 广西壮族自治区 移动酒店源 | [450cmht.m3u](/450cmht.m3u) <br> [450cmht.txt](/txt/450cmht.txt) | [List for 广西壮族自治区 移动酒店源](/list/450cmht.list) | update failed | - |
-| 广西壮族自治区 电信酒店源 | [450ctht.m3u](/450ctht.m3u) <br> [450ctht.txt](/txt/450ctht.txt) | [List for 广西壮族自治区 电信酒店源](/list/450ctht.list) | 22 | - |
+| 广西壮族自治区 电信酒店源 | [450ctht.m3u](/450ctht.m3u) <br> [450ctht.txt](/txt/450ctht.txt) | [List for 广西壮族自治区 电信酒店源](/list/450ctht.list) | update failed | - |
 | 新疆维吾尔自治区 电信组播源 | [650ctmt.m3u](/650ctmt.m3u) <br> [650ctmt.txt](/txt/650ctmt.txt) | [List for 新疆维吾尔自治区 电信组播源](/list/650ctmt.list) | update failed | - |
 | 内蒙古自治区 电信组播源 | [150ctmt.m3u](/150ctmt.m3u) <br> [150ctmt.txt](/txt/150ctmt.txt) | [List for 内蒙古自治区 电信组播源](/list/150ctmt.list) | update failed | - |
-| 宁夏回族自治区 电信组播源 | [640ctmt.m3u](/640ctmt.m3u) <br> [640ctmt.txt](/txt/640ctmt.txt) | [List for 宁夏回族自治区 电信组播源](/list/640ctmt.list) | 74 | - |
+| 宁夏回族自治区 电信组播源 | [640ctmt.m3u](/640ctmt.m3u) <br> [640ctmt.txt](/txt/640ctmt.txt) | [List for 宁夏回族自治区 电信组播源](/list/640ctmt.list) | update failed | - |
 | 稳定 最新源 | [hc_cntv.m3u](/hc_cntv.m3u) <br> [hc_cntv.txt](/txt/hc_cntv.txt) | [List for 稳定 最新源](/list/hc_cntv.list) | 79 | - |
 
-Updated at **3/27/2024 8:13:50 AM**
-</details>
+Updated at **3/27/2024 8:40:34 AM**
 
 ## EPG
 
-<details>
-<summary>打开EPG</summary>
-<br>
 | epg | url | isRollback |
+
 | --- | --- | ---------- |
+
 | EPG接口1 | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | EPG接口2 | [fmml.xml](/epg/fmml.xml) | - |
 | EPG接口3 | [51zmt.xml](/epg/51zmt.xml) | - |
 | EPG接口4 | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | EPG接口5 | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **3/27/2024 8:13:50 AM**
-</details>
+Updated at **3/27/2024 8:40:34 AM**
 
 ## CDN加速
 
+### RAW ( raw.viptv.work) - (兄弟CDN)
+
 <details>
-<summary>主站RAW (raw.vodtv.cn || raw.viptv.work) - (主站)</summary>
 <br>
 <table>
   <thead>
@@ -123,26 +122,27 @@ Updated at **3/27/2024 8:13:50 AM**
   <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://raw.vodtv.cn/cn.m3u</td>
+      <td>https://raw.viptv.work/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://raw.vodtv.cn/txt/cn.txt</td>
+      <td>https://raw.viptv.work/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://raw.vodtv.cn/epg/51zmt.xml</td>
+      <td>https://raw.viptv.work/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://raw.vodtv.cn/sources/cn.json</td>
+      <td>https://raw.viptv.work/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
 </details>
 
+### 镜像站(vodtv.netlify.app) -（国内访问快）
+
 <details>
-<summary>- 镜像站(vodtv.netlify.app) -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -172,8 +172,8 @@ Updated at **3/27/2024 8:13:50 AM**
 </table>
 </details>
 
+### 镜像站(raw.gitlink.org.cn) -（国内访问快）
 <details>
-<summary>- 镜像站(raw.gitlink.org.cn) -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -203,8 +203,9 @@ Updated at **3/27/2024 8:13:50 AM**
 </table>
 </details>
 
+### 镜像站(raw.gitcode.com) -（国内访问快）
+
 <details>
-<summary>- 镜像站(raw.gitcode.com) -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -234,8 +235,8 @@ Updated at **3/27/2024 8:13:50 AM**
 </table>
 </details>
 
+### 镜像站(fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
 <details>
-<summary>- 镜像站(fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -265,8 +266,9 @@ Updated at **3/27/2024 8:13:50 AM**
 </table>
 </details>
 
+### 镜像站(cdn.gitmirror.com ) -（备用）
+
 <details>
-<summary>- 镜像站(cdn.gitmirror.com ) -（备用）</summary>
 <br>
 <table>
   <thead>
@@ -296,8 +298,9 @@ Updated at **3/27/2024 8:13:50 AM**
 </table>
 </details>
 
+### 原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）
+
 <details>
-<summary>- 原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -327,8 +330,9 @@ Updated at **3/27/2024 8:13:50 AM**
 </table>
 </details>
 
-## 本站IPTV资源出处:
+## 资源出处
 
+本站IPTV资源出处:
 - <https://epg.pw/test_channel_page.html>
 - [iptv.org](https://521github.com/iptv-org/iptv)
 - [YueChan/Live](https://521github.com/YueChan/Live)
