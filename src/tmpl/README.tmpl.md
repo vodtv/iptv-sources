@@ -1,10 +1,12 @@
 <div align="center"><h1> <a href="https://gitcode.com/iptv/iptv">CDN1</a> | <a href="https://gitlink.org.cn/iptv/iptv">CDN2</a> | <a href="https://cdn.jsdelivr.net/gh/vodtv/iptv-source@gh-pages/">CDN3</a></h1></div>
 
 ## 目录
+
 - ❓  [如何使用](#如何使用)
 - 📺 [播放列表](#播放列表)
+- 📚 [EPG](#epg)
 - 🚀 [CDN加速](#CDN加速)
-- 🆕 [当前更新](#当前更新)
+- 🆕 [资源出处](#资源出处)
 - 📖 [免责申明](#免责申明)
 
 ## 如何使用
@@ -13,28 +15,25 @@
 
 ## 播放列表
 
-<details>
-<summary>打开Playlists</summary>
-<br>
 | channel | url | list | count | isRollback |
+
 | ------- | --- | ---- | ----- | ---------- |
+
 {update_channels}
-</details>
 
 ## EPG
 
-<details>
-<summary>打开EPG</summary>
-<br>
 | epg | url | isRollback |
+
 | --- | --- | ---------- |
+
 {update_epgs}
-</details>
 
 ## CDN加速
 
+### RAW ( raw.viptv.work) - (兄弟CDN)
+
 <details>
-<summary>主站RAW (raw.vodtv.cn || raw.viptv.work) - (主站)</summary>
 <br>
 <table>
   <thead>
@@ -46,26 +45,27 @@
   <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://raw.vodtv.cn/cn.m3u</td>
+      <td>https://raw.viptv.work/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://raw.vodtv.cn/txt/cn.txt</td>
+      <td>https://raw.viptv.work/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://raw.vodtv.cn/epg/51zmt.xml</td>
+      <td>https://raw.viptv.work/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://raw.vodtv.cn/sources/cn.json</td>
+      <td>https://raw.viptv.work/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
 </details>
 
+### 镜像站(vodtv.netlify.app) -（国内访问快）
+
 <details>
-<summary>- 镜像站(vodtv.netlify.app) -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -95,8 +95,8 @@
 </table>
 </details>
 
+### 镜像站(raw.gitlink.org.cn) -（国内访问快）
 <details>
-<summary>- 镜像站(raw.gitlink.org.cn) -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -126,8 +126,9 @@
 </table>
 </details>
 
+### 镜像站(raw.gitcode.com) -（国内访问快）
+
 <details>
-<summary>- 镜像站(raw.gitcode.com) -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -157,8 +158,8 @@
 </table>
 </details>
 
+### 镜像站(fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
 <details>
-<summary>- 镜像站(fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -188,8 +189,9 @@
 </table>
 </details>
 
+### 镜像站(cdn.gitmirror.com ) -（备用）
+
 <details>
-<summary>- 镜像站(cdn.gitmirror.com ) -（备用）</summary>
 <br>
 <table>
   <thead>
@@ -219,8 +221,9 @@
 </table>
 </details>
 
+### 原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）
+
 <details>
-<summary>- 原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）</summary>
 <br>
 <table>
   <thead>
@@ -250,8 +253,9 @@
 </table>
 </details>
 
-## 本站IPTV资源出处:
+## 资源出处
 
+本站IPTV资源出处:
 - <https://epg.pw/test_channel_page.html>
 - [iptv.org](https://521github.com/iptv-org/iptv)
 - [YueChan/Live](https://521github.com/YueChan/Live)
