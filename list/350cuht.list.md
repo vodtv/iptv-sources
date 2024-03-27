@@ -54,7 +54,7 @@
 | 46 | 福建综合 | IPv4 直链 | <http://36.248.137.69:60033/tsfile/live/1000_1.m3u8?key=txiptv> |
 | 47 | 2024-03-27 06:05:28 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **3/27/2024 7:43:49 AM**
+Updated at **3/27/2024 8:10:41 AM**
 
 ## 使用说明
 
