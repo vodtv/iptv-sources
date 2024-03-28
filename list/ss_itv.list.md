@@ -497,7 +497,7 @@
 | 489 | 陕西八套 | IPv4 直链 | <http://113.135.194.13:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 490 | 齐鲁 | IPv4 直链 | <http://144.52.162.231:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/28/2024 12:35:25 AM**
+Updated at **3/28/2024 8:09:40 AM**
 
 ## 使用说明
 
