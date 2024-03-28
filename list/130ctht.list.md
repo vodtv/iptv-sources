@@ -53,9 +53,9 @@
 | 45 | 河北都市 | IPv4 直链 | <http://111.225.113.130:808/tsfile/live/1000_1.m3u8?key=txiptv> |
 | 46 | 纪实人文 | IPv4 直链 | <http://111.225.113.130:808/tsfile/live/1033_1.m3u8?key=txiptv> |
 | 47 | 金鹰纪实 | IPv4 直链 | <http://111.225.113.130:808/tsfile/live/1036_1.m3u8?key=txiptv> |
-| 48 | 2024-03-27 06:04:21 | taoiptv.com | <https://taoiptv.com/time.mp4> |
+| 48 | 2024-03-28 06:08:26 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **3/27/2024 8:53:47 AM**
+Updated at **3/28/2024 12:35:25 AM**
 
 ## 使用说明
 

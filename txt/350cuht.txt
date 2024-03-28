@@ -1,5 +1,6 @@
 央视频道,#genre#
 CCTV1,http://36.248.137.69:60033/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://36.248.137.69:60033/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3,http://36.248.137.69:60033/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV4,http://36.248.137.69:60033/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV5,http://36.248.137.69:60033/tsfile/live/0005_1.m3u8?key=txiptv
@@ -12,6 +13,7 @@ CCTV11,http://36.248.137.69:60033/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV12,http://36.248.137.69:60033/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV13,http://36.248.137.69:60033/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV14,http://36.248.137.69:60033/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://36.248.137.69:60033/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV17,http://36.248.137.69:60033/tsfile/live/0019_1.m3u8?key=txiptv
 
 卫视频道,#genre#
@@ -32,6 +34,7 @@ CCTV17,http://36.248.137.69:60033/tsfile/live/0019_1.m3u8?key=txiptv
 广西卫视,http://36.248.137.69:60033/tsfile/live/0113_1.m3u8?key=txiptv
 贵州卫视,http://36.248.137.69:60033/tsfile/live/0120_1.m3u8?key=txiptv
 河北卫视,http://36.248.137.69:60033/tsfile/live/0117_1.m3u8?key=txiptv
+黑龙江卫视,http://36.248.137.69:60033/tsfile/live/0143_1.m3u8?key=txiptv
 河南卫视,http://36.248.137.69:60033/tsfile/live/0139_1.m3u8?key=txiptv
 湖北卫视,http://36.248.137.69:60033/tsfile/live/0132_1.m3u8?key=txiptv
 江西卫视,http://36.248.137.69:60033/tsfile/live/0138_1.m3u8?key=txiptv
@@ -43,6 +46,7 @@ CCTV17,http://36.248.137.69:60033/tsfile/live/0019_1.m3u8?key=txiptv
 海峡卫视,http://36.248.137.69:60033/tsfile/live/0150_1.m3u8?key=txiptv
 福建乡村,http://36.248.137.69:60033/tsfile/live/1001_1.m3u8?key=txiptv
 福建少儿,http://36.248.137.69:60033/tsfile/live/1007_1.m3u8?key=txiptv
+福建教育,http://36.248.137.69:60033/tsfile/live/1008_1.m3u8?key=txiptv
 福建文体,http://36.248.137.69:60033/tsfile/live/1006_1.m3u8?key=txiptv
 福建新闻,http://36.248.137.69:60033/tsfile/live/1002_1.m3u8?key=txiptv
 福建旅游,http://36.248.137.69:60033/tsfile/live/1004_1.m3u8?key=txiptv
@@ -51,4 +55,4 @@ CCTV17,http://36.248.137.69:60033/tsfile/live/0019_1.m3u8?key=txiptv
 福建综合,http://36.248.137.69:60033/tsfile/live/1000_1.m3u8?key=txiptv
 
 更新时间,#genre#
-2024-03-27_06:05:28,https://taoiptv.com/time.mp4
+2024-03-28_06:09:36,https://taoiptv.com/time.mp4
