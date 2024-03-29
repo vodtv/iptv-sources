@@ -93,5 +93,5 @@ http://111.225.113.130:808/tsfile/live/1000_1.m3u8?key=txiptv
 http://111.225.113.130:808/tsfile/live/1033_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他频道",金鹰纪实
 http://111.225.113.130:808/tsfile/live/1036_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="2024-03-28 06:08:26" tvg-logo="https://live.fanmingming.com/tv/2024-03-28 06:08:26.png" group-title="更新时间",2024-03-28 06:08:26
+#EXTINF:-1 tvg-name="2024-03-29 03:00:55" tvg-logo="https://live.fanmingming.com/tv/2024-03-29 03:00:55.png" group-title="更新时间",2024-03-29 03:00:55
 https://taoiptv.com/time.mp4

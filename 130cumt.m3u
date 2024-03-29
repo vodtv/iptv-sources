@@ -1,18 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://110.248.147.40:8888/rtp/239.253.92.83:8012
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://110.253.152.47:8888/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
 http://110.253.152.47:8888/rtp/239.253.92.190:6065
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://119.251.120.37:4000/rtp/239.253.92.190:6065
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3
-http://110.248.147.40:8888/rtp/239.253.92.191:6057
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3
 http://110.253.152.47:8888/rtp/239.253.92.191:6057
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://110.248.147.40:8888/rtp/239.253.92.251:6141
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4
 http://110.253.152.47:8888/rtp/239.253.92.251:6141
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
@@ -22,21 +14,19 @@ http://110.253.152.47:8888/rtp/239.253.93.192:6370
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
 http://110.253.152.47:8888/rtp/239.253.93.193:6371
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5
+http://110.248.147.40:8888/rtp/239.253.92.181:6046
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5
 http://110.253.152.47:8888/rtp/239.253.92.181:6046
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 http://110.253.152.47:8888/rtp/239.253.92.82:8013
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6
-http://110.248.147.40:8888/rtp/239.253.92.193:6058
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6
 http://110.253.152.47:8888/rtp/239.253.92.193:6058
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7
-http://110.248.147.40:8888/rtp/239.253.92.194:6059
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7
 http://110.253.152.47:8888/rtp/239.253.92.194:6059
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8
-http://110.248.147.40:8888/rtp/239.253.92.195:6060
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8
 http://110.253.152.47:8888/rtp/239.253.92.195:6060
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9
+http://110.248.147.40:8888/rtp/239.253.92.107:6020
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9
 http://110.253.152.47:8888/rtp/239.253.92.107:6020
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV10
@@ -46,13 +36,11 @@ http://110.253.152.47:8888/rtp/239.253.93.153:6321
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12
 http://110.253.152.47:8888/rtp/239.253.92.197:6062
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
-http://110.248.147.40:8888/rtp/239.253.92.13:8008
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
 http://110.253.152.47:8888/rtp/239.253.92.13:8008
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV14
+http://110.248.147.40:8888/rtp/239.253.92.198:6063
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV14
 http://110.253.152.47:8888/rtp/239.253.92.198:6063
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15
-http://110.248.147.40:8888/rtp/239.253.93.154:6322
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15
 http://110.253.152.47:8888/rtp/239.253.93.154:6322
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
@@ -111,12 +99,8 @@ http://110.253.152.47:8888/rtp/239.253.92.10:6053
 http://110.253.152.47:8888/rtp/239.253.92.201:6146
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://110.253.152.47:8888/rtp/239.253.92.76:8043
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://119.251.120.37:4000/rtp/239.253.92.76:8043
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://110.253.152.47:8888/rtp/239.253.92.105:6055
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://110.248.147.40:8888/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://110.253.152.47:8888/rtp/239.253.92.154:6011
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -135,10 +119,6 @@ http://110.253.152.47:8888/rtp/239.253.92.16:6043
 http://110.253.152.47:8888/rtp/239.253.92.163:8055
 #EXTINF:-1 tvg-name="河北影视" tvg-logo="https://live.fanmingming.com/tv/河北影视.png" group-title="影视频道",河北影视
 http://110.253.152.47:8888/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-name="河北影视" tvg-logo="https://live.fanmingming.com/tv/河北影视.png" group-title="影视频道",河北影视
-http://119.251.120.37:4000/rtp/239.253.92.173:6003
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国教频道",CGTN
-http://110.248.147.40:8888/rtp/239.253.92.15:8011
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国教频道",CGTN
 http://110.253.152.47:8888/rtp/239.253.92.15:8011
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="国教频道",CGTN法语
@@ -159,14 +139,10 @@ http://110.253.152.47:8888/rtp/239.253.93.226:6404
 http://110.253.152.47:8888/rtp/239.253.93.223:6401
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="数字频道",早期教育
 http://110.253.152.47:8888/rtp/239.253.93.164:6440
-#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="数字频道",早期教育
-http://119.251.120.37:4000/rtp/239.253.93.164:6440
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="数字频道",茶频道
 http://110.253.152.47:8888/rtp/239.253.93.212:6390
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="数字频道",武术世界
 http://110.253.152.47:8888/rtp/239.253.93.46:6434
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="数字频道",文物宝库
-http://110.248.147.40:8888/rtp/239.253.93.180:6437
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="数字频道",文物宝库
 http://110.253.152.47:8888/rtp/239.253.93.180:6437
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
@@ -187,8 +163,6 @@ http://110.253.152.47:8888/rtp/239.253.93.225:6403
 http://110.253.152.47:8888/rtp/239.253.93.241:6419
 #EXTINF:-1 tvg-name="上海|纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海|纪实人文.png" group-title="其他频道",上海|纪实人文
 http://110.253.152.47:8888/rtp/239.253.92.99:6013
-#EXTINF:-1 tvg-name="上海|纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海|纪实人文.png" group-title="其他频道",上海|纪实人文
-http://119.251.120.37:4000/rtp/239.253.92.99:6013
 #EXTINF:-1 tvg-name="上海|都市剧场" tvg-logo="https://live.fanmingming.com/tv/上海|都市剧场.png" group-title="其他频道",上海|都市剧场
 http://110.253.152.47:8888/rtp/239.253.93.227:6405
 #EXTINF:-1 tvg-name="上海|金色学堂" tvg-logo="https://live.fanmingming.com/tv/上海|金色学堂.png" group-title="其他频道",上海|金色学堂
@@ -213,6 +187,8 @@ http://110.253.152.47:8888/rtp/239.253.93.210:6388
 http://110.253.152.47:8888/rtp/239.253.93.167:6335
 #EXTINF:-1 tvg-name="河北|临漳综合" tvg-logo="https://live.fanmingming.com/tv/河北|临漳综合.png" group-title="其他频道",河北|临漳综合
 http://110.253.152.47:8888/rtp/239.253.93.84:6250
+#EXTINF:-1 tvg-name="河北|临西综合" tvg-logo="https://live.fanmingming.com/tv/河北|临西综合.png" group-title="其他频道",河北|临西综合
+http://110.253.152.47:8888/rtp/239.253.94.29:6628
 #EXTINF:-1 tvg-name="河北|井陉矿区" tvg-logo="https://live.fanmingming.com/tv/河北|井陉矿区.png" group-title="其他频道",河北|井陉矿区
 http://110.253.152.47:8888/rtp/239.253.92.215:6067
 #EXTINF:-1 tvg-name="河北|井陉综合" tvg-logo="https://live.fanmingming.com/tv/河北|井陉综合.png" group-title="其他频道",河北|井陉综合
@@ -236,31 +212,37 @@ http://110.253.152.47:8888/rtp/239.253.92.126:6026
 #EXTINF:-1 tvg-name="河北|唐山综合" tvg-logo="https://live.fanmingming.com/tv/河北|唐山综合.png" group-title="其他频道",河北|唐山综合
 http://110.253.152.47:8888/rtp/239.253.92.245:6089
 #EXTINF:-1 tvg-name="河北|大厂综合" tvg-logo="https://live.fanmingming.com/tv/河北|大厂综合.png" group-title="其他频道",河北|大厂综合
+http://110.248.147.40:8888/rtp/239.253.92.253:6244
+#EXTINF:-1 tvg-name="河北|大厂综合" tvg-logo="https://live.fanmingming.com/tv/河北|大厂综合.png" group-title="其他频道",河北|大厂综合
 http://110.253.152.47:8888/rtp/239.253.92.253:6244
 #EXTINF:-1 tvg-name="河北|安平综合" tvg-logo="https://live.fanmingming.com/tv/河北|安平综合.png" group-title="其他频道",河北|安平综合
 http://110.253.152.47:8888/rtp/239.253.93.36:6189
 #EXTINF:-1 tvg-name="河北|定州综合" tvg-logo="https://live.fanmingming.com/tv/河北|定州综合.png" group-title="其他频道",河北|定州综合
 http://110.253.152.47:8888/rtp/239.253.93.95:6260
+#EXTINF:-1 tvg-name="河北|容城综合" tvg-logo="https://live.fanmingming.com/tv/河北|容城综合.png" group-title="其他频道",河北|容城综合
+http://110.253.152.47:8888/rtp/239.253.93.110:6277
 #EXTINF:-1 tvg-name="河北|尚义综合" tvg-logo="https://live.fanmingming.com/tv/河北|尚义综合.png" group-title="其他频道",河北|尚义综合
 http://110.253.152.47:8888/rtp/239.253.93.163:6331
 #EXTINF:-1 tvg-name="河北|崇礼综合" tvg-logo="https://live.fanmingming.com/tv/河北|崇礼综合.png" group-title="其他频道",河北|崇礼综合
 http://110.253.152.47:8888/rtp/239.253.93.147:6315
 #EXTINF:-1 tvg-name="河北|平泉综合" tvg-logo="https://live.fanmingming.com/tv/河北|平泉综合.png" group-title="其他频道",河北|平泉综合
 http://110.253.152.47:8888/rtp/239.253.92.156:6012
+#EXTINF:-1 tvg-name="河北|康保综合" tvg-logo="https://live.fanmingming.com/tv/河北|康保综合.png" group-title="其他频道",河北|康保综合
+http://110.253.152.47:8888/rtp/239.253.93.165:6333
 #EXTINF:-1 tvg-name="河北|廊坊公共" tvg-logo="https://live.fanmingming.com/tv/河北|廊坊公共.png" group-title="其他频道",河北|廊坊公共
 http://110.253.152.47:8888/rtp/239.253.92.166:6037
 #EXTINF:-1 tvg-name="河北|廊坊综合" tvg-logo="https://live.fanmingming.com/tv/河北|廊坊综合.png" group-title="其他频道",河北|廊坊综合
 http://110.253.152.47:8888/rtp/239.253.92.164:6036
 #EXTINF:-1 tvg-name="河北|张家口综合" tvg-logo="https://live.fanmingming.com/tv/河北|张家口综合.png" group-title="其他频道",河北|张家口综合
 http://110.253.152.47:8888/rtp/239.253.92.225:8115
+#EXTINF:-1 tvg-name="河北|徐水综合" tvg-logo="https://live.fanmingming.com/tv/河北|徐水综合.png" group-title="其他频道",河北|徐水综合
+http://110.253.152.47:8888/rtp/239.253.93.182:6350
 #EXTINF:-1 tvg-name="河北|成安综合" tvg-logo="https://live.fanmingming.com/tv/河北|成安综合.png" group-title="其他频道",河北|成安综合
 http://110.253.152.47:8888/rtp/239.253.93.178:6346
 #EXTINF:-1 tvg-name="河北|承德公共" tvg-logo="https://live.fanmingming.com/tv/河北|承德公共.png" group-title="其他频道",河北|承德公共
 http://110.253.152.47:8888/rtp/239.253.92.223:8113
 #EXTINF:-1 tvg-name="河北|承德县台" tvg-logo="https://live.fanmingming.com/tv/河北|承德县台.png" group-title="其他频道",河北|承德县台
 http://110.253.152.47:8888/rtp/239.253.94.28:6627
-#EXTINF:-1 tvg-name="河北|承德县台" tvg-logo="https://live.fanmingming.com/tv/河北|承德县台.png" group-title="其他频道",河北|承德县台
-http://119.251.120.37:4000/rtp/239.253.94.28:6627
 #EXTINF:-1 tvg-name="河北|承德新闻综合" tvg-logo="https://live.fanmingming.com/tv/河北|承德新闻综合.png" group-title="其他频道",河北|承德新闻综合
 http://110.253.152.47:8888/rtp/239.253.92.222:8112
 #EXTINF:-1 tvg-name="河北|故城综合" tvg-logo="https://live.fanmingming.com/tv/河北|故城综合.png" group-title="其他频道",河北|故城综合
@@ -284,8 +266,6 @@ http://110.253.152.47:8888/rtp/239.253.92.175:6005
 #EXTINF:-1 tvg-name="河北|河北农民" tvg-logo="https://live.fanmingming.com/tv/河北|河北农民.png" group-title="其他频道",河北|河北农民
 http://110.253.152.47:8888/rtp/239.253.92.176:6006
 #EXTINF:-1 tvg-name="河北|河北少儿" tvg-logo="https://live.fanmingming.com/tv/河北|河北少儿.png" group-title="其他频道",河北|河北少儿
-http://110.248.147.40:8888/rtp/239.253.92.174:6004
-#EXTINF:-1 tvg-name="河北|河北少儿" tvg-logo="https://live.fanmingming.com/tv/河北|河北少儿.png" group-title="其他频道",河北|河北少儿
 http://110.253.152.47:8888/rtp/239.253.92.174:6004
 #EXTINF:-1 tvg-name="河北|河北生活" tvg-logo="https://live.fanmingming.com/tv/河北|河北生活.png" group-title="其他频道",河北|河北生活
 http://110.253.152.47:8888/rtp/239.253.92.171:6001
@@ -293,6 +273,8 @@ http://110.253.152.47:8888/rtp/239.253.92.171:6001
 http://110.253.152.47:8888/rtp/239.253.92.172:6002
 #EXTINF:-1 tvg-name="河北|涉县综合" tvg-logo="https://live.fanmingming.com/tv/河北|涉县综合.png" group-title="其他频道",河北|涉县综合
 http://110.253.152.47:8888/rtp/239.253.93.106:6273
+#EXTINF:-1 tvg-name="河北|涞水综合" tvg-logo="https://live.fanmingming.com/tv/河北|涞水综合.png" group-title="其他频道",河北|涞水综合
+http://110.253.152.47:8888/rtp/239.253.93.17:6170
 #EXTINF:-1 tvg-name="河北|涞源综合" tvg-logo="https://live.fanmingming.com/tv/河北|涞源综合.png" group-title="其他频道",河北|涞源综合
 http://110.253.152.47:8888/rtp/239.253.93.22:6175
 #EXTINF:-1 tvg-name="河北|涿州综合" tvg-logo="https://live.fanmingming.com/tv/河北|涿州综合.png" group-title="其他频道",河北|涿州综合
@@ -314,8 +296,6 @@ http://110.253.152.47:8888/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-name="河北|石家庄生活" tvg-logo="https://live.fanmingming.com/tv/河北|石家庄生活.png" group-title="其他频道",河北|石家庄生活
 http://110.253.152.47:8888/rtp/239.253.92.94:8121
 #EXTINF:-1 tvg-name="河北|石家庄综合" tvg-logo="https://live.fanmingming.com/tv/河北|石家庄综合.png" group-title="其他频道",河北|石家庄综合
-http://110.248.147.40:8888/rtp/239.253.92.149:6035
-#EXTINF:-1 tvg-name="河北|石家庄综合" tvg-logo="https://live.fanmingming.com/tv/河北|石家庄综合.png" group-title="其他频道",河北|石家庄综合
 http://110.253.152.47:8888/rtp/239.253.92.149:6035
 #EXTINF:-1 tvg-name="河北|石家庄都市" tvg-logo="https://live.fanmingming.com/tv/河北|石家庄都市.png" group-title="其他频道",河北|石家庄都市
 http://110.253.152.47:8888/rtp/239.253.92.95:8122
@@ -327,10 +307,16 @@ http://110.253.152.47:8888/rtp/239.253.92.54:6023
 http://110.253.152.47:8888/rtp/239.253.92.52:6021
 #EXTINF:-1 tvg-name="河北|衡水公共" tvg-logo="https://live.fanmingming.com/tv/河北|衡水公共.png" group-title="其他频道",河北|衡水公共
 http://110.253.152.47:8888/rtp/239.253.93.7:6160
+#EXTINF:-1 tvg-name="河北|衡水公共" tvg-logo="https://live.fanmingming.com/tv/河北|衡水公共.png" group-title="其他频道",河北|衡水公共
+http://60.4.3.23:8888/rtp/239.253.93.7:6160
 #EXTINF:-1 tvg-name="河北|衡水综合" tvg-logo="https://live.fanmingming.com/tv/河北|衡水综合.png" group-title="其他频道",河北|衡水综合
 http://110.253.152.47:8888/rtp/239.253.93.3:6154
 #EXTINF:-1 tvg-name="河北|赵县综合" tvg-logo="https://live.fanmingming.com/tv/河北|赵县综合.png" group-title="其他频道",河北|赵县综合
+http://110.248.147.40:8888/rtp/239.253.93.140:6308
+#EXTINF:-1 tvg-name="河北|赵县综合" tvg-logo="https://live.fanmingming.com/tv/河北|赵县综合.png" group-title="其他频道",河北|赵县综合
 http://110.253.152.47:8888/rtp/239.253.93.140:6308
+#EXTINF:-1 tvg-name="河北|遵化综合" tvg-logo="https://live.fanmingming.com/tv/河北|遵化综合.png" group-title="其他频道",河北|遵化综合
+http://110.248.147.40:8888/rtp/239.253.93.177:6345
 #EXTINF:-1 tvg-name="河北|遵化综合" tvg-logo="https://live.fanmingming.com/tv/河北|遵化综合.png" group-title="其他频道",河北|遵化综合
 http://110.253.152.47:8888/rtp/239.253.93.177:6345
 #EXTINF:-1 tvg-name="河北|邢台生活" tvg-logo="https://live.fanmingming.com/tv/河北|邢台生活.png" group-title="其他频道",河北|邢台生活
@@ -340,13 +326,15 @@ http://110.253.152.47:8888/rtp/239.253.93.8:6161
 #EXTINF:-1 tvg-name="河北|邯郸公共" tvg-logo="https://live.fanmingming.com/tv/河北|邯郸公共.png" group-title="其他频道",河北|邯郸公共
 http://110.253.152.47:8888/rtp/239.253.93.12:6165
 #EXTINF:-1 tvg-name="河北|邯郸教育" tvg-logo="https://live.fanmingming.com/tv/河北|邯郸教育.png" group-title="其他频道",河北|邯郸教育
+http://110.248.147.40:8888/rtp/239.253.93.13:6166
+#EXTINF:-1 tvg-name="河北|邯郸教育" tvg-logo="https://live.fanmingming.com/tv/河北|邯郸教育.png" group-title="其他频道",河北|邯郸教育
 http://110.253.152.47:8888/rtp/239.253.93.13:6166
 #EXTINF:-1 tvg-name="河北|邯郸综合" tvg-logo="https://live.fanmingming.com/tv/河北|邯郸综合.png" group-title="其他频道",河北|邯郸综合
 http://110.253.152.47:8888/rtp/239.253.93.11:6164
 #EXTINF:-1 tvg-name="河北|邱县综合" tvg-logo="https://live.fanmingming.com/tv/河北|邱县综合.png" group-title="其他频道",河北|邱县综合
+http://110.248.147.40:8888/rtp/239.253.93.158:6326
+#EXTINF:-1 tvg-name="河北|邱县综合" tvg-logo="https://live.fanmingming.com/tv/河北|邱县综合.png" group-title="其他频道",河北|邱县综合
 http://110.253.152.47:8888/rtp/239.253.93.158:6326
-#EXTINF:-1 tvg-name="河北|阜平综合" tvg-logo="https://live.fanmingming.com/tv/河北|阜平综合.png" group-title="其他频道",河北|阜平综合
-http://110.248.147.40:8888/rtp/239.253.93.16:6169
 #EXTINF:-1 tvg-name="河北|阜平综合" tvg-logo="https://live.fanmingming.com/tv/河北|阜平综合.png" group-title="其他频道",河北|阜平综合
 http://110.253.152.47:8888/rtp/239.253.93.16:6169
 #EXTINF:-1 tvg-name="河北|隆化综合" tvg-logo="https://live.fanmingming.com/tv/河北|隆化综合.png" group-title="其他频道",河北|隆化综合
@@ -358,6 +346,8 @@ http://110.253.152.47:8888/rtp/239.253.93.23:6176
 #EXTINF:-1 tvg-name="河北|高邑综合" tvg-logo="https://live.fanmingming.com/tv/河北|高邑综合.png" group-title="其他频道",河北|高邑综合
 http://110.253.152.47:8888/rtp/239.253.92.160:6041
 #EXTINF:-1 tvg-name="河北|魏县综合" tvg-logo="https://live.fanmingming.com/tv/河北|魏县综合.png" group-title="其他频道",河北|魏县综合
+http://110.248.147.40:8888/rtp/239.253.93.185:6353
+#EXTINF:-1 tvg-name="河北|魏县综合" tvg-logo="https://live.fanmingming.com/tv/河北|魏县综合.png" group-title="其他频道",河北|魏县综合
 http://110.253.152.47:8888/rtp/239.253.93.185:6353
 #EXTINF:-1 tvg-name="河北|黄骅综合" tvg-logo="https://live.fanmingming.com/tv/河北|黄骅综合.png" group-title="其他频道",河北|黄骅综合
 http://110.253.152.47:8888/rtp/239.253.92.183:6047
@@ -365,5 +355,5 @@ http://110.253.152.47:8888/rtp/239.253.92.183:6047
 http://110.253.152.47:8888/rtp/239.253.92.103:6054
 #EXTINF:-1 tvg-name="网络|求索纪录" tvg-logo="https://live.fanmingming.com/tv/网络|求索纪录.png" group-title="其他频道",网络|求索纪录
 http://110.253.152.47:8888/rtp/239.253.93.236:6414
-#EXTINF:-1 tvg-name="2024-03-28 06:08:26" tvg-logo="https://live.fanmingming.com/tv/2024-03-28 06:08:26.png" group-title="更新时间",2024-03-28 06:08:26
+#EXTINF:-1 tvg-name="2024-03-28 18:10:04" tvg-logo="https://live.fanmingming.com/tv/2024-03-28 18:10:04.png" group-title="更新时间",2024-03-28 18:10:04
 https://taoiptv.com/time.mp4
