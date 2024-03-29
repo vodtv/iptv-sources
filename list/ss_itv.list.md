@@ -532,7 +532,7 @@
 | 524 | 陕西生活 | IPv4 直链 | <http://113.140.69.126:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 525 | 陕西西部影视 | IPv4 直链 | <http://113.140.69.126:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **3/29/2024 12:35:23 AM**
+Updated at **3/29/2024 8:10:05 AM**
 
 ## 使用说明
 

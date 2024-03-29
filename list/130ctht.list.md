@@ -55,7 +55,7 @@
 | 47 | 金鹰纪实 | IPv4 直链 | <http://111.225.113.130:808/tsfile/live/1036_1.m3u8?key=txiptv> |
 | 48 | 2024-03-29 03:00:55 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **3/29/2024 12:35:23 AM**
+Updated at **3/29/2024 8:10:05 AM**
 
 ## 使用说明
 
