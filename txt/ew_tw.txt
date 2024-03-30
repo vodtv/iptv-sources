@@ -121,11 +121,11 @@
 [HD]民视hd,https://epg.pw/stream/44a911a7eb428cf1c0770fe610379edfd76f3f5cfe53063d3e3a550de42769d5.m3u8
 [HD]民视第一台,https://epg.pw/stream/2002091ee6adc33f1c8ac19e0bee27f11884bc039191d021cee0b4420d0c483f.m3u8
 [BD]民视台湾台,https://epg.pw/stream/93807e215cf9d6a7f8d6047e74b38863727e12e99da4d90c86fadf8b58026e11.ctv
-[BD]民视台湾,https://epg.pw/stream/039f6cae977c0b8c03aa94765e5370d6561d718011d6dccc7a4441b57d9de9c1.m3u8
+[BD]民视台湾,https://epg.pw/stream/2db80205d765ac831839666fd947344a1c3e891c4524beaf88022f9cd369af8a.m3u8
 [BD]纬来综合,https://epg.pw/stream/7d501b1e8c12e47b411505569ebcb16eb120d36ae42c0c44630c3b9828420d82.m3u8
 [BD]纬来育乐,https://epg.pw/stream/2a732300753dd501a544b41d3ed7a272642a8b4f251c1131636d36644ad3fbd0.m3u8
 [BD]华视,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
-[HD]靖天国际,https://epg.pw/stream/277e50975b5d7c770eae2dfc79404a5b49bdd3ea3fa284da631b33c809813920.m3u8
+[VGA]靖天国际,https://epg.pw/stream/277e50975b5d7c770eae2dfc79404a5b49bdd3ea3fa284da631b33c809813920.m3u8
 [BD]靖天综合,https://epg.pw/stream/fd6a2d196572e67cb8d49f16bcd9602af8b7408cd4e1e6a9e4ae988e80481df7.m3u8
 
 新闻,#genre#

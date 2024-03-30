@@ -108,7 +108,7 @@
 | 100 | [HD]民视第一台 | epg.pw | <https://epg.pw/stream/2002091ee6adc33f1c8ac19e0bee27f11884bc039191d021cee0b4420d0c483f.m3u8> |
 | 101 | [HD]民视综艺 | epg.pw | <https://epg.pw/stream/444c52a6e20c3fc54184073761350f1a03bf0298db751fdbfafb1814dcc71cf8.m3u8> |
 | 102 | [BD]民视台湾台 | epg.pw | <https://epg.pw/stream/93807e215cf9d6a7f8d6047e74b38863727e12e99da4d90c86fadf8b58026e11.ctv> |
-| 103 | [BD]民视台湾 | epg.pw | <https://epg.pw/stream/039f6cae977c0b8c03aa94765e5370d6561d718011d6dccc7a4441b57d9de9c1.m3u8> |
+| 103 | [BD]民视台湾 | epg.pw | <https://epg.pw/stream/2db80205d765ac831839666fd947344a1c3e891c4524beaf88022f9cd369af8a.m3u8> |
 | 104 | [BD]民视新闻 hd | epg.pw | <https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8> |
 | 105 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
 | 106 | [HD]经典电影 | epg.pw | <https://epg.pw/stream/98b5e5e277185eb959abcae72d13987779650fbb0afc1369c19a91f0e8cc5bc4.ctv> |
@@ -127,7 +127,7 @@
 | 119 | [BD]采昌影剧 | epg.pw | <https://epg.pw/stream/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e6bf588.m3u8> |
 | 120 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/44871c582cf602f99065669bef0c2da787793452e2bacef67e28d97b1d8800c9.m3u8> |
 | 121 | [HD]靖天卡通 | epg.pw | <https://epg.pw/stream/bf498112744385d19f3d33a5b20f76f5377d399d466e0395e9fd43775f7ca71a.m3u8> |
-| 122 | [HD]靖天国际 | epg.pw | <https://epg.pw/stream/277e50975b5d7c770eae2dfc79404a5b49bdd3ea3fa284da631b33c809813920.m3u8> |
+| 122 | [VGA]靖天国际 | epg.pw | <https://epg.pw/stream/277e50975b5d7c770eae2dfc79404a5b49bdd3ea3fa284da631b33c809813920.m3u8> |
 | 123 | [BD]靖天日本 | epg.pw | <https://epg.pw/stream/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.m3u8> |
 | 124 | [BD]靖天欢乐 | epg.pw | <https://epg.pw/stream/0e23a46b049a72886087950976dbf1ebf40b62f3d7cd68ae5223b7c17ff265ec.m3u8> |
 | 125 | [BD]靖天欢乐台 | epg.pw | <https://epg.pw/stream/37bbc40eea9450cc8fe00b5b68841e55916d4977fc129db2141eaa8423407959.ctv> |
@@ -143,7 +143,7 @@
 | 135 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 136 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **3/30/2024 12:34:17 AM**
+Updated at **3/30/2024 8:11:03 AM**
 
 ## 使用说明
 

@@ -204,7 +204,7 @@ https://epg.pw/stream/444c52a6e20c3fc54184073761350f1a03bf0298db751fdbfafb1814dc
 #EXTINF:-1 tvg-name="民视台湾台" tvg-id="14087" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724151611469778_92.png" group-title="综合",[BD]民视台湾台
 https://epg.pw/stream/93807e215cf9d6a7f8d6047e74b38863727e12e99da4d90c86fadf8b58026e11.ctv
 #EXTINF:-1 tvg-name="民视台湾" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126220034637848_50.jpg" group-title="综合",[BD]民视台湾
-https://epg.pw/stream/039f6cae977c0b8c03aa94765e5370d6561d718011d6dccc7a4441b57d9de9c1.m3u8
+https://epg.pw/stream/2db80205d765ac831839666fd947344a1c3e891c4524beaf88022f9cd369af8a.m3u8
 #EXTINF:-1 tvg-name="民视新闻 hd" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png" group-title="新闻",[BD]民视新闻 hd
 https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
 #EXTINF:-1 tvg-name="生命电视台" tvg-id="12628" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/1_420.jpg" group-title="其它",[BD]生命电视台
@@ -241,7 +241,7 @@ https://epg.pw/stream/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e
 https://epg.pw/stream/44871c582cf602f99065669bef0c2da787793452e2bacef67e28d97b1d8800c9.m3u8
 #EXTINF:-1 tvg-name="靖天卡通" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211529385804_31.png" group-title="儿童",[HD]靖天卡通
 https://epg.pw/stream/bf498112744385d19f3d33a5b20f76f5377d399d466e0395e9fd43775f7ca71a.m3u8
-#EXTINF:-1 tvg-name="靖天国际" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211901276301_20.png" group-title="综合",[HD]靖天国际
+#EXTINF:-1 tvg-name="靖天国际" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211901276301_20.png" group-title="综合",[VGA]靖天国际
 https://epg.pw/stream/277e50975b5d7c770eae2dfc79404a5b49bdd3ea3fa284da631b33c809813920.m3u8
 #EXTINF:-1 tvg-name="靖天日本" tvg-id="" tvg-country="台湾" tvg-language="日语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211326607261_29.png" group-title="电影",[BD]靖天日本
 https://epg.pw/stream/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.m3u8
