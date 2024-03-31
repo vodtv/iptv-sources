@@ -34,7 +34,6 @@
 
 新闻,#genre#
 [BD]now新闻台,https://epg.pw/stream/81f5ffef845e8ea1bb69389d2413f8d7869efc69fbbeffd9b5cf200a853efdf8.ctv
-[HD]rthk32,https://epg.pw/stream/5f2f369a9803a7a2042899025a61af3ca1d0c95611bbb1ed406307634499a4ed.m3u8
 [HD]rthk33台,https://epg.pw/stream/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8
 [HD]rthk34台,https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
 [BD]tvbs新闻台,https://epg.pw/stream/ef62e76a9b9ebfa3c8e6aeaaf5b71ee1299d4e9c7d029ec3f55532208f5f1e8b.m3u8
@@ -51,14 +50,12 @@
 [BD]凤凰卫视中文台,https://epg.pw/stream/fcfbfb7706ed19b7a44b1c75c65ffbf5e6eb4db471129ffd0055882de933e310.ctv
 [BD]凤凰卫视资讯台,https://epg.pw/stream/faaf24b03d0e3d67bcb554675b88bcff65c6ab4545ea1c20327cc1f786ce5649.ctv
 
-运动,#genre#
-[HD]tnt_sports_1,https://epg.pw/stream/80d45ef7cd46cc65ab2566c765e21aea124592067c937fbe072e052277877ec2.ctv
-[HD]tnt_sports_2,https://epg.pw/stream/8f388fa93cf4cb32cbbaa924e8278858e0ac54a32161cef9f65290837b9ab71e.ctv
-[HD]star_(720p),https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8
-
 知识,#genre#
 [VGA]discovery_id,https://epg.pw/stream/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.ctv
 
 其它,#genre#
 [HD]ptv_granada,https://epg.pw/stream/063e0efb004c2bf1bd5c101466186d8ab3911e3f0fc4946c12e2e31213470fe5.m3u8
 [VGA]耀才财经,https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
+
+运动,#genre#
+[HD]star_(720p),https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8

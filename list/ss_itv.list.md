@@ -553,7 +553,7 @@
 | 545 | 陕西一套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 546 | 陕西二套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/31/2024 12:39:31 AM**
+Updated at **3/31/2024 8:10:16 AM**
 
 ## 使用说明
 

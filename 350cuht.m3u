@@ -99,5 +99,5 @@ http://36.248.137.69:60033/tsfile/live/1003_1.m3u8?key=txiptv
 http://36.248.137.69:60033/tsfile/live/1005_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="其他频道",福建综合
 http://36.248.137.69:60033/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="2024-03-29 18:40:57" tvg-logo="https://live.fanmingming.com/tv/2024-03-29 18:40:57.png" group-title="更新时间",2024-03-29 18:40:57
+#EXTINF:-1 tvg-name="2024-03-31 15:15:07" tvg-logo="https://live.fanmingming.com/tv/2024-03-31 15:15:07.png" group-title="更新时间",2024-03-31 15:15:07
 https://taoiptv.com/time.mp4

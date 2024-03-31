@@ -99,7 +99,7 @@
 [VGA]win,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
 [HD]dnj_tv,https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8
 [HD]三立综合,https://epg.pw/stream/f45f2f4dd98d6d7c1daf32cd10e644820b35bf672c512022787b45b8e7a53ace.m3u8
-[HD]三立台湾,https://epg.pw/stream/35d65b9c33b6d2b4da6e41331402f6e5938fd013baddcecb255d614b448ba52a.m3u8
+[HD]三立台湾,https://epg.pw/stream/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8
 [VGA]东森_超视,https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv
 [HD]中天亚洲台,https://epg.pw/stream/b2c21dc375aa7d91af1ae24341e9065d56b0b142fef4d75f915a2b43552f907e.ctv
 [BD]中视,https://epg.pw/stream/48023223cf3a94ab9dcdbef7b2e3c566429aeaba44f3e41d03a955e1202ad492.m3u8

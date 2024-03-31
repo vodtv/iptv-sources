@@ -46,7 +46,7 @@
 | 38 | [VGA]三立国际 | epg.pw | <https://epg.pw/stream/1252ad40c48513f7671b71be735be04f6b6638d865cd4d6c0d90811a86c2d9ce.m3u8> |
 | 39 | [BD]三立新闻 | epg.pw | <https://epg.pw/stream/c5939738ee7c97ed8c4c3b2eca5d623ec7e302ae819a856cfcc9f17a0348c1c8.ctv> |
 | 40 | [HD]三立综合 | epg.pw | <https://epg.pw/stream/f45f2f4dd98d6d7c1daf32cd10e644820b35bf672c512022787b45b8e7a53ace.m3u8> |
-| 41 | [HD]三立台湾 | epg.pw | <https://epg.pw/stream/35d65b9c33b6d2b4da6e41331402f6e5938fd013baddcecb255d614b448ba52a.m3u8> |
+| 41 | [HD]三立台湾 | epg.pw | <https://epg.pw/stream/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8> |
 | 42 | [VGA]东森 超视 | epg.pw | <https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv> |
 | 43 | [HD]中天亚洲台 | epg.pw | <https://epg.pw/stream/b2c21dc375aa7d91af1ae24341e9065d56b0b142fef4d75f915a2b43552f907e.ctv> |
 | 44 | [BD]中天娱乐hd | epg.pw | <https://epg.pw/stream/b3ca3efcc5c7d0947fb305927bfd550b8f138bd00b1beb3ff7e65ce68972d11a.m3u8> |
@@ -141,7 +141,7 @@
 | 133 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 134 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **3/31/2024 12:39:31 AM**
+Updated at **3/31/2024 8:10:16 AM**
 
 ## 使用说明
 
