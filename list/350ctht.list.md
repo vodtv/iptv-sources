@@ -42,9 +42,9 @@
 | 34 | 福建乡村 | IPv4 直链 | <http://110.80.17.38:9901/tsfile/live/0130_1.m3u8?key=txiptv> |
 | 35 | 福建新闻 | IPv4 直链 | <http://110.80.17.38:9901/tsfile/live/0122_1.m3u8?key=txiptv> |
 | 36 | 福建旅游 | IPv4 直链 | <http://110.80.17.38:9901/tsfile/live/0138_1.m3u8?key=txiptv> |
-| 37 | 2024-03-29 18:40:57 | taoiptv.com | <https://taoiptv.com/time.mp4> |
+| 37 | 2024-03-30 18:25:44 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **3/30/2024 8:11:03 AM**
+Updated at **3/31/2024 12:39:31 AM**
 
 ## 使用说明
 

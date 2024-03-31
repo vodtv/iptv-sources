@@ -29,7 +29,7 @@
 | 21 | 浙江经视 | IPv4 直链 | <http://115.231.200.110:9901/tsfile/live/1004_1.m3u8?key=txiptv> |
 | 22 | 2024-03-20 09:20:13 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **3/30/2024 8:11:03 AM**
+Updated at **3/31/2024 12:39:31 AM**
 
 ## 使用说明
 
