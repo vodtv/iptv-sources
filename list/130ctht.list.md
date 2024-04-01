@@ -56,9 +56,9 @@
 | 48 | 邯郸新闻综合 | IPv4 直链 | <http://111.225.115.74:808/tsfile/live/1040_1.m3u8?key=txiptv> |
 | 49 | 金鹰纪实 | IPv4 直链 | <http://111.225.115.74:808/tsfile/live/1028_1.m3u8?key=txiptv> |
 | 50 | 高碑店-1 | IPv4 直链 | <http://111.225.115.74:808/tsfile/live/1039_1.m3u8?key=txiptv> |
-| 51 | 2024-03-31 15:14:43 | taoiptv.com | <https://taoiptv.com/time.mp4> |
+| 51 | 2024-04-01 04:05:26 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **3/31/2024 8:10:16 AM**
+Updated at **4/1/2024 12:39:33 AM**
 
 ## 使用说明
 

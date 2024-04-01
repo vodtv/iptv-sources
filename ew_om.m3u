@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="澳亚卫视" tvg-id="" tvg-country="澳门" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="其它",[VGA]澳亚卫视
-https://epg.pw/stream/e6e9f19d5a2ce779dcd3090930bdd875e96ff7eeeee5c167aa3f6a72c869cf34.m3u8
 #EXTINF:-1 tvg-name="澳视综艺" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg" group-title="综艺",[HD]澳视综艺
 https://epg.pw/stream/149458072f1b07220865b62f56c375470c13b15e29743fe3fca9b930c01fd796.m3u8
 #EXTINF:-1 tvg-name="澳视葡文" tvg-id="" tvg-country="澳门" tvg-language="葡萄牙" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="综艺",[HD]澳视葡文
@@ -19,8 +17,6 @@ https://epg.pw/stream/93ec964423f510a42acc9127e10843006458f9f38e1e6dde17334d2cee
 https://epg.pw/stream/8959ffcf9d57fb8206b032be856917791ca8b20a8f60b9e6838bf8cb6b3d58bf.m3u8
 #EXTINF:-1 tvg-name="澳门综艺" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg" group-title="综艺",[HD]澳门综艺
 https://epg.pw/stream/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8
-#EXTINF:-1 tvg-name="澳门卫视" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521033247894760_19.jpg" group-title="综合",[SD]澳门卫视
-https://epg.pw/stream/a9b0fa1f40816c056c6e8201cf21bd5d9bed75145b2ae46e7eae5073d5918189.m3u8
 #EXTINF:-1 tvg-name="澳门资讯" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="新闻",[HD]澳门资讯
 rtmp://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live
 #EXTINF:-1 tvg-name="澳门莲花" tvg-id="" tvg-country="澳门" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="综合",[HD]澳门莲花
