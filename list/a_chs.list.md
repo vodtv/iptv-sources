@@ -32,7 +32,7 @@
 | 24 | AdultIPTV.net Gay | live.adultiptv.net | <http://live.adultiptv.net/gay.m3u8> |
 | 25 | AdultIPTV.net Asian | live.adultiptv.net | <http://live.adultiptv.net/asian.m3u8> |
 
-Updated at **4/1/2024 12:39:33 AM**
+Updated at **4/1/2024 8:12:11 AM**
 
 ## 使用说明
 
