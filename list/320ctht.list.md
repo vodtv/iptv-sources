@@ -91,7 +91,7 @@
 | 83 | 江苏综艺 | IPv4 直链 | <http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv> |
 | 84 | 2024-04-01 04:06:07 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **4/1/2024 8:12:11 AM**
+Updated at **4/2/2024 12:36:22 AM**
 
 ## 使用说明
 

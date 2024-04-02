@@ -19,7 +19,7 @@
 | 11 | 陕西卫视 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/0136_1.m3u8?key=txiptv> |
 | 12 | 2024-04-01 04:07:58 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **4/1/2024 8:12:11 AM**
+Updated at **4/2/2024 12:36:22 AM**
 
 ## 使用说明
 
