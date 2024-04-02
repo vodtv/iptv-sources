@@ -20,7 +20,7 @@
 [BD]生命电视台,https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
 
 儿童,#genre#
-[BD]animax,https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8
+[HD]animax,https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8
 [BD]momo亲子台1,https://epg.pw/stream/be8077bcc4a308e784a9f9de2136c07c138c3fe1a449c159c22bfba1a7c28dc6.m3u8
 [BD]东森幼幼2,https://epg.pw/stream/d35cc573746024eb611046288002be136a43c60a22a30468168d81e2afe2897e.m3u8
 [HD]靖天卡通,https://epg.pw/stream/bf498112744385d19f3d33a5b20f76f5377d399d466e0395e9fd43775f7ca71a.m3u8
@@ -39,7 +39,7 @@
 [BD]东森洋片,https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
 [HD]民视影剧,https://epg.pw/stream/b2f35b3f2d927ce635628a27c93510bb36ccd082b9692b9dca292e8b5f038504.m3u8
 [HD]经典电影,https://epg.pw/stream/98b5e5e277185eb959abcae72d13987779650fbb0afc1369c19a91f0e8cc5bc4.ctv
-[HD]纬来戏剧,https://epg.pw/stream/06af5d797b97066fba1768bb5a76b8f05f1e6b821e5f08061417c6ea62810232.m3u8
+[BD]纬来戏剧,https://epg.pw/stream/06af5d797b97066fba1768bb5a76b8f05f1e6b821e5f08061417c6ea62810232.m3u8
 [BD]采昌影剧,https://epg.pw/stream/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e6bf588.m3u8
 [BD]靖天日本,https://epg.pw/stream/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.m3u8
 [BD]靖天电影,https://epg.pw/stream/b7b334eee155c0e904ec230e64f4ff9f242a5158d58709ce6e1f5b8d18216b10.m3u8
@@ -86,7 +86,6 @@
 [HD]博斯网球,https://epg.pw/stream/b43acc0f46fb09bbfaf54f62018560aec256f05e938dfce0a85b5e3ab444e15a.m3u8
 [HD]博斯运动2,https://epg.pw/stream/ad6622d41597e73d6dd3631e29bb9d8c6357a217197023cc649d6e8a61af03ad.m3u8
 [HD]博斯高球,https://epg.pw/stream/7df20d4d0d04045e5722792bcd477b161e7f457e358e314dd7bc5f8bd828b294.m3u8
-[HD]博斯魅力,https://epg.pw/stream/5581e63b31f5400ad0550afa27ecd8164ad5c0c23f7d4df50e8ff611cb522ac3.m3u8
 [VGA]纬来体育台,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
 
 综合,#genre#

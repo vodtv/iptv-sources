@@ -492,7 +492,7 @@
 | 484 | 陕西二套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 485 | 陕西二套 | IPv4 直链 | <http://113.135.194.13:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/2/2024 12:36:22 AM**
+Updated at **4/2/2024 8:10:13 AM**
 
 ## 使用说明
 

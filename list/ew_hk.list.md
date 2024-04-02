@@ -56,7 +56,7 @@
 | 48 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 49 | [VGA]凤凰香港 | epg.pw | <https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv> |
 
-Updated at **4/2/2024 12:36:22 AM**
+Updated at **4/2/2024 8:10:13 AM**
 
 ## 使用说明
 
