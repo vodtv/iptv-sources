@@ -9,7 +9,7 @@
 [VGA]香港台,https://epg.pw/stream/5492f2271bb30ee93eddc180adb43f886da2add0a63ab8f1362853b0735a8f4e.ctv
 [SD]香港卫视文旅,https://epg.pw/stream/3bba1f61c9bbdb7c3299de2153884249bff20165adcea8abe1fe4fb837f7eb31.m3u8
 [HD]凤凰卫视,https://epg.pw/stream/13e8dfbbcf8907b7afd173dc6f1aeb8ac51739bf127c4f4a04961546abbd240d.ctv
-[VGA]凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
+[BD]凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 
 综艺,#genre#
 [BD]j2,https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv

@@ -6,20 +6,19 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [HD]澳视综艺 | epg.pw | <https://epg.pw/stream/149458072f1b07220865b62f56c375470c13b15e29743fe3fca9b930c01fd796.m3u8> |
-| 2 | [HD]澳视葡文 | epg.pw | <https://epg.pw/stream/470cc9f6910f54f75c4800037462a15e29c9a5e1239b8481209a25a18865d21f.m3u8> |
-| 3 | [HD]澳视体育 | live4.tdm.com.mo | <rtmp://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live> |
-| 4 | [HD]澳视体育 | epg.pw | <https://epg.pw/stream/884e30417dbba8371867ed310d37bbf1a636a9ca75a4de69cc471c116494bf85.m3u8> |
-| 5 | [HD]澳视澳门 | epg.pw | <https://epg.pw/stream/56e911076120ba8a4639f7446c639591da9423eba3a14212acc42648d2bfb473.m3u8> |
-| 6 | [HD]澳视澳门台 | epg.pw | <https://epg.pw/stream/5533d3de0f83c0d60dea1876a8d8a8cb10875640b6d4d96fe199069dfed1ce50.m3u8> |
-| 7 | [HD]澳视葡文.720 | epg.pw | <https://epg.pw/stream/93ec964423f510a42acc9127e10843006458f9f38e1e6dde17334d2cee223179.m3u8> |
-| 8 | [HD]澳门macau | epg.pw | <https://epg.pw/stream/8959ffcf9d57fb8206b032be856917791ca8b20a8f60b9e6838bf8cb6b3d58bf.m3u8> |
-| 9 | [HD]澳门综艺 | epg.pw | <https://epg.pw/stream/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8> |
-| 10 | [HD]澳门资讯 | live4.tdm.com.mo:80 | <rtmp://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live> |
-| 11 | [HD]澳门莲花 | epg.pw | <https://epg.pw/stream/92c53cb4e3bd1ab6b3bc7061818af46bc9b6559e05285987056229cc4d4ffbfe.m3u8> |
-| 12 | [HD]澳门资讯 | epg.pw | <https://epg.pw/stream/df07814fabb1663ac92b3f84ece74ca5a524a5a3a6af19435ff064633fa59197.m3u8> |
+| 1 | [HD]澳视澳门 | epg.pw | <https://epg.pw/stream/03548f52945ed6c816a972deb0746e7e30892babff59c022f2927b21ed3baed0.m3u8> |
+| 2 | [HD]澳视综艺 | epg.pw | <https://epg.pw/stream/149458072f1b07220865b62f56c375470c13b15e29743fe3fca9b930c01fd796.m3u8> |
+| 3 | [HD]澳视葡文 | epg.pw | <https://epg.pw/stream/470cc9f6910f54f75c4800037462a15e29c9a5e1239b8481209a25a18865d21f.m3u8> |
+| 4 | [HD]澳视体育 | live4.tdm.com.mo | <rtmp://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live> |
+| 5 | [HD]澳视体育 | epg.pw | <https://epg.pw/stream/884e30417dbba8371867ed310d37bbf1a636a9ca75a4de69cc471c116494bf85.m3u8> |
+| 6 | [HD]澳视葡文.720 | epg.pw | <https://epg.pw/stream/93ec964423f510a42acc9127e10843006458f9f38e1e6dde17334d2cee223179.m3u8> |
+| 7 | [HD]澳门macau | epg.pw | <https://epg.pw/stream/8959ffcf9d57fb8206b032be856917791ca8b20a8f60b9e6838bf8cb6b3d58bf.m3u8> |
+| 8 | [HD]澳门综艺 | epg.pw | <https://epg.pw/stream/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8> |
+| 9 | [HD]澳门资讯 | live4.tdm.com.mo:80 | <rtmp://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live> |
+| 10 | [HD]澳门莲花 | epg.pw | <https://epg.pw/stream/92c53cb4e3bd1ab6b3bc7061818af46bc9b6559e05285987056229cc4d4ffbfe.m3u8> |
+| 11 | [HD]澳门资讯 | epg.pw | <https://epg.pw/stream/df07814fabb1663ac92b3f84ece74ca5a524a5a3a6af19435ff064633fa59197.m3u8> |
 
-Updated at **4/2/2024 8:10:13 AM**
+Updated at **4/3/2024 12:35:06 AM**
 
 ## 使用说明
 

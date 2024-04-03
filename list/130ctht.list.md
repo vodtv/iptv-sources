@@ -58,7 +58,7 @@
 | 50 | 高碑店-1 | IPv4 直链 | <http://111.225.115.74:808/tsfile/live/1039_1.m3u8?key=txiptv> |
 | 51 | 2024-04-01 04:05:26 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **4/2/2024 8:10:13 AM**
+Updated at **4/3/2024 12:35:06 AM**
 
 ## 使用说明
 
