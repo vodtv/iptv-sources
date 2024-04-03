@@ -458,7 +458,7 @@
 | 450 | 陕西二套 | IPv4 直链 | <http://113.135.194.13:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 451 | 陕西八套 | IPv4 直链 | <http://113.135.194.13:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/3/2024 12:35:06 AM**
+Updated at **4/3/2024 8:10:31 AM**
 
 ## 使用说明
 

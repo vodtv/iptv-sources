@@ -91,7 +91,7 @@
 | 83 | 福建综合 | IPv4 直链 | <http://36.248.137.69:60033/tsfile/live/1000_1.m3u8?key=txiptv> |
 | 84 | 2024-04-03 07:25:18 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **4/3/2024 12:35:06 AM**
+Updated at **4/3/2024 8:10:31 AM**
 
 ## 使用说明
 

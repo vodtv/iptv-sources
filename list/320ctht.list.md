@@ -134,7 +134,7 @@
 | 126 | 江苏综艺 | IPv4 直链 | <http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv> |
 | 127 | 2024-04-03 07:24:54 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **4/3/2024 12:35:06 AM**
+Updated at **4/3/2024 8:10:31 AM**
 
 ## 使用说明
 
