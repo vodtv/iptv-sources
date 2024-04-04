@@ -49,7 +49,7 @@
 | 41 | 凤凰资讯 | IPv4 直链 | <http://117.81.149.227:9901/tsfile/live/1007_1.m3u8?key=txiptv> |
 | 42 | 2024-04-04 05:53:21 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **4/4/2024 12:36:50 AM**
+Updated at **4/4/2024 8:11:04 AM**
 
 ## 使用说明
 

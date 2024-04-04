@@ -33,7 +33,7 @@
 | 25 | 福建新闻 | IPv4 直链 | <http://110.80.17.38:9901/tsfile/live/0122_1.m3u8?key=txiptv> |
 | 26 | 2024-04-04 05:53:39 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **4/4/2024 12:36:50 AM**
+Updated at **4/4/2024 8:11:04 AM**
 
 ## 使用说明
 

@@ -1,7 +1,0 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://116.252.28.126:9099/rtp/239.81.0.210:4056
-#EXTINF:-1 tvg-name="电竞游戏2" tvg-logo="https://live.fanmingming.com/tv/电竞游戏2.png" group-title="其他频道",电竞游戏2
-http://116.252.28.126:9099/rtp/239.81.0.201:4056
-#EXTINF:-1 tvg-name="2024-04-04 05:54:18" tvg-logo="https://live.fanmingming.com/tv/2024-04-04 05:54:18.png" group-title="更新时间",2024-04-04 05:54:18
-https://taoiptv.com/time.mp4
