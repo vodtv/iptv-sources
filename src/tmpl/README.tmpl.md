@@ -1,19 +1,18 @@
-<div align="center"><h1> <a href="https://gitcode.com/iptv/iptv">CDN1</a> | <a href="https://gitlink.org.cn/iptv/iptv">CDN2</a> | <a href="https://cdn.jsdelivr.net/gh/vodtv/iptv-source@gh-pages/">CDN3</a></h1></div>
 
 ## 目录
 
 - ❓  [如何使用](#如何使用)
-- 📺 [播放列表](#播放列表)
+- 📺 [IPTV](#IPTV)
 - 📚 [EPG](#epg)
 - 🚀 [CDN加速](#CDN加速)
-- 🆕 [资源出处](#资源出处)
+- 🛈 [资源出处](#资源出处)
 - 📖 [免责申明](#免责申明)
 
 ## 如何使用
 
 只需将以下链接之一插入任何支持实时流式传输的视频播放器，然后按打开即可。
 
-## 播放列表
+## IPTV
 
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
@@ -26,133 +25,6 @@
 {update_epgs}
 
 ## CDN加速
-
-### RAW ( raw.viptv.work) - (兄弟CDN)
-
-<details>
-<br>
-<table>
-  <thead>
-    <tr>
-      <th>格式</th>
-      <th>示例 </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>M3U</td>
-      <td>https://raw.viptv.work/cn.m3u</td>
-    </tr>
-     <tr>
-      <td>TXT</td>
-      <td>https://raw.viptv.work/txt/cn.txt</td>
-    </tr>
-    <tr>
-      <td>XML</td>
-      <td>https://raw.viptv.work/epg/51zmt.xml</td>
-    </tr>
-    <tr>
-      <td>JSON</td>
-      <td>https://raw.viptv.work/sources/cn.json</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-
-### 镜像站(vodtv.netlify.app) -（国内访问快）
-
-<details>
-<br>
-<table>
-  <thead>
-    <tr>
-      <th>格式</th>
-      <th>示例 </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>m3u</td>
-      <td>https://vodtv.netlify.app/cn.m3u</td>
-    </tr>
-     <tr>
-      <td>TXT</td>
-      <td>https://vodtv.netlify.app/txt/cn.txt</td>
-    </tr>
-    <tr>
-      <td>XML</td>
-      <td>https://vodtv.netlify.app/epg/51zmt.xml</td>
-    </tr>
-    <tr>
-      <td>JSON</td>
-      <td>https://vodtv.netlify.app/sources/cn.json</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-
-### 镜像站(raw.gitlink.org.cn) -（国内访问快）
-<details>
-<br>
-<table>
-  <thead>
-    <tr>
-      <th>格式</th>
-      <th>示例 </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>iptv</td>
-      <td>https://www.gitlink.org.cn/api/iptv/iptv/raw/cn.m3u?ref=gh-pages</td>
-    </tr>
-     <tr>
-      <td>TXT</td>
-      <td>https://www.gitlink.org.cn/api/iptv/iptv/raw/txt/cn.txt?ref=gh-pages</td>
-    </tr>
-    <tr>
-      <td>XML</td>
-      <td>https://www.gitlink.org.cn/api/iptv/iptv/raw/epg/51zmt.xml?ref=gh-pages</td>
-    </tr>
-    <tr>
-      <td>JSON</td>
-      <td>https://www.gitlink.org.cn/api/iptv/iptv/raw/sources/cn.json?ref=gh-pages</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-
-### 镜像站(raw.gitcode.com) -（国内访问快）
-
-<details>
-<br>
-<table>
-  <thead>
-    <tr>
-      <th>格式</th>
-      <th>示例 </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>iptv</td>
-      <td>https://raw.gitcode.com/iptv/iptv/raw/gh-pages/cn.m3u</td>
-    </tr>
-     <tr>
-      <td>TXT</td>
-      <td>https://raw.gitcode.com/iptv/iptv/raw/gh-pages/txt/cn.txt</td>
-    </tr>
-    <tr>
-      <td>XML</td>
-      <td>https://raw.gitcode.com/iptv/iptv/raw/gh-pages/epg/51zmt.xml</td>
-    </tr>
-    <tr>
-      <td>JSON</td>
-      <td>https://raw.gitcode.com/iptv/iptv/raw/gh-pages/sources/cn.json</td>
-    </tr>
-  </tbody>
-</table>
-</details>
 
 ### 镜像站(fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
 <details>
@@ -167,19 +39,19 @@
   <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/cn.m3u</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/raw@gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/txt/cn.txt</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/raw@gh-pages/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/epg/51zmt.xml</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/raw@gh-pages/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/sources/cn.json</td>
+      <td>https://fastly.jsdelivr.net/gh/vodtv/raw@gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
@@ -199,19 +71,19 @@
   <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv.cn@gh-pages/cn.m3u</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/raw@gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv.cn@gh-pages/txt/cn.txt</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/raw@gh-pages/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv.cn@gh-pages/epg/51zmt.xml</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/raw@gh-pages/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/vodtv.cn@gh-pages/sources/cn.json</td>
+      <td>https://cdn.gitmirror.com/gh/vodtv/raw@gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
@@ -231,19 +103,19 @@
    <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv.cn/gh-pages/cn.m3u</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/raw/gh-pages/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv.cn/gh-pages/txt/cn.txt</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/raw/gh-pages/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv.cn/gh-pages/epg/51zmt.xml</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/raw/gh-pages/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/vodtv.cn/gh-pages/sources/cn.json</td>
+      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/raw/gh-pages/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
