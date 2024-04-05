@@ -1,3 +1,4 @@
+# IPTV - SOURCES
 
 ## 目录
 
@@ -33,11 +34,11 @@
 | epg.pw China | [cn.m3u](/cn.m3u) <br> [cn.txt](/txt/cn.txt) | [List for epg.pw China](/list/cn.list) | 431 | - |
 | epg.pw 央视 | [ew_cc.m3u](/ew_cc.m3u) <br> [ew_cc.txt](/txt/ew_cc.txt) | [List for epg.pw 央视](/list/ew_cc.list) | 8 | - |
 | epg.pw 卫视 | [ew_ws.m3u](/ew_ws.m3u) <br> [ew_ws.txt](/txt/ew_ws.txt) | [List for epg.pw 卫视](/list/ew_ws.list) | 34 | - |
-| epg.pw 国内 | [ew_cn.m3u](/ew_cn.m3u) <br> [ew_cn.txt](/txt/ew_cn.txt) | [List for epg.pw 国内](/list/ew_cn.list) | 434 | - |
+| epg.pw 国内 | [ew_cn.m3u](/ew_cn.m3u) <br> [ew_cn.txt](/txt/ew_cn.txt) | [List for epg.pw 国内](/list/ew_cn.list) | 431 | - |
 | epg.pw 香港 | [ew_hk.m3u](/ew_hk.m3u) <br> [ew_hk.txt](/txt/ew_hk.txt) | [List for epg.pw 香港](/list/ew_hk.list) | 50 | - |
 | epg.pw 澳門 | [ew_om.m3u](/ew_om.m3u) <br> [ew_om.txt](/txt/ew_om.txt) | [List for epg.pw 澳門](/list/ew_om.list) | 12 | - |
 | epg.pw 台灣 | [ew_tw.m3u](/ew_tw.m3u) <br> [ew_tw.txt](/txt/ew_tw.txt) | [List for epg.pw 台灣](/list/ew_tw.list) | 136 | - |
-| epg.pw ipv6 | [ew_ipv6.m3u](/ew_ipv6.m3u) <br> [ew_ipv6.txt](/txt/ew_ipv6.txt) | [List for epg.pw ipv6](/list/ew_ipv6.list) | 2368 | - |
+| epg.pw ipv6 | [ew_ipv6.m3u](/ew_ipv6.m3u) <br> [ew_ipv6.txt](/txt/ew_ipv6.txt) | [List for epg.pw ipv6](/list/ew_ipv6.list) | 2363 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom | [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u) <br> [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom](/list/q_bj_iptv_unicom.list) | 131 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](/list/q_bj_iptv_unicom_m.list) | 131 | - |
 | qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 146 | - |
@@ -45,7 +46,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](/ss_itv.m3u) <br> [ss_itv.txt](/txt/ss_itv.txt) | [List for 全国 酒店组播源](/list/ss_itv.list) | 411 | - |
 | 稳定 最新源 | [hc_cntv.m3u](/hc_cntv.m3u) <br> [hc_cntv.txt](/txt/hc_cntv.txt) | [List for 稳定 最新源](/list/hc_cntv.list) | 84 | - |
 
-Updated at **4/5/2024 3:33:52 PM**
+Updated at **4/5/2024 3:41:25 PM**
 
 ## EPG
 
@@ -57,7 +58,7 @@ Updated at **4/5/2024 3:33:52 PM**
 | EPG接口4 | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | EPG接口5 | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **4/5/2024 3:33:52 PM**
+Updated at **4/5/2024 3:41:25 PM**
 
 ## CDN加速
 
