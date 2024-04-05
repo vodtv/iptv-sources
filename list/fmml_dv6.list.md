@@ -107,14 +107,14 @@
 | 99 | 家有购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8> |
 | 100 | 快乐购 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8> |
 
-Updated at **4/5/2024 8:10:20 AM**
+Updated at **4/5/2024 3:33:52 PM**
 
 ## 使用说明
 
-. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+- 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://viptv.work/about/contribute！
+- 捐赠打赏地址 https://viptv.work/about/support！
 
-. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+- 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
-. 非常感谢您的大力支持和理解！
+- 非常感谢您的大力支持和理解！

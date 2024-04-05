@@ -1217,14 +1217,14 @@
 | 1209 | ysn-565渚 | t15.cdn2020.com:12339 | <https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8> |
 | 1210 | ysn-566高瀬 | t15.cdn2020.com:12339 | <https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8> |
 
-Updated at **4/5/2024 8:10:20 AM**
+Updated at **4/5/2024 3:33:52 PM**
 
 ## 使用说明
 
-. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+- 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://viptv.work/about/contribute！
+- 捐赠打赏地址 https://viptv.work/about/support！
 
-. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+- 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
-. 非常感谢您的大力支持和理解！
+- 非常感谢您的大力支持和理解！

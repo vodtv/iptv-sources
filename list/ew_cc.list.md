@@ -15,14 +15,14 @@
 | 7 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
 | 8 | [BD]风云足球[ipv6] | epg.pw | <https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8> |
 
-Updated at **4/5/2024 8:10:20 AM**
+Updated at **4/5/2024 3:33:52 PM**
 
 ## 使用说明
 
-. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+- 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://viptv.work/about/contribute！
+- 捐赠打赏地址 https://viptv.work/about/support！
 
-. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+- 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
-. 非常感谢您的大力支持和理解！
+- 非常感谢您的大力支持和理解！

@@ -2201,14 +2201,14 @@
 | 2193 | 足球超级猎食者(上) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8> |
 | 2194 | 足球超级猎食者(下) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8> |
 
-Updated at **4/5/2024 8:10:20 AM**
+Updated at **4/5/2024 3:33:52 PM**
 
 ## 使用说明
 
-. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+- 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://viptv.work/about/contribute！
+- 捐赠打赏地址 https://viptv.work/about/support！
 
-. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+- 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
-. 非常感谢您的大力支持和理解！
+- 非常感谢您的大力支持和理解！

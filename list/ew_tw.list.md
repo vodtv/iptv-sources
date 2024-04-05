@@ -37,7 +37,7 @@
 | 29 | [BD]discovery channel cee hd | epg.pw | <https://epg.pw/stream/94376536df0cfe2fdad4a6e4bf5b7fa6cd6d6fe49d9a53e99bcb2344979ffced.m3u8> |
 | 30 | [HD]dnj tv | epg.pw | <https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8> |
 | 31 | [HD]made in hollywood | epg.pw | <https://epg.pw/stream/591e0f2e83132e57ed5dfd03f6502828ae2dbdf70e450e1f165c22c40503dae8.m3u8> |
-| 32 | [BD]momo亲子台1 | epg.pw | <https://epg.pw/stream/be8077bcc4a308e784a9f9de2136c07c138c3fe1a449c159c22bfba1a7c28dc6.m3u8> |
+| 32 | [BD]momo亲子台1 | epg.pw | <https://epg.pw/stream/cb5e97a3ab7136f3fa96dde3756270770cebfc14b0aa47790ae22d13b6bc70b8.m3u8> |
 | 33 | [HD]petclub hd | epg.pw | <https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904aedc6fc5e83c61225e.ctv> |
 | 34 | [BD]taiwan plus tv | epg.pw | <https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8> |
 | 35 | [VGA]「河南」新野综合 | epg.pw | <https://epg.pw/stream/e22466cc931f87ee3348117d7805f44f25f699df8a5b91430e2fc4039b901076.m3u8> |
@@ -88,7 +88,7 @@
 | 80 | [BD]寰宇台湾新闻 | epg.pw | <https://epg.pw/stream/9727d08155bfc0b4dd3edf64ad221d21cd8dc719ec9c5c8bdbe2087a4c28e734.ctv> |
 | 81 | [HD]寰宇新闻台湾台 | epg.pw | <https://epg.pw/stream/48da07df6936c8f4feaf88836ee5eac70ff00130ff2da9a7d43d330be2d9ee01.m3u8> |
 | 82 | [BD]东森亚洲卫视 | epg.pw | <https://epg.pw/stream/72bc5a2041b950977a8bf9072b6ef130ed6e55bb2224c3c6ade7ee1e6736cc86.m3u8> |
-| 83 | [BD]东森幼幼2 | epg.pw | <https://epg.pw/stream/d35cc573746024eb611046288002be136a43c60a22a30468168d81e2afe2897e.m3u8> |
+| 83 | [BD]东森幼幼2 | epg.pw | <https://epg.pw/stream/1d9ca51d13542893db91a27fea36b56c6af8a85f2b39d49695832a26f18b1124.m3u8> |
 | 84 | [BD]东森新闻 | epg.pw | <https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8> |
 | 85 | [BD]东森新闻 | epg.pw | <https://epg.pw/stream/6ba779245d7cce247a2d52ccf40866c731947a6185f7ed61e7b28a877bbd5a18.ctv> |
 | 86 | [BD]东森洋片 | epg.pw | <https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8> |
@@ -143,14 +143,14 @@
 | 135 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 136 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **4/5/2024 8:10:20 AM**
+Updated at **4/5/2024 3:33:52 PM**
 
 ## 使用说明
 
-. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+- 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://viptv.work/about/contribute！
+- 捐赠打赏地址 https://viptv.work/about/support！
 
-. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+- 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
-. 非常感谢您的大力支持和理解！
+- 非常感谢您的大力支持和理解！
