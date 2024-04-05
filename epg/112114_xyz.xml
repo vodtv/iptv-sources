@@ -65040,6 +65040,9 @@
 	<programme channel="黑莓动画" start="20240406012500 +0800" stop="20240406013400 +0800">
 		<title lang="zh">39_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240406013400 +0800" stop="20240406015800 +0800">
+		<title lang="zh">03_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65553,6 +65556,9 @@
 	<programme channel="newtv精品大剧" start="20240406005500 +0800" stop="20240406014000 +0800">
 		<title lang="zh">02_旗袍美探</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240406014000 +0800" stop="20240406022500 +0800">
+		<title lang="zh">03_旗袍美探</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -65607,6 +65613,9 @@
 	<programme channel="newtv动作电影" start="20240406002900 +0800" stop="20240406013300 +0800">
 		<title lang="zh">无名客栈之麒麟觉醒</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240406013300 +0800" stop="20240406023500 +0800">
+		<title lang="zh">势不可挡</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -65645,6 +65654,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240406011500 +0800" stop="20240406013200 +0800">
 		<title lang="zh">月圆花好-李莹</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240406013200 +0800" stop="20240406014800 +0800">
+		<title lang="zh">半壶纱-李莹</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -65714,6 +65726,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20240406001600 +0800" stop="20240406014000 +0800">
 		<title lang="zh">孙悟空大战盘丝洞</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240406014000 +0800" stop="20240406030100 +0800">
+		<title lang="zh">兰若行者</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
