@@ -69,29 +69,30 @@
 | 61 | 浙江卫视 | 浙江广播电视集团 | <http://ali-m-l.cztv.com/channels/lantian/channel01/360p.m3u8> |
 | 62 | 凤凰资讯 | IPv4 直链 | <http://1.62.64.212/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8> |
 | 63 | 凤凰中文 | IPv4 直链 | <http://1.62.64.76/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8> |
-| 64 | 东方卫视 | volc-stream.kksmg.com | <https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=921c93495b326ed4e450882cf297328f&volcTime=1712426833> |
+| 64 | 东方卫视 | volc-stream.kksmg.com | <https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=2cda124961fa9797a2ba006f7b715a37&volcTime=1712427842> |
 | 65 | 江苏卫视 | IPv4 直链 | <http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295602.m3u8> |
 | 66 | 安徽卫视 | IPv4 直链 | <http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000298002.m3u8> |
-| 67 | 重庆卫视 | player.200877926.top | <http://player.200877926.top/videojs.php?id=https://sjlivecdn9.cbg.cn/202404060007/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
+| 67 | 重庆卫视 | sjlivecdn9.cbg.cn | <https://sjlivecdn9.cbg.cn/202404060224/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
 | 68 | 北京卫视 | IPv4 直链 | <http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000272102.m3u8> |
 | 69 | 辽宁卫视 | IPv4 直链 | <http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000281302.m3u8> |
 | 70 | 黑龙江卫视 | player.200877926.top | <http://player.200877926.top/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8> |
 | 71 | 山东卫视 | IPv4 直链 | <http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294802.m3u8> |
 | 72 | 云南卫视 | tvlive.ynradio.com | <http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8> |
 | 73 | 四川卫视 | tvshow.scgchc.com | <https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8> |
-| 74 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ae940ec162cc9b23d1ebd3459cd53060&wsTime=1712354701> |
+| 74 | 河南卫视 | 河南广播网 | <http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ae940ec162cc9b23d1ebd3459cd53060&wsTime=1712354701&wsSession=9ea80e7453c4abfe0b06eb4f-171234147318598&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1> |
 | 75 | 广东卫视 | IPv4 直链 | <http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292702.m3u8> |
 | 76 | 河北卫视 | tv.pull.hebtv.com | <http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58> |
-| 77 | 吉林卫视 | 吉林广播电视台 | <http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=071cbdac1712347828> |
-| 78 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-lvzDEG.m3u8> |
-| 79 | 宁夏卫视 | stream.nxtv.com.cn | <http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=47009f071712482644> |
-| 80 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=fb522ccef70ea419bae97974573d3b77&time=66103e9e> |
-| 81 | 新疆卫视 | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655> |
-| 82 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=8e5b2ed61712345854> |
-| 83 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=3133c9d81712335664> |
-| 84 | 三沙卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=c3dce3f81712344304> |
+| 77 | 吉林卫视 | 吉林广播电视台 | <http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=f24a34f21712348764> |
+| 78 | 山西卫视 | livehhhttps.sxrtv.com | <https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/25sqkR0.m3u8> |
+| 79 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-lvzDEG.m3u8> |
+| 80 | 宁夏卫视 | stream.nxtv.com.cn | <http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=47009f071712482644> |
+| 81 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=d7186b4b97aa19a3ea24a8a292de89e8&time=66104248> |
+| 82 | 新疆卫视 | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655> |
+| 83 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=8e5b2ed61712345854> |
+| 84 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=3133c9d81712335664> |
+| 85 | 三沙卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=c3dce3f81712344304> |
 
-Updated at **4/5/2024 6:29:57 PM**
+Updated at **4/5/2024 6:30:58 PM**
 
 ## 使用说明
 
