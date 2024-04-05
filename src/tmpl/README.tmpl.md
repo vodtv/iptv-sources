@@ -27,7 +27,7 @@
 
 ## CDN加速
 
-### 镜像站(fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
+### 镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
 <details>
 <br>
 <table>
@@ -122,16 +122,48 @@
 </table>
 </details>
 
+### 原网址前加（ghproxy.cc || cf.ghproxy.cc） -（国内访问快）
+
+<details>
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>格式</th>
+      <th>示例 </th>
+    </tr>
+  </thead>
+   <tbody>
+    <tr>
+      <td>M3U</td>
+      <td>https://ghproxy.cc/https://raw.githubusercontent.com/vodtv/raw/gh-pages/cn.m3u</td>
+    </tr>
+     <tr>
+      <td>TXT</td>
+      <td>https://ghproxy.cc/https://raw.githubusercontent.com/vodtv/raw/gh-pages/txt/cn.txt</td>
+    </tr>
+    <tr>
+      <td>XML</td>
+      <td>https://ghproxy.cc/https://raw.githubusercontent.com/vodtv/raw/gh-pages/epg/51zmt.xml</td>
+    </tr>
+    <tr>
+      <td>JSON</td>
+      <td>https://ghproxy.cc/https://raw.githubusercontent.com/vodtv/raw/gh-pages/sources/cn.json</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
 ## 资源出处
 
 本站IPTV资源出处:
 - <https://epg.pw/test_channel_page.html>
-- [iptv.org](https://521github.com/iptv-org/iptv)
-- [YueChan/Live](https://521github.com/YueChan/Live)
-- [YanG-1989/m3u](https://521github.com/YanG-1989/m3u)
-- [fanmingming/live](https://521github.com/fanmingming/live)
-- [qwerttvv/Beijing-IPTV](https://521github.com/qwerttvv/Beijing-IPTV)
-- [joevess/IPTV](https://521github.com/joevess/IPTV)
+- [iptv.org](https://github.com/iptv-org/iptv)
+- [YueChan/Live](https://github.com/YueChan/Live)
+- [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
+- [fanmingming/live](https://github.com/fanmingming/live)
+- [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)
+- [joevess/IPTV](https://github.com/joevess/IPTV)
 
 ## 免责申明
 - 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
