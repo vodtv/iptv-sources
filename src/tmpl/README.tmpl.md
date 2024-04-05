@@ -28,6 +28,7 @@
 ## CDN加速
 <details>
   <summary>镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）</summary>
+<p>
 <table>
   <thead>
     <tr>
@@ -54,10 +55,12 @@
     </tr>
   </tbody>
 </table>
+</p>
 </details>
  
 <details>
 <summary>镜像站(cdn.gitmirror.com ) -（备用）</summary>
+<p>
 <table>
   <thead>
     <tr>
@@ -84,10 +87,12 @@
     </tr>
   </tbody>
 </table>
-:::
+</p>
+</details>
 
 <details>
 <summary>原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）</summary>
+<p>
 <table>
   <thead>
     <tr>
@@ -114,10 +119,12 @@
     </tr>
   </tbody>
 </table>
+</p>
 </details>
 
 <details>
 <summary>原网址前加（ghproxy.cc || cf.ghproxy.cc） -（国内访问快）</summary>
+<p>
 <table>
   <thead>
     <tr>
@@ -144,6 +151,7 @@
     </tr>
   </tbody>
 </table>
+</p>
 </details>
 
 ## 资源出处
