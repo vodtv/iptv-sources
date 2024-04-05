@@ -28,7 +28,7 @@
 ## CDN加速
 
 > 镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
-> <details> 
+<details> 
 <br>
 <table>
   <thead>
@@ -58,7 +58,7 @@
 </table>
 </details>
 
-- 镜像站(cdn.gitmirror.com ) -（备用）
+> 镜像站(cdn.gitmirror.com ) -（备用）
 <details>
 <br>
 <table>
@@ -89,7 +89,7 @@
 </table>
 </details>
 
-- 原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）
+> 原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）
 <details>
 <br>
 <table>
@@ -120,7 +120,7 @@
 </table>
 </details>
 
-- 原网址前加（ghproxy.cc || cf.ghproxy.cc） -（国内访问快）
+> 原网址前加（ghproxy.cc || cf.ghproxy.cc） -（国内访问快）
 <details>
 <br>
 <table>
