@@ -27,8 +27,8 @@
 
 ## CDN加速
 
-- 镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
-<details>
+> 镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
+> <details> 
 <br>
 <table>
   <thead>
