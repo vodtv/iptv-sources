@@ -418,7 +418,7 @@
 | 410 | 金鹰纪实 | IPv4 直链 | <http://223.159.8.253:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 411 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/5/2024 6:28:45 PM**
+Updated at **4/5/2024 6:29:57 PM**
 
 ## 使用说明
 
