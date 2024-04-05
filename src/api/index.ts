@@ -19,7 +19,6 @@ import {
   qwerttvv_bj_iptv_sources,
   joevess_iptv_sources,
   ss_sources,
-  tao_sources,
   cn_sources
 } from "."
 
@@ -34,6 +33,5 @@ export const sources = [
   ...epg_pw_sources,
   ...qwerttvv_bj_iptv_sources,
   ...ss_sources,
-  ...tao_sources,
   ...cn_sources
 ]

@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/viptv-work/img@main/iptv/about-IPTV.jpg" height="200" />
+<img src="https://img.viptv.work/iptv/about-IPTV.jpg" height="200" />
 <h1 > 收集来自世界各地IPTV </h1> 
 <h4>Collection of resources dedicated to IPTV</h4>  
-<h3 ><a href="https://gitcode.com/iptv/iptv">CDN1</a> - <a href="https://gitlink.org.cn/iptv/iptv">CDN2</a> - <a href="https://cdn.jsdelivr.net/gh/vodtv/iptv-source@gh-pages/">CDN3</a></h3> 
 </div>
 
 ---
@@ -16,3 +15,8 @@
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 您可以 Fork 本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
 - 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
+
+::: info 😄 请赞助支持我！
+如果它在你的项目中帮助了你，可以通过以下方式赞助我，让项目持续的更新。你的支持赞助，会使得项目可持续发展的更好。
+:::
+![打赏赞助](https://img.viptv.work/viptv/support.jpg)
