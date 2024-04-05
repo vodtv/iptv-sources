@@ -24,9 +24,6 @@ jobs:
       run: npm install yarn -g
     - run: yarn install
     - run: CLOSE_SOURCE_PROXY=true && yarn tsup
-
-    - name: "Jekyll theme"
-      run: mv ./src/tmpl/_config.tmpl.yml ./dist/_config.yml   
    
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
