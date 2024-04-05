@@ -26,8 +26,8 @@
 {update_epgs}
 
 ## CDN加速
-
-:::  details 镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
+<details>
+  <summary>镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）</summary>
 <table>
   <thead>
     <tr>
@@ -54,11 +54,10 @@
     </tr>
   </tbody>
 </table>
-:::
-
-:::  details  镜像站(cdn.gitmirror.com ) -（备用）
+</details>
+ 
 <details>
-<br>
+<summary>镜像站(cdn.gitmirror.com ) -（备用）</summary>
 <table>
   <thead>
     <tr>
@@ -87,9 +86,8 @@
 </table>
 :::
 
-> 原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）
 <details>
-<br>
+<summary>原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）</summary>
 <table>
   <thead>
     <tr>
@@ -118,9 +116,8 @@
 </table>
 </details>
 
-> 原网址前加（ghproxy.cc || cf.ghproxy.cc） -（国内访问快）
 <details>
-<br>
+<summary>原网址前加（ghproxy.cc || cf.ghproxy.cc） -（国内访问快）</summary>
 <table>
   <thead>
     <tr>
