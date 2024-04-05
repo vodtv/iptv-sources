@@ -37,7 +37,7 @@
 | epg.pw 国内 | [ew_cn.m3u](/ew_cn.m3u) <br> [ew_cn.txt](/txt/ew_cn.txt) | [List for epg.pw 国内](/list/ew_cn.list) | 434 | - |
 | epg.pw 香港 | [ew_hk.m3u](/ew_hk.m3u) <br> [ew_hk.txt](/txt/ew_hk.txt) | [List for epg.pw 香港](/list/ew_hk.list) | 50 | - |
 | epg.pw 澳門 | [ew_om.m3u](/ew_om.m3u) <br> [ew_om.txt](/txt/ew_om.txt) | [List for epg.pw 澳門](/list/ew_om.list) | 12 | - |
-| epg.pw 台灣 | [ew_tw.m3u](/ew_tw.m3u) <br> [ew_tw.txt](/txt/ew_tw.txt) | [List for epg.pw 台灣](/list/ew_tw.list) | 136 | - |
+| epg.pw 台灣 | [ew_tw.m3u](/ew_tw.m3u) <br> [ew_tw.txt](/txt/ew_tw.txt) | [List for epg.pw 台灣](/list/ew_tw.list) | 135 | - |
 | epg.pw ipv6 | [ew_ipv6.m3u](/ew_ipv6.m3u) <br> [ew_ipv6.txt](/txt/ew_ipv6.txt) | [List for epg.pw ipv6](/list/ew_ipv6.list) | 2363 | - |
 | 北京联通 单播列表 | [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u) <br> [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt) | [List for 北京联通 单播列表](/list/q_bj_iptv_unicom.list) | 131 | - |
 | 北京联通 组播列表 | [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt) | [List for 北京联通 组播列表](/list/q_bj_iptv_unicom_m.list) | 131 | - |
@@ -46,7 +46,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](/ss_itv.m3u) <br> [ss_itv.txt](/txt/ss_itv.txt) | [List for 全国 酒店组播源](/list/ss_itv.list) | 411 | - |
 | 稳定 最新源 | [hc_cntv.m3u](/hc_cntv.m3u) <br> [hc_cntv.txt](/txt/hc_cntv.txt) | [List for 稳定 最新源](/list/hc_cntv.list) | 84 | - |
 
-Updated at **4/5/2024 4:34:15 PM**
+Updated at **4/5/2024 4:54:27 PM**
 
 ## EPG
 
@@ -58,11 +58,11 @@ Updated at **4/5/2024 4:34:15 PM**
 | EPG接口4 | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | EPG接口5 | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **4/5/2024 4:34:15 PM**
+Updated at **4/5/2024 4:54:27 PM**
 
 ## CDN加速
 
-### 镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
+- 镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）
 <details>
 <br>
 <table>
@@ -93,8 +93,7 @@ Updated at **4/5/2024 4:34:15 PM**
 </table>
 </details>
 
-### 镜像站(cdn.gitmirror.com ) -（备用）
-
+- 镜像站(cdn.gitmirror.com ) -（备用）
 <details>
 <br>
 <table>
@@ -125,8 +124,7 @@ Updated at **4/5/2024 4:34:15 PM**
 </table>
 </details>
 
-### 原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）
-
+- 原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）
 <details>
 <br>
 <table>
@@ -157,8 +155,7 @@ Updated at **4/5/2024 4:34:15 PM**
 </table>
 </details>
 
-### 原网址前加（ghproxy.cc || cf.ghproxy.cc） -（国内访问快）
-
+- 原网址前加（ghproxy.cc || cf.ghproxy.cc） -（国内访问快）
 <details>
 <br>
 <table>
