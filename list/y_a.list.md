@@ -1217,7 +1217,7 @@
 | 1209 | ysn-565渚 | t15.cdn2020.com:12339 | <https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8> |
 | 1210 | ysn-566高瀬 | t15.cdn2020.com:12339 | <https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8> |
 
-Updated at **4/5/2024 6:13:58 PM**
+Updated at **4/5/2024 6:20:08 PM**
 
 ## 使用说明
 
