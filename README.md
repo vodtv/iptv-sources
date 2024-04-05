@@ -19,6 +19,6 @@
 ## 赞助支持
 
  如果它在你的项目中帮助了你，可以通过以下方式赞助我，让项目持续的更新。你的支持赞助，会使得项目可持续发展的更好。
- 
- <img src="https://img.viptv.work/viptv/support.jpg" height="350"/>
-
+ <div align="center">
+ <img src="https://img.viptv.work/viptv/support.jpg" height="200"/>
+ </div>
