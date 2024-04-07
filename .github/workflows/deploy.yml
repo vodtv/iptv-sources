@@ -31,5 +31,5 @@ jobs:
         github_token: ${{ secrets.ACTION_TOKEN }}
         publish_dir: ./dist
         enable_jekyll: true
-        cname: raw.vodtv.cn
+        cname: iptv.vodtv.cn
    
