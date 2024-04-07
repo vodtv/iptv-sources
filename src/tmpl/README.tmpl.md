@@ -2,11 +2,11 @@
 
 ## 目录
 
-- ❓  [如何使用](#如何使用)
-- 📺 [IPTV](#IPTV)
+- ❓ [如何使用](#如何使用)
+- 📺 [IPTV](#iptv)
 - 📚 [EPG](#epg)
-- 🚀 [CDN加速](#CDN加速)
-- 🛈 [资源出处](#资源出处)
+- 🚀 [CDN加速](#cdn加速)
+- 🛈  [资源出处](#资源出处)
 - 📖 [免责申明](#免责申明)
 
 ## 如何使用
@@ -26,6 +26,7 @@
 {update_epgs}
 
 ## CDN加速
+
 <details>
   <summary>镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）</summary>
 <p>
@@ -57,7 +58,7 @@
 </table>
 </p>
 </details>
- 
+
 <details>
 <summary>镜像站(cdn.gitmirror.com ) -（备用）</summary>
 <p>
@@ -157,6 +158,7 @@
 ## 资源出处
 
 本站IPTV资源出处:
+
 - <https://epg.pw/test_channel_page.html>
 - [iptv.org](https://github.com/iptv-org/iptv)
 - [YueChan/Live](https://github.com/YueChan/Live)
@@ -166,6 +168,7 @@
 - [joevess/IPTV](https://github.com/joevess/IPTV)
 
 ## 免责申明
+
 - 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
 - 通过 M3U8 Web Player 测试直播源需使用 https 协议的直播源链接。
 - 部分广播电台节目播出具有一定的时效性，需要在指定时段进行收听。

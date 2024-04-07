@@ -11,7 +11,6 @@ import {
   writeSources,
 } from "./components/file";
 
-
 import { writeTvBoxJson } from "./components/tvbox"
 import { updateChannelList, updateReadme } from "./components/readme";
 import { sources } from "./api";
