@@ -58,7 +58,7 @@
 | 50 | 中国天气 | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
 | 51 | CETV3中国教育电视台三套 | iptv.luas.edu.cn | <https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/063125215c-0-0-7677012e61c4b04f692f5f8e49d953c9/index.m3u8> |
 
-Updated at **4/7/2024 9:38:48 AM**
+Updated at **4/7/2024 9:40:29 AM**
 
 ## 使用说明
 

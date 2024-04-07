@@ -344,7 +344,7 @@
 | 336 | 金鹰纪实 | IPv4 直链 | <http://111.225.112.123:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 337 | 陕西一套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/7/2024 9:38:48 AM**
+Updated at **4/7/2024 9:40:29 AM**
 
 ## 使用说明
 
