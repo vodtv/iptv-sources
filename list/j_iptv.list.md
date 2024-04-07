@@ -510,13 +510,13 @@
 | 502 | CGTN西语 | CGTN | <https://livees.cgtn.com/1000e/prog_index.m3u8> |
 | 503 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **4/7/2024 8:11:09 AM**
+Updated at **4/7/2024 9:18:31 AM**
 
 ## 使用说明
 
 - 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-- 捐赠打赏地址 https://viptv.work/about/support！
+- 捐赠打赏地址 <https://viptv.work/about/support！>
 
 - 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

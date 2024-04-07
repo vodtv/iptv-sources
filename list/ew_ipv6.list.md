@@ -2354,13 +2354,13 @@
 | 2346 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2347 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **4/7/2024 8:11:09 AM**
+Updated at **4/7/2024 9:18:31 AM**
 
 ## 使用说明
 
 - 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-- 捐赠打赏地址 https://viptv.work/about/support！
+- 捐赠打赏地址 <https://viptv.work/about/support！>
 
 - 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

@@ -512,13 +512,13 @@
 | 504 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
 | 505 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 
-Updated at **4/7/2024 8:11:09 AM**
+Updated at **4/7/2024 9:18:31 AM**
 
 ## 使用说明
 
 - 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-- 捐赠打赏地址 https://viptv.work/about/support！
+- 捐赠打赏地址 <https://viptv.work/about/support！>
 
 - 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

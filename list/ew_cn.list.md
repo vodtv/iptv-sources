@@ -448,13 +448,13 @@
 | 440 | [BD]黑龙新闻法治[ipv6] | epg.pw | <https://epg.pw/stream/08e8dc836a9f361c4c530b31e91fb863e7d3f974cdf9d38126038200f007d3ca.m3u8> |
 | 441 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **4/7/2024 8:11:09 AM**
+Updated at **4/7/2024 9:18:31 AM**
 
 ## 使用说明
 
 - 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-- 捐赠打赏地址 https://viptv.work/about/support！
+- 捐赠打赏地址 <https://viptv.work/about/support！>
 
 - 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

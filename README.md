@@ -2,11 +2,11 @@
 
 ## 目录
 
-- ❓  [如何使用](#如何使用)
-- 📺 [IPTV](#IPTV)
+- ❓ [如何使用](#如何使用)
+- 📺 [IPTV](#iptv)
 - 📚 [EPG](#epg)
-- 🚀 [CDN加速](#CDN加速)
-- 🛈 [资源出处](#资源出处)
+- 🚀 [CDN加速](#cdn加速)
+- 🛈  [资源出处](#资源出处)
 - 📖 [免责申明](#免责申明)
 
 ## 如何使用
@@ -17,12 +17,14 @@
 
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
-| 成人IPTV | [a_chs.m3u](/a_chs.m3u) <br> [a_chs.txt](/txt/a_chs.txt) | [List for 成人IPTV](/list/a_chs.list) | update failed | - |
+| 18+IPTV | [18+iptv.m3u](/18+iptv.m3u) <br> [18+iptv.txt](/txt/18+iptv.txt) | [List for 18+IPTV](/list/18+iptv.list) | 9650 | - |
+| YanG_1989 Adult | [18_adu.m3u](/18_adu.m3u) <br> [18_adu.txt](/txt/18_adu.txt) | [List for YanG_1989 Adult](/list/18_adu.list) | 1210 | - |
+| 18+玩偶姐 | [18_woj.m3u](/18_woj.m3u) <br> [18_woj.txt](/txt/18_woj.txt) | [List for 18+玩偶姐](/list/18_woj.list) | 335 | - |
+| 18+松视源 | [18_ssy.m3u](/18_ssy.m3u) <br> [18_ssy.txt](/txt/18_ssy.txt) | [List for 18+松视源](/list/18_ssy.list) | 5 | - |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 166 | - |
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6(Invalid)](/list/fmml_dv6.list) | 100 | - |
 | YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 280 | - |
 | YanG-1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG-1989 Gather](/list/y_g.list) | 2194 | - |
-| YanG_1989 Adult | [y_a.m3u](/y_a.m3u) <br> [y_a.txt](/txt/y_a.txt) | [List for YanG_1989 Adult](/list/y_a.list) | 1210 | - |
 | joevess/IPTV home | [j_home.m3u](/j_home.m3u) <br> [j_home.txt](/txt/j_home.txt) | [List for joevess/IPTV home](/list/j_home.list) | 51 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](/j_iptv.m3u) <br> [j_iptv.txt](/txt/j_iptv.txt) | [List for joevess/IPTV iptv](/list/j_iptv.list) | 503 | - |
 | iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 10005 | - |
@@ -44,9 +46,13 @@
 | 北京移动 单播列表 | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for 北京移动 单播列表](/list/q_bj_iptv_mobile.list) | 146 | - |
 | 北京移动 组播列表 | [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u) <br> [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt) | [List for 北京移动 组播列表](/list/q_bj_iptv_mobile_m.list) | 129 | - |
 | 全国 酒店组播源 | [ss_itv.m3u](/ss_itv.m3u) <br> [ss_itv.txt](/txt/ss_itv.txt) | [List for 全国 酒店组播源](/list/ss_itv.list) | 457 | - |
-| 稳定 最新源 | [hc_cntv.m3u](/hc_cntv.m3u) <br> [hc_cntv.txt](/txt/hc_cntv.txt) | [List for 稳定 最新源](/list/hc_cntv.list) | 82 | - |
+| 陕西 移动源 | [sx_ydy.m3u](/sx_ydy.m3u) <br> [sx_ydy.txt](/txt/sx_ydy.txt) | [List for 陕西 移动源](/list/sx_ydy.list) | 64 | - |
+| 陕西铜川移动 | [sx_tcy.m3u](/sx_tcy.m3u) <br> [sx_tcy.txt](/txt/sx_tcy.txt) | [List for 陕西铜川移动](/list/sx_tcy.list) | 43 | - |
+| 广场舞蹈 | [vod_gcw.m3u](/vod_gcw.m3u) <br> [vod_gcw.txt](/txt/vod_gcw.txt) | [List for 广场舞蹈](/list/vod_gcw.list) | 126 | - |
+| DJ舞曲 | [vod_djw.m3u](/vod_djw.m3u) <br> [vod_djw.txt](/txt/vod_djw.txt) | [List for DJ舞曲](/list/vod_djw.list) | 176 | - |
+| 稳定 最新源 | [hc_cntv.m3u](/hc_cntv.m3u) <br> [hc_cntv.txt](/txt/hc_cntv.txt) | [List for 稳定 最新源](/list/hc_cntv.list) | 81 | - |
 
-Updated at **4/7/2024 8:11:09 AM**
+Updated at **4/7/2024 9:18:31 AM**
 
 ## EPG
 
@@ -58,9 +64,10 @@ Updated at **4/7/2024 8:11:09 AM**
 | EPG接口4 | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | EPG接口5 | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **4/7/2024 8:11:09 AM**
+Updated at **4/7/2024 9:18:31 AM**
 
 ## CDN加速
+
 <details>
   <summary>镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）</summary>
 <p>
@@ -92,7 +99,7 @@ Updated at **4/7/2024 8:11:09 AM**
 </table>
 </p>
 </details>
- 
+
 <details>
 <summary>镜像站(cdn.gitmirror.com ) -（备用）</summary>
 <p>
@@ -192,6 +199,7 @@ Updated at **4/7/2024 8:11:09 AM**
 ## 资源出处
 
 本站IPTV资源出处:
+
 - <https://epg.pw/test_channel_page.html>
 - [iptv.org](https://github.com/iptv-org/iptv)
 - [YueChan/Live](https://github.com/YueChan/Live)
@@ -201,6 +209,7 @@ Updated at **4/7/2024 8:11:09 AM**
 - [joevess/IPTV](https://github.com/joevess/IPTV)
 
 ## 免责申明
+
 - 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
 - 通过 M3U8 Web Player 测试直播源需使用 https 协议的直播源链接。
 - 部分广播电台节目播出具有一定的时效性，需要在指定时段进行收听。

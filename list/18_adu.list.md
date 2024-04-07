@@ -1,6 +1,6 @@
 # List for **YanG_1989 Adult**
 
-> M3U: [y_a.m3u](/y_a.m3u), TXT: [y_a.txt](/txt/y_a.txt)
+> M3U: [18_adu.m3u](/18_adu.m3u), TXT: [18_adu.txt](/txt/18_adu.txt)
 
 ## 频道详情
 
@@ -1217,13 +1217,13 @@
 | 1209 | ysn-565渚 | t15.cdn2020.com:12339 | <https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8> |
 | 1210 | ysn-566高瀬 | t15.cdn2020.com:12339 | <https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8> |
 
-Updated at **4/7/2024 8:11:09 AM**
+Updated at **4/7/2024 9:18:31 AM**
 
 ## 使用说明
 
 - 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-- 捐赠打赏地址 https://viptv.work/about/support！
+- 捐赠打赏地址 <https://viptv.work/about/support！>
 
 - 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
