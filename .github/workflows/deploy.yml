@@ -1,10 +1,10 @@
 name: Build and Deploy
-on:  
+on:
   push:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '0 0,8 * * *'
+    - cron: "0 0,8 * * *"
 jobs:
   build-and-deploy:
     runs-on: ${{ matrix.os }}
@@ -14,22 +14,21 @@ jobs:
         node_version: [20.x]
     name: "Build&Deploy: node-${{ matrix.node_version }}, ${{ matrix.os }}"
     steps:
-    - uses: actions/checkout@v4
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4   
-      with:
-        node-version: ${{ matrix.node_version }}
-        cache: "npm"
-    - name: install yarn
-      run: npm install yarn -g
-    - run: yarn install
-    - run: CLOSE_SOURCE_PROXY=true && yarn tsup
-   
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.ACTION_TOKEN }}
-        publish_dir: ./dist
-        enable_jekyll: true
-        cname: iptv.vodtv.cn
-   
+      - uses: actions/checkout@v4
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node_version }}
+          cache: "npm"
+      - name: install yarn
+        run: npm install yarn -g
+      - run: yarn install
+      - run: CLOSE_SOURCE_PROXY=true && yarn tsup
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.ACTION_TOKEN }}
+          publish_dir: ./dist
+          enable_jekyll: true
+          cname: iptv.vodtv.cn
