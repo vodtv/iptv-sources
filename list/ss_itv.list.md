@@ -469,7 +469,7 @@
 | 461 | 金鹰纪实 | IPv4 直链 | <http://121.19.134.190:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 462 | 陕西一套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/8/2024 12:37:18 AM**
+Updated at **4/8/2024 8:11:05 AM**
 
 ## 使用说明
 

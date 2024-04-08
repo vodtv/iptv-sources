@@ -131,7 +131,7 @@
 | 123 | 百视通体育6 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=sport6> |
 | 124 | 百视通体育7 | itv.lat | <https://itv.lat/tv/live.php?&line=1&id=sport7> |
 
-Updated at **4/8/2024 12:37:18 AM**
+Updated at **4/8/2024 8:11:05 AM**
 
 ## 使用说明
 
