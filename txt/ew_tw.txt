@@ -84,7 +84,6 @@
 [BD]elta体育3,https://epg.pw/stream/0d4cbf929dd61d2c538579b992e1422a07e07771306207a98d7067b2d8423e8d.m3u8
 [BD]博斯无限1,https://epg.pw/stream/8869d8435b617bd9720f9f7ca6e20bf99f66ccf8ce853cfb71d3092fa7e39685.m3u8
 [HD]博斯无限2,https://epg.pw/stream/74234307b67e52cc616631973a9dd373d1410c6fa6a62b5df71f4360895e5a44.m3u8
-[HD]博斯网球,https://epg.pw/stream/b43acc0f46fb09bbfaf54f62018560aec256f05e938dfce0a85b5e3ab444e15a.m3u8
 [HD]博斯运动2,https://epg.pw/stream/ad6622d41597e73d6dd3631e29bb9d8c6357a217197023cc649d6e8a61af03ad.m3u8
 [HD]博斯高球,https://epg.pw/stream/7df20d4d0d04045e5722792bcd477b161e7f457e358e314dd7bc5f8bd828b294.m3u8
 [VGA]纬来体育台,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
@@ -130,6 +129,7 @@
 [BD]三立inews,https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
 [VGA]三立国际,https://epg.pw/stream/1252ad40c48513f7671b71be735be04f6b6638d865cd4d6c0d90811a86c2d9ce.m3u8
 [BD]三立新闻,https://epg.pw/stream/c5939738ee7c97ed8c4c3b2eca5d623ec7e302ae819a856cfcc9f17a0348c1c8.ctv
+[HD]东森新闻,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
 [BD]中天新闻,https://epg.pw/stream/c777261660d10a1ad03c2056e18ca6130658e947c6abe637f5eb9a70dd55235d.m3u8
 [BD]中视新闻,https://epg.pw/stream/a2663f1148ccbbb96dbba3413a5147c51bd267b90169595e93ec8950e9ea87fa.ctv
 [BD]中视新闻台,https://epg.pw/stream/6a353ec254f32e5ec540b3a4a78c94313270398df5c95a7111177ebe943424b2.m3u8
@@ -138,7 +138,6 @@
 [HD]壹新闻,https://epg.pw/stream/bfd91755315d977105d93121ffc19ffb76337ab15d28de83c64352b4dde2662c.m3u8
 [BD]寰宇台湾新闻,https://epg.pw/stream/9727d08155bfc0b4dd3edf64ad221d21cd8dc719ec9c5c8bdbe2087a4c28e734.ctv
 [HD]寰宇新闻台湾台,https://epg.pw/stream/48da07df6936c8f4feaf88836ee5eac70ff00130ff2da9a7d43d330be2d9ee01.m3u8
-[BD]东森新闻,https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
 [BD]东森新闻,https://epg.pw/stream/6ba779245d7cce247a2d52ccf40866c731947a6185f7ed61e7b28a877bbd5a18.ctv
 [BD]东森财经,https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8
 [HD]民视新闻,https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.m3u8

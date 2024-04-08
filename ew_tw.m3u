@@ -79,6 +79,8 @@ https://epg.pw/stream/f45f2f4dd98d6d7c1daf32cd10e644820b35bf672c512022787b45b8e7
 https://epg.pw/stream/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.m3u8
 #EXTINF:-1 tvg-name="东森 超视" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126212025462229_58.jpg" group-title="综合",[VGA]东森 超视
 https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv
+#EXTINF:-1 tvg-name="东森新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg" group-title="新闻",[HD]东森新闻
+https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
 #EXTINF:-1 tvg-name="中天亚洲" tvg-id="11088" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="综合",[HD]中天亚洲台
 https://epg.pw/stream/b2c21dc375aa7d91af1ae24341e9065d56b0b142fef4d75f915a2b43552f907e.ctv
 #EXTINF:-1 tvg-name="中天娱乐HD" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114210645647968_28.jpg" group-title="综艺",[BD]中天娱乐hd
@@ -119,8 +121,6 @@ https://epg.pw/stream/310fc17ad83dbe9bdf2a35abf9cd2a8c138a4abe3de1ae962264eb708b
 https://epg.pw/stream/8869d8435b617bd9720f9f7ca6e20bf99f66ccf8ce853cfb71d3092fa7e39685.m3u8
 #EXTINF:-1 tvg-name="博斯无限2" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/11/27/large/20211127205355562787_95.png" group-title="运动",[HD]博斯无限2
 https://epg.pw/stream/74234307b67e52cc616631973a9dd373d1410c6fa6a62b5df71f4360895e5a44.m3u8
-#EXTINF:-1 tvg-name="博斯网球" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322221733899159_41.png" group-title="运动",[HD]博斯网球
-https://epg.pw/stream/b43acc0f46fb09bbfaf54f62018560aec256f05e938dfce0a85b5e3ab444e15a.m3u8
 #EXTINF:-1 tvg-name="博斯运动2" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318232721507395_55.jpg" group-title="运动",[HD]博斯运动2
 https://epg.pw/stream/ad6622d41597e73d6dd3631e29bb9d8c6357a217197023cc649d6e8a61af03ad.m3u8
 #EXTINF:-1 tvg-name="博斯高球" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/b6b542af76a22d8bb07bcf8a92aa155f.jpg" group-title="运动",[HD]博斯高球
@@ -163,8 +163,6 @@ https://epg.pw/stream/48da07df6936c8f4feaf88836ee5eac70ff00130ff2da9a7d43d330be2
 https://epg.pw/stream/72bc5a2041b950977a8bf9072b6ef130ed6e55bb2224c3c6ade7ee1e6736cc86.m3u8
 #EXTINF:-1 tvg-name="东森幼幼" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614213059204205_66.png" group-title="儿童",[BD]东森幼幼2
 https://epg.pw/stream/d35cc573746024eb611046288002be136a43c60a22a30468168d81e2afe2897e.m3u8
-#EXTINF:-1 tvg-name="东森新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg" group-title="新闻",[BD]东森新闻
-https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
 #EXTINF:-1 tvg-name="东森新闻HD" tvg-id="14272" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105958907992_29.png" group-title="新闻",[BD]东森新闻
 https://epg.pw/stream/6ba779245d7cce247a2d52ccf40866c731947a6185f7ed61e7b28a877bbd5a18.ctv
 #EXTINF:-1 tvg-name="东森洋片" tvg-id="" tvg-country="台湾" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105927706804_92.png" group-title="电影",[BD]东森洋片
