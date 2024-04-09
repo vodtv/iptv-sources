@@ -149,7 +149,7 @@
 | 141 | 金鹰卡通 | IPv4 直链 | <http://223.159.8.85:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 142 | 金鹰纪实 | IPv4 直链 | <http://223.159.8.85:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **4/9/2024 7:09:40 PM**
+Updated at **4/9/2024 7:11:15 PM**
 
 ## 使用说明
 
