@@ -54,9 +54,9 @@
 | 陕西铜川移动 | [sx_tcy.m3u](/sx_tcy.m3u) <br> [sx_tcy.txt](/txt/sx_tcy.txt) | [List for 陕西铜川移动](/list/sx_tcy.list) | 43 | - |
 | 广场舞蹈 | [vod_gcw.m3u](/vod_gcw.m3u) <br> [vod_gcw.txt](/txt/vod_gcw.txt) | [List for 广场舞蹈](/list/vod_gcw.list) | 126 | - |
 | DJ舞曲 | [vod_djw.m3u](/vod_djw.m3u) <br> [vod_djw.txt](/txt/vod_djw.txt) | [List for DJ舞曲](/list/vod_djw.list) | 176 | - |
-| 稳定 最新源 | [hc_cntv.m3u](/hc_cntv.m3u) <br> [hc_cntv.txt](/txt/hc_cntv.txt) | [List for 稳定 最新源](/list/hc_cntv.list) | 82 | - |
+| 稳定 最新源 | [hc_cntv.m3u](/hc_cntv.m3u) <br> [hc_cntv.txt](/txt/hc_cntv.txt) | [List for 稳定 最新源](/list/hc_cntv.list) | 83 | - |
 
-Updated at **4/9/2024 6:38:19 PM**
+Updated at **4/9/2024 7:09:40 PM**
 
 ## EPG
 
@@ -68,7 +68,7 @@ Updated at **4/9/2024 6:38:19 PM**
 | EPG接口4 | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | EPG接口5 | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **4/9/2024 6:38:19 PM**
+Updated at **4/9/2024 7:09:40 PM**
 
 ## CDN加速
 

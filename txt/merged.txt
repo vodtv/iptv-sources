@@ -15008,7 +15008,7 @@ KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 民视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 央视台,#genre#
-CCTV-4_中文国际,https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/v1_index.m3u8
+CCTV-4_中文国际,https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/a1_index.m3u8
 CCTV-4K_高清,https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-6_电影频道,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022574302.m3u8
 CCTV-8_电视剧,http://183.196.25.171:808/hls/77/index.m3u8
@@ -15018,13 +15018,13 @@ CCTV-15_音乐,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575502.m3
 CCTV-16_4K,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575402.m3u8
 CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 CGNT_记录频道,http://player.200877926.top/169l/vjs/?id=https://livedoc.cgtn.com/1000d/prog_index.m3u8
-CGNT_新闻频道,http://player.200877926.top/169l/vjs/?id=http://live.cgtn.com/1000/prog_index.m3u8
+CGNT_新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 
 卫视台,#genre#
-浙江卫视,https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1712684566-f83003aade3a5d2526b4db630bd7aa40-0-ad5bf29ea929165322ff9ba56212b1d1
+浙江卫视,https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1712688666-8f9a5005a2152667d79b4011104b75a7-0-a9db2dca82224f78ee8fcd1431bdab8e
 凤凰资讯,http://1.62.64.212/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰中文,http://1.62.64.76/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=93f2e9ba64e04c00b6d87eefe1f4aee0&volcTime=1712773328
+东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=d8d521e16cea0b7e5d3d6f2f0d8409fc&volcTime=1712775250
 江苏卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000295602.m3u8
 安徽卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000298002.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202404100154/app_2/_definst_/ls_2.stream/chunklist.m3u8
@@ -15034,15 +15034,16 @@ CGNT_新闻频道,http://player.200877926.top/169l/vjs/?id=http://live.cgtn.com/
 山东卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000294802.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 四川卫视,https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8
-河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=57833eaec672c26494aba5170c487c1d&wsTime=1712688909&wsSession=88a32580c55817d03002d2c5-171268695972022&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=57833eaec672c26494aba5170c487c1d&wsTime=1712688909&wsSession=88a32580c55817d03002d2c5-171268888113217&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 广东卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000292702.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/p3sh84V.m3u8
 宁夏卫视,http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=9d0821071712830396
-西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=71ee93dfd3514a4861eaa3f81929372e&time=661587cd
+西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=bad1e9565473c816ddff1ba5cc74611e&time=66158f4e
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655
-海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=6d6fa4cd1712687326
+海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=d888e6911712695356
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=0fb5c7921712689381
-三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=8ecef5f11712688935
+三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=2c9b81a81712696190
 央视台,#genre#
 CCTV-1_综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2_财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8

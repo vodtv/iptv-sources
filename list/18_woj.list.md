@@ -342,7 +342,7 @@
 | 334 | 制服美少女2 | videomy.yongaomy.com:8091 | <https://videomy.yongaomy.com:8091/20200104/ssClhQbc/1500kb/hls/index.m3u8> |
 | 335 | White Boxxx | vl05t7es.rostelekom.xyz | <http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6267/index.m3u8> |
 
-Updated at **4/9/2024 6:38:19 PM**
+Updated at **4/9/2024 7:09:40 PM**
 
 ## 使用说明
 
