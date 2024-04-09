@@ -56,7 +56,7 @@
 | 48 | [BD]中视菁采 | epg.pw | <https://epg.pw/stream/68e9b4a0a59369822cb4447da6ddefd8032c322dc5fe904f0d84224747d03b47.m3u8> |
 | 49 | [HD]亚洲旅游 | epg.pw | <https://epg.pw/stream/5eb9f663b32a44cde3f6f3b984d8f841bc81d50549f773b1cb1f49fed7dd7fce.m3u8> |
 | 50 | [BD]亚洲旅游台 | epg.pw | <https://epg.pw/stream/5c7a88fd8be7b0eb8ebfff89a7dcd9a9fa36cc093ad9f3388aaf728be1cb0035.ctv> |
-| 51 | [BD]人间卫视 | epg.pw | <https://epg.pw/stream/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8> |
+| 51 | [HD]人间卫视 | epg.pw | <https://epg.pw/stream/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8> |
 | 52 | [HD]人间卫视 | epg.pw | <https://epg.pw/stream/b477995b160cdb9c7e4073eb76a5e241dfe20bcfee9faf4528af9377a53bf6c5.m3u8> |
 | 53 | [BD]信大电视台 | epg.pw | <https://epg.pw/stream/397ebfe7482a9500a9e02fe3c90af18f92e42a901e5c76e53d76b5faff7eecae.m3u8> |
 | 54 | [BD]八大娱乐 | epg.pw | <https://epg.pw/stream/89721c3a03d6612da0013885a828bad02a80c584180bcbd938d3acd88a90427d.m3u8> |
@@ -140,7 +140,7 @@
 | 132 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 133 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **4/8/2024 8:11:05 AM**
+Updated at **4/9/2024 12:36:12 AM**
 
 ## 使用说明
 

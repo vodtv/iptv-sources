@@ -44,7 +44,7 @@
 | 36 | [BD]港台电视32 | epg.pw | <https://epg.pw/stream/94dab4f5d8a4a4c0c0f33a1393a06ccd28bdbbd1e850b334b5068eb98ad8bdb0.ctv> |
 | 37 | [BD]无线新闻台 | epg.pw | <https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv> |
 | 38 | [BD]无线财经 | epg.pw | <https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv> |
-| 39 | [BD]美亚电影台 | epg.pw | <https://epg.pw/stream/aa88ab270d022850b9ed3159bfa0e6123828543c72f65c502dadd3e7438db368.ctv> |
+| 39 | [HD]美亚电影 | epg.pw | <https://epg.pw/stream/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.m3u8> |
 | 40 | [HD]翡翠台 | epg.pw | <https://epg.pw/stream/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.ctv> |
 | 41 | [BD]无线翡翠台 | epg.pw | <https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv> |
 | 42 | [SD]耀才财经台 | epg.pw | <https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8> |
@@ -58,7 +58,7 @@
 | 50 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 51 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8> |
 
-Updated at **4/8/2024 8:11:05 AM**
+Updated at **4/9/2024 12:36:12 AM**
 
 ## 使用说明
 
