@@ -22,7 +22,7 @@
 | 14 | [HD]LOVE NATURE | epg.pw | <https://epg.pw/stream/1a86f28388b512beaf71e98286d7b27abbbeecacc914c05b722c1fdd40f363ab.ctv> |
 | 15 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
 | 16 | [HD]nat geo | epg.pw | <https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv> |
-| 17 | [HD]ROCK ENTERTAINMENT | epg.pw | <https://epg.pw/stream/8c8f12557120af11c0343207e354cbbaf692b5d271cb873dd58cc9632bb99845.ctv> |
+| 17 | [HD]ROCK ENTERTAINMENT | epg.pw | <https://epg.pw/stream/1f75bf19fa96a21c86b88f77f0395e931082798623c11876b7f3f74f17e073cc.ctv> |
 | 18 | [HD]smithsonian channel | epg.pw | <https://epg.pw/stream/e9b55b0627ec0d41254df6d57f8f84d9519570dab7764510b4c609677fa22f66.ctv> |
 | 19 | [BD]TVBS | epg.pw | <https://epg.pw/stream/9ae7cb0cccc3f33dc1f4713b9b820aa2020cbfd0b776b052dd99871546a2acf4.ctv> |
 | 20 | [HD]TVBS ASIA | epg.pw | <https://epg.pw/stream/b24ea75b5547a557c9eaab14ada1cbcfc1fb2f927c682aad461678671fed6157.ctv> |
@@ -119,7 +119,7 @@
 | 111 | [BD]华视新闻 | epg.pw | <https://epg.pw/stream/875769d062e210c7ba5dfb532fc05b80a5e373ee3579807f45b4a2de0182033a.ctv> |
 | 112 | [BD]运通财经 | epg.pw | <https://epg.pw/stream/c2998e63f6f6dcf383695bfac147bc6d2394738fc66781442945cc89b3573f72.m3u8> |
 | 113 | [BD]采昌影剧 | epg.pw | <https://epg.pw/stream/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e6bf588.m3u8> |
-| 114 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/44871c582cf602f99065669bef0c2da787793452e2bacef67e28d97b1d8800c9.m3u8> |
+| 114 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/796888c73e2cd1ab54d2a036793f34aa3fd6e3446bf8bddd81ec9e7c672c8d5e.m3u8> |
 | 115 | [BD]靖天国际 | epg.pw | <https://epg.pw/stream/008b7492f59e650ba35748ed3574761b770ddb195d7559017799911e8b8fcb4f.m3u8> |
 | 116 | [BD]靖天日本 | epg.pw | <https://epg.pw/stream/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.m3u8> |
 | 117 | [BD]靖天欢乐 | epg.pw | <https://epg.pw/stream/0e23a46b049a72886087950976dbf1ebf40b62f3d7cd68ae5223b7c17ff265ec.m3u8> |
@@ -136,7 +136,7 @@
 | 128 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 129 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **4/9/2024 8:10:16 AM**
+Updated at **4/9/2024 6:38:19 PM**
 
 ## 使用说明
 
