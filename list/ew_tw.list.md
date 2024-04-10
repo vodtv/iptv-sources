@@ -7,7 +7,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]逍遥君小哥ovo | epg.pw | <https://epg.pw/stream/c132fa58a07871bc4ca71bac65b1aea22890c28dd0868fe02d0b50ed2be4305c.ctv> |
-| 2 | [HD]animax | epg.pw | <https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8> |
+| 2 | [VGA]animax | epg.pw | <https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8> |
 | 3 | [BD]CINEMAX | epg.pw | <https://epg.pw/stream/19002e7ace1a8f7755c4a6ef0689fce93495448228312fb20c7d02a5947eafec.ctv> |
 | 4 | [BD]CinemaWorld | epg.pw | <https://epg.pw/stream/0e7993b290b05992c092b2b1ee1ad71ad2814bab86a504e718e130c68b58a98a.ctv> |
 | 5 | [BD]discovery hd world | epg.pw | <https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8> |
@@ -33,7 +33,7 @@
 | 25 | [BD]TVBS综艺台 | epg.pw | <https://epg.pw/stream/5b96691ae50c98b4b4a00188343f575439b8a8d6ff2c2b0e580018696f9430fc.ctv> |
 | 26 | [VGA]win | epg.pw | <https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv> |
 | 27 | [BD]z频道 | epg.pw | <https://epg.pw/stream/f89462f4f0f80c88d72439d1e476bfa3513f723c1df6cc1abc79d464e96638f5.m3u8> |
-| 28 | [BD]discovery channel cee hd | epg.pw | <https://epg.pw/stream/94376536df0cfe2fdad4a6e4bf5b7fa6cd6d6fe49d9a53e99bcb2344979ffced.m3u8> |
+| 28 | [BD]discovery channel (west) | epg.pw | <https://epg.pw/stream/dddd0dd22e786cf6cefe27cb20a25a02405be21211cf594ee4e9083788d24747.m3u8> |
 | 29 | [HD]dnj tv | epg.pw | <https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8> |
 | 30 | [HD]made in hollywood | epg.pw | <https://epg.pw/stream/591e0f2e83132e57ed5dfd03f6502828ae2dbdf70e450e1f165c22c40503dae8.m3u8> |
 | 31 | [BD]momo亲子台1 | epg.pw | <https://epg.pw/stream/cb5e97a3ab7136f3fa96dde3756270770cebfc14b0aa47790ae22d13b6bc70b8.m3u8> |
@@ -69,7 +69,7 @@
 | 61 | [HD]博斯无限2 | epg.pw | <https://epg.pw/stream/74234307b67e52cc616631973a9dd373d1410c6fa6a62b5df71f4360895e5a44.m3u8> |
 | 62 | [HD]博斯运动2 | epg.pw | <https://epg.pw/stream/ad6622d41597e73d6dd3631e29bb9d8c6357a217197023cc649d6e8a61af03ad.m3u8> |
 | 63 | [HD]博斯高球 | epg.pw | <https://epg.pw/stream/7df20d4d0d04045e5722792bcd477b161e7f457e358e314dd7bc5f8bd828b294.m3u8> |
-| 64 | [BD]台视hd | epg.pw | <https://epg.pw/stream/a345fac4f29971eeb4526766c05e2e54f538039817e22b058ef4f1df04f67fe6.m3u8> |
+| 64 | [BD]台视 | epg.pw | <https://epg.pw/stream/b79f606da8ffb4713321c7356f3a3d6c65d66f9eaf133943c0d9d5e36923adba.ctv> |
 | 65 | [BD]台视新闻 | epg.pw | <https://epg.pw/stream/d92e9fe80860a5896ce273e20290e0e4e91ee748d1b644a4af798a28062ee551.ctv> |
 | 66 | [BD]台视新闻 hd | epg.pw | <https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8> |
 | 67 | [VGA]唯心电视 | epg.pw | <https://epg.pw/stream/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8> |
@@ -136,7 +136,7 @@
 | 128 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 129 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **4/9/2024 7:11:15 PM**
+Updated at **4/10/2024 12:35:35 AM**
 
 ## 使用说明
 

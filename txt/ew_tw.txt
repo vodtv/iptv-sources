@@ -19,7 +19,7 @@
 [BD]生命电视台,https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
 
 儿童,#genre#
-[HD]animax,https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8
+[VGA]animax,https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8
 [BD]momo亲子台1,https://epg.pw/stream/cb5e97a3ab7136f3fa96dde3756270770cebfc14b0aa47790ae22d13b6bc70b8.m3u8
 [BD]东森幼幼2,https://epg.pw/stream/d35cc573746024eb611046288002be136a43c60a22a30468168d81e2afe2897e.m3u8
 [BD]靖天欢乐台,https://epg.pw/stream/37bbc40eea9450cc8fe00b5b68841e55916d4977fc129db2141eaa8423407959.ctv
@@ -56,7 +56,7 @@
 [HD]LOVE_NATURE,https://epg.pw/stream/1a86f28388b512beaf71e98286d7b27abbbeecacc914c05b722c1fdd40f363ab.ctv
 [HD]nat_geo,https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv
 [HD]smithsonian_channel,https://epg.pw/stream/e9b55b0627ec0d41254df6d57f8f84d9519570dab7764510b4c609677fa22f66.ctv
-[BD]discovery_channel_cee_hd,https://epg.pw/stream/94376536df0cfe2fdad4a6e4bf5b7fa6cd6d6fe49d9a53e99bcb2344979ffced.m3u8
+[BD]discovery_channel_(west),https://epg.pw/stream/dddd0dd22e786cf6cefe27cb20a25a02405be21211cf594ee4e9083788d24747.m3u8
 
 综艺,#genre#
 [HD]elta娱乐,https://epg.pw/stream/5afb485f7e1ed36f9f2e6bfd1df8698fadb395303e70cef7cb752e42f579f826.m3u8
@@ -100,7 +100,7 @@
 [BD]信大电视台,https://epg.pw/stream/397ebfe7482a9500a9e02fe3c90af18f92e42a901e5c76e53d76b5faff7eecae.m3u8
 [BD]八大综合,https://epg.pw/stream/1c2fc7d5c86079d1921eeab47c285feb04841a33c225de3c306625c9a1921d70.m3u8
 [BD]华视,https://epg.pw/stream/310fc17ad83dbe9bdf2a35abf9cd2a8c138a4abe3de1ae962264eb708bbdd290.ctv
-[BD]台视hd,https://epg.pw/stream/a345fac4f29971eeb4526766c05e2e54f538039817e22b058ef4f1df04f67fe6.m3u8
+[BD]台视,https://epg.pw/stream/b79f606da8ffb4713321c7356f3a3d6c65d66f9eaf133943c0d9d5e36923adba.ctv
 [BD]国会频道1,https://epg.pw/stream/b73e2686833520fef8096f8377e23ac12d5366c7c87ab4af4b9d58edaa4009cd.m3u8
 [HD]国会频道2,https://epg.pw/stream/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8
 [BD]客家电视,https://epg.pw/stream/f1567ca52bd4977a1d1a9c738986080b2020b862b5290f813e217f0dfb90b164.m3u8

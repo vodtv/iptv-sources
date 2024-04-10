@@ -232,7 +232,7 @@
 | 224 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 225 | Travelxp | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8> |
 
-Updated at **4/9/2024 7:11:15 PM**
+Updated at **4/10/2024 12:35:35 AM**
 
 ## 使用说明
 
