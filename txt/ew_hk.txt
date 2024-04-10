@@ -5,6 +5,7 @@
 [HD]tvbj1,https://epg.pw/stream/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
 [BD]tvb翡翠台,https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.m3u8
 [BD]VIUTV,https://epg.pw/stream/004e2492652cf112e5140d68e99832dfcae8c3db8123c328ff2587200461ae53.ctv
+[BD]axs_tv_now_(1080p),https://epg.pw/stream/724836601896e4352220aba1836d449f5ee96a3c8455f000043d4b5688ec0093.m3u8
 [HD]翡翠台,https://epg.pw/stream/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.ctv
 [SD]香港卫视,https://epg.pw/stream/f066f0214caeab6edb2d69427a7db042d2602f3720d102168bfae6074e05e8a2.ctv
 [SD]香港卫视文旅,https://epg.pw/stream/3bba1f61c9bbdb7c3299de2153884249bff20165adcea8abe1fe4fb837f7eb31.m3u8

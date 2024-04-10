@@ -136,7 +136,7 @@
 [HD]寰宇新闻台湾台,https://epg.pw/stream/48da07df6936c8f4feaf88836ee5eac70ff00130ff2da9a7d43d330be2d9ee01.m3u8
 [BD]东森新闻,https://epg.pw/stream/6ba779245d7cce247a2d52ccf40866c731947a6185f7ed61e7b28a877bbd5a18.ctv
 [BD]东森财经,https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8
-[HD]民视新闻,https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.m3u8
+[BD]民视新闻titled,https://epg.pw/stream/f755821b268e0489c3f6182aa3f0aecce6895c5b7a47fd6dee580f1e0c12883a.ctv
 [BD]民视新闻_hd,https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
 [VGA]华视新闻,https://epg.pw/stream/b20d2989c1b4d83ae0b5972a00648b724ae245f21c9542eca7bb8c32a0043a24.ctv
 [BD]华视新闻,https://epg.pw/stream/875769d062e210c7ba5dfb532fc05b80a5e373ee3579807f45b4a2de0182033a.ctv

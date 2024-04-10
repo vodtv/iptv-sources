@@ -98,7 +98,7 @@
 | 90 | [VGA]民视 hd | epg.pw | <https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv> |
 | 91 | [HD]民视hd | epg.pw | <https://epg.pw/stream/44a911a7eb428cf1c0770fe610379edfd76f3f5cfe53063d3e3a550de42769d5.m3u8> |
 | 92 | [HD]民视影剧 | epg.pw | <https://epg.pw/stream/b2f35b3f2d927ce635628a27c93510bb36ccd082b9692b9dca292e8b5f038504.m3u8> |
-| 93 | [HD]民视新闻 | epg.pw | <https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.m3u8> |
+| 93 | [BD]民视新闻titled | epg.pw | <https://epg.pw/stream/f755821b268e0489c3f6182aa3f0aecce6895c5b7a47fd6dee580f1e0c12883a.ctv> |
 | 94 | [VGA]民视旅游 | epg.pw | <https://epg.pw/stream/9289a1165376ea4d6d6bcd7e66c6169d5042cd933e5ba3f972a1f262de0cdcc2.m3u8> |
 | 95 | [HD]民视第一台 | epg.pw | <https://epg.pw/stream/2002091ee6adc33f1c8ac19e0bee27f11884bc039191d021cee0b4420d0c483f.m3u8> |
 | 96 | [HD]民视综艺 | epg.pw | <https://epg.pw/stream/444c52a6e20c3fc54184073761350f1a03bf0298db751fdbfafb1814dcc71cf8.m3u8> |
@@ -136,7 +136,7 @@
 | 128 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 129 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **4/10/2024 12:35:35 AM**
+Updated at **4/10/2024 8:11:36 AM**
 
 ## 使用说明
 

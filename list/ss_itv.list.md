@@ -382,7 +382,7 @@
 | 374 | 齐鲁 | IPv4 直链 | <http://144.52.162.250:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 375 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9901/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/10/2024 12:35:35 AM**
+Updated at **4/10/2024 8:11:36 AM**
 
 ## 使用说明
 
