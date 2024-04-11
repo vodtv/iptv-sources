@@ -214,7 +214,7 @@
 | 206 | 金鹰卡通 | IPv4 直链 | <http://222.89.107.42:9876/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 207 | 金鹰纪实 | IPv4 直链 | <http://111.225.115.250:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/11/2024 12:36:19 AM**
+Updated at **4/11/2024 8:10:25 AM**
 
 ## 使用说明
 
