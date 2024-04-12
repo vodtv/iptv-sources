@@ -279,7 +279,7 @@
 | 271 | 金鹰卡通 | IPv4 直链 | <http://183.185.68.107:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 272 | 金鹰卡通 | IPv4 直链 | <http://222.89.107.42:9876/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/12/2024 12:36:11 AM**
+Updated at **4/12/2024 8:10:18 AM**
 
 ## 使用说明
 
