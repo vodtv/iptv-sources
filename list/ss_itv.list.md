@@ -380,7 +380,7 @@
 | 372 | 陕西一套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 373 | 齐鲁 | IPv4 直链 | <http://144.52.162.149:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/13/2024 12:30:37 AM**
+Updated at **4/13/2024 8:07:37 AM**
 
 ## 使用说明
 
