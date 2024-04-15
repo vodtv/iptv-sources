@@ -12,7 +12,7 @@
 | 4 | 松视2 | 18.svi-studio.com | <https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8> |
 | 5 | 惊艳台 | 18.svi-studio.com | <https://18.svi-studio.com/live/673960949860/294164781253/01.m3u8> |
 
-Updated at **4/14/2024 10:34:53 AM**
+Updated at **4/15/2024 3:03:31 AM**
 
 ## 使用说明
 

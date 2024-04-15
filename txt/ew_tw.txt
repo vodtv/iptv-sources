@@ -19,6 +19,7 @@
 
 儿童,#genre#
 [VGA]animax,https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8
+[BD]cn卡通频道,https://epg.pw/stream/a747b924493f2d3ada7575c73f5c81387a9d4a133d633fd73f0937e787e8eb93.m3u8
 [BD]momo亲子台1,https://epg.pw/stream/cb5e97a3ab7136f3fa96dde3756270770cebfc14b0aa47790ae22d13b6bc70b8.m3u8
 [BD]东森幼幼2,https://epg.pw/stream/d35cc573746024eb611046288002be136a43c60a22a30468168d81e2afe2897e.m3u8
 [BD]靖天育乐,https://epg.pw/stream/8a9abe7dec8e7fec9a6032849dda6d1e653925517f46721ffb9b76e75babccb0.m3u8
@@ -53,19 +54,20 @@
 [BD]Love_Nature,https://epg.pw/stream/dcf6a23675c2180f2a9c32ef63af3408e0a45468ade859348dd6cbe92fe7485c.ctv
 [HD]nat_geo,https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv
 [HD]smithsonian_channel,https://epg.pw/stream/e9b55b0627ec0d41254df6d57f8f84d9519570dab7764510b4c609677fa22f66.ctv
-[BD]discovery_channel_cee_hd,https://epg.pw/stream/94376536df0cfe2fdad4a6e4bf5b7fa6cd6d6fe49d9a53e99bcb2344979ffced.m3u8
+[HD]discovery_channel,https://epg.pw/stream/5471ed6a2a8741edc2375d513e7f5e1b6b62a2c170a5da2218f95e8afd4b7176.ctv
 
 综艺,#genre#
 [HD]elta娱乐,https://epg.pw/stream/5afb485f7e1ed36f9f2e6bfd1df8698fadb395303e70cef7cb752e42f579f826.m3u8
 [BD]jet综合,https://epg.pw/stream/cd8155e26d814ebf606095b3193db7a12628d72dee8068015f9943e0188dac53.m3u8
-[HD]ROCK_ENTERTAINMENT,https://epg.pw/stream/1f75bf19fa96a21c86b88f77f0395e931082798623c11876b7f3f74f17e073cc.ctv
 [HD]tvbs精采,https://epg.pw/stream/6fbdab20eab852bdd687d555493c325c308e0d1810227661f2b1bc0c318149aa.m3u8
 [BD]z频道,https://epg.pw/stream/f89462f4f0f80c88d72439d1e476bfa3513f723c1df6cc1abc79d464e96638f5.m3u8
+[BD]三立都会台,https://epg.pw/stream/5a44781a9d470b4e307fa8604cd79758fde068e554b599fe4a462df32081a44d.m3u8
 [BD]中天娱乐hd,https://epg.pw/stream/b3ca3efcc5c7d0947fb305927bfd550b8f138bd00b1beb3ff7e65ce68972d11a.m3u8
 [BD]八大娱乐,https://epg.pw/stream/89721c3a03d6612da0013885a828bad02a80c584180bcbd938d3acd88a90427d.m3u8
 [HD]民视综艺,https://epg.pw/stream/444c52a6e20c3fc54184073761350f1a03bf0298db751fdbfafb1814dcc71cf8.m3u8
 [HD]纬来日本2,https://epg.pw/stream/e59654d34f566d9fd92a4f8c7c7ea2fb82bddd9fe7d74b3766608312d0780e32.m3u8
 [HD]纬来日本台,https://epg.pw/stream/c0a78fdb054292392e27c2224d5f645bfc29dc5998f70133f29b5422940ca35d.m3u8
+[BD]美好1台,https://epg.pw/stream/a1846574b98cc080b0ab56f490c0ca1a3abcbf577ca9ea4fd13f5736021f881f.m3u8
 [BD]美好2台,https://epg.pw/stream/6ce1d85ab8dbf2b7a095fe36ba2cf332ccf8f0513df233a5a0b82e77aac4e307.m3u8
 [BD]靖天欢乐,https://epg.pw/stream/0e23a46b049a72886087950976dbf1ebf40b62f3d7cd68ae5223b7c17ff265ec.m3u8
 
@@ -74,7 +76,8 @@
 [HD]elta体育3,https://epg.pw/stream/0d4cbf929dd61d2c538579b992e1422a07e07771306207a98d7067b2d8423e8d.m3u8
 [BD]博斯无限1,https://epg.pw/stream/8869d8435b617bd9720f9f7ca6e20bf99f66ccf8ce853cfb71d3092fa7e39685.m3u8
 [HD]博斯无限2,https://epg.pw/stream/74234307b67e52cc616631973a9dd373d1410c6fa6a62b5df71f4360895e5a44.m3u8
-[HD]博斯运动2,https://epg.pw/stream/ad6622d41597e73d6dd3631e29bb9d8c6357a217197023cc649d6e8a61af03ad.m3u8
+[VGA]博斯运动2,https://epg.pw/stream/ad6622d41597e73d6dd3631e29bb9d8c6357a217197023cc649d6e8a61af03ad.m3u8
+[BD]博斯魅力,https://epg.pw/stream/53e1bcead4c2301a13c3da0e5b9874d51ca01b18ac1f2b6015bc5bf1b12fd1c8.m3u8
 [VGA]纬来体育台,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
 
 综合,#genre#
@@ -83,7 +86,8 @@
 [HD]TVBS_ASIA,https://epg.pw/stream/b24ea75b5547a557c9eaab14ada1cbcfc1fb2f927c682aad461678671fed6157.ctv
 [HD]tvbs_hd,https://epg.pw/stream/9705160141091f1e660fad65bfa98848f3387857a2f1e00a7e59bc85450a82d1.m3u8
 [VGA]win,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
-[VGA]dnj_tv,https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8
+[HD]dnj_tv,https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8
+[BD]三立综合台,https://epg.pw/stream/d8a83d39f95d706360d220ab129dbb6db731b0c5892c59f6acfb5b05413b8606.m3u8
 [HD]三立台湾,https://epg.pw/stream/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8
 [VGA]东森_超视,https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv
 [HD]中天亚洲台,https://epg.pw/stream/7d5f7bb550596ec9f43aed600bd4ef31c93b7232035060e9bba7682f0de8dd3d.ctv
@@ -92,6 +96,7 @@
 [BD]信大电视台,https://epg.pw/stream/397ebfe7482a9500a9e02fe3c90af18f92e42a901e5c76e53d76b5faff7eecae.m3u8
 [BD]八大综合,https://epg.pw/stream/1c2fc7d5c86079d1921eeab47c285feb04841a33c225de3c306625c9a1921d70.m3u8
 [HD]公视,https://epg.pw/stream/68063c382e8596c301016e3d13a513e74b92e8e6ac118e0ef13629b9fb67a0a9.m3u8
+[BD]公视台语台,https://epg.pw/stream/f673856238d06e8b246eeb75eff20f2f0a1d060d4b023d8e809279f622644992.ctv
 [BD]华视,rtmp://f13h.mine.nu/sat/tv111
 [BD]国会频道1,https://epg.pw/stream/b73e2686833520fef8096f8377e23ac12d5366c7c87ab4af4b9d58edaa4009cd.m3u8
 [HD]国会频道2,https://epg.pw/stream/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8
@@ -119,13 +124,12 @@
 [BD]中天新闻,https://epg.pw/stream/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.m3u8
 [VGA]中视新闻,https://epg.pw/stream/1f65ec8b6675703b095472e420c7221064aacbf75df7208d59989992d78de738.m3u8
 [BD]中视新闻台,https://epg.pw/stream/6a353ec254f32e5ec540b3a4a78c94313270398df5c95a7111177ebe943424b2.m3u8
-[BD]台视新闻台,https://epg.pw/stream/6c38778f769ed557397cc04321bb26c22dafc9733f75b15af55b23065a52a3a0.m3u8
+[VGA]台视新闻,https://epg.pw/stream/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
 [BD]台视新闻_hd,https://epg.pw/stream/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8
 [HD]壹新闻,https://epg.pw/stream/bfd91755315d977105d93121ffc19ffb76337ab15d28de83c64352b4dde2662c.m3u8
 [HD]大立电视,https://epg.pw/stream/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8
-[BD]寰宇新闻,https://epg.pw/stream/6610df3b637faa6815174867f2bf71ccd1cf7f9a225d7282da941d57df38a509.m3u8
-[BD]寰宇新闻台湾台,https://epg.pw/stream/d7db906563c18efffa6f9f6c8b7009d0f23a11418fabbb02bae8bc4897dc3831.m3u8
-[BD]东森财经,https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8
+[BD]寰宇新闻,https://epg.pw/stream/1a8764d080afe4b8543f76b10ec64c55d4ae232d73ac71da514a7ba834f2b0e6.m3u8
+[HD]寰宇新闻台湾台,https://epg.pw/stream/d7db906563c18efffa6f9f6c8b7009d0f23a11418fabbb02bae8bc4897dc3831.m3u8
 [VGA]民视新闻,https://epg.pw/stream/d74bc09a058876e6c637224a7b60a69874cc28b06fbb467deb379dac72062e46.m3u8
 [BD]民视新闻_hd,https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
 [BD]民视新闻台,https://epg.pw/stream/34d506e2605e076f621b2f7f788f773d3aa7a88784c506cbec1b71123650fbfc.m3u8

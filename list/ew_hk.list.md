@@ -8,29 +8,29 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [HD]Astro华丽台 | epg.pw | <https://epg.pw/stream/ddedf632ce91681c3f61f742fed863509e419bd1942dc1aec59dbe04f859d87d.ctv> |
 | 2 | [HD]tvri world | epg.pw | <https://epg.pw/stream/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
-| 3 | [BD]j2 | epg.pw | <https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv> |
-| 4 | [BD]MyTV Super | epg.pw | <https://epg.pw/stream/2cd91800ed3e6b99c51d6baec79e5a5945ffaa4d113b0e2711d6931e0c9789d5.ctv> |
-| 5 | [BD]now新闻台 | epg.pw | <https://epg.pw/stream/81f5ffef845e8ea1bb69389d2413f8d7869efc69fbbeffd9b5cf200a853efdf8.ctv> |
-| 6 | [BD]tvb pearl | epg.pw | <https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv> |
-| 7 | [VGA]rthk35 | epg.pw | <https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8> |
-| 8 | [BD]rthk32 | epg.pw | <https://epg.pw/stream/5f2f369a9803a7a2042899025a61af3ca1d0c95611bbb1ed406307634499a4ed.ctv> |
-| 9 | [HD]rthk33台 | epg.pw | <https://epg.pw/stream/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8> |
-| 10 | [VGA]rthk34 | epg.pw | <https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8> |
-| 11 | [HD]tvbj1 | epg.pw | <https://epg.pw/stream/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8> |
-| 12 | [BD]tvb j2 | epg.pw | <https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv> |
-| 13 | [BD]tvbs亚洲 | epg.pw | <https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8> |
-| 14 | [HD]tvb功夫 | epg.pw | <https://epg.pw/stream/8bd79690c6a153448ab3f945957ef1f681927dd2ada2f3a60cb240bdcf736811.m3u8> |
-| 15 | [HD]tvb娱乐新闻 | epg.pw | <https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8> |
-| 16 | [BD]tvbs新闻台 | epg.pw | <https://epg.pw/stream/ef62e76a9b9ebfa3c8e6aeaaf5b71ee1299d4e9c7d029ec3f55532208f5f1e8b.m3u8> |
-| 17 | [HD]tvb星河 | epg.pw | <https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8> |
-| 18 | [BD]tvb翡翠台 | epg.pw | <https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.m3u8> |
-| 19 | [BD]VIUTV | epg.pw | <https://epg.pw/stream/004e2492652cf112e5140d68e99832dfcae8c3db8123c328ff2587200461ae53.ctv> |
-| 20 | [BD]viutv 6 | epg.pw | <https://epg.pw/stream/40a9d35c0e69e321c82e5777ff79d726a63bbfb854e9fe708dab487eb7a96985.ctv> |
-| 21 | [BD]axs tv now (1080p) | epg.pw | <https://epg.pw/stream/724836601896e4352220aba1836d449f5ee96a3c8455f000043d4b5688ec0093.m3u8> |
-| 22 | [VGA]discovery id | epg.pw | <https://epg.pw/stream/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.ctv> |
-| 23 | [HD]ptv granada | epg.pw | <https://epg.pw/stream/063e0efb004c2bf1bd5c101466186d8ab3911e3f0fc4946c12e2e31213470fe5.m3u8> |
-| 24 | [HD]star (720p) | epg.pw | <https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8> |
-| 25 | [BD]tvbs新闻台 | epg.pw | <https://epg.pw/stream/30d58e0cf281223a5d933a93512040b6753128089ab78611d59d916323d9cf00.m3u8> |
+| 3 | [BD]hot tv | epg.pw | <https://epg.pw/stream/003dd20d26bcb148d8a87c2432e713fba241a2acca6e334ad7b2ec96dc1fc499.m3u8> |
+| 4 | [BD]j2 | epg.pw | <https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv> |
+| 5 | [BD]MyTV Super | epg.pw | <https://epg.pw/stream/2cd91800ed3e6b99c51d6baec79e5a5945ffaa4d113b0e2711d6931e0c9789d5.ctv> |
+| 6 | [BD]now新闻台 | epg.pw | <https://epg.pw/stream/81f5ffef845e8ea1bb69389d2413f8d7869efc69fbbeffd9b5cf200a853efdf8.ctv> |
+| 7 | [BD]tvb pearl | epg.pw | <https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv> |
+| 8 | [VGA]rthk35 | epg.pw | <https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8> |
+| 9 | [BD]rthk32 | epg.pw | <https://epg.pw/stream/5f2f369a9803a7a2042899025a61af3ca1d0c95611bbb1ed406307634499a4ed.ctv> |
+| 10 | [HD]rthk33台 | epg.pw | <https://epg.pw/stream/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8> |
+| 11 | [VGA]rthk34 | epg.pw | <https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8> |
+| 12 | [HD]tvbj1 | epg.pw | <https://epg.pw/stream/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8> |
+| 13 | [BD]tvb j2 | epg.pw | <https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv> |
+| 14 | [BD]tvbs亚洲 | epg.pw | <https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8> |
+| 15 | [HD]tvb功夫 | epg.pw | <https://epg.pw/stream/8bd79690c6a153448ab3f945957ef1f681927dd2ada2f3a60cb240bdcf736811.m3u8> |
+| 16 | [HD]tvb娱乐新闻 | epg.pw | <https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8> |
+| 17 | [VGA]tvbs新闻 | epg.pw | <https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8> |
+| 18 | [HD]tvb星河 | epg.pw | <https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8> |
+| 19 | [BD]tvb翡翠台 | epg.pw | <https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.m3u8> |
+| 20 | [BD]VIUTV | epg.pw | <https://epg.pw/stream/004e2492652cf112e5140d68e99832dfcae8c3db8123c328ff2587200461ae53.ctv> |
+| 21 | [BD]viutv | epg.pw | <https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.ctv> |
+| 22 | [BD]axs tv now (1080p) | epg.pw | <https://epg.pw/stream/724836601896e4352220aba1836d449f5ee96a3c8455f000043d4b5688ec0093.m3u8> |
+| 23 | [VGA]discovery id | epg.pw | <https://epg.pw/stream/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.ctv> |
+| 24 | [HD]ptv granada | epg.pw | <https://epg.pw/stream/063e0efb004c2bf1bd5c101466186d8ab3911e3f0fc4946c12e2e31213470fe5.m3u8> |
+| 25 | [HD]star (720p) | epg.pw | <https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8> |
 | 26 | [HD]tvb娱乐新闻 | epg.pw | <https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8> |
 | 27 | [HD]tvb粤语 | epg.pw | <https://epg.pw/stream/abec66013d19ae7c4651a4897a79205c985bf2bfbe256aebf326857e3759c4f8.m3u8> |
 | 28 | [SD]天映经典 | epg.pw | <https://epg.pw/stream/b14f188cf1a82fc7cf93a65ddde6971b6a502577029f3fc887e13e045033bc7b.m3u8> |
@@ -47,19 +47,17 @@
 | 39 | [SD]环球电视 | epg.pw | <https://epg.pw/stream/871627cefa0727603ae38287f349e796402982c186ea32bea812ef9d764c5923.m3u8> |
 | 40 | [BD]美亚电影台 | epg.pw | <https://epg.pw/stream/aa88ab270d022850b9ed3159bfa0e6123828543c72f65c502dadd3e7438db368.ctv> |
 | 41 | [HD]翡翠台 | epg.pw | <https://epg.pw/stream/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.ctv> |
-| 42 | [BD]无线翡翠台 | epg.pw | <https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv> |
-| 43 | [VGA]耀才财经 | epg.pw | <https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8> |
-| 44 | [HD]耀才财经 | epg.pw | <https://epg.pw/stream/dd22b2b5f1c65e8294658a1d7732d747d14e6e4e8438f8fd30f90ca318063d3d.m3u8> |
-| 45 | [HD]香港国际财经台 | epg.pw | <https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8> |
-| 46 | [HD]香港有线新闻 | epg.pw | <https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv> |
-| 47 | [HD]香港卫视 | epg.pw | <https://epg.pw/stream/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv> |
-| 48 | [BD]凤凰卫视中文台 | epg.pw | <https://epg.pw/stream/fcfbfb7706ed19b7a44b1c75c65ffbf5e6eb4db471129ffd0055882de933e310.ctv> |
-| 49 | [HD]凤凰卫视 | epg.pw | <https://epg.pw/stream/bcd622d1a4cc558d4c32465e7460648b9921c4a5463db22cef0c090fe5a6921c.ctv> |
-| 50 | [BD]凤凰卫视资讯台 | epg.pw | <https://epg.pw/stream/faaf24b03d0e3d67bcb554675b88bcff65c6ab4545ea1c20327cc1f786ce5649.ctv> |
-| 51 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
-| 52 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8> |
+| 42 | [VGA]耀才财经 | epg.pw | <https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8> |
+| 43 | [HD]耀才财经 | epg.pw | <https://epg.pw/stream/dd22b2b5f1c65e8294658a1d7732d747d14e6e4e8438f8fd30f90ca318063d3d.m3u8> |
+| 44 | [HD]香港国际财经台 | epg.pw | <https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8> |
+| 45 | [HD]香港有线新闻 | epg.pw | <https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv> |
+| 46 | [BD]凤凰卫视中文台 | epg.pw | <https://epg.pw/stream/fcfbfb7706ed19b7a44b1c75c65ffbf5e6eb4db471129ffd0055882de933e310.ctv> |
+| 47 | [HD]凤凰卫视 | epg.pw | <https://epg.pw/stream/bcd622d1a4cc558d4c32465e7460648b9921c4a5463db22cef0c090fe5a6921c.ctv> |
+| 48 | [BD]凤凰卫视资讯台 | epg.pw | <https://epg.pw/stream/faaf24b03d0e3d67bcb554675b88bcff65c6ab4545ea1c20327cc1f786ce5649.ctv> |
+| 49 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
+| 50 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8> |
 
-Updated at **4/14/2024 10:34:53 AM**
+Updated at **4/15/2024 3:03:31 AM**
 
 ## 使用说明
 
