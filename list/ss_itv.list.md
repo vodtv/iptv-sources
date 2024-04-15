@@ -161,7 +161,7 @@
 | 153 | 综合 | IPv4 直链 | <http://124.90.208.196:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 154 | 金鹰纪实 | IPv4 直链 | <http://58.19.13.92:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/15/2024 3:03:31 AM**
+Updated at **4/15/2024 8:08:59 AM**
 
 ## 使用说明
 
