@@ -512,8 +512,9 @@
 | 504 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
 | 505 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 | 506 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
+| 507 | CCTV4K | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8> |
 
-Updated at **4/15/2024 8:08:59 AM**
+Updated at **4/16/2024 8:10:35 AM**
 
 ## 使用说明
 
