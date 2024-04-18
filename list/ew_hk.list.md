@@ -54,7 +54,7 @@
 | 46 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 47 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8> |
 
-Updated at **4/18/2024 12:35:38 AM**
+Updated at **4/18/2024 8:11:29 AM**
 
 ## 使用说明
 
