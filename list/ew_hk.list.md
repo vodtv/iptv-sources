@@ -49,14 +49,13 @@
 | 41 | [BD]香港国际财经台 | epg.pw | <https://epg.pw/stream/f7f5e0d49942c1dffdba93fd695feb7f6d42f141263245ae791ffce372ec1143.ctv> |
 | 42 | [HD]香港国际财经台 | epg.pw | <https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8> |
 | 43 | [HD]香港有线新闻 | epg.pw | <https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv> |
-| 44 | [SD]香港卫视 | epg.pw | <https://epg.pw/stream/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv> |
-| 45 | [BD]凤凰卫视中文台 | epg.pw | <https://epg.pw/stream/fcfbfb7706ed19b7a44b1c75c65ffbf5e6eb4db471129ffd0055882de933e310.ctv> |
-| 46 | [HD]凤凰卫视 | epg.pw | <https://epg.pw/stream/8eba86326a2a212c83d80d159da7533ebba70b10da96fae0e85ee0a86ecd9b49.ctv> |
-| 47 | [BD]凤凰卫视资讯台 | epg.pw | <https://epg.pw/stream/faaf24b03d0e3d67bcb554675b88bcff65c6ab4545ea1c20327cc1f786ce5649.ctv> |
-| 48 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
-| 49 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8> |
+| 44 | [BD]凤凰卫视中文台 | epg.pw | <https://epg.pw/stream/fcfbfb7706ed19b7a44b1c75c65ffbf5e6eb4db471129ffd0055882de933e310.ctv> |
+| 45 | [HD]凤凰卫视 | epg.pw | <https://epg.pw/stream/8eba86326a2a212c83d80d159da7533ebba70b10da96fae0e85ee0a86ecd9b49.ctv> |
+| 46 | [BD]凤凰卫视资讯台 | epg.pw | <https://epg.pw/stream/faaf24b03d0e3d67bcb554675b88bcff65c6ab4545ea1c20327cc1f786ce5649.ctv> |
+| 47 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
+| 48 | [HD]凤凰香港 | epg.pw | <https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8> |
 
-Updated at **4/21/2024 12:39:13 AM**
+Updated at **4/21/2024 8:09:43 AM**
 
 ## 使用说明
 
