@@ -52,7 +52,7 @@
 | 44 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 45 | [HD]凤凰香港 | epg.pw | <https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8> |
 
-Updated at **4/22/2024 12:37:43 AM**
+Updated at **4/22/2024 8:11:40 AM**
 
 ## 使用说明
 
