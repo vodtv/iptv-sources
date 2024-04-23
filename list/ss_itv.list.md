@@ -403,7 +403,7 @@
 | 395 | 钱江 | IPv4 直链 | <http://123.154.30.3:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 396 | 陕西一套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/23/2024 12:36:24 AM**
+Updated at **4/23/2024 8:10:50 AM**
 
 ## 使用说明
 
