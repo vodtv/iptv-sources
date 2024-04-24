@@ -383,7 +383,7 @@
 | 375 | 钱江 | IPv4 直链 | <http://123.154.30.3:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 376 | 陕西二套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/24/2024 12:36:46 AM**
+Updated at **4/24/2024 8:11:28 AM**
 
 ## 使用说明
 
