@@ -32,7 +32,7 @@ export const updateChannelList = (
     .replace(
       "{list_title}",
       `# List for **${name}**${rollback ? "(Rollback)" : ""
-      }\n\n> M3U: [${f_name}.m3u](./${f_name}.m3u), TXT: [${f_name}.txt](./txt/${f_name}.txt)`
+      }\n\n> M3U: [${f_name}.m3u](/${f_name}.m3u), TXT: [${f_name}.txt](/txt/${f_name}.txt)`
     )
     .replace(
       "{update_channels}",
@@ -65,9 +65,9 @@ export const updateReadme = (
       `${sources
         ?.map(
           (s, idx) =>
-            `| ${s.name} | [${s.f_name}.m3u](./${s.f_name
-            }.m3u) <br> [${s.f_name}.txt](./txt/${s.f_name
-            }.txt) | [List for ${s.name}](./list/${s.f_name
+            `| ${s.name} | [${s.f_name}.m3u](/${s.f_name
+            }.m3u) <br> [${s.f_name}.txt](/txt/${s.f_name
+            }.txt) | [List for ${s.name}](/list/${s.f_name
             }.list) | ${sources_res?.[idx]?.[1] === undefined
               ? "update failed"
               : sources_res[idx][1]
@@ -81,7 +81,7 @@ export const updateReadme = (
       `${epgs
         ?.map(
           (e, idx) =>
-            `| ${e.name} | [${e.f_name}.xml](./epg/${e.f_name
+            `| ${e.name} | [${e.f_name}.xml](/epg/${e.f_name
             }.xml) | ${!!epgs_res?.[idx]?.[0]
               ? epgs_res?.[idx]?.[0] === "rollback"
                 ? "✅"
