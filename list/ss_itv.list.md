@@ -1,6 +1,6 @@
 # List for **全国 酒店组播源**
 
-> M3U: [ss_itv.m3u](./ss_itv.m3u), TXT: [ss_itv.txt](./txt/ss_itv.txt)
+> M3U: [ss_itv.m3u](/ss_itv.m3u), TXT: [ss_itv.txt](/txt/ss_itv.txt)
 
 ## 频道详情
 
@@ -318,7 +318,7 @@
 | 310 | 陕西一套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 311 | 陕西二套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/25/2024 9:29:23 AM**
+Updated at **4/25/2024 10:14:38 AM**
 
 ## 使用说明
 
