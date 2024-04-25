@@ -93,7 +93,7 @@
 | 85 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=ff353d86353a192135208941e1f8e624&txTime=6629D337> |
 | 86 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=dc7234631714021740> |
 
-Updated at **4/25/2024 3:57:09 AM**
+Updated at **4/25/2024 4:06:52 AM**
 
 ## 使用说明
 
