@@ -47,7 +47,7 @@
 | DJ舞曲 | [vod_djw.m3u](./vod_djw.m3u) <br> [vod_djw.txt](./txt/vod_djw.txt) | [List for DJ舞曲](./list/vod_djw.list) | 176 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u) <br> [hc_cntv.txt](./txt/hc_cntv.txt) | [List for 稳定 最新源](./list/hc_cntv.list) | 88 | - |
 
-Updated at **4/25/2024 7:22:30 AM**
+Updated at **4/25/2024 7:30:39 AM**
 
 ## 📚 EPG
 
@@ -58,7 +58,7 @@ Updated at **4/25/2024 7:22:30 AM**
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml) | - |
 
-Updated at **4/25/2024 7:22:30 AM**
+Updated at **4/25/2024 7:30:39 AM**
 
 ## 🚀CDN加速
 
