@@ -1,6 +1,6 @@
 # List for **陕西 移动源**
 
-> M3U: [sx_ydy.m3u](/sx_ydy.m3u), TXT: [sx_ydy.txt](/txt/sx_ydy.txt)
+> M3U: [sx_ydy.m3u](./sx_ydy.m3u), TXT: [sx_ydy.txt](./txt/sx_ydy.txt)
 
 ## 频道详情
 
@@ -71,7 +71,7 @@
 | 63 | 金鹰卡通 | 中国移动陕西 | <http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3> |
 | 64 | 优漫卡通 | 中国移动陕西 | <http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3> |
 
-Updated at **4/25/2024 10:14:38 AM**
+Updated at **4/25/2024 11:41:22 AM**
 
 ## 使用说明
 

@@ -1,6 +1,6 @@
 # List for **陕西铜川移动**
 
-> M3U: [sx_tcy.m3u](/sx_tcy.m3u), TXT: [sx_tcy.txt](/txt/sx_tcy.txt)
+> M3U: [sx_tcy.m3u](./sx_tcy.m3u), TXT: [sx_tcy.txt](./txt/sx_tcy.txt)
 
 ## 频道详情
 
@@ -50,7 +50,7 @@
 | 42 | 陕西铜川 | 中国移动陕西 | <http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8> |
 | 43 | 陕西汉中城固 | 中国移动陕西 | <http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8> |
 
-Updated at **4/25/2024 10:14:38 AM**
+Updated at **4/25/2024 11:41:22 AM**
 
 ## 使用说明
 

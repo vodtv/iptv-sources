@@ -1,6 +1,6 @@
 # List for **北京移动 组播列表**
 
-> M3U: [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u), TXT: [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt)
+> M3U: [q_bj_iptv_mobile_m.m3u](./q_bj_iptv_mobile_m.m3u), TXT: [q_bj_iptv_mobile_m.txt](./txt/q_bj_iptv_mobile_m.txt)
 
 ## 频道详情
 
@@ -136,7 +136,7 @@
 | 128 | 音乐现场 | IPv4 直链 | <rtp://228.1.1.151:4120> |
 | 129 | 魅力时尚 | IPv4 直链 | <rtp://228.1.1.86:9012> |
 
-Updated at **4/25/2024 10:14:38 AM**
+Updated at **4/25/2024 11:41:22 AM**
 
 ## 使用说明
 

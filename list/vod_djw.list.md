@@ -1,6 +1,6 @@
 # List for **DJ舞曲**
 
-> M3U: [vod_djw.m3u](/vod_djw.m3u), TXT: [vod_djw.txt](/txt/vod_djw.txt)
+> M3U: [vod_djw.m3u](./vod_djw.m3u), TXT: [vod_djw.txt](./txt/vod_djw.txt)
 
 ## 频道详情
 
@@ -183,7 +183,7 @@
 | 175 | 最美不过你的微笑 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mhs2qjdmkjz2rb7g/sc/cae_h264/1630029534870787600/mda-mhs2qjdmkjz2rb7g.mp4> |
 | 176 | 2021热门伤感DJ | vdse.bdstatic.com | <https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4> |
 
-Updated at **4/25/2024 10:14:38 AM**
+Updated at **4/25/2024 11:41:22 AM**
 
 ## 使用说明
 

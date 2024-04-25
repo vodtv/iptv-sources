@@ -1,6 +1,6 @@
 # List for **YanG-1989 Gather**
 
-> M3U: [y_g.m3u](/y_g.m3u), TXT: [y_g.txt](/txt/y_g.txt)
+> M3U: [y_g.m3u](./y_g.m3u), TXT: [y_g.txt](./txt/y_g.txt)
 
 ## 频道详情
 
@@ -283,7 +283,7 @@
 | 275 | 埋堆堆25 | tv.iill.top | <https://tv.iill.top/huya/23734256> |
 | 276 | 埋堆堆26 | tv.iill.top | <https://tv.iill.top/huya/23749083> |
 
-Updated at **4/25/2024 10:14:38 AM**
+Updated at **4/25/2024 11:41:22 AM**
 
 ## 使用说明
 

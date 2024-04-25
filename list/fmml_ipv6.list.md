@@ -1,6 +1,6 @@
 # List for **fanmingming/live ipv6**
 
-> M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
+> M3U: [fmml_ipv6.m3u](./fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](./txt/fmml_ipv6.txt)
 
 ## 频道详情
 
@@ -105,7 +105,7 @@
 | 97 | 超级综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8> |
 | 98 | 金牌综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8> |
 
-Updated at **4/25/2024 10:14:38 AM**
+Updated at **4/25/2024 11:41:22 AM**
 
 ## 使用说明
 
