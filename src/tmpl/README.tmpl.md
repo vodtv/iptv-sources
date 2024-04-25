@@ -1,3 +1,5 @@
+## 🏠主页
+
 <div align="center">
 <img src="https://img.viptv.work/iptv/about-IPTV.jpg" height="200" />
 <h1 > 收集来自世界各地IPTV </h1> 
@@ -6,7 +8,7 @@
 
 ## ❓ 如何使用
 
-只需将以下链接之一插入任何支持实时流式传输的视频播放器，然后按打开即可。
+> 只需将以下链接之一插入任何支持实时流式传输的视频播放器，然后按打开即可。
 
 ## 📺 IPTV
 
@@ -20,137 +22,67 @@
 | --- | --- | ---------- |
 {update_epgs}
 
-## 🚀CDN加速
+## 🚀Github 文件加速
 
-<details>
-  <summary>镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）</summary>
-<p>
-<table>
-  <thead>
-    <tr>
-      <th>格式</th>
-      <th>示例 </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>M3U</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/iptv-sources@gh-pages/cn.m3u</td>
-    </tr>
-     <tr>
-      <td>TXT</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/iptv-sources@gh-pages/txt/cn.txt</td>
-    </tr>
-    <tr>
-      <td>XML</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/iptv-sources@gh-pages/epg/51zmt.xml</td>
-    </tr>
-    <tr>
-      <td>JSON</td>
-      <td>https://fastly.jsdelivr.net/gh/vodtv/iptv-sources@gh-pages/sources/cn.json</td>
-    </tr>
-  </tbody>
-</table>
-</p>
-</details>
+> 加速下载 Github Release、Archive 等文件。
 
-<details>
-<summary>镜像站(cdn.gitmirror.com ) -（备用）</summary>
-<p>
-<table>
-  <thead>
-    <tr>
-      <th>格式</th>
-      <th>示例 </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>M3U</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/iptv-sources@gh-pages/cn.m3u</td>
-    </tr>
-     <tr>
-      <td>TXT</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/iptv-sources@gh-pages/txt/cn.txt</td>
-    </tr>
-    <tr>
-      <td>XML</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/iptv-sources@gh-pages/epg/51zmt.xml</td>
-    </tr>
-    <tr>
-      <td>JSON</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/iptv-sources@gh-pages/sources/cn.json</td>
-    </tr>
-  </tbody>
-</table>
-</p>
-</details>
+*  Github 文件加速
 
-<details>
-<summary>原网址前加（ghproxy.net || mirror.ghproxy.com） -（国内访问快）</summary>
-<p>
-<table>
-  <thead>
-    <tr>
-      <th>格式</th>
-      <th>示例 </th>
-    </tr>
-  </thead>
-   <tbody>
-    <tr>
-      <td>M3U</td>
-      <td>https://ghproxy.net/https://rawgithubusercontent.com/vodtv/iptv-sources/gh-pages/cn.m3u</td>
-    </tr>
-     <tr>
-      <td>TXT</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt</td>
-    </tr>
-    <tr>
-      <td>XML</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/epg/51zmt.xml</td>
-    </tr>
-    <tr>
-      <td>JSON</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/sources/cn.json</td>
-    </tr>
-  </tbody>
-</table>
-</p>
-</details>
+| #   | 选择线路                                   | 使用方式                                        | 举例说明                                                                                               |
+| --- | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1   | https://hub.gitmirror.com/                | 在源网址前加上 https://hub.gitmirror.com/       | https://hub.gitmirror.com/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt     |
+| 2   | https://gh.con.sh/                        | 在源网址前加上 https://gh.con.sh/               | https://gh.con.sh/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt             |   
+| 3   | {hub,cdn}.gitmirror.com                   | 在源网址前加上 https://hub.gitmirror.com/       | https://hub.gitmirror.com/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt     |
+| 4   | ghproxy.net && mirror.ghproxy.com         | 在源网址前加上 https://ghproxy.com/             | https://ghproxy.com/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt           |   
+| 5   | {fastly,cdn,gcore}.jsdelivr.net           | 源域名替换为   cdn.jsdelivr.net/gh/             | https://cdn.jsdelivr.net/gh/vodtv/iptv-sources@gh-pages/txt/cn.txt                                     |
+| 6   | {cf}.ghproxy.cc                           | 在源网址前加上 https://ghproxy.com/             | https://ghproxy.com/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt           |   
 
-<details>
-<summary>原网址前加（ghproxy.cc || cf.ghproxy.cc） -（国内访问快）</summary>
-<p>
-<table>
-  <thead>
-    <tr>
-      <th>格式</th>
-      <th>示例 </th>
-    </tr>
-  </thead>
-   <tbody>
-    <tr>
-      <td>M3U</td>
-      <td>https://ghproxy.cc/https://iptv-sources.githubusercontent.com/vodtv/iptv-sources/gh-pages/cn.m3u</td>
-    </tr>
-     <tr>
-      <td>TXT</td>
-      <td>https://ghproxy.cc/https://iptv-sources.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt</td>
-    </tr>
-    <tr>
-      <td>XML</td>
-      <td>https://ghproxy.cc/https://iptv-sources.githubusercontent.com/vodtv/iptv-sources/gh-pages/epg/51zmt.xml</td>
-    </tr>
-    <tr>
-      <td>JSON</td>
-      <td>https://ghproxy.cc/https://iptv-sources.githubusercontent.com/vodtv/iptv-sources/gh-pages/sources/cn.json</td>
-    </tr>
-  </tbody>
-</table>
-</p>
-</details>
+* RAW 加速服务
 
-## 🛈 本站IPTV资源出处:
+将原网址
+
+``` 
+raw.githubusercontent.com
+
+```
+
+替换为
+
+```
+raw.gitmirror.com
+
+```
+即可，例如：
+
+```
+https://raw.gitmirror.com/vodtv/iptv-sources/gh-pages/txt/cn.txt
+
+```
+
+* Gist 加速服务
+
+将原网址
+
+``` 
+gist.githubusercontent.com
+
+```
+
+替换为
+
+```
+gist.gitmirror.com
+
+```
+即可，例如：
+
+```
+https://gist.gitmirror.com/dimitardanailov/6acdd54ab67d5a25c0229b2fe5bbb42b/raw/397f0873922a6aa48895074cc28d7f71c8261b81/create_user.sh
+
+```
+
+
+## ℹ️ 资源出处:
 
 - <https://epg.pw/test_channel_page.html>
 - <https://github.com/iptv-org/iptv>
@@ -160,7 +92,7 @@
 - <https://github.com/qwerttvv/Beijing-IPTV>
 - <https://github.com/joevess/IPTV>
 
-## 免责申明
+## 💡 免责申明
 
 - 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
 - 通过 M3U8 Web Player 测试直播源需使用 https 协议的直播源链接。

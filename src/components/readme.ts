@@ -73,7 +73,7 @@ export const updateReadme = (
               : sources_res[idx][1]
             } | ${sources_res?.[idx]?.[0] === "rollback" ? "✅" : "-"} |`
         )
-        .join("\n")}\n\nUpdated at **${update_time}**`
+        .join("\n")}\n\n > Updated at **${update_time}**`
     )
 
     .replace(
@@ -89,7 +89,7 @@ export const updateReadme = (
               : "update failed"
             } |`
         )
-        .join("\n")}\n\nUpdated at **${update_time}**`
+        .join("\n")}\n\n > Updated at **${update_time}**`
     );
   if (!fs.existsSync(path.join(path.resolve(), "dist"))) {
     fs.mkdirSync(path.join(path.resolve(), "dist"));
