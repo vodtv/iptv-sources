@@ -1,6 +1,6 @@
 # List for **18+IPTV**
 
-> M3U: [18+iptv.m3u](/18+iptv.m3u), TXT: [18+iptv.txt](/txt/18+iptv.txt)
+> M3U: [18+iptv.m3u](./18+iptv.m3u), TXT: [18+iptv.txt](./txt/18+iptv.txt)
 
 ## 频道详情
 
@@ -9657,7 +9657,7 @@
 | 9649 | 香港美少女最强剧情-美乳2 | cdn-bo3.mangguo-youku.com:5278 | <https://cdn-bo3.mangguo-youku.com:5278/20210721/zcIbx1Oo/index.m3u8> |
 | 9650 | 早晨随意的性爱 舒服到舔自己的脚趾 | cdn-bo3.mangguo-youku.com:5278 | <https://cdn-bo3.mangguo-youku.com:5278/20210717/tAlAIIFY/index.m3u8> |
 
-Updated at **4/25/2024 12:38:52 AM**
+Updated at **4/25/2024 3:57:09 AM**
 
 ## 使用说明
 

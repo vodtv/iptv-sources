@@ -1,6 +1,6 @@
 # List for **广场舞蹈**
 
-> M3U: [vod_gcw.m3u](/vod_gcw.m3u), TXT: [vod_gcw.txt](/txt/vod_gcw.txt)
+> M3U: [vod_gcw.m3u](./vod_gcw.m3u), TXT: [vod_gcw.txt](./txt/vod_gcw.txt)
 
 ## 频道详情
 
@@ -133,7 +133,7 @@
 | 125 | 错过缘分错过你 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-nak1ta9hr7uau7gi/fhd/cae_h264_nowatermark_delogo/1642800023084828200/mda-nak1ta9hr7uau7gi.mp4> |
 | 126 | 最美不过你的笑 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nb7355pig9f1efq2/fhd/cae_h264_nowatermark_delogo/1644355224144532489/mda-nb7355pig9f1efq2.mp4> |
 
-Updated at **4/25/2024 12:38:52 AM**
+Updated at **4/25/2024 3:57:09 AM**
 
 ## 使用说明
 

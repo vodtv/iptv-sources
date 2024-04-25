@@ -1,6 +1,6 @@
 # List for **18+玩偶姐**
 
-> M3U: [18_woj.m3u](/18_woj.m3u), TXT: [18_woj.txt](/txt/18_woj.txt)
+> M3U: [18_woj.m3u](./18_woj.m3u), TXT: [18_woj.txt](./txt/18_woj.txt)
 
 ## 频道详情
 
@@ -342,7 +342,7 @@
 | 334 | 制服美少女2 | videomy.yongaomy.com:8091 | <https://videomy.yongaomy.com:8091/20200104/ssClhQbc/1500kb/hls/index.m3u8> |
 | 335 | White Boxxx | vl05t7es.rostelekom.xyz | <http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6267/index.m3u8> |
 
-Updated at **4/25/2024 12:38:52 AM**
+Updated at **4/25/2024 3:57:09 AM**
 
 ## 使用说明
 
