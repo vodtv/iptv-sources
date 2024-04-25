@@ -318,7 +318,7 @@
 | 310 | 陕西一套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 311 | 陕西二套 | IPv4 直链 | <http://219.145.93.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/25/2024 4:06:52 AM**
+Updated at **4/25/2024 7:22:30 AM**
 
 ## 使用说明
 
