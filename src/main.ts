@@ -129,6 +129,17 @@ Promise.allSettled(
     }
   })
 
+  .then((result) => {
+    console.log(`[TASK] Write important files`)
+    const sources_res = result.sources.map((r) => (<any>r).value)
+    const epgs_res = result.epgs.map((r) => (<any>r).value)
+    mergeTxts()
+    mergeSources()
+    writeTvBoxJson("tvbox", sources, "Channels")
+    updateChannelsJson(sources, sources_res, epgs_sources)
+    updateReadme(sources, sources_res, epgs_sources, epgs_res)
+  })
+
   .then(async (result) => {
     const danmu = await Promise.allSettled(
       danmu_sources.map(async (danmu_sr) => {
@@ -176,13 +187,6 @@ Promise.allSettled(
       sources: result,
       danmu: danmu,
     }
-  })
-
-  .then((result) => {
-    console.log(`[TASK] Write important files`)
-    mergeTxts()
-    mergeSources()
-    writeTvBoxJson("tvbox", sources, "Channels")
   })
 
   .then(() => {
