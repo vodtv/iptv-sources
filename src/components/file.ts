@@ -148,4 +148,4 @@ const copyDir = (src, dest, callback) => {
 
 
 export const cleanFiles = () => cleanDir(path.join(path.resolve(), "dist"));
-export const copyFiles = () => copyDir(path.join(path.resolve(), "docs"), path.join(path.resolve(), "dist"), () => { });
+export const copyFiles = () => copyDir(path.join(path.resolve(), "docsify"), path.join(path.resolve(), "dist"), () => { });
