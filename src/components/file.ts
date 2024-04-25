@@ -111,14 +111,41 @@ const cleanDir = (p: string) => {
   }
 }
 
-const copyDir = (p: string) => {
-  if (fs.existsSync(p)) {
-    fs.readdirSync(p).forEach((file) => {
-      fs.writeFileSync(path.join(path.resolve(), "dist", file), file)
-    })
-  }
+const copyDir = (src, dest, callback) => {
+  const copy = (copySrc, copyDest) => {
+    fs.readdir(copySrc, (err, list) => {
+      if (err) {
+        callback(err);
+        return;
+      }
+      list.forEach((item) => {
+        const ss = path.resolve(copySrc, item);
+        fs.stat(ss, (err, stat) => {
+          if (err) {
+            callback(err);
+          } else {
+            const curSrc = path.resolve(copySrc, item);
+            const curDest = path.resolve(copyDest, item);
+            if (stat.isFile()) {
+              fs.createReadStream(curSrc).pipe(fs.createWriteStream(curDest));
+            } else if (stat.isDirectory()) {
+              fs.mkdirSync(curDest, { recursive: true });
+              copy(curSrc, curDest);
+            }
+          }
+        });
+      });
+    });
+  };
+
+  fs.access(dest, (err) => {
+    if (err) {
+      fs.mkdirSync(dest, { recursive: true });
+    }
+    copy(src, dest);
+  });
 }
 
 
 export const cleanFiles = () => cleanDir(path.join(path.resolve(), "dist"));
-export const copyFiles = () => copyDir(path.join(path.resolve(), "layouts"));
+export const copyFiles = () => copyDir(path.join(path.resolve(), "docs"), path.join(path.resolve(), "dist"), () => { });
