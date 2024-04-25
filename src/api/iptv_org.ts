@@ -1,4 +1,4 @@
-import { converter, handle_m3u, is_filted_channels, replace_github_raw_proxy_url, collectM3uSource, get_channel_id } from "../utils"
+import { converter, handle_m3u, is_filted_channels, collectM3uSource, get_channel_id } from "../utils"
 import type { ISource, TSources } from "../types"
 
 export const iptv_org_filter: ISource["filter"] = (
@@ -6,7 +6,7 @@ export const iptv_org_filter: ISource["filter"] = (
   caller,
   collectFn
 ): [string, number] => {
-  const rawArray = handle_m3u(replace_github_raw_proxy_url(raw))
+  const rawArray = handle_m3u(raw)
   const invalidExp = /\#EXTVLCOPT:/
 
   const arr = rawArray.filter((r) => !invalidExp.test(r))

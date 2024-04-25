@@ -91,6 +91,13 @@ export const writeEpgXML = (f_name: string, xml: string) => {
   fs.writeFileSync(path.resolve("dist", "epg", `${f_name}.xml`), xml)
 }
 
+export const writeDanmuXML = (f_name: string, xml: string) => {
+  if (!fs.existsSync(path.join(path.resolve(), "dist", "api"))) {
+    fs.mkdirSync(path.join(path.resolve(), "dist", "api"))
+  }
+  fs.writeFileSync(path.resolve("dist", "api", `${f_name}.xml`), xml)
+}
+
 const cleanDir = (p: string) => {
   if (fs.existsSync(p)) {
     fs.readdirSync(p).forEach((file) => {
@@ -104,4 +111,14 @@ const cleanDir = (p: string) => {
   }
 }
 
+const copyDir = (p: string) => {
+  if (fs.existsSync(p)) {
+    fs.readdirSync(p).forEach((file) => {
+      fs.writeFileSync(path.join(path.resolve(), "dist", file), file)
+    })
+  }
+}
+
+
 export const cleanFiles = () => cleanDir(path.join(path.resolve(), "dist"));
+export const copyFiles = () => copyDir(path.join(path.resolve(), "layouts"));

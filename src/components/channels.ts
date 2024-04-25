@@ -1,6 +1,5 @@
 import path from "path"
 import fs from "fs"
-import { get_custom_url } from "../utils"
 import type { TChannelsSources, IChannelsResult } from "../types";
 
 export const updateChannelsJson = (
@@ -9,17 +8,16 @@ export const updateChannelsJson = (
   epgs: TChannelsSources
 ) => {
   const json_p = path.resolve("dist", "channels.json")
-  const url = get_custom_url()
   const result: IChannelsResult = {
     builderVersion: 1,
     channels: sources?.map((source, idx) => ({
       name: source.name,
-      m3u: `${url}/${source.f_name}.m3u`,
+      m3u: `./${source.f_name}.m3u`,
       count: sources_res?.[idx]?.[1],
     })),
     epgs: epgs?.map((epg) => ({
       name: epg.name,
-      epg: `${url}/epg/${epg.f_name}.xml`,
+      epg: `./epg/${epg.f_name}.xml`,
     })),
     updated_at: new Date().getTime(),
   }

@@ -4,32 +4,23 @@
 <h4>Collection of resources dedicated to IPTV</h4>  
 </div>
 
-## 目录
-
-- ❓ [如何使用](#如何使用)
-- 📺 [IPTV](#iptv)
-- 📚 [EPG](#epg)
-- 🚀 [CDN加速](#cdn加速)
-- 🛈  [资源出处](#资源出处)
-- 📖 [免责申明](#免责申明)
-
-## 如何使用
+## ❓ 如何使用
 
 只需将以下链接之一插入任何支持实时流式传输的视频播放器，然后按打开即可。
 
-## IPTV
+## 📺 IPTV
 
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
 {update_channels}
 
-## EPG
+## 📚 EPG
 
 | epg | url | isRollback |
 | --- | --- | ---------- |
 {update_epgs}
 
-## CDN加速
+## 🚀CDN加速
 
 <details>
   <summary>镜像站(gcore.jsdelivr.net || fastly.jsdelivr.net || cdn.jsdelivr.net) -（国内访问快）</summary>
@@ -159,17 +150,15 @@
 </p>
 </details>
 
-## 资源出处
-
-本站IPTV资源出处:
+## 🛈 本站IPTV资源出处:
 
 - <https://epg.pw/test_channel_page.html>
-- [iptv.org](https://github.com/iptv-org/iptv)
-- [YueChan/Live](https://github.com/YueChan/Live)
-- [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
-- [fanmingming/live](https://github.com/fanmingming/live)
-- [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)
-- [joevess/IPTV](https://github.com/joevess/IPTV)
+- <https://github.com/iptv-org/iptv>
+- <https://github.com/YueChan/Live>
+- <https://github.com/YanG-1989/m3u>
+- <https://github.com/fanmingming/live>
+- <https://github.com/qwerttvv/Beijing-IPTV>
+- <https://github.com/joevess/IPTV>
 
 ## 免责申明
 

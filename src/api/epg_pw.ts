@@ -1,5 +1,5 @@
 import { ISource, TSources } from "../types"
-import { collectM3uSource, replace_github_raw_proxy_url, converter, handle_m3u } from "../utils"
+import { collectM3uSource, converter, handle_m3u } from "../utils"
 
 
 export const epg_pw_filter: ISource["filter"] = (
@@ -7,7 +7,7 @@ export const epg_pw_filter: ISource["filter"] = (
   caller,
   collectFn
 ): [string, number] => {
-  const rawArray = handle_m3u(replace_github_raw_proxy_url(raw))
+  const rawArray = handle_m3u(raw)
   const regExp = /\#EXTINF:-1\s+tvg\-name\=\"([^"]+)\"/
 
   let i = 1

@@ -8,6 +8,11 @@ export interface ISource {
     collectFn?: (k: string, v: string) => void
   ) => [string, number]
 }
+export interface DSource {
+  name: string
+  f_name: string
+  url: string
+}
 
 export interface IREADMEMirrorSite {
   protocol: "http" | "https"
