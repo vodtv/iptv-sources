@@ -21,7 +21,7 @@
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](./fmml_ipv6.m3u) <br> [fmml_ipv6.txt](./txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](./list/fmml_ipv6.list) | 98 | - |
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](./fmml_dv6.m3u) <br> [fmml_dv6.txt](./txt/fmml_dv6.txt) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_dv6.list) | 100 | - |
 | YueChan-Live IPTV | [ycl_iptv.m3u](./ycl_iptv.m3u) <br> [ycl_iptv.txt](./txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](./list/ycl_iptv.list) | 190 | - |
-| YanG-1989 Gather | [y_g.m3u](./y_g.m3u) <br> [y_g.txt](./txt/y_g.txt) | [List for YanG-1989 Gather](./list/y_g.list) | 276 | - |
+| YanG-1989 Gather | [y_g.m3u](./y_g.m3u) <br> [y_g.txt](./txt/y_g.txt) | [List for YanG-1989 Gather](./list/y_g.list) | 178 | - |
 | joevess/IPTV home | [j_home.m3u](./j_home.m3u) <br> [j_home.txt](./txt/j_home.txt) | [List for joevess/IPTV home](./list/j_home.list) | 51 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](./j_iptv.m3u) <br> [j_iptv.txt](./txt/j_iptv.txt) | [List for joevess/IPTV iptv](./list/j_iptv.list) | 503 | - |
 | iptv.org All | [o_all.m3u](./o_all.m3u) <br> [o_all.txt](./txt/o_all.txt) | [List for iptv.org All](./list/o_all.list) | 10019 | - |
@@ -47,9 +47,9 @@
 | 陕西铜川移动 | [sx_tcy.m3u](./sx_tcy.m3u) <br> [sx_tcy.txt](./txt/sx_tcy.txt) | [List for 陕西铜川移动](./list/sx_tcy.list) | 43 | - |
 | 广场舞蹈 | [vod_gcw.m3u](./vod_gcw.m3u) <br> [vod_gcw.txt](./txt/vod_gcw.txt) | [List for 广场舞蹈](./list/vod_gcw.list) | 126 | - |
 | DJ舞曲 | [vod_djw.m3u](./vod_djw.m3u) <br> [vod_djw.txt](./txt/vod_djw.txt) | [List for DJ舞曲](./list/vod_djw.list) | 176 | - |
-| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u) <br> [hc_cntv.txt](./txt/hc_cntv.txt) | [List for 稳定 最新源](./list/hc_cntv.list) | 85 | - |
+| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u) <br> [hc_cntv.txt](./txt/hc_cntv.txt) | [List for 稳定 最新源](./list/hc_cntv.list) | 88 | - |
 
- > Updated at **4/26/2024 12:36:27 AM**
+ > Updated at **4/26/2024 8:10:54 AM**
 
 ## 📚 EPG节目单
 
@@ -60,7 +60,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml) | - |
 
- > Updated at **4/26/2024 12:36:27 AM**
+ > Updated at **4/26/2024 8:10:54 AM**
 
 ## 🚀Github 文件加速
 

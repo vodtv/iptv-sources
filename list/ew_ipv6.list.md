@@ -2241,7 +2241,7 @@
 | 2233 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2234 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **4/26/2024 12:36:27 AM**
+Updated at **4/26/2024 8:10:54 AM**
 
 ## 使用说明
 
