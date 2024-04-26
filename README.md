@@ -24,7 +24,7 @@
 | YanG-1989 Gather | [y_g.m3u](./y_g.m3u) <br> [y_g.txt](./txt/y_g.txt) | [List for YanG-1989 Gather](./list/y_g.list) | 276 | - |
 | joevess/IPTV home | [j_home.m3u](./j_home.m3u) <br> [j_home.txt](./txt/j_home.txt) | [List for joevess/IPTV home](./list/j_home.list) | 51 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](./j_iptv.m3u) <br> [j_iptv.txt](./txt/j_iptv.txt) | [List for joevess/IPTV iptv](./list/j_iptv.list) | 503 | - |
-| iptv.org All | [o_all.m3u](./o_all.m3u) <br> [o_all.txt](./txt/o_all.txt) | [List for iptv.org All](./list/o_all.list) | 10009 | - |
+| iptv.org All | [o_all.m3u](./o_all.m3u) <br> [o_all.txt](./txt/o_all.txt) | [List for iptv.org All](./list/o_all.list) | 10019 | - |
 | iptv.org China | [o_cn.m3u](./o_cn.m3u) <br> [o_cn.txt](./txt/o_cn.txt) | [List for iptv.org China](./list/o_cn.list) | 541 | - |
 | iptv.org stream China | [o_s_cn.m3u](./o_s_cn.m3u) <br> [o_s_cn.txt](./txt/o_s_cn.txt) | [List for iptv.org stream China](./list/o_s_cn.list) | 507 | - |
 | iptv.org stream China 112114 | [o_s_cn_112114.m3u](./o_s_cn_112114.m3u) <br> [o_s_cn_112114.txt](./txt/o_s_cn_112114.txt) | [List for iptv.org stream China 112114](./list/o_s_cn_112114.list) | 18 | - |
@@ -35,21 +35,21 @@
 | epg.pw 卫视 | [ew_ws.m3u](./ew_ws.m3u) <br> [ew_ws.txt](./txt/ew_ws.txt) | [List for epg.pw 卫视](./list/ew_ws.list) | 34 | - |
 | epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u) <br> [ew_cn.txt](./txt/ew_cn.txt) | [List for epg.pw 国内](./list/ew_cn.list) | 373 | - |
 | epg.pw 香港 | [ew_hk.m3u](./ew_hk.m3u) <br> [ew_hk.txt](./txt/ew_hk.txt) | [List for epg.pw 香港](./list/ew_hk.list) | 44 | - |
-| epg.pw 澳門 | [ew_om.m3u](./ew_om.m3u) <br> [ew_om.txt](./txt/ew_om.txt) | [List for epg.pw 澳門](./list/ew_om.list) | 2 | - |
+| epg.pw 澳門 | [ew_om.m3u](./ew_om.m3u) <br> [ew_om.txt](./txt/ew_om.txt) | [List for epg.pw 澳門](./list/ew_om.list) | 3 | - |
 | epg.pw 台灣 | [ew_tw.m3u](./ew_tw.m3u) <br> [ew_tw.txt](./txt/ew_tw.txt) | [List for epg.pw 台灣](./list/ew_tw.list) | 97 | - |
-| epg.pw ipv6 | [ew_ipv6.m3u](./ew_ipv6.m3u) <br> [ew_ipv6.txt](./txt/ew_ipv6.txt) | [List for epg.pw ipv6](./list/ew_ipv6.list) | 2235 | - |
+| epg.pw ipv6 | [ew_ipv6.m3u](./ew_ipv6.m3u) <br> [ew_ipv6.txt](./txt/ew_ipv6.txt) | [List for epg.pw ipv6](./list/ew_ipv6.list) | 2234 | - |
 | 北京联通 单播列表 | [q_bj_iptv_unicom.m3u](./q_bj_iptv_unicom.m3u) <br> [q_bj_iptv_unicom.txt](./txt/q_bj_iptv_unicom.txt) | [List for 北京联通 单播列表](./list/q_bj_iptv_unicom.list) | 131 | - |
 | 北京联通 组播列表 | [q_bj_iptv_unicom_m.m3u](./q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](./txt/q_bj_iptv_unicom_m.txt) | [List for 北京联通 组播列表](./list/q_bj_iptv_unicom_m.list) | 131 | - |
 | 北京移动 单播列表 | [q_bj_iptv_mobile.m3u](./q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](./txt/q_bj_iptv_mobile.txt) | [List for 北京移动 单播列表](./list/q_bj_iptv_mobile.list) | 146 | - |
 | 北京移动 组播列表 | [q_bj_iptv_mobile_m.m3u](./q_bj_iptv_mobile_m.m3u) <br> [q_bj_iptv_mobile_m.txt](./txt/q_bj_iptv_mobile_m.txt) | [List for 北京移动 组播列表](./list/q_bj_iptv_mobile_m.list) | 129 | - |
-| 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u) <br> [ss_itv.txt](./txt/ss_itv.txt) | [List for 全国 酒店组播源](./list/ss_itv.list) | 311 | - |
+| 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u) <br> [ss_itv.txt](./txt/ss_itv.txt) | [List for 全国 酒店组播源](./list/ss_itv.list) | 366 | - |
 | 陕西 移动源 | [sx_ydy.m3u](./sx_ydy.m3u) <br> [sx_ydy.txt](./txt/sx_ydy.txt) | [List for 陕西 移动源](./list/sx_ydy.list) | 64 | - |
 | 陕西铜川移动 | [sx_tcy.m3u](./sx_tcy.m3u) <br> [sx_tcy.txt](./txt/sx_tcy.txt) | [List for 陕西铜川移动](./list/sx_tcy.list) | 43 | - |
 | 广场舞蹈 | [vod_gcw.m3u](./vod_gcw.m3u) <br> [vod_gcw.txt](./txt/vod_gcw.txt) | [List for 广场舞蹈](./list/vod_gcw.list) | 126 | - |
 | DJ舞曲 | [vod_djw.m3u](./vod_djw.m3u) <br> [vod_djw.txt](./txt/vod_djw.txt) | [List for DJ舞曲](./list/vod_djw.list) | 176 | - |
-| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u) <br> [hc_cntv.txt](./txt/hc_cntv.txt) | [List for 稳定 最新源](./list/hc_cntv.list) | 88 | - |
+| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u) <br> [hc_cntv.txt](./txt/hc_cntv.txt) | [List for 稳定 最新源](./list/hc_cntv.list) | 85 | - |
 
- > Updated at **4/25/2024 11:57:22 AM**
+ > Updated at **4/26/2024 12:36:27 AM**
 
 ## 📚 EPG节目单
 
@@ -60,7 +60,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml) | - |
 
- > Updated at **4/25/2024 11:57:22 AM**
+ > Updated at **4/26/2024 12:36:27 AM**
 
 ## 🚀Github 文件加速
 
