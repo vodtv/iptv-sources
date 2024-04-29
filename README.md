@@ -43,9 +43,9 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 356 | - |
 | 陕西 移动源 | [sx_ydy.m3u](./sx_ydy.m3u ) <br> [sx_ydy.txt](./txt/sx_ydy.txt ) | [List for 陕西 移动源](./list/sx_ydy.list ) | 64 | - |
 | 陕西铜川移动 | [sx_tcy.m3u](./sx_tcy.m3u ) <br> [sx_tcy.txt](./txt/sx_tcy.txt ) | [List for 陕西铜川移动](./list/sx_tcy.list ) | 43 | - |
-| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 86 | - |
+| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 85 | - |
 
- > Updated at **4/29/2024 5:00:20 AM**
+ > Updated at **4/29/2024 8:14:24 AM**
 
 ## 📚 EPG节目单
 
@@ -56,7 +56,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **4/29/2024 5:00:20 AM**
+ > Updated at **4/29/2024 8:14:24 AM**
 
 ## 🚀Github 文件加速
 
