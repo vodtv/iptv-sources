@@ -1,6 +1,6 @@
 # List for **北京联通 组播列表**
 
-> M3U: [q_bj_iptv_unicom_m.m3u](./q_bj_iptv_unicom_m.m3u), TXT: [q_bj_iptv_unicom_m.txt](./txt/q_bj_iptv_unicom_m.txt)
+> M3U: [q_bj_iptv_unicom_m.m3u](./q_bj_iptv_unicom_m.m3u ), TXT: [q_bj_iptv_unicom_m.txt](./txt/q_bj_iptv_unicom_m.txt )
 
 ## 频道详情
 
@@ -138,7 +138,7 @@
 | 130 | 音乐现场 | IPv4 直链 | <rtp://239.3.1.70:4120> |
 | 131 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
 
-Updated at **4/29/2024 12:37:07 AM**
+Updated at **4/29/2024 4:33:14 AM**
 
 ## 使用说明
 

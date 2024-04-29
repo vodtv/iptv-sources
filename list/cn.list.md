@@ -1,6 +1,6 @@
 # List for **epg.pw China**
 
-> M3U: [cn.m3u](./cn.m3u), TXT: [cn.txt](./txt/cn.txt)
+> M3U: [cn.m3u](./cn.m3u ), TXT: [cn.txt](./txt/cn.txt )
 
 ## 频道详情
 
@@ -38,14 +38,14 @@
 | 30 | [BD]cctv 风云足球 | epg.pw | <https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8> |
 | 31 | [SD]cctv音乐 | epg.pw | <https://epg.pw/stream/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8> |
 | 32 | [BD]cetv 早期教育 | epg.pw | <https://epg.pw/stream/16991fb8fbacc348a38d3f3475e4d43f5e1de3f9eb55b69978f187c4ccd61c33.ctv> |
-| 33 | [SD]cgtn | epg.pw | <https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8> |
+| 33 | [SD]cgtn | epg.pw | <https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb54e397.m3u8> |
 | 34 | [BD]rt documentary | epg.pw | <https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8> |
 | 35 | [SD]cgtn español (576p) | epg.pw | <https://epg.pw/stream/32644b27df53a500dd42ddb0c101df37f0ada5c8d4bb5ed3f0612a65873b6de7.m3u8> |
 | 36 | [SD]cgtn français (576p) [not 24/7] | epg.pw | <https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8> |
 | 37 | [SD]cgtn русский (576p) | epg.pw | <https://epg.pw/stream/cd17ab0f6da0511b921f1546eaa98aaf24f3d12f6a2dc680cc8a2e5cf1a59ee6.m3u8> |
 | 38 | [BD]chc动作电影[ipv6] | epg.pw | <https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8> |
 | 39 | [BD]chc家庭影院 | epg.pw | <https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8> |
-| 40 | [VGA]chc高清电影 | epg.pw | <https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8> |
+| 40 | [BD]chc高清电影 | epg.pw | <https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8> |
 | 41 | [HD]can news | epg.pw | <https://epg.pw/stream/5402a0174b2a8f8714c024555a4e818fa25a6e9a478c240927f1a3616c393941.m3u8> |
 | 42 | [SD]channel | epg.pw | <https://epg.pw/stream/38a967322df96f5d1a525b105f0a760533fa6220861bbcd7bd50a37ca2002b50.ctv> |
 | 43 | [HD]hot | epg.pw | <https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8> |
@@ -372,7 +372,7 @@
 | 364 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 365 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **4/29/2024 12:37:07 AM**
+Updated at **4/29/2024 4:33:14 AM**
 
 ## 使用说明
 

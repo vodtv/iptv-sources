@@ -1,6 +1,6 @@
-# List for **18+松视源**
+# List for **18+松视**
 
-> M3U: [18_ssy.m3u](./18_ssy.m3u), TXT: [18_ssy.txt](./txt/18_ssy.txt)
+> M3U: [18_ssy.m3u](./18_ssy.m3u ), TXT: [18_ssy.txt](./txt/18_ssy.txt )
 
 ## 频道详情
 
@@ -12,7 +12,7 @@
 | 4 | 松视2 | 18.svi-studio.com | <https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8> |
 | 5 | 惊艳台 | 18.svi-studio.com | <https://18.svi-studio.com/live/673960949860/294164781253/01.m3u8> |
 
-Updated at **4/29/2024 12:37:07 AM**
+Updated at **4/29/2024 4:33:14 AM**
 
 ## 使用说明
 

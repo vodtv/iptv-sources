@@ -1,6 +1,6 @@
 # List for **joevess/IPTV iptv**
 
-> M3U: [j_iptv.m3u](./j_iptv.m3u), TXT: [j_iptv.txt](./txt/j_iptv.txt)
+> M3U: [j_iptv.m3u](./j_iptv.m3u ), TXT: [j_iptv.txt](./txt/j_iptv.txt )
 
 ## 频道详情
 
@@ -510,7 +510,7 @@
 | 502 | CGTN西语 | CGTN | <https://livees.cgtn.com/1000e/prog_index.m3u8> |
 | 503 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **4/29/2024 12:37:07 AM**
+Updated at **4/29/2024 4:33:14 AM**
 
 ## 使用说明
 

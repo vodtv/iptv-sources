@@ -1,6 +1,6 @@
 # List for **fanmingming/live domainv6(Invalid)**
 
-> M3U: [fmml_dv6.m3u](./fmml_dv6.m3u), TXT: [fmml_dv6.txt](./txt/fmml_dv6.txt)
+> M3U: [fmml_dv6.m3u](./fmml_dv6.m3u ), TXT: [fmml_dv6.txt](./txt/fmml_dv6.txt )
 
 ## 频道详情
 
@@ -107,7 +107,7 @@
 | 99 | 家有购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8> |
 | 100 | 快乐购 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8> |
 
-Updated at **4/29/2024 12:37:07 AM**
+Updated at **4/29/2024 4:33:14 AM**
 
 ## 使用说明
 

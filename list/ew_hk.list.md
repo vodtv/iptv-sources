@@ -1,6 +1,6 @@
 # List for **epg.pw 香港**
 
-> M3U: [ew_hk.m3u](./ew_hk.m3u), TXT: [ew_hk.txt](./txt/ew_hk.txt)
+> M3U: [ew_hk.m3u](./ew_hk.m3u ), TXT: [ew_hk.txt](./txt/ew_hk.txt )
 
 ## 频道详情
 
@@ -54,7 +54,7 @@
 | 46 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 47 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8> |
 
-Updated at **4/29/2024 12:37:07 AM**
+Updated at **4/29/2024 4:33:14 AM**
 
 ## 使用说明
 

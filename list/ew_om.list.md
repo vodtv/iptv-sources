@@ -1,6 +1,6 @@
 # List for **epg.pw 澳門**
 
-> M3U: [ew_om.m3u](./ew_om.m3u), TXT: [ew_om.txt](./txt/ew_om.txt)
+> M3U: [ew_om.m3u](./ew_om.m3u ), TXT: [ew_om.txt](./txt/ew_om.txt )
 
 ## 频道详情
 
@@ -10,7 +10,7 @@
 | 2 | [HD]澳门莲花 | epg.pw | <https://epg.pw/stream/92c53cb4e3bd1ab6b3bc7061818af46bc9b6559e05285987056229cc4d4ffbfe.m3u8> |
 | 3 | [SD]澳门卫视 | epg.pw | <https://epg.pw/stream/5f07c175a9cd7c18a43ed354299f4f4a719146f53cc3cd08ca2a9242f00e6d5e.m3u8> |
 
-Updated at **4/29/2024 12:37:07 AM**
+Updated at **4/29/2024 4:33:14 AM**
 
 ## 使用说明
 
