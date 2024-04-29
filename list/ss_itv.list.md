@@ -363,7 +363,7 @@
 | 355 | 金鹰卡通 | IPv4 直链 | <http://113.57.103.216:9000/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 356 | 金鹰纪实 | IPv4 直链 | <http://221.234.25.122:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/29/2024 4:33:14 AM**
+Updated at **4/29/2024 5:00:20 AM**
 
 ## 使用说明
 
