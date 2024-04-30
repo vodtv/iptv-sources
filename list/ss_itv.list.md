@@ -390,7 +390,7 @@
 | 382 | 黑龙江 | IPv4 直链 | <http://42.5.185.242:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 383 | 黑龙江 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/30/2024 12:44:50 AM**
+Updated at **4/30/2024 8:13:23 AM**
 
 ## 使用说明
 

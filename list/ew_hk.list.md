@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [HD]tvri world | epg.pw | <https://epg.pw/stream/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
 | 2 | [VGA]discovery id | epg.pw | <https://epg.pw/stream/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.ctv> |
-| 3 | [HD]hks | epg.pw | <https://epg.pw/stream/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.ctv> |
+| 3 | [SD]hks | epg.pw | <https://epg.pw/stream/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.ctv> |
 | 4 | [BD]hot tv | epg.pw | <https://epg.pw/stream/003dd20d26bcb148d8a87c2432e713fba241a2acca6e334ad7b2ec96dc1fc499.m3u8> |
 | 5 | [HD]ptv granada | epg.pw | <https://epg.pw/stream/063e0efb004c2bf1bd5c101466186d8ab3911e3f0fc4946c12e2e31213470fe5.m3u8> |
 | 6 | [BD]MyTV Super | epg.pw | <https://epg.pw/stream/2cd91800ed3e6b99c51d6baec79e5a5945ffaa4d113b0e2711d6931e0c9789d5.ctv> |
@@ -54,7 +54,7 @@
 | 46 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 47 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8> |
 
-Updated at **4/30/2024 12:44:50 AM**
+Updated at **4/30/2024 8:13:23 AM**
 
 ## 使用说明
 

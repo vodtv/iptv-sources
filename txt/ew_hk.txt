@@ -14,7 +14,7 @@
 [VGA]discovery_id,https://epg.pw/stream/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.ctv
 
 其它,#genre#
-[HD]hks,https://epg.pw/stream/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.ctv
+[SD]hks,https://epg.pw/stream/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.ctv
 [HD]ptv_granada,https://epg.pw/stream/063e0efb004c2bf1bd5c101466186d8ab3911e3f0fc4946c12e2e31213470fe5.m3u8
 [VGA]耀才财经,https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
 
