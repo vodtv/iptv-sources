@@ -28,14 +28,14 @@
 | iptv.org stream China 112114 | [o_s_cn_112114.m3u](./o_s_cn_112114.m3u ) <br> [o_s_cn_112114.txt](./txt/o_s_cn_112114.txt ) | [List for iptv.org stream China 112114](./list/o_s_cn_112114.list ) | 18 | - |
 | iptv.org stream China CCTV | [o_s_cn_cctv.m3u](./o_s_cn_cctv.m3u ) <br> [o_s_cn_cctv.txt](./txt/o_s_cn_cctv.txt ) | [List for iptv.org stream China CCTV](./list/o_s_cn_cctv.list ) | 14 | - |
 | iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](./o_s_cn_cgtn.m3u ) <br> [o_s_cn_cgtn.txt](./txt/o_s_cn_cgtn.txt ) | [List for iptv.org stream China CGTN](./list/o_s_cn_cgtn.list ) | 6 | - |
-| epg.pw China | [cn.m3u](./cn.m3u ) <br> [cn.txt](./txt/cn.txt ) | [List for epg.pw China](./list/cn.list ) | 363 | - |
+| epg.pw China | [cn.m3u](./cn.m3u ) <br> [cn.txt](./txt/cn.txt ) | [List for epg.pw China](./list/cn.list ) | 361 | - |
 | epg.pw 央视 | [ew_cc.m3u](./ew_cc.m3u ) <br> [ew_cc.txt](./txt/ew_cc.txt ) | [List for epg.pw 央视](./list/ew_cc.list ) | 8 | - |
 | epg.pw 卫视 | [ew_ws.m3u](./ew_ws.m3u ) <br> [ew_ws.txt](./txt/ew_ws.txt ) | [List for epg.pw 卫视](./list/ew_ws.list ) | 34 | - |
-| epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 363 | - |
+| epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 361 | - |
 | epg.pw 香港 | [ew_hk.m3u](./ew_hk.m3u ) <br> [ew_hk.txt](./txt/ew_hk.txt ) | [List for epg.pw 香港](./list/ew_hk.list ) | 47 | - |
 | epg.pw 澳門 | [ew_om.m3u](./ew_om.m3u ) <br> [ew_om.txt](./txt/ew_om.txt ) | [List for epg.pw 澳門](./list/ew_om.list ) | 8 | - |
 | epg.pw 台灣 | [ew_tw.m3u](./ew_tw.m3u ) <br> [ew_tw.txt](./txt/ew_tw.txt ) | [List for epg.pw 台灣](./list/ew_tw.list ) | 79 | - |
-| epg.pw ipv6 | [ew_ipv6.m3u](./ew_ipv6.m3u ) <br> [ew_ipv6.txt](./txt/ew_ipv6.txt ) | [List for epg.pw ipv6](./list/ew_ipv6.list ) | 2167 | - |
+| epg.pw ipv6 | [ew_ipv6.m3u](./ew_ipv6.m3u ) <br> [ew_ipv6.txt](./txt/ew_ipv6.txt ) | [List for epg.pw ipv6](./list/ew_ipv6.list ) | 2160 | - |
 | 北京联通 单播列表 | [q_bj_iptv_unicom.m3u](./q_bj_iptv_unicom.m3u ) <br> [q_bj_iptv_unicom.txt](./txt/q_bj_iptv_unicom.txt ) | [List for 北京联通 单播列表](./list/q_bj_iptv_unicom.list ) | 131 | - |
 | 北京联通 组播列表 | [q_bj_iptv_unicom_m.m3u](./q_bj_iptv_unicom_m.m3u ) <br> [q_bj_iptv_unicom_m.txt](./txt/q_bj_iptv_unicom_m.txt ) | [List for 北京联通 组播列表](./list/q_bj_iptv_unicom_m.list ) | 131 | - |
 | 北京移动 单播列表 | [q_bj_iptv_mobile.m3u](./q_bj_iptv_mobile.m3u ) <br> [q_bj_iptv_mobile.txt](./txt/q_bj_iptv_mobile.txt ) | [List for 北京移动 单播列表](./list/q_bj_iptv_mobile.list ) | 146 | - |
@@ -45,7 +45,7 @@
 | 陕西铜川移动 | [sx_tcy.m3u](./sx_tcy.m3u ) <br> [sx_tcy.txt](./txt/sx_tcy.txt ) | [List for 陕西铜川移动](./list/sx_tcy.list ) | 43 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 86 | - |
 
- > Updated at **5/1/2024 12:50:12 AM**
+ > Updated at **5/1/2024 8:15:52 AM**
 
 ## 📚 EPG节目单
 
@@ -56,7 +56,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **5/1/2024 12:50:12 AM**
+ > Updated at **5/1/2024 8:15:52 AM**
 
 ## 🚀Github 文件加速
 
