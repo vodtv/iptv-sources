@@ -86,7 +86,7 @@
 | 78 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 79 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **5/1/2024 7:47:40 PM**
+Updated at **5/1/2024 9:36:08 PM**
 
 ## 使用说明
 
