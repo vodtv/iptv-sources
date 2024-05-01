@@ -510,7 +510,7 @@
 | 502 | CGTN西语 | CGTN | <https://livees.cgtn.com/1000e/prog_index.m3u8> |
 | 503 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **5/1/2024 8:15:52 AM**
+Updated at **5/1/2024 7:47:40 PM**
 
 ## 使用说明
 
