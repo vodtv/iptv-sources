@@ -23,6 +23,8 @@
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](./fmml_dv6.m3u ) <br> [fmml_dv6.txt](./txt/fmml_dv6.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_dv6.list ) | 100 | - |
 | YueChan-Live IPTV | [ycl_iptv.m3u](./ycl_iptv.m3u ) <br> [ycl_iptv.txt](./txt/ycl_iptv.txt ) | [List for YueChan-Live IPTV](./list/ycl_iptv.list ) | 174 | - |
 | YanG-1989 Gather | [y_g.m3u](./y_g.m3u ) <br> [y_g.txt](./txt/y_g.txt ) | [List for YanG-1989 Gather](./list/y_g.list ) | 178 | - |
+| 熊猫直播 | [xiongmao.m3u](./xiongmao.m3u ) <br> [xiongmao.txt](./txt/xiongmao.txt ) | [List for 熊猫直播](./list/xiongmao.list ) | 20 | - |
+| 央视频 | [ysp.m3u](./ysp.m3u ) <br> [ysp.txt](./txt/ysp.txt ) | [List for 央视频](./list/ysp.list ) | 62 | - |
 | joevess/IPTV home | [j_home.m3u](./j_home.m3u ) <br> [j_home.txt](./txt/j_home.txt ) | [List for joevess/IPTV home](./list/j_home.list ) | 51 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](./j_iptv.m3u ) <br> [j_iptv.txt](./txt/j_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_iptv.list ) | 503 | - |
 | iptv.org China | [o_cn.m3u](./o_cn.m3u ) <br> [o_cn.txt](./txt/o_cn.txt ) | [List for iptv.org China](./list/o_cn.list ) | 541 | - |
@@ -45,7 +47,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 359 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 86 | - |
 
- > Updated at **5/2/2024 12:44:48 AM**
+ > Updated at **5/2/2024 3:55:46 AM**
 
 ## 📚 EPG节目单
 
@@ -56,7 +58,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **5/2/2024 12:44:48 AM**
+ > Updated at **5/2/2024 3:55:46 AM**
 
 ## 🚀Github 文件加速
 
