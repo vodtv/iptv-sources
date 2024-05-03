@@ -400,7 +400,7 @@
 | 392 | 风云足球 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 393 | 黑龙江 | IPv4 直链 | <http://42.5.185.242:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **5/3/2024 12:49:00 AM**
+Updated at **5/3/2024 8:12:58 AM**
 
 ## 使用说明
 

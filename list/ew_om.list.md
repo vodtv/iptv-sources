@@ -15,7 +15,7 @@
 | 7 | [HD]澳门莲花 | epg.pw | <https://epg.pw/stream/92c53cb4e3bd1ab6b3bc7061818af46bc9b6559e05285987056229cc4d4ffbfe.m3u8> |
 | 8 | [HD]澳门资讯 | epg.pw | <https://epg.pw/stream/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8> |
 
-Updated at **5/3/2024 12:49:00 AM**
+Updated at **5/3/2024 8:12:58 AM**
 
 ## 使用说明
 
