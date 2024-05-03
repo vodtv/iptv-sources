@@ -69,7 +69,7 @@
 | 61 | 河北卫视 | IPv4 直链 | <http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293403.m3u8> |
 | 62 | 山东卫视 | IPv4 直链 | <http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294803.m3u8> |
 
-Updated at **5/2/2024 8:13:20 AM**
+Updated at **5/3/2024 12:49:00 AM**
 
 ## 使用说明
 
