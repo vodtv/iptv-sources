@@ -401,7 +401,7 @@
 | 393 | 黑龙江 | IPv4 直链 | <http://42.5.185.242:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 394 | 黑龙江 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **5/5/2024 7:41:44 AM**
+Updated at **5/5/2024 7:47:12 AM**
 
 ## 使用说明
 
