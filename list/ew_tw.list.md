@@ -68,7 +68,7 @@
 | 60 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
 | 61 | [VGA]华视新闻 | epg.pw | <https://epg.pw/stream/b20d2989c1b4d83ae0b5972a00648b724ae245f21c9542eca7bb8c32a0043a24.ctv> |
 
-Updated at **5/5/2024 7:47:12 AM**
+Updated at **5/5/2024 7:54:27 AM**
 
 ## 使用说明
 
