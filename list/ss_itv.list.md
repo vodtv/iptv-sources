@@ -261,7 +261,7 @@
 | 253 | 金鹰纪实 | IPv4 直链 | <http://221.234.25.122:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 254 | 风云足球 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **5/7/2024 12:46:04 AM**
+Updated at **5/7/2024 8:13:14 AM**
 
 ## 使用说明
 
