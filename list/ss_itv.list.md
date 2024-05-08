@@ -272,7 +272,7 @@
 | 264 | 风云足球 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 265 | 黑龙江 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **5/8/2024 12:37:57 AM**
+Updated at **5/8/2024 8:11:46 AM**
 
 ## 使用说明
 
