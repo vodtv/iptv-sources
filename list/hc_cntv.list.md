@@ -98,7 +98,7 @@
 | 90 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=bb7edec31715214269> |
 | 91 | 三沙卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=854b4a9c1715218312> |
 
-Updated at **5/9/2024 12:46:26 AM**
+Updated at **5/9/2024 8:13:46 AM**
 
 ## 使用说明
 
