@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./about-IPTV.jpg" height="200" />
 <h1 > 收集来自世界各地IPTV </h1> 
 <h4>Collection of resources dedicated to IPTV</h4>  
 </div>
