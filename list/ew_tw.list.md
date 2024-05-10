@@ -15,7 +15,7 @@
 | 7 | [HD]FOOD NETWORK | epg.pw | <https://epg.pw/stream/ca05614fef9f090bedaf74eecfac46606417411992c65e72b72a2f4ab14f9ab9.ctv> |
 | 8 | [HD]global trekker-cdn6 | epg.pw | <https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8> |
 | 9 | [BD]HBO ASIA | epg.pw | <https://epg.pw/stream/753b8be4e27b542f28e5e77959b0713a54846dc6ebd6b738937cf5cf5cc1f566.ctv> |
-| 10 | [HD]young hollywood (720p) | epg.pw | <https://epg.pw/stream/8a1cbc1af24b8d74012a128ebd952be710ea167f34d6ffc5ce6203aeb0b14710.m3u8> |
+| 10 | [BD]hollywood classics | epg.pw | <https://epg.pw/stream/0b7b43f22318768ae441ed3a4db8ae15bb12e2d8818cd19522be6a87352b2464.m3u8> |
 | 11 | [BD]love nature 4k | epg.pw | <https://epg.pw/stream/1311b212993c11b75e1f5ab66be6d7a2241b36ddce52a3d8dd046a9b057da66e.m3u8> |
 | 12 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
 | 13 | [HD]nat geo | epg.pw | <https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv> |
@@ -68,7 +68,7 @@
 | 60 | [VGA]华视新闻台 | epg.pw | <https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8> |
 | 61 | [BD]镜新闻台 | epg.pw | <https://epg.pw/stream/d0dbeb20fa9ca52ba2779ffabf00eb93f77f91b93120457bb687de3ba00ad1e2.m3u8> |
 
-Updated at **5/9/2024 2:58:54 PM**
+Updated at **5/10/2024 12:46:09 AM**
 
 ## 使用说明
 
