@@ -6,13 +6,9 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 潘多拉 | 18.svi-studio.com | <https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8> |
-| 2 | 香蕉台 | 18.svi-studio.com | <https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8> |
-| 3 | 松视1 | 18.svi-studio.com | <https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8> |
-| 4 | 松视2 | 18.svi-studio.com | <https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8> |
-| 5 | 惊艳台 | 18.svi-studio.com | <https://18.svi-studio.com/live/673960949860/294164781253/01.m3u8> |
 
-Updated at **5/10/2024 12:46:09 AM**
+
+Updated at **5/10/2024 8:13:17 AM**
 
 ## 使用说明
 
