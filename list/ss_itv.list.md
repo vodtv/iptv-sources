@@ -332,7 +332,7 @@
 | 324 | 钱江 | IPv4 直链 | <http://123.154.30.252:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 325 | 风云足球 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **5/11/2024 12:45:26 AM**
+Updated at **5/11/2024 8:12:46 AM**
 
 ## 使用说明
 

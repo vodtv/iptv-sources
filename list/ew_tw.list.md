@@ -12,13 +12,13 @@
 | 4 | [BD]discovery channel | epg.pw | <https://epg.pw/stream/c550957389889e7c508d1b7db8edc582a4f270f05f5e5d8bcba2f758b9cf7bb1.m3u8> |
 | 5 | [BD]discovery hd world | epg.pw | <https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8> |
 | 6 | [SD]discovery science | epg.pw | <https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8> |
-| 7 | [HD]FOODNETWORK | epg.pw | <https://epg.pw/stream/cdd389fc153bb92ff0e0c1e65a487111ee595b0e2f282f486035e57c7dd2758b.ctv> |
+| 7 | [VGA]food | epg.pw | <https://epg.pw/stream/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8> |
 | 8 | [HD]global trekker-cdn6 | epg.pw | <https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8> |
 | 9 | [BD]HBO ASIA | epg.pw | <https://epg.pw/stream/753b8be4e27b542f28e5e77959b0713a54846dc6ebd6b738937cf5cf5cc1f566.ctv> |
 | 10 | [BD]hollywood classics | epg.pw | <https://epg.pw/stream/0b7b43f22318768ae441ed3a4db8ae15bb12e2d8818cd19522be6a87352b2464.m3u8> |
 | 11 | [BD]love nature 4k | epg.pw | <https://epg.pw/stream/1311b212993c11b75e1f5ab66be6d7a2241b36ddce52a3d8dd046a9b057da66e.m3u8> |
 | 12 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
-| 13 | [HD]nat geo | epg.pw | <https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv> |
+| 13 | [HD]nat geo | epg.pw | <https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv> |
 | 14 | [HD]petclub hd | epg.pw | <https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904aedc6fc5e83c61225e.ctv> |
 | 15 | [HD]smithsonian channel selects | epg.pw | <https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
 | 16 | [VGA]tvbs 新闻 | epg.pw | <https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv> |
@@ -29,7 +29,7 @@
 | 21 | [BD]三立inews | epg.pw | <https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8> |
 | 22 | [BD]三立新闻台 | epg.pw | <https://epg.pw/stream/2dd97b2a1a8287dc8a0fb65a096b2095a0bcd7e94098f8c5609eb06b81d5e80e.m3u8> |
 | 23 | [BD]三立台湾台 | epg.pw | <https://epg.pw/stream/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv> |
-| 24 | [HD]中天亚洲台 | epg.pw | <https://epg.pw/stream/450940587fa1fc5e0d5e7dcc867cc7cf516be1703ac460838de30e3d298296d7.ctv> |
+| 24 | [HD]中天亚洲台 | epg.pw | <https://epg.pw/stream/149ee681a7aa277f23758b7ea79cd2ec4b037bc14f122435b31294981e4acbca.ctv> |
 | 25 | [BD]中天新闻台 | epg.pw | <https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8> |
 | 26 | [BD]中视 | epg.pw | <https://epg.pw/stream/48023223cf3a94ab9dcdbef7b2e3c566429aeaba44f3e41d03a955e1202ad492.m3u8> |
 | 27 | [BD]中视新闻台 | epg.pw | <https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8> |
@@ -68,7 +68,7 @@
 | 60 | [BD]华视新闻台 | epg.pw | <https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8> |
 | 61 | [BD]镜新闻台 | epg.pw | <https://epg.pw/stream/d0dbeb20fa9ca52ba2779ffabf00eb93f77f91b93120457bb687de3ba00ad1e2.m3u8> |
 
-Updated at **5/11/2024 12:45:26 AM**
+Updated at **5/11/2024 8:12:46 AM**
 
 ## 使用说明
 
