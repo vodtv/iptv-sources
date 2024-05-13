@@ -1,4 +1,6 @@
 电影频道,#genre#
+电影_喜剧,https://live.metshop.top/huya/11352965
+电影_黑帮,https://live.metshop.top/huya/11336719
 电影_星爷,https://live.metshop.top/huya/11342412
 电影_英叔,https://live.metshop.top/huya/11342421
 电影_发哥,https://live.metshop.top/huya/11342387
