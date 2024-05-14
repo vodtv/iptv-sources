@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="115新天地民俗台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="其它",[VGA]khbs-tv news fort smith ar
 https://epg.pw/stream/0686ee5a476df9816cdbe3abf8b1bf85b74b0cfbc6e0eebce68d86d0e84c1a80.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719234119433352_60.jpg" group-title="儿童",[SD]animax
-https://epg.pw/stream/bf8b2ee2054e29c905611d47c54f2b15e6de0b5e865fed02b8cef5876e1bf99c.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719234119433352_60.jpg" group-title="儿童",[BD]ช่อง animax
+https://epg.pw/stream/2146128fbce990bedacd1d59f939468d0f6fa2f9fb3e4e2ca44838af76b619bb.ctv
 #EXTINF:-1 tvg-name="CINEMAX(TW)" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601221557788215_67.png" group-title="电影",[BD]CINEMAX
 https://epg.pw/stream/19002e7ace1a8f7755c4a6ef0689fce93495448228312fb20c7d02a5947eafec.ctv
 #EXTINF:-1 tvg-name="DISCOVERY Channel" tvg-id="" tvg-country="台湾" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png" group-title="知识",[BD]discovery channel
@@ -17,8 +17,8 @@ https://epg.pw/stream/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b0
 https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8
 #EXTINF:-1 tvg-name="HBO Asia台湾地区频道" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/31/20170531221343109897_42.png" group-title="电影",[BD]HBO ASIA
 https://epg.pw/stream/753b8be4e27b542f28e5e77959b0713a54846dc6ebd6b738937cf5cf5cc1f566.ctv
-#EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="电影",[HD]hollywood classics
-https://epg.pw/stream/0b7b43f22318768ae441ed3a4db8ae15bb12e2d8818cd19522be6a87352b2464.m3u8
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="电影",[HD]young hollywood (720p)
+https://epg.pw/stream/8a1cbc1af24b8d74012a128ebd952be710ea167f34d6ffc5ce6203aeb0b14710.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知识",[BD]love nature 4k
 https://epg.pw/stream/1311b212993c11b75e1f5ab66be6d7a2241b36ddce52a3d8dd046a9b057da66e.m3u8
 #EXTINF:-1 tvg-name="MOMO综合" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223019453563_65.png" group-title="综合",[HD]momo综合
@@ -27,6 +27,8 @@ rtmp://f13h.mine.nu/sat/tv761
 https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
 #EXTINF:-1 tvg-name="PET CLUB TV" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png" group-title="其它",[HD]petclub hd
 https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904aedc6fc5e83c61225e.ctv
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png" group-title="综艺",[BD]ช่อง rock entertaiment
+https://epg.pw/stream/60421e16616a9c22bcecc8d8b72008270ee671b64dcf978f25b0cca22192e383.ctv
 #EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg" group-title="知识",[HD]smithsonian channel selects
 https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162515629145_45.png" group-title="综合",[VGA]tvbs 新闻
@@ -41,7 +43,7 @@ https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b2
 https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv
 #EXTINF:-1 tvg-name="三立INEWS FHD" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/04/09/large/20220409213320357992_69.jpg" group-title="新闻",[BD]三立inews
 https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
-#EXTINF:-1 tvg-name="三立新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png" group-title="新闻",[BD]三立新闻台
+#EXTINF:-1 tvg-name="三立新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png" group-title="新闻",[VGA]三立新闻台
 https://epg.pw/stream/2dd97b2a1a8287dc8a0fb65a096b2095a0bcd7e94098f8c5609eb06b81d5e80e.m3u8
 #EXTINF:-1 tvg-name="三立台湾" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721172617203804_84.png" group-title="综合",[BD]三立台湾台
 https://epg.pw/stream/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv
@@ -51,7 +53,7 @@ https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c
 https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png" group-title="综合",[BD]中视
 https://epg.pw/stream/48023223cf3a94ab9dcdbef7b2e3c566429aeaba44f3e41d03a955e1202ad492.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127002335791430_35.jpg" group-title="新闻",[BD]中视新闻台
+#EXTINF:-1 tvg-name="中视新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127002335791430_35.jpg" group-title="新闻",[VGA]中视新闻台
 https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="其它",[HD]人间卫视
 https://epg.pw/stream/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8
@@ -62,7 +64,7 @@ https://epg.pw/stream/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001
 #EXTINF:-1 tvg-name="八大综合" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720154712065553_65.png" group-title="综合",[HD]八大综合
 https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png" group-title="新闻",[BD]台视新闻
-https://epg.pw/stream/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
+https://epg.pw/stream/9c01d60667916853d9729b3f653cadc718828c7976a0844bcbeb1f90d6e25212.m3u8
 #EXTINF:-1 tvg-name="唯心电视" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512231926730574_47.jpg" group-title="其它",[VGA]唯心电视
 https://epg.pw/stream/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8
 #EXTINF:-1 tvg-name="国会频道1" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513171825260672_88.jpg" group-title="综合",[BD]国会频道1
@@ -103,8 +105,8 @@ https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd16
 https://epg.pw/stream/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8
 #EXTINF:-1 tvg-name="生命电视台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/1_420.jpg" group-title="其它",[BD]生命电视台
 https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
-#EXTINF:-1 tvg-name="纬来日本" tvg-id="" tvg-country="台湾" tvg-language="日语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105459178241_22.png" group-title="综艺",[HD]纬来日本
-rtmp://220.130.201.73/sat/tv771
+#EXTINF:-1 tvg-name="纬来日本" tvg-id="" tvg-country="台湾" tvg-language="日语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105459178241_22.png" group-title="综艺",[SD]纬来日本
+rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-name="纬来育乐" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164810377610_27.png" group-title="综合",[BD]纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="运动",[HD]纬来体育
@@ -119,5 +121,5 @@ https://epg.pw/stream/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="华视新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/08/20170508123606517919_39.png" group-title="新闻",[BD]华视新闻台
 https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8
-#EXTINF:-1 tvg-name="镜新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155808519742_55.jpg" group-title="新闻",[BD]镜新闻台
-https://epg.pw/stream/d0dbeb20fa9ca52ba2779ffabf00eb93f77f91b93120457bb687de3ba00ad1e2.m3u8
+#EXTINF:-1 tvg-name="镜新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg" group-title="新闻",[BD]镜新闻
+https://epg.pw/stream/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.m3u8
