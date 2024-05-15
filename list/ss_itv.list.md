@@ -6,6 +6,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
+
 | 1 | CCTV1 | IPv4 直链 | <http://221.234.25.122:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 2 | CCTV1 | IPv4 直链 | <http://58.53.152.170:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 3 | CCTV1 | IPv4 直链 | <http://171.8.138.76:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
@@ -377,14 +378,14 @@
 | 369 | 风云足球 | IPv4 直链 | <http://123.189.36.143:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 370 | 黑龙江 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **5/15/2024 12:46:57 AM**
+Updated at **5/15/2024 7:52:46 AM**
 
 ## 使用说明
 
-- 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+- 推荐适配派大星、DIYP 空壳等手机或 TV 软件安装.
 
 - 捐赠打赏地址 <https://viptv.work/about/support！>
 
-- 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+- 本站 IPTV 动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
 - 非常感谢您的大力支持和理解！

@@ -6,6 +6,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
+
 | 1 | CCTV-1 综合 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8> |
 | 2 | CCTV-2 财经 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8> |
 | 3 | CCTV-3 综艺 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8> |
@@ -107,14 +108,14 @@
 | 99 | 家有购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8> |
 | 100 | 快乐购 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8> |
 
-Updated at **5/15/2024 12:46:57 AM**
+Updated at **5/15/2024 7:52:46 AM**
 
 ## 使用说明
 
-- 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+- 推荐适配派大星、DIYP 空壳等手机或 TV 软件安装.
 
 - 捐赠打赏地址 <https://viptv.work/about/support！>
 
-- 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+- 本站 IPTV 动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
 - 非常感谢您的大力支持和理解！

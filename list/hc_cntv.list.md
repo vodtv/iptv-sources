@@ -6,6 +6,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
+
 | 1 | 湖南爱晚 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTdlMTVmOTEzZGIwY2E1NGU0MmIzZjVkMjA0YjAwMjA3JmVzPTE3MTU3NTU3MTImdXVpZD01MmFjN2FjMmMzZDMyNGVjZWJlNGFlNjY2YWI1ODNjNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNGGMPP360.m3u8> |
 | 2 | 湖南都市 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTEyZTZiYjljODJlYWJmOWMxOWRlNjNhYmU2ZTc2MTAxJmVzPTE3MTU3NTU1MDgmdXVpZD1lZTAyZDg0MTBkZDdmNGMyOGRiYmZlOTk1ODNhZDgyZC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8> |
 | 3 | 湖南娱乐频道 | phonews.qing.mgtv.com | <http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTU5MzkyZTg3NzY0MmUzNmY0NzQ5ZTBhODYyNGIzYWY5JmVzPTE3MTU3NDc0MTImdXVpZD03YmNkMmE0NDk4ZWJlNDVmMTJjMWMxMWZlYmM0YzQxNS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNYLMPP360.m3u8> |
@@ -98,14 +99,14 @@
 | 90 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=97d63e931715736658> |
 | 91 | 三沙卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=aef6f64c1715738955> |
 
-Updated at **5/15/2024 12:46:57 AM**
+Updated at **5/15/2024 7:52:46 AM**
 
 ## 使用说明
 
-- 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+- 推荐适配派大星、DIYP 空壳等手机或 TV 软件安装.
 
 - 捐赠打赏地址 <https://viptv.work/about/support！>
 
-- 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+- 本站 IPTV 动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
 - 非常感谢您的大力支持和理解！

@@ -6,6 +6,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
+
 | 1 | Cum 4k | 87c576b1.cbilant.com | <http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6190/index.m3u8> |
 | 2 | Extasy 4K | 87c576b1.cbilant.com | <http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5014/index.m3u8> |
 | 3 | Tiny 4K | 87c576b1.cbilant.com | <http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6258/index.m3u8> |
@@ -342,14 +343,14 @@
 | 334 | 制服美少女2 | videomy.yongaomy.com:8091 | <https://videomy.yongaomy.com:8091/20200104/ssClhQbc/1500kb/hls/index.m3u8> |
 | 335 | White Boxxx | vl05t7es.rostelekom.xyz | <http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6267/index.m3u8> |
 
-Updated at **5/15/2024 12:46:57 AM**
+Updated at **5/15/2024 7:52:46 AM**
 
 ## 使用说明
 
-- 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+- 推荐适配派大星、DIYP 空壳等手机或 TV 软件安装.
 
 - 捐赠打赏地址 <https://viptv.work/about/support！>
 
-- 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+- 本站 IPTV 动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
 - 非常感谢您的大力支持和理解！
