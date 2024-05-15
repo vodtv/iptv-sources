@@ -140,7 +140,7 @@
 | 131 | CGTN西语 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2> |
 | 132 | CGTN阿语 | CGTN | <http://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **5/15/2024 7:52:46 AM**
+Updated at **5/15/2024 8:13:37 AM**
 
 ## 使用说明
 
