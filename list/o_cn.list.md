@@ -6,7 +6,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-
 | 1 | ABN China (720p) | mediaserver.abnvideos.com | <https://mediaserver.abnvideos.com/streams/abnchina.m3u8> |
 | 2 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 | 3 | Angel TV Chinese (720p) | cdn3.wowza.com | <https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8> |
@@ -542,7 +541,7 @@
 | 533 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 534 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **5/18/2024 5:48:40 PM**
+Updated at **5/18/2024 6:03:31 PM**
 
 ## 使用说明
 

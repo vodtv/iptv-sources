@@ -6,7 +6,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-
 | 1 | BesTV超级 (576p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8> |
 | 2 | Bread TV面包台 (720p) | video.bread-tv.com:8091 | <https://video.bread-tv.com:8091/hls-live24/online/index.m3u8> |
 | 3 | CCTV-1 (1080p) | 中国移动陕西 | <http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8> |
@@ -508,7 +507,7 @@
 | 499 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
 | 500 | CCTV4K | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8> |
 
-Updated at **5/18/2024 5:48:40 PM**
+Updated at **5/18/2024 6:03:31 PM**
 
 ## 使用说明
 

@@ -6,7 +6,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-
 | 1 | CCTV1 | 中国移动陕西 | <http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8> |
 | 2 | CCTV2 | 中国移动陕西 | <http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8> |
 | 3 | CCTV3 | 中国移动陕西 | <http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8> |
@@ -51,7 +50,7 @@
 | 42 | 陕西铜川 | 中国移动陕西 | <http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8> |
 | 43 | 陕西汉中城固 | 中国移动陕西 | <http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8> |
 
-Updated at **5/18/2024 5:48:40 PM**
+Updated at **5/18/2024 6:03:31 PM**
 
 ## 使用说明
 

@@ -6,7 +6,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-
 | 1 | CGTN (576p) | 中国移动江苏 | <http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8> |
 | 2 | CGTN Arabic (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 | 3 | CGTN Documentary (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8> |
@@ -14,7 +13,7 @@
 | 5 | CGTN Français (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/french/cgtn-f.m3u8> |
 | 6 | CGTN Русский (576p) | CGTN | <https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8> |
 
-Updated at **5/18/2024 5:48:40 PM**
+Updated at **5/18/2024 6:03:31 PM**
 
 ## 使用说明
 

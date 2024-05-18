@@ -6,7 +6,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-
 | 1 | CCTV1 | IPv4 直链 | <http://221.234.25.122:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 2 | CCTV1 | IPv4 直链 | <http://58.53.152.170:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 3 | CCTV1 | IPv4 直链 | <http://171.8.138.76:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
@@ -369,7 +368,7 @@
 | 360 | 辽宁都市 | IPv4 直链 | <http://123.189.36.143:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 361 | 都市 | IPv4 直链 | <http://171.8.138.76:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **5/18/2024 5:48:40 PM**
+Updated at **5/18/2024 6:03:31 PM**
 
 ## 使用说明
 
