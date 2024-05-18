@@ -13,7 +13,7 @@
 | 4 | [HD]ช่อง 澳视体育 | epg.pw | <https://epg.pw/stream/c1874db48a22a08dceee28ef41e671c56a7fedc6e5d285434acb468ec8e63874.m3u8> |
 | 5 | [HD]澳门MACAU | epg.pw | <https://epg.pw/stream/cddca3be72e1752fa1a211f70007dbf09875073ea2b9ddeb83b2b804a36209d4.m3u8> |
 
-Updated at **5/18/2024 12:46:18 AM**
+Updated at **5/18/2024 8:12:00 AM**
 
 ## 使用说明
 
