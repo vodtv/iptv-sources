@@ -16,7 +16,7 @@
 | 7 | [HD]young hollywood (720p) | epg.pw | <https://epg.pw/stream/8a1cbc1af24b8d74012a128ebd952be710ea167f34d6ffc5ce6203aeb0b14710.m3u8> |
 | 8 | [BD]love nature 4k | epg.pw | <https://epg.pw/stream/1311b212993c11b75e1f5ab66be6d7a2241b36ddce52a3d8dd046a9b057da66e.m3u8> |
 | 9 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
-| 10 | [BD]nat geo | epg.pw | <https://epg.pw/stream/25764ff8977e46f69f07dfd235ef37be6dfbf338c492c45b5092adf631ee4cca.m3u8> |
+| 10 | [HD]nat geo | epg.pw | <https://epg.pw/stream/25764ff8977e46f69f07dfd235ef37be6dfbf338c492c45b5092adf631ee4cca.m3u8> |
 | 11 | [HD]petclub hd | epg.pw | <https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904aedc6fc5e83c61225e.ctv> |
 | 12 | [HD]smithsonian channel selects | epg.pw | <https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
 | 13 | [VGA]tvbs 新闻 | epg.pw | <https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv> |
@@ -65,7 +65,7 @@
 | 56 | [BD]华视新闻台 | epg.pw | <https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8> |
 | 57 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.m3u8> |
 
-Updated at **5/17/2024 8:13:27 AM**
+Updated at **5/18/2024 12:46:18 AM**
 
 ## 使用说明
 

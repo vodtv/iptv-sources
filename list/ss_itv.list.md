@@ -368,17 +368,8 @@
 | 359 | 辽宁都市 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 360 | 辽宁都市 | IPv4 直链 | <http://123.189.36.143:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 361 | 都市 | IPv4 直链 | <http://171.8.138.76:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 362 | 重庆 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1127_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 363 | 重庆 | IPv4 直链 | <http://123.189.36.143:9901/tsfile/live/1127_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 364 | 金鹰卡通 | IPv4 直链 | <http://118.81.82.217:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 365 | 金鹰卡通 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 366 | 金鹰卡通 | IPv4 直链 | <http://123.189.36.143:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 367 | 金鹰纪实 | IPv4 直链 | <http://221.234.25.122:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 368 | 风云足球 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 369 | 风云足球 | IPv4 直链 | <http://123.189.36.143:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 370 | 黑龙江 | IPv4 直链 | <http://42.5.185.253:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **5/17/2024 8:13:27 AM**
+Updated at **5/18/2024 12:46:18 AM**
 
 ## 使用说明
 

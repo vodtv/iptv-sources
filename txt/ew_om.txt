@@ -8,6 +8,3 @@
 
 运动,#genre#
 [HD]ช่อง_澳视体育,https://epg.pw/stream/c1874db48a22a08dceee28ef41e671c56a7fedc6e5d285434acb468ec8e63874.m3u8
-
-新闻,#genre#
-[HD]澳门资讯,https://epg.pw/stream/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8
