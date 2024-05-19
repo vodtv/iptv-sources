@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [VGA]khbs-tv news fort smith ar | epg.pw | <https://epg.pw/stream/0686ee5a476df9816cdbe3abf8b1bf85b74b0cfbc6e0eebce68d86d0e84c1a80.m3u8> |
 | 2 | [BD]animax_hd | epg.pw | <https://epg.pw/stream/47d0622368ef1d872665ceba1b76565bcd326eafce6b1817e4b016d51b733327.ctv> |
-| 3 | [BD]discovery channel | epg.pw | <https://epg.pw/stream/c550957389889e7c508d1b7db8edc582a4f270f05f5e5d8bcba2f758b9cf7bb1.m3u8> |
+| 3 | [BD]discovery channel | epg.pw | <https://epg.pw/stream/a4647428b4bd14273bf829e2277b365987850d02887c7fd05865b1a621351853.m3u8> |
 | 4 | [BD]discovery hd world | epg.pw | <https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8> |
 | 5 | [SD]discovery science | epg.pw | <https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8> |
 | 6 | [VGA]food | epg.pw | <https://epg.pw/stream/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8> |
@@ -39,7 +39,7 @@
 | 31 | [VGA]唯心电视 | epg.pw | <https://epg.pw/stream/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8> |
 | 32 | [BD]国会频道1 | epg.pw | <https://epg.pw/stream/b73e2686833520fef8096f8377e23ac12d5366c7c87ab4af4b9d58edaa4009cd.m3u8> |
 | 33 | [HD]国会频道2 | epg.pw | <https://epg.pw/stream/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8> |
-| 34 | [HD]大爱 | epg.pw | <https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8> |
+| 34 | [BD]大爱 | epg.pw | <https://epg.pw/stream/814df2706318d264b6da39c678fe68ce1039e2850b4e71ef4565fcd95c7678ca.m3u8> |
 | 35 | [HD]大爱2 | epg.pw | <https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8> |
 | 36 | [HD]大立电视 | epg.pw | <https://epg.pw/stream/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8> |
 | 37 | [HD]好消息 | epg.pw | <https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8> |
@@ -67,7 +67,7 @@
 | 59 | [BD]车迷tv | epg.pw | <https://epg.pw/stream/986d67c7c220143d11af6154a15b46aec4c6afc4c1635dc6133fd6dfde756f7e.ctv> |
 | 60 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.m3u8> |
 
-Updated at **5/19/2024 12:51:38 AM**
+Updated at **5/19/2024 8:12:15 AM**
 
 ## 使用说明
 
