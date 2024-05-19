@@ -507,7 +507,7 @@
 | 499 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
 | 500 | CCTV4K | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8> |
 
-Updated at **5/18/2024 6:18:29 PM**
+Updated at **5/19/2024 12:51:38 AM**
 
 ## 使用说明
 
