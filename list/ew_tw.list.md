@@ -23,14 +23,14 @@
 | 15 | [BD]tvbs asia | epg.pw | <https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8> |
 | 16 | [BD]taiwan plus tv | epg.pw | <https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8> |
 | 17 | [HD]dnj tv | epg.pw | <https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8> |
-| 18 | [VGA]win | epg.pw | <https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31907f4d0c93a4d6f1d16.ctv> |
-| 19 | [BD]三立inews | epg.pw | <https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8> |
-| 20 | [BD]三立新闻 | epg.pw | <https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8> |
-| 21 | [HD]三立台湾台 | epg.pw | <https://epg.pw/stream/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv> |
-| 22 | [BD]中天亚洲台 | epg.pw | <https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.m3u8> |
-| 23 | [BD]中天新闻台 | epg.pw | <https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8> |
-| 24 | [BD]中视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv091> |
-| 25 | [BD]中视新闻台 | epg.pw | <https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8> |
+| 18 | [BD]三立inews | epg.pw | <https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8> |
+| 19 | [BD]三立新闻 | epg.pw | <https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8> |
+| 20 | [HD]三立台湾台 | epg.pw | <https://epg.pw/stream/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv> |
+| 21 | [BD]中天亚洲台 | epg.pw | <https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.m3u8> |
+| 22 | [BD]中天新闻台 | epg.pw | <https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8> |
+| 23 | [BD]中视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv091> |
+| 24 | [BD]中视新闻台 | epg.pw | <https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8> |
+| 25 | [BD]亚洲旅游 | epg.pw | <https://epg.pw/stream/5eb9f663b32a44cde3f6f3b984d8f841bc81d50549f773b1cb1f49fed7dd7fce.ctv> |
 | 26 | [HD]人间卫视 | epg.pw | <https://epg.pw/stream/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8> |
 | 27 | [BD]信大电视台 | epg.pw | <https://epg.pw/stream/397ebfe7482a9500a9e02fe3c90af18f92e42a901e5c76e53d76b5faff7eecae.m3u8> |
 | 28 | [BD]八大戏剧台HD | epg.pw | <https://epg.pw/stream/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001ccc04a.m3u8> |
@@ -67,7 +67,7 @@
 | 59 | [BD]车迷tv | epg.pw | <https://epg.pw/stream/986d67c7c220143d11af6154a15b46aec4c6afc4c1635dc6133fd6dfde756f7e.ctv> |
 | 60 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.m3u8> |
 
-Updated at **5/20/2024 12:47:54 AM**
+Updated at **5/20/2024 8:14:01 AM**
 
 ## 使用说明
 
