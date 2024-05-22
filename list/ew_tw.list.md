@@ -18,56 +18,60 @@
 | 10 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
 | 11 | [HD]nat geo | epg.pw | <https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv> |
 | 12 | [HD]petclub hd | epg.pw | <https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904aedc6fc5e83c61225e.ctv> |
-| 13 | [HD]smithsonian channel selects | epg.pw | <https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
-| 14 | [VGA]tvbs 新闻 | epg.pw | <https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv> |
-| 15 | [BD]tvbs asia | epg.pw | <https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8> |
-| 16 | [BD]taiwan plus tv | epg.pw | <https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8> |
-| 17 | [HD]dnj tv | epg.pw | <https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8> |
-| 18 | [BD]三立inews | epg.pw | <https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8> |
-| 19 | [BD]三立新闻 | epg.pw | <https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8> |
-| 20 | [BD]三立台湾台 | epg.pw | <https://epg.pw/stream/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv> |
-| 21 | [BD]中天亚洲台 | epg.pw | <https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.m3u8> |
-| 22 | [BD]中天新闻台 | epg.pw | <https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8> |
-| 23 | [BD]中视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv091> |
-| 24 | [BD]中视新闻台 | epg.pw | <https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8> |
-| 25 | [BD]亚洲旅游 | epg.pw | <https://epg.pw/stream/5eb9f663b32a44cde3f6f3b984d8f841bc81d50549f773b1cb1f49fed7dd7fce.ctv> |
-| 26 | [HD]人间卫视 | epg.pw | <https://epg.pw/stream/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8> |
-| 27 | [BD]信大电视台 | epg.pw | <https://epg.pw/stream/397ebfe7482a9500a9e02fe3c90af18f92e42a901e5c76e53d76b5faff7eecae.m3u8> |
-| 28 | [BD]八大戏剧台HD | epg.pw | <https://epg.pw/stream/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001ccc04a.m3u8> |
-| 29 | [HD]八大综合 | epg.pw | <https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8> |
-| 30 | [BD]台视新闻 | epg.pw | <https://epg.pw/stream/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8> |
-| 31 | [VGA]唯心电视 | epg.pw | <https://epg.pw/stream/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8> |
-| 32 | [BD]国会频道1 | epg.pw | <https://epg.pw/stream/b73e2686833520fef8096f8377e23ac12d5366c7c87ab4af4b9d58edaa4009cd.m3u8> |
-| 33 | [HD]国会频道2 | epg.pw | <https://epg.pw/stream/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8> |
-| 34 | [BD]大爱 | epg.pw | <https://epg.pw/stream/814df2706318d264b6da39c678fe68ce1039e2850b4e71ef4565fcd95c7678ca.m3u8> |
-| 35 | [HD]大爱2 | epg.pw | <https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8> |
-| 36 | [HD]大立电视 | epg.pw | <https://epg.pw/stream/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8> |
-| 37 | [HD]好消息 | epg.pw | <https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8> |
-| 38 | [BD]寰宇新闻 | epg.pw | <https://epg.pw/stream/f1aee25c74ec1e559ed86c00feb6074cef35d76d15a0d3f7019530b7ac094bcc.m3u8> |
-| 39 | [BD]影迷数位纪实台 | epg.pw | <https://epg.pw/stream/f9b52244a8cc0ea0e3ae281b9d8f805a05586a4ff0be8750d68aadc0da4bdfa4.ctv> |
-| 40 | [BD]东森幼幼台 | epg.pw | <https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8> |
-| 41 | [BD]东森新闻 | epg.pw | <https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8> |
-| 42 | [VGA]东森美洲 | epg.pw | <https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8> |
-| 43 | [BD]东森美洲卫视 | epg.pw | <https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8> |
-| 44 | [BD]东森财经 | epg.pw | <https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8> |
-| 45 | [SD]东森超视 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv331> |
-| 46 | [VGA]民视 hd | epg.pw | <https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv> |
-| 47 | [BD]民视新闻台 | epg.pw | <https://epg.pw/stream/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8> |
-| 48 | [BD]民视新闻 hd | epg.pw | <https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8> |
-| 49 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8> |
-| 50 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
-| 51 | [SD]纬来日本 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv771> |
-| 52 | [BD]纬来育乐 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv701> |
-| 53 | [HD]纬来体育 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv721> |
-| 54 | [BD]美好1台 | epg.pw | <https://epg.pw/stream/a1846574b98cc080b0ab56f490c0ca1a3abcbf577ca9ea4fd13f5736021f881f.m3u8> |
-| 55 | [BD]美好2台 | epg.pw | <https://epg.pw/stream/6ce1d85ab8dbf2b7a095fe36ba2cf332ccf8f0513df233a5a0b82e77aac4e307.m3u8> |
-| 56 | [BD]台视新闻 hd | epg.pw | <https://epg.pw/stream/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
-| 57 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
-| 58 | [BD]华视新闻台 | epg.pw | <https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8> |
-| 59 | [BD]车迷tv | epg.pw | <https://epg.pw/stream/986d67c7c220143d11af6154a15b46aec4c6afc4c1635dc6133fd6dfde756f7e.ctv> |
-| 60 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.m3u8> |
+| 13 | [SD]ph rock entertainment | epg.pw | <https://epg.pw/stream/890563baba3628a4096548c973405f5b31de969d8bbe666d6e196540348941dd.ctv> |
+| 14 | [SD]ph rock extreme | epg.pw | <https://epg.pw/stream/cdf5b5f7f35a4c67400e7c6b4d2884ca8573147dd0c26dffaa3a9fec1bcccb2b.ctv> |
+| 15 | [HD]smithsonian channel selects | epg.pw | <https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
+| 16 | [VGA]tvbs 新闻 | epg.pw | <https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv> |
+| 17 | [BD]tvbs asia | epg.pw | <https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8> |
+| 18 | [BD]taiwan plus tv | epg.pw | <https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8> |
+| 19 | [HD]dnj tv | epg.pw | <https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8> |
+| 20 | [BD]三立inews | epg.pw | <https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8> |
+| 21 | [BD]三立新闻 | epg.pw | <https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8> |
+| 22 | [BD]三立台湾台 | epg.pw | <https://epg.pw/stream/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv> |
+| 23 | [BD]中天亚洲台 | epg.pw | <https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.m3u8> |
+| 24 | [BD]中天新闻台 | epg.pw | <https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8> |
+| 25 | [BD]中视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv091> |
+| 26 | [BD]中视新闻台 | epg.pw | <https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8> |
+| 27 | [BD]亚洲旅游 | epg.pw | <https://epg.pw/stream/5eb9f663b32a44cde3f6f3b984d8f841bc81d50549f773b1cb1f49fed7dd7fce.ctv> |
+| 28 | [HD]人间卫视 | epg.pw | <https://epg.pw/stream/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8> |
+| 29 | [BD]信大电视台 | epg.pw | <https://epg.pw/stream/397ebfe7482a9500a9e02fe3c90af18f92e42a901e5c76e53d76b5faff7eecae.m3u8> |
+| 30 | [BD]八大戏剧台HD | epg.pw | <https://epg.pw/stream/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001ccc04a.m3u8> |
+| 31 | [HD]八大综合 | epg.pw | <https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8> |
+| 32 | [BD]台视新闻台 | epg.pw | <https://epg.pw/stream/cd1dd6a69c63f4e85896e7dffd79188bbe9ce235a36070e01e555bbbc197dd43.m3u8> |
+| 33 | [VGA]唯心电视 | epg.pw | <https://epg.pw/stream/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8> |
+| 34 | [BD]国会频道1 | epg.pw | <https://epg.pw/stream/b73e2686833520fef8096f8377e23ac12d5366c7c87ab4af4b9d58edaa4009cd.m3u8> |
+| 35 | [HD]国会频道2 | epg.pw | <https://epg.pw/stream/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8> |
+| 36 | [BD]大爱 | epg.pw | <https://epg.pw/stream/814df2706318d264b6da39c678fe68ce1039e2850b4e71ef4565fcd95c7678ca.m3u8> |
+| 37 | [HD]大爱2 | epg.pw | <https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8> |
+| 38 | [HD]大立电视 | epg.pw | <https://epg.pw/stream/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8> |
+| 39 | [HD]好消息 | epg.pw | <https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8> |
+| 40 | [BD]寰宇新闻 | epg.pw | <https://epg.pw/stream/f1aee25c74ec1e559ed86c00feb6074cef35d76d15a0d3f7019530b7ac094bcc.m3u8> |
+| 41 | [BD]影迷数位纪实台 | epg.pw | <https://epg.pw/stream/f9b52244a8cc0ea0e3ae281b9d8f805a05586a4ff0be8750d68aadc0da4bdfa4.ctv> |
+| 42 | [BD]东森幼幼台 | epg.pw | <https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8> |
+| 43 | [BD]东森新闻 | epg.pw | <https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8> |
+| 44 | [VGA]东森美洲 | epg.pw | <https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8> |
+| 45 | [BD]东森美洲卫视 | epg.pw | <https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8> |
+| 46 | [BD]东森财经 | epg.pw | <https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8> |
+| 47 | [BD]东森财经新闻台 | epg.pw | <https://epg.pw/stream/509a78b3521156b28b3fb98bdc2abedf8a5e52136e7577deb56e514123bc5ca6.m3u8> |
+| 48 | [SD]东森超视 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv331> |
+| 49 | [VGA]民视 hd | epg.pw | <https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv> |
+| 50 | [BD]民视新闻台 | epg.pw | <https://epg.pw/stream/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8> |
+| 51 | [BD]民视新闻 hd | epg.pw | <https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8> |
+| 52 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8> |
+| 53 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
+| 54 | [SD]纬来日本 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv771> |
+| 55 | [BD]纬来育乐 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv701> |
+| 56 | [HD]纬来体育 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv721> |
+| 57 | [BD]美好1台 | epg.pw | <https://epg.pw/stream/a1846574b98cc080b0ab56f490c0ca1a3abcbf577ca9ea4fd13f5736021f881f.m3u8> |
+| 58 | [BD]美好2台 | epg.pw | <https://epg.pw/stream/6ce1d85ab8dbf2b7a095fe36ba2cf332ccf8f0513df233a5a0b82e77aac4e307.m3u8> |
+| 59 | [BD]美食星球 | epg.pw | <https://epg.pw/stream/d17faaef03f6e09ab6765635e1e378291786611972ff60298cb0bb0c44540936.m3u8> |
+| 60 | [BD]台视新闻 hd | epg.pw | <https://epg.pw/stream/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
+| 61 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
+| 62 | [BD]华视新闻台 | epg.pw | <https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8> |
+| 63 | [BD]车迷tv | epg.pw | <https://epg.pw/stream/986d67c7c220143d11af6154a15b46aec4c6afc4c1635dc6133fd6dfde756f7e.ctv> |
+| 64 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.m3u8> |
 
-Updated at **5/21/2024 8:13:30 AM**
+Updated at **5/22/2024 12:47:41 AM**
 
 ## 使用说明
 

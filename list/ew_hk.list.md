@@ -22,17 +22,17 @@
 | 14 | [BD]j2 | epg.pw | <https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv> |
 | 15 | [BD]tvbs亚洲 | epg.pw | <https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8> |
 | 16 | [HD]tvb娱乐新闻 | epg.pw | <https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8> |
-| 17 | [BD]tvbs新闻 | epg.pw | <https://epg.pw/stream/d921646bb0337ca8745a99b2d9b535287b2e71993b2c87b7b4b67c4e3d211495.m3u8> |
+| 17 | [BD]tvbs新闻 | epg.pw | <https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8> |
 | 18 | [HD]tvb星河 | epg.pw | <https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8> |
 | 19 | [HD]360 tv (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8> |
-| 20 | [BD]viutv | epg.pw | <https://epg.pw/stream/4b1dd593dbef7dda5679ff12ddcb296b1b4aacaa6180c8e3f386de5a3c60f5e7.ctv> |
+| 20 | [BD]viutv | epg.pw | <https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.m3u8> |
 | 21 | [BD]viutv six | epg.pw | <https://epg.pw/stream/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.m3u8> |
 | 22 | [BD]now sports prime | epg.pw | <https://epg.pw/stream/309493998563b0fe6b6cafa6a80d4453f845659c0a17b7c24717d869440bf10f.m3u8> |
 | 23 | [BD]有线新闻 | epg.pw | <https://epg.pw/stream/44be8bb84f721a391dd440176463c4db70d2abd9950a2138ae3f9169b6ce178d.m3u8> |
 | 24 | [HD]有线财经资讯 | epg.pw | <https://epg.pw/stream/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8> |
-| 25 | [BD]港台电影 | epg.pw | <https://epg.pw/stream/9733a9faedac1ecb653defe0c92c8c29c8e1f07b0869bd241b1b2ad7737c1dde.ctv> |
+| 25 | [HD]港台电影 | epg.pw | <https://epg.pw/stream/9733a9faedac1ecb653defe0c92c8c29c8e1f07b0869bd241b1b2ad7737c1dde.ctv> |
 | 26 | [BD]无线财经 | epg.pw | <https://epg.pw/stream/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv> |
-| 27 | [SD]环球电视 | epg.pw | <https://epg.pw/stream/871627cefa0727603ae38287f349e796402982c186ea32bea812ef9d764c5923.m3u8> |
+| 27 | [SD]环球电视 | epg.pw | <https://epg.pw/stream/8884871c3db7be5caf8d6dc44cfe4909e921ffffc77be1d1b7b2eeec0cbdedbb.m3u8> |
 | 28 | [VGA]翡翠台 | epg.pw | <https://epg.pw/stream/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8> |
 | 29 | [BD]无线翡翠台 | epg.pw | <https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.m3u8> |
 | 30 | [VGA]耀才财经 | epg.pw | <https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8> |
@@ -42,9 +42,9 @@
 | 34 | [SD]香港电台(34) | epg.pw | <https://epg.pw/stream/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8> |
 | 35 | [BD]凤凰卫视 | epg.pw | <https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8> |
 | 36 | [SD]凤凰电影 | epg.pw | <https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
-| 37 | [BD]凤凰香港台 | epg.pw | <https://epg.pw/stream/78ee5cf59af9e061bcd576d6a4bb07bc7a85f424bb5ba5625213e7a87cbca512.ctv> |
+| 37 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8> |
 
-Updated at **5/21/2024 8:13:30 AM**
+Updated at **5/22/2024 12:47:41 AM**
 
 ## 使用说明
 
