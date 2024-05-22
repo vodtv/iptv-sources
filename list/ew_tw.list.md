@@ -71,7 +71,7 @@
 | 63 | [BD]车迷tv | epg.pw | <https://epg.pw/stream/986d67c7c220143d11af6154a15b46aec4c6afc4c1635dc6133fd6dfde756f7e.ctv> |
 | 64 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.m3u8> |
 
-Updated at **5/22/2024 12:47:41 AM**
+Updated at **5/22/2024 8:14:17 AM**
 
 ## 使用说明
 
