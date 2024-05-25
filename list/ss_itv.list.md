@@ -368,7 +368,7 @@
 | 360 | 辽宁都市 | IPv4 直链 | <http://123.189.36.143:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 361 | 都市 | IPv4 直链 | <http://171.8.138.76:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **5/24/2024 8:13:34 AM**
+Updated at **5/25/2024 12:46:12 AM**
 
 ## 使用说明
 
