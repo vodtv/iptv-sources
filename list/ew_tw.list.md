@@ -69,7 +69,7 @@
 | 61 | [BD]华视新闻台 | epg.pw | <https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8> |
 | 62 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.m3u8> |
 
-Updated at **5/25/2024 12:46:12 AM**
+Updated at **5/25/2024 8:13:16 AM**
 
 ## 使用说明
 
