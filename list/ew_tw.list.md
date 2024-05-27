@@ -7,18 +7,18 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [VGA]khbs-tv news fort smith ar | epg.pw | <https://epg.pw/stream/0686ee5a476df9816cdbe3abf8b1bf85b74b0cfbc6e0eebce68d86d0e84c1a80.m3u8> |
-| 2 | [BD]animax_hd | epg.pw | <https://epg.pw/stream/47d0622368ef1d872665ceba1b76565bcd326eafce6b1817e4b016d51b733327.ctv> |
-| 3 | [BD]discovery channel | epg.pw | <https://epg.pw/stream/a4647428b4bd14273bf829e2277b365987850d02887c7fd05865b1a621351853.m3u8> |
+| 2 | [VGA]animax_hd | epg.pw | <https://epg.pw/stream/47d0622368ef1d872665ceba1b76565bcd326eafce6b1817e4b016d51b733327.ctv> |
+| 3 | [BD]discovery channel | epg.pw | <https://epg.pw/stream/c550957389889e7c508d1b7db8edc582a4f270f05f5e5d8bcba2f758b9cf7bb1.m3u8> |
 | 4 | [BD]discovery hd world | epg.pw | <https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8> |
 | 5 | [SD]discovery science | epg.pw | <https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8> |
-| 6 | [BD]eyetv旅游 | epg.pw | <https://epg.pw/stream/b1db7a19b607f34ba737629a31b2b07429569df575bcb7d486ac53dd5a8c1d0c.m3u8> |
+| 6 | [HD]eyetv旅游 | epg.pw | <https://epg.pw/stream/b1db7a19b607f34ba737629a31b2b07429569df575bcb7d486ac53dd5a8c1d0c.m3u8> |
 | 7 | [VGA]food | epg.pw | <https://epg.pw/stream/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8> |
 | 8 | [HD]global trekker-cdn6 | epg.pw | <https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8> |
-| 9 | [HD]young hollywood (720p) | epg.pw | <https://epg.pw/stream/8a1cbc1af24b8d74012a128ebd952be710ea167f34d6ffc5ce6203aeb0b14710.m3u8> |
+| 9 | [SD]hollywood | epg.pw | <https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8> |
 | 10 | [BD]love nature 4k | epg.pw | <https://epg.pw/stream/1311b212993c11b75e1f5ab66be6d7a2241b36ddce52a3d8dd046a9b057da66e.m3u8> |
 | 11 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
 | 12 | [HD]nat geo | epg.pw | <https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv> |
-| 13 | [HD]petclub hd | epg.pw | <https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904aedc6fc5e83c61225e.ctv> |
+| 13 | [BD]pet club tv | epg.pw | <https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
 | 14 | [VGA]ph rock entertainment | epg.pw | <https://epg.pw/stream/890563baba3628a4096548c973405f5b31de969d8bbe666d6e196540348941dd.ctv> |
 | 15 | [VGA]ph rock extreme | epg.pw | <https://epg.pw/stream/cdf5b5f7f35a4c67400e7c6b4d2884ca8573147dd0c26dffaa3a9fec1bcccb2b.ctv> |
 | 16 | [HD]smithsonian channel selects | epg.pw | <https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
@@ -51,25 +51,24 @@
 | 43 | [VGA]东森美洲 | epg.pw | <https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8> |
 | 44 | [BD]东森美洲卫视 | epg.pw | <https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8> |
 | 45 | [BD]东森财经 | epg.pw | <https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8> |
-| 46 | [HD]东森财经新闻台 | epg.pw | <https://epg.pw/stream/509a78b3521156b28b3fb98bdc2abedf8a5e52136e7577deb56e514123bc5ca6.m3u8> |
-| 47 | [SD]东森超视 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv331> |
-| 48 | [VGA]民视 hd | epg.pw | <https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv> |
-| 49 | [BD]民视新闻台 | epg.pw | <https://epg.pw/stream/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8> |
-| 50 | [BD]民视新闻 hd | epg.pw | <https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8> |
-| 51 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8> |
-| 52 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
-| 53 | [SD]纬来日本 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv771> |
-| 54 | [BD]纬来育乐 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv701> |
-| 55 | [HD]纬来体育 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv721> |
-| 56 | [BD]美好1台 | epg.pw | <https://epg.pw/stream/a1846574b98cc080b0ab56f490c0ca1a3abcbf577ca9ea4fd13f5736021f881f.m3u8> |
-| 57 | [BD]美好2台 | epg.pw | <https://epg.pw/stream/6ce1d85ab8dbf2b7a095fe36ba2cf332ccf8f0513df233a5a0b82e77aac4e307.m3u8> |
-| 58 | [HD]美食星球 | epg.pw | <https://epg.pw/stream/d17faaef03f6e09ab6765635e1e378291786611972ff60298cb0bb0c44540936.m3u8> |
-| 59 | [BD]台视新闻 hd | epg.pw | <https://epg.pw/stream/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
-| 60 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
-| 61 | [BD]华视新闻台 | epg.pw | <https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8> |
-| 62 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.m3u8> |
+| 46 | [SD]东森超视 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv331> |
+| 47 | [VGA]民视 hd | epg.pw | <https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv> |
+| 48 | [BD]民视新闻台 | epg.pw | <https://epg.pw/stream/37de02efb12a4dc05e13814405a580e6f46b091c993c411e7a95bcac4c41e9b0.m3u8> |
+| 49 | [BD]民视新闻 hd | epg.pw | <https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8> |
+| 50 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8> |
+| 51 | [BD]生命电视台 | epg.pw | <https://epg.pw/stream/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
+| 52 | [SD]纬来日本 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv771> |
+| 53 | [BD]纬来育乐 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv701> |
+| 54 | [HD]纬来体育 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv721> |
+| 55 | [BD]美好1台 | epg.pw | <https://epg.pw/stream/a1846574b98cc080b0ab56f490c0ca1a3abcbf577ca9ea4fd13f5736021f881f.m3u8> |
+| 56 | [BD]美好2台 | epg.pw | <https://epg.pw/stream/6ce1d85ab8dbf2b7a095fe36ba2cf332ccf8f0513df233a5a0b82e77aac4e307.m3u8> |
+| 57 | [HD]美食星球 | epg.pw | <https://epg.pw/stream/d17faaef03f6e09ab6765635e1e378291786611972ff60298cb0bb0c44540936.m3u8> |
+| 58 | [BD]台视新闻 hd | epg.pw | <https://epg.pw/stream/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
+| 59 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
+| 60 | [BD]华视新闻台 | epg.pw | <https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8> |
+| 61 | [BD]镜新闻台 | epg.pw | <https://epg.pw/stream/d0dbeb20fa9ca52ba2779ffabf00eb93f77f91b93120457bb687de3ba00ad1e2.m3u8> |
 
-Updated at **5/26/2024 8:12:09 AM**
+Updated at **5/27/2024 12:49:07 AM**
 
 ## 使用说明
 
