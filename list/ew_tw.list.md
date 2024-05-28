@@ -66,7 +66,7 @@
 | 58 | [BD]台视新闻 hd | epg.pw | <https://epg.pw/stream/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
 | 59 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
 
-Updated at **5/28/2024 12:48:03 AM**
+Updated at **5/28/2024 8:14:46 AM**
 
 ## 使用说明
 
