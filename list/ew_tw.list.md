@@ -17,7 +17,7 @@
 | 9 | [SD]hollywood | epg.pw | <https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8> |
 | 10 | [BD]love nature 4k | epg.pw | <https://epg.pw/stream/1311b212993c11b75e1f5ab66be6d7a2241b36ddce52a3d8dd046a9b057da66e.m3u8> |
 | 11 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
-| 12 | [HD]nat geo | epg.pw | <https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv> |
+| 12 | [BD]nat geo | epg.pw | <https://epg.pw/stream/25764ff8977e46f69f07dfd235ef37be6dfbf338c492c45b5092adf631ee4cca.m3u8> |
 | 13 | [BD]pet club tv | epg.pw | <https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
 | 14 | [VGA]ph rock entertainment | epg.pw | <https://epg.pw/stream/890563baba3628a4096548c973405f5b31de969d8bbe666d6e196540348941dd.ctv> |
 | 15 | [VGA]ph rock extreme | epg.pw | <https://epg.pw/stream/cdf5b5f7f35a4c67400e7c6b4d2884ca8573147dd0c26dffaa3a9fec1bcccb2b.ctv> |
@@ -65,8 +65,9 @@
 | 57 | [HD]美食星球 | epg.pw | <https://epg.pw/stream/d17faaef03f6e09ab6765635e1e378291786611972ff60298cb0bb0c44540936.m3u8> |
 | 58 | [BD]台视新闻 hd | epg.pw | <https://epg.pw/stream/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
 | 59 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
+| 60 | [BD]华视新闻 | epg.pw | <https://epg.pw/stream/b20d2989c1b4d83ae0b5972a00648b724ae245f21c9542eca7bb8c32a0043a24.ctv> |
 
-Updated at **5/28/2024 8:14:46 AM**
+Updated at **5/29/2024 12:52:05 AM**
 
 ## 使用说明
 
