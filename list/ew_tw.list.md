@@ -29,7 +29,7 @@
 | 21 | [BD]三立inews | epg.pw | <https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8> |
 | 22 | [BD]三立新闻 | epg.pw | <https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8> |
 | 23 | [BD]三立台湾台 | epg.pw | <https://epg.pw/stream/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv> |
-| 24 | [HD]中天亚洲台 | epg.pw | <https://epg.pw/stream/be8562d31d3d2de047b97089e1c330f75e66756c57ed711f7d66206f515ebc97.ctv> |
+| 24 | [BD]中天亚洲台 | epg.pw | <https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.m3u8> |
 | 25 | [BD]中天新闻台 | epg.pw | <https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8> |
 | 26 | [BD]中视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv091> |
 | 27 | [BD]中视新闻台 | epg.pw | <https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8> |
@@ -68,7 +68,7 @@
 | 60 | [BD]华视新闻 | epg.pw | <https://epg.pw/stream/b20d2989c1b4d83ae0b5972a00648b724ae245f21c9542eca7bb8c32a0043a24.ctv> |
 | 61 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/2dc74e361ad72612c80e55680bb6ae1a98d93897b2d447e10ad03d2ef883219d.m3u8> |
 
-Updated at **5/30/2024 5:52:20 PM**
+Updated at **5/31/2024 12:49:58 AM**
 
 ## 使用说明
 
