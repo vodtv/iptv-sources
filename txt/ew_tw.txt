@@ -13,7 +13,7 @@
 [HD]美食星球,https://epg.pw/stream/d17faaef03f6e09ab6765635e1e378291786611972ff60298cb0bb0c44540936.m3u8
 
 儿童,#genre#
-[BD]animax_hd,https://epg.pw/stream/47d0622368ef1d872665ceba1b76565bcd326eafce6b1817e4b016d51b733327.ctv
+[VGA]Animax_Philippines,https://epg.pw/stream/61d3c4bf04ab822daf9199d415b6c3c0a274eeb0395029831495ed5c990cfa4b.ctv
 [BD]东森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 
 知识,#genre#
@@ -59,7 +59,7 @@
 [BD]taiwan_plus_tv,https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
 [BD]三立inews,https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
 [BD]三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
-[BD]中天新闻,https://epg.pw/stream/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.m3u8
+[BD]中天新闻台,https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8
 [BD]中视新闻台,https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8
 [BD]台视新闻,https://epg.pw/stream/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
 [HD]大立电视,https://epg.pw/stream/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8

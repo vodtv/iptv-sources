@@ -6,43 +6,41 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [HD]tvri world | epg.pw | <https://epg.pw/stream/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
-| 2 | [VGA]rthk33 | epg.pw | <https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8> |
-| 3 | [HD]discovery kids | epg.pw | <https://epg.pw/stream/d78d2807e3d6bb3c4add508a0f548df4bc97dee52811b0fe260dac57c2330224.m3u8> |
-| 4 | [SD]hks | epg.pw | <https://epg.pw/stream/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.ctv> |
-| 5 | [BD]hot tv | epg.pw | <https://epg.pw/stream/003dd20d26bcb148d8a87c2432e713fba241a2acca6e334ad7b2ec96dc1fc499.m3u8> |
-| 6 | [HD]ptv granada | epg.pw | <https://epg.pw/stream/063e0efb004c2bf1bd5c101466186d8ab3911e3f0fc4946c12e2e31213470fe5.m3u8> |
-| 7 | [BD]tnt sports 1 | epg.pw | <https://epg.pw/stream/b1f56f860aee945842907efdda4d3205876de956dd94a55c837b1d2699e62625.ctv> |
-| 8 | [BD]tnt sports 2 | epg.pw | <https://epg.pw/stream/ce3c9932a5ead137485bb0991cbfd5144feaf5d3ff15e10ee0a446244751fa05.ctv> |
-| 9 | [BD]axs tv now (1080p) | epg.pw | <https://epg.pw/stream/2d864c47240105a338e9ebb2ee617cf045dec0bd66fac260feecb8d8f48441b5.m3u8> |
-| 10 | [BD]pearl 明珠台 | epg.pw | <https://epg.pw/stream/54002a9a388d258c0dcd77400740fda0b51e9fccf0ff89731ee2abf06bf12e89.ctv> |
-| 11 | [BD]rthk31 | epg.pw | <https://epg.pw/stream/1c238ea740fa7e46808b5a69907a6a8644c7f350a10a0e70647e74e2573ea87f.ctv> |
-| 12 | [HD]rthk 32 | epg.pw | <https://epg.pw/stream/b8905a684bdf1d40a6937853ee11c48901bbffda24ab46530eefb688e4582dd7.m3u8> |
-| 13 | [HD]rthk34 | epg.pw | <https://epg.pw/stream/ef029f0c56f3172efb0391cb8fffb1023c2db5c23ffac7683327e85c539591d3.m3u8> |
-| 14 | [HD]star (720p) | epg.pw | <https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8> |
-| 15 | [HD]tvbj1 | epg.pw | <https://epg.pw/stream/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8> |
-| 16 | [BD]j2 | epg.pw | <https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv> |
-| 17 | [BD]tvbs亚洲 | epg.pw | <https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8> |
-| 18 | [HD]tvb娱乐新闻 | epg.pw | <https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8> |
-| 19 | [BD]tvbs新闻 | epg.pw | <https://epg.pw/stream/d921646bb0337ca8745a99b2d9b535287b2e71993b2c87b7b4b67c4e3d211495.m3u8> |
-| 20 | [HD]tvb星河 | epg.pw | <https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8> |
-| 21 | [HD]360 tv (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8> |
-| 22 | [BD]viutv | epg.pw | <https://epg.pw/stream/4b1dd593dbef7dda5679ff12ddcb296b1b4aacaa6180c8e3f386de5a3c60f5e7.m3u8> |
-| 23 | [BD]tnt sports 3 | epg.pw | <https://epg.pw/stream/4a3d06ff95bce5420bb04c91ba42c24039611904b0db9151f1833d2e7f7b65ee.ctv> |
-| 24 | [BD]有线新闻 | epg.pw | <https://epg.pw/stream/44be8bb84f721a391dd440176463c4db70d2abd9950a2138ae3f9169b6ce178d.m3u8> |
-| 25 | [HD]有线财经资讯 | epg.pw | <https://epg.pw/stream/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8> |
-| 26 | [BD]无线财经 | epg.pw | <https://epg.pw/stream/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv> |
-| 27 | [SD]环球电视 | epg.pw | <https://epg.pw/stream/8884871c3db7be5caf8d6dc44cfe4909e921ffffc77be1d1b7b2eeec0cbdedbb.m3u8> |
-| 28 | [VGA]翡翠台 | epg.pw | <https://epg.pw/stream/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8> |
-| 29 | [VGA]耀才财经 | epg.pw | <https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8> |
-| 30 | [HD]香港有线新闻 | epg.pw | <https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv> |
-| 31 | [SD]香港卫视 | epg.pw | <https://epg.pw/stream/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv> |
-| 32 | [SD]香港电台(34) | epg.pw | <https://epg.pw/stream/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8> |
-| 33 | [BD]凤凰卫视 | epg.pw | <https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8> |
-| 34 | [SD]凤凰电影 | epg.pw | <https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
-| 35 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.m3u8> |
+| 1 | [HD]tvri world | stream.freetv.fun | <https://stream.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
+| 2 | [VGA]rthk33 | stream.freetv.fun | <https://stream.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8> |
+| 3 | [HD]discovery kids | stream.freetv.fun | <https://stream.freetv.fun/d78d2807e3d6bb3c4add508a0f548df4bc97dee52811b0fe260dac57c2330224.m3u8> |
+| 4 | [SD]hks | stream.freetv.fun | <https://stream.freetv.fun/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.ctv> |
+| 5 | [BD]hot tv | stream.freetv.fun | <https://stream.freetv.fun/003dd20d26bcb148d8a87c2432e713fba241a2acca6e334ad7b2ec96dc1fc499.m3u8> |
+| 6 | [HD]ptv granada | stream.freetv.fun | <https://stream.freetv.fun/063e0efb004c2bf1bd5c101466186d8ab3911e3f0fc4946c12e2e31213470fe5.m3u8> |
+| 7 | [BD]tnt sports 1 | stream.freetv.fun | <https://stream.freetv.fun/b1f56f860aee945842907efdda4d3205876de956dd94a55c837b1d2699e62625.ctv> |
+| 8 | [BD]tnt sports 2 | stream.freetv.fun | <https://stream.freetv.fun/ce3c9932a5ead137485bb0991cbfd5144feaf5d3ff15e10ee0a446244751fa05.ctv> |
+| 9 | [BD]axs tv now (1080p) | stream.freetv.fun | <https://stream.freetv.fun/2d864c47240105a338e9ebb2ee617cf045dec0bd66fac260feecb8d8f48441b5.m3u8> |
+| 10 | [BD]rthk31 | stream.freetv.fun | <https://stream.freetv.fun/709a2c6ae7913c47d866d0ac2d1473148eeee0aa38c963808fe895be6a79511e.ctv> |
+| 11 | [BD]rthk32 | stream.freetv.fun | <https://stream.freetv.fun/1462064e6ce0b3320ed2292c471d8c36d928c5c32f4fc70523d1f5e3a6f16576.ctv> |
+| 12 | [HD]rthk34 | stream.freetv.fun | <https://stream.freetv.fun/ef029f0c56f3172efb0391cb8fffb1023c2db5c23ffac7683327e85c539591d3.m3u8> |
+| 13 | [HD]star (720p) | stream.freetv.fun | <https://stream.freetv.fun/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8> |
+| 14 | [HD]tvbj1 | stream.freetv.fun | <https://stream.freetv.fun/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8> |
+| 15 | [BD]j2 | stream.freetv.fun | <https://stream.freetv.fun/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv> |
+| 16 | [BD]tvbs亚洲 | stream.freetv.fun | <https://stream.freetv.fun/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8> |
+| 17 | [HD]tvb娱乐新闻 | stream.freetv.fun | <https://stream.freetv.fun/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8> |
+| 18 | [BD]tvbs新闻 | stream.freetv.fun | <https://stream.freetv.fun/d921646bb0337ca8745a99b2d9b535287b2e71993b2c87b7b4b67c4e3d211495.m3u8> |
+| 19 | [HD]tvb星河 | stream.freetv.fun | <https://stream.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8> |
+| 20 | [HD]360 tv (720p) [not 24/7] | stream.freetv.fun | <https://stream.freetv.fun/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8> |
+| 21 | [BD]tnt sports 3 | stream.freetv.fun | <https://stream.freetv.fun/4a3d06ff95bce5420bb04c91ba42c24039611904b0db9151f1833d2e7f7b65ee.ctv> |
+| 22 | [BD]有线新闻 | stream.freetv.fun | <https://stream.freetv.fun/44be8bb84f721a391dd440176463c4db70d2abd9950a2138ae3f9169b6ce178d.m3u8> |
+| 23 | [HD]有线财经资讯 | stream.freetv.fun | <https://stream.freetv.fun/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8> |
+| 24 | [BD]无线财经 | stream.freetv.fun | <https://stream.freetv.fun/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv> |
+| 25 | [SD]环球电视 | stream.freetv.fun | <https://stream.freetv.fun/8884871c3db7be5caf8d6dc44cfe4909e921ffffc77be1d1b7b2eeec0cbdedbb.m3u8> |
+| 26 | [VGA]翡翠台 | stream.freetv.fun | <https://stream.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8> |
+| 27 | [VGA]耀才财经 | stream.freetv.fun | <https://stream.freetv.fun/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8> |
+| 28 | [HD]香港有线新闻 | stream.freetv.fun | <https://stream.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv> |
+| 29 | [SD]香港卫视 | stream.freetv.fun | <https://stream.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv> |
+| 30 | [SD]香港电台(34) | stream.freetv.fun | <https://stream.freetv.fun/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8> |
+| 31 | [BD]凤凰卫视 | stream.freetv.fun | <https://stream.freetv.fun/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8> |
+| 32 | [SD]凤凰电影 | stream.freetv.fun | <https://stream.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
+| 33 | [HD]凤凰香港 | stream.freetv.fun | <https://stream.freetv.fun/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8> |
 
-Updated at **6/1/2024 8:12:49 AM**
+Updated at **6/2/2024 12:52:41 AM**
 
 ## 使用说明
 
