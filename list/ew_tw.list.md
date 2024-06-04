@@ -22,7 +22,7 @@
 | 14 | [VGA]ph rock entertainment | epg.pw | <https://epg.pw/stream/890563baba3628a4096548c973405f5b31de969d8bbe666d6e196540348941dd.ctv> |
 | 15 | [VGA]ph rock extreme | epg.pw | <https://epg.pw/stream/cdf5b5f7f35a4c67400e7c6b4d2884ca8573147dd0c26dffaa3a9fec1bcccb2b.ctv> |
 | 16 | [HD]smithsonian channel selects | epg.pw | <https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
-| 17 | [VGA]tvbs 新闻 | epg.pw | <https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv> |
+| 17 | [BD]tvbs | epg.pw | <https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8> |
 | 18 | [BD]tvbs asia | epg.pw | <https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8> |
 | 19 | [BD]taiwan plus tv | epg.pw | <https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8> |
 | 20 | [HD]dnj tv | epg.pw | <https://epg.pw/stream/cbec18c957f39e0c0815864db21d245391482b6c0273620422318cc0b24de644.m3u8> |
@@ -67,7 +67,7 @@
 | 59 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
 | 60 | [BD]镜新闻 | epg.pw | <https://epg.pw/stream/2dc74e361ad72612c80e55680bb6ae1a98d93897b2d447e10ad03d2ef883219d.m3u8> |
 
-Updated at **2024/6/4 16:33:54**
+Updated at **2024/6/4 18:01:49**
 
 ## 使用说明
 
