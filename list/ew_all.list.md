@@ -127,7 +127,7 @@
 | 119 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 | 120 | [BD]黑龙江都市 | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 
-Updated at **6/4/2024 12:50:02 AM**
+Updated at **6/4/2024 8:14:01 AM**
 
 ## 使用说明
 
