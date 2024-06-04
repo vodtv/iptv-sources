@@ -2,8 +2,8 @@
 
 <div align="center">
 <img src="https://img.viptv.work/iptv/about-IPTV.jpg" height="200" />
-<h1 > 收集来自世界各地IPTV </h1> 
-<h4>Collection of resources dedicated to IPTV</h4>  
+<h1 > 收集来自世界各地IPTV </h1>
+<h4>Collection of resources dedicated to IPTV</h4>
 </div>
 
 ## ❓ 如何使用
@@ -52,7 +52,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 247 | ✅ |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 86 | ✅ |
 
- > Updated at **2024/6/4 18:01:49**
+ > Updated at **2024/6/4 18:28:59**
 
 ## 📚 EPG 节目单
 
@@ -63,7 +63,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **2024/6/4 18:01:49**
+ > Updated at **2024/6/4 18:28:59**
 
 ## 🚀Github 文件加速
 
@@ -73,7 +73,7 @@
 
 | #   | 选择线路                          | 使用方式                                  | 举例说明                                                                                           |
 | --- | --------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 1   | https://hub.gitmirror.com/        | 在源网址前加上 https://gh.con.sh/         | https://gh.con.sh/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt         |
+| 1   | gh.con.sh                         | 在源网址前加上 https://gh.con.sh/         | https://gh.con.sh/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt         |
 | 3   | {hub,cdn}.gitmirror.com           | 在源网址前加上 https://hub.gitmirror.com/ | https://hub.gitmirror.com/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt |
 | 4   | ghproxy.net && mirror.ghproxy.com | 在源网址前加上 https://ghproxy.com/       | https://ghproxy.com/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt       |
 | 5   | {fastly,cdn,gcore}.jsdelivr.net   | 源域名替换为 https://cdn.jsdelivr.net/gh/ | https://cdn.jsdelivr.net/gh/vodtv/iptv-sources@gh-pages/txt/cn.txt                                 |

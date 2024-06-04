@@ -42,7 +42,7 @@
 | 34 | [SD]凤凰电影 | epg.pw | <https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
 | 35 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8> |
 
-Updated at **2024/6/4 18:01:49**
+Updated at **2024/6/4 18:28:59**
 
 ## 使用说明
 
