@@ -254,7 +254,7 @@
 | 246 | 风云足球 | IPv4 直链 | <http://123.189.36.80:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 247 | 黑龙江 | IPv4 直链 | <http://123.189.36.80:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2024/6/4 18:28:59**
+Updated at **2024/6/4 19:54:42**
 
 ## 使用说明
 
