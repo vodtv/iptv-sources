@@ -47,7 +47,7 @@ https://epg.pw/stream/1ebd8c247614989d427a4c85d5c480f6d1511f5d52cc7e14df6154d032
 https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="电影",[BD]chc家庭影院
 https://epg.pw/stream/16f1eb82e9c0595d7a29810b7259a0d02481e4c8c41bd426fa9843a4f4c97ea5.m3u8
-#EXTINF:-1 tvg-name="CHC高画质电影" tvg-id="14045" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204051214143_83.png" group-title="电影",[BD]chc高清电影
+#EXTINF:-1 tvg-name="CHC高画质电影" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204051214143_83.png" group-title="电影",[BD]chc高清电影
 https://epg.pw/stream/212b925c47a28994443e012c65356110e90af22c555f8e3f40c036614fec7f6d.m3u8
 #EXTINF:-1 tvg-name="NEWTV中国功夫" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234525119397_36.jpg" group-title="综合",[BD]newtv中国功夫
 https://epg.pw/stream/b369393f24743f52a076fce406a3366109e03981cfb05aa3f1f32a2fd9f2acc2.m3u8
@@ -127,7 +127,7 @@ https://epg.pw/stream/2d599a92595f6e3defa6324326c0378034e5c3b40d1fb5adb08f71b4f2
 https://epg.pw/stream/9786e0b8a3285cf7004eb732dbbf4b30a6fd60876ead1fb2581875b86471f122.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531161239615102_64.jpg" group-title="综合",[SD]延边卫视
 https://epg.pw/stream/2abb7c7b1f1e080daba8f7e8256e96cbea4dc3a2919beccbdf008d81899b92ce.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="14009" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2017/11/12/large/20171112000439637548_60.jpg" group-title="运动",[BD]快乐垂钓
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2017/11/12/large/20171112000439637548_60.jpg" group-title="运动",[BD]快乐垂钓
 https://epg.pw/stream/7cb0483c83dc3ae526125c8357bb3ae38e32b2e3bf6a1b1649a841da9542489f.m3u8
 #EXTINF:-1 tvg-name="爱上4K" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/02/large/20211002142746582289_12.png" group-title="电影",[BD]爱上4k
 https://epg.pw/stream/c9bf04e77e3dc9ab083f0f7236b91ab766b0427ddf29332e08427ea39c7e8b7f.m3u8

@@ -23,7 +23,7 @@
 [HD]global_trekker-cdn6,https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8
 [BD]love_nature_4k,https://epg.pw/stream/1311b212993c11b75e1f5ab66be6d7a2241b36ddce52a3d8dd046a9b057da66e.m3u8
 [BD]nat_geo,https://epg.pw/stream/25764ff8977e46f69f07dfd235ef37be6dfbf338c492c45b5092adf631ee4cca.m3u8
-[HD]smithsonian_channel_selects,https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
+[SD]smithsonian_channel_selects,https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 
 电影,#genre#
 [SD]hollywood,https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8
