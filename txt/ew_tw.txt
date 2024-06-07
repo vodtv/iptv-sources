@@ -48,6 +48,7 @@
 [HD]民视,rtmp://f13h.mine.nu/sat/tv051
 [BD]纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 [BD]华视,rtmp://f13h.mine.nu/sat/tv111
+[BD]靖天国际,https://epg.pw/stream/a9a4812881a3d4a36a13e260956a2b4bff4a20cda605a6588978a4da9443b16b.m3u8
 
 综艺,#genre#
 [VGA]ph_rock_entertainment,https://epg.pw/stream/890563baba3628a4096548c973405f5b31de969d8bbe666d6e196540348941dd.ctv
