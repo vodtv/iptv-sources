@@ -71,4 +71,4 @@
 [BD]台视新闻_hd,https://epg.pw/stream/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8
 
 运动,#genre#
-[HD]纬来体育,rtmp://220.130.201.73/sat/tv721
+[SD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
