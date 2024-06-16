@@ -20,7 +20,7 @@
 [BD]有线新闻,https://stream.freetv.fun/10ba69849587a98651638f7072e3e7ec50d0f52f03dcaaa77115221192b3a002.m3u8
 [HD]有线财经资讯,https://stream.freetv.fun/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8
 [BD]无线新闻,https://stream.freetv.fun/662e5a352f2b84358ebad27c76fec0e01bcc3cd0490e4b00a8dcd0621ddc3d35.ctv
-[BD]无线财经,rtmp://twcdn.top/sat/hk031
+[HD]无线财经,rtmp://twcdn.top/sat/hk031
 [SD]环球电视,https://stream.freetv.fun/8884871c3db7be5caf8d6dc44cfe4909e921ffffc77be1d1b7b2eeec0cbdedbb.m3u8
 [HD]香港有线新闻,https://stream.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
 
@@ -44,7 +44,6 @@
 
 电影,#genre#
 [BD]now爆谷,https://stream.freetv.fun/bc97521e6ecfc495f5bf5ea0d3aea354504f294d77d1409aef7ffb493c651234.m3u8
-[HD]asian,https://stream.freetv.fun/621055e9efce4f4657ca5eb1b72271493125655c5da342d4b7fbe9289c0cedae.m3u8
 [BD]tvbs亚洲,https://stream.freetv.fun/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
 [HD]tvb星河,https://stream.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
 [BD]美亚电影台,https://stream.freetv.fun/901f8f9ef0484ba66615c590292c10a1cc208dc56022c4839da39cb79517c490.ctv
