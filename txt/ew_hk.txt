@@ -77,3 +77,4 @@
 [HD]tvb娱乐新闻,https://stream.freetv.fun/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
 [BD]viutv,https://stream.freetv.fun/1faff8ec634c51b3a1aafe479c3e4b4fe1e797d43239bc2b624158217659b74c.ctv
 [BD]viutvsix,https://stream.freetv.fun/1f1b52eaafc9cf1ce4bf8347fb954b8a4f24a44f100f30edfbe87312e6341595.m3u8
+[BD]星空卫视,https://stream.freetv.fun/d669fabd35daeaf67952480c48acf16e6eef6fa2a12919e2ca169894e33a93d7.m3u8

@@ -94,7 +94,7 @@
 [BD]newtv古装剧场,https://stream.freetv.fun/8dfd1b2927b0ddd326d3d369ecf4a8319ba9d95a2f3452a8330b1134354ce844.m3u8
 [BD]newtv家庭剧场,https://stream.freetv.fun/879f1fe20cbbe59e7575563f6683a629d66e588b919d4aa4ea62ef6437097644.m3u8
 [BD]newtv爱情喜剧,https://stream.freetv.fun/3b193ea6f354d2c63c4ab8f301715d3e5a7633e96d60d9be37fbef6f0beb2717.m3u8
-[VGA]newtv海外剧场,https://stream.freetv.fun/9b7166024df3941e461b10e7b0404889608f3b5d77ef5ede4f1a7e2cfc87d2eb.m3u8
+[BD]newtv海外剧场,https://stream.freetv.fun/9b7166024df3941e461b10e7b0404889608f3b5d77ef5ede4f1a7e2cfc87d2eb.m3u8
 [BD]newtv潮妈辣婆,https://stream.freetv.fun/23ba56fb3169f8afd560d79b4b3b483bebb82942a2445901cd680ebc39d3f17f.m3u8
 [BD]newtv精品大剧,https://stream.freetv.fun/c169dc0eb342ab0d1d8b097853183954995fb6b84eaecad28b831d4098a999c5.m3u8
 [BD]newtv超级电视剧,https://stream.freetv.fun/1281606fe512530e3f18f83b3c0c46792ae1103865ce3d1e92b0a571a82e68e5.m3u8
