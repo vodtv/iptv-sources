@@ -41,7 +41,6 @@
 其它,#genre#
 [SD]hks,https://stream.freetv.fun/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.ctv
 [HD]ptv_granada,https://stream.freetv.fun/063e0efb004c2bf1bd5c101466186d8ab3911e3f0fc4946c12e2e31213470fe5.m3u8
-[SD]亚太第一卫视,https://stream.freetv.fun/d7d8ef5757603c0cb58aa830b124719d6fa822947207ae5bdfac35cfb7f4dc30.ctv
 [VGA]耀才财经,https://stream.freetv.fun/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
 
 电影,#genre#
@@ -54,17 +53,18 @@
 [HD]tvb_黄金翡翠,https://stream.freetv.fun/9e2258b3741d635d63251d59931c1d7e6bcf0f501c10bfed4f814525cd60a0bb.ctv
 [HD]tvb_粤语片,https://stream.freetv.fun/53c26137b1ccd26e603898bdc9cc1c53770c40c8afbe6699b0c32c7fb31374b4.ctv
 [SD]天映经典,https://stream.freetv.fun/86c988eb117e1f70b6e44d401063b13d4298971ab10b6b7cf7a283681c299643.ctv
+[HD]戏曲,https://stream.freetv.fun/3a95f41b9007534e496e5d263da549f68722c1223c5be66391b537f7af4319f7.m3u8
 [BD]美亚电影,https://stream.freetv.fun/cca79216133c9c37a7438594f09d5427cd65fcb2b2a4c367e3403fb3026bb3ae.ctv
 [SD]凤凰电影,https://stream.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
 
 运动,#genre#
 [HD]mytv_super_18,https://stream.freetv.fun/8074fa32e0e6d9fea834162dd0c935f2027a2fb912f73c97c0390c1e7a9b2293.ctv
 [BD]nowsports,https://stream.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
-[BD]now_sports_1,https://stream.freetv.fun/7a652313382cfcd276f8bbea8d6682eae3244d82e7f2b3cfd9ac02b98596c9aa.ctv
+[HD]now_sports_1,https://stream.freetv.fun/d522eb7aeafbd1e99338a0040debc3310b25bd88d5aa1a0133f09da43df895ff.ctv
 [BD]now_sports_2,https://stream.freetv.fun/9f5362ddee326ab1e2bbb8dceeae3700f2b728e798f5a78df2ef1d9fa16bc3b7.ctv
 [BD]now_sports_618,https://stream.freetv.fun/38d49b5ad19632dfa5368972726eec1cb84015c13c1a2a52f2c51f557c5f74a0.m3u8
 [HD]star_(720p),https://stream.freetv.fun/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8
-[BD]starsports1,https://stream.freetv.fun/f7566a9837d446049eae79d2227c449b8c9db2e5d3ab02641acc31fc7257ef37.m3u8
+[VGA]starsports1,https://stream.freetv.fun/f7566a9837d446049eae79d2227c449b8c9db2e5d3ab02641acc31fc7257ef37.m3u8
 [HD]now_golf_2,https://stream.freetv.fun/f018c849e038c145ffd06b1154ca0878a3afdb0107bf767ad2b122e7b72be73e.ctv
 [HD]now_golf_3,https://stream.freetv.fun/e7cd865b18c1eb242cbc61e28bfed8b9d58caf81f69f77521ef174b05c71c73b.ctv
 [BD]now_sports_3,https://stream.freetv.fun/c8f1c6394c998c79274881ecd16843acdc99523e4b585996cea4889d18334665.ctv
