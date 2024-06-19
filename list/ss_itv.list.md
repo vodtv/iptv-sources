@@ -276,7 +276,7 @@
 | 268 | 金鹰纪实 | IPv4 直链 | <http://111.225.113.63:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 269 | 金鹰纪实 | IPv4 直链 | <http://111.225.113.145:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **6/20/2024 6:07:53 AM**
+Updated at **6/20/2024 6:09:08 AM**
 
 ## 使用说明
 
