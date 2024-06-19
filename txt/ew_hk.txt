@@ -10,7 +10,7 @@
 [BD]财经资讯,https://stream.freetv.fun/18127d54f9400a17a858c2e333b7688e875a1df1f925ec263a98a31ed0170ba0.ctv
 [SD]香港卫视,https://stream.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 [SD]香港电台(34),https://stream.freetv.fun/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8
-[BD]凤凰中文,https://stream.freetv.fun/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.ctv
+[VGA]凤凰中文,https://stream.freetv.fun/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.ctv
 [BD]凤凰香港,https://stream.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
 
 新闻,#genre#
@@ -26,7 +26,7 @@
 [VGA]tvb无线新闻台,https://stream.freetv.fun/c028a7bf94623fe337157ea7427721acd7d08d7eb7e1d44275bb5d85f55382c5.ctv
 [HD]now_财经,https://stream.freetv.fun/6546c56c238840b217110a788dfe52a321617f482127460d1e1d8ad3c5a4639b.ctv
 [HD]now_直播,https://stream.freetv.fun/6de621c8ed95fb2f02bcbb2e175e69d92aaa641a8e395ab74d13a59a29ef63c6.ctv
-[BD]有线新闻,https://stream.freetv.fun/10ba69849587a98651638f7072e3e7ec50d0f52f03dcaaa77115221192b3a002.m3u8
+[HD]有线新闻,https://stream.freetv.fun/558069a2e8c13ec449be43043df699c8f2fe5980a1348244a574596b2a77a3dd.m3u8
 [HD]有线财经资讯,https://stream.freetv.fun/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8
 [BD]无线新闻,https://stream.freetv.fun/d9b4b272710a828a3ab5e88b9b7a6f696ce61bd1c01ae8990e46f908f6842e98.m3u8
 [BD]无线新闻,https://stream.freetv.fun/662e5a352f2b84358ebad27c76fec0e01bcc3cd0490e4b00a8dcd0621ddc3d35.ctv
@@ -44,7 +44,7 @@
 [VGA]耀才财经,https://stream.freetv.fun/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
 
 电影,#genre#
-[BD]mytime_movie_network,https://stream.freetv.fun/41f01fe272a649064322929132bd4f076df51ebf40a33070a27a98ff1ea95aac.m3u8
+[SD]bs_japan_movie_channel,https://stream.freetv.fun/743260aa82300f9a91adb107ce4471681d409829774bd656f8773261761d057d.m3u8
 [HD]now星影,https://stream.freetv.fun/93009e7908bc1176f0a490c5ef7c266430ce0abebc9b64cf3332cedb79335c95.ctv
 [HD]now爆谷,https://stream.freetv.fun/13424f0a3783dbdde16918d9ac927ee860991e0b447ae130137da70a11737209.ctv
 [HD]now华剧,https://stream.freetv.fun/a5c5446e181271ee6a474a98f3fe53161a80e49747d0f62f805e5d51f213b2ff.ctv

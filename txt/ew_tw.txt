@@ -48,6 +48,9 @@
 [VGA]东森幼幼,https://stream.freetv.fun/996a50cd4261a43c7fac17f2b317c71b046fdb54871437dd3ac2e18054e06439.ctv
 [HD]龙华动画,https://stream.freetv.fun/34f3bb82caad54b71cadb2be5e93bad19b2655c66bf397791e66a5030576e675.ctv
 
+音乐,#genre#
+[BD]rama_channel,https://stream.freetv.fun/19424da4b391c17147743657e8f9ead864e7dc553e7ef4d105e830b5c859bef5.m3u8
+
 知识,#genre#
 [VGA]ph_discovery_channel,https://stream.freetv.fun/ccf23db3f1f781843836793ae62e4c9431282618027be33d315780859f93adbb.ctv
 [BD]discovery_hd_world,https://stream.freetv.fun/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
@@ -79,6 +82,7 @@
 [BD]国会频道1,https://stream.freetv.fun/b73e2686833520fef8096f8377e23ac12d5366c7c87ab4af4b9d58edaa4009cd.m3u8
 [HD]国会频道2,https://stream.freetv.fun/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8
 [VGA]客家电视,https://stream.freetv.fun/f1567ca52bd4977a1d1a9c738986080b2020b862b5290f813e217f0dfb90b164.ctv
+[BD]爱尔达综合,https://stream.freetv.fun/0dee63ab2a11a81be56712faccb9ac96a33402d2e412431ce612bd80ead3d7a1.ctv
 [BD]东森综合,https://stream.freetv.fun/bc3788a0db84745103ffe56527ecf5e61a20be92d83f772ad760bbd2f89d1ad0.ctv
 [VGA]东森美洲,https://stream.freetv.fun/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
 [BD]东森美洲卫视,https://stream.freetv.fun/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
@@ -115,6 +119,7 @@
 [BD]tvbs综艺,https://stream.freetv.fun/86d590d7c8c9e12358b9b7b36098710d32c0b691242837a48287118c1eecdf54.ctv
 [BD]tvn_hd,https://stream.freetv.fun/fe5f94b3cee70ec9b0665a273ffb21144899c21f8f15ed87d74280ddc8bca545.ctv
 [VGA]三立都会,https://stream.freetv.fun/02534f7e22d4ebf79b6f201f47027d47f36a8eacd363fbdad247be35c53be102.ctv
+[BD]中天娱乐,https://stream.freetv.fun/d0735558e1a216ef30c8398ae4159a1ead7e5137103fa1993fa7d3153ed277aa.ctv
 [VGA]八大娱乐,https://stream.freetv.fun/89721c3a03d6612da0013885a828bad02a80c584180bcbd938d3acd88a90427d.ctv
 [BD]民视综艺,https://stream.freetv.fun/643c15015c702e3a8f2f4452a99737d59a80bf41307c8854299ce5c1e0ab9262.ctv
 [HD]纬来日本,https://stream.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.m3u8
