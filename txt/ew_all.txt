@@ -107,6 +107,7 @@
 [BD]欢笑剧场,https://stream.freetv.fun/1f834670db83e0b35272ba826ec729906e041ed47119b15f52bcbab51f31e4de.m3u8
 [BD]湖北影视,https://stream.freetv.fun/363fe4337ffac6ddf7add20ba1d6eb7b3fc57ebf9d1207e991edc95a10bd34e9.m3u8
 [BD]甘肃文化影视,https://stream.freetv.fun/f24b4d04dc28ddf7cd6e4bffcffc567afcca879d109a74eb4965a75b2dc32a15.m3u8
+[BD]古装剧场,https://stream.freetv.fun/efe5c87a9f9bfc65868e6c921b202a5afe185c34d3427f30f2612167d266d3cd.m3u8
 [BD]都市剧场,https://stream.freetv.fun/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
 [BD]黑莓电影,https://stream.freetv.fun/b57ebbb43beedb167f0e70549346b3a1eef0f3a226cdcb6643e393ad6a5759be.m3u8
 [BD]黑龙江影视,https://stream.freetv.fun/c22a9eb399b9f6046febf690497046cf0cfd629b8c18ae77d398d1b54143a249.m3u8
@@ -118,15 +119,17 @@
 [BD]cctv兵器科技,https://stream.freetv.fun/3738a6459406852b60aec58d7bc5dd3bf4d3890799a2f0563346890738155ff3.m3u8
 [BD]cgtn,https://stream.freetv.fun/adbb9c7d93cfce44bcdb1240d8e67a7638ae0a74e6dbe3a8024b0af2e87ea474.m3u8
 [SD]cetv-4,https://stream.freetv.fun/2c08cc2820f1f0a8531e0e44552024f9973a573255c7b5d2561aa80349eff9f9.m3u8
+[BD]上海新闻,https://stream.freetv.fun/4ea02af0c45ed12a4f2ec70081a02250d7e9cd39a0b4b14a9f48ccd276224c22.m3u8
 [BD]哈尔滨新闻,https://stream.freetv.fun/36c0c41e0c8d9a07011125cdb56c574fed12d8ba0a19fcd955f4c0499e05d703.m3u8
 [BD]东方财经,https://stream.freetv.fun/48ab4fd132022b4a2a80f0bb96954a47062575c99c6888a136e6c456eba64387.m3u8
 [BD]海南新闻,https://stream.freetv.fun/8b98df967ed168dec0a6ccaa4e186dc27c2ffb698be5ef9c00bf6a5c30345a02.m3u8
 [SD]海南经济,https://stream.freetv.fun/cabb1e5fdb345011bbbdf406a7a7438b2a0e60dc856e7599a5d89fb3c38abe5c.m3u8
+[BD]湖北综合,https://stream.freetv.fun/a55cf145b70db7097c49ce1c256bb26c272ddba09ed129200475f44b3826e81d.m3u8
 [BD]湖北经视,https://stream.freetv.fun/a968f766a86c2a7690ca00cd8d3467ef79b4266675256e0e1f5b356aa8177fd2.m3u8
 [BD]第一财经,https://stream.freetv.fun/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8
 [BD]甘肃兰州新闻综合,https://stream.freetv.fun/edda061a42e3f65ca76623967cb1ccc607d00e2fef1f10c8b2382beda72062fb.m3u8
 [BD]黑龙江新闻,https://stream.freetv.fun/ab42a37e36581ba919da225ab42eea2acebe963eed9be5658db2e3c1dc8dbec9.m3u8
-[BD]黑龙江新闻法治,https://stream.freetv.fun/6fa84147aa9a9981e4ad84aa4cb21c255f1ff6287fcf1201d1a97f7d4144ea54.m3u8
+[BD]黑龙新闻法治,https://stream.freetv.fun/08e8dc836a9f361c4c530b31e91fb863e7d3f974cdf9d38126038200f007d3ca.m3u8
 
 儿童,#genre#
 [BD]cctv14,https://stream.freetv.fun/c375661a94c310dd112505c98740c9917785676f84443adf5246edaa1d5de485.m3u8
@@ -156,6 +159,7 @@
 [BD]劲爆体育,https://stream.freetv.fun/910deb8f06451df78885df1197625d9797d75326c1e032cc1b887e5326b2a052.m3u8
 [BD]哒啵赛事,https://stream.freetv.fun/5ea46f1cf1488694204cfaf47014123e2f0c10370f04e78f2ad94d82edbb3559.m3u8
 [BD]快乐垂钓,https://stream.freetv.fun/2c44d3bd5e3f2fcaa1655cac5b825a7e216179de2461432d070041d687913724.m3u8
+[BD]游戏风云,https://stream.freetv.fun/e4e31be4d038d38571dfc0ec147803b7ca3534eec6d43f36425da997efe3aaee.m3u8
 [BD]风云足球,https://stream.freetv.fun/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8
 [SD]高尔夫,https://stream.freetv.fun/87979eef1a3ec2e63f1622234e1ec750f9b68ac069f15640a0f2404920ceefc8.m3u8
 [BD]高尔夫网球,https://stream.freetv.fun/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.m3u8
@@ -164,7 +168,8 @@
 [BD]cctv3,https://stream.freetv.fun/bedd90f2589f214ccca54c6183c14974714e2a66a0492dc8f71126cdd5a2105f.m3u8
 [BD]newtv超级综艺,https://stream.freetv.fun/5a1929c7c8bb87bcbedd15ec273a380741da43adc68122c1a39bf5ef9fae3a88.m3u8
 [BD]newtv金牌综艺,https://stream.freetv.fun/f1f00d3b8166406379e6ca5d0b81ff153b65741ebc502371d877dbbc8767347e.m3u8
-[BD]乐游频道,https://stream.freetv.fun/6d4fe205e120659d8d39da5421ed2967592baaa0657763a59943fb491099636a.m3u8
+[BD]乐游,https://stream.freetv.fun/def8d702a15b73a39f3577a364bc30f590961713c63dd0c9366d2af945065b9c.m3u8
+[BD]黑龙江文化,https://stream.freetv.fun/93c7bfe0229d6200796061f8915b8ea07008a9760a79a73de0596530e1807520.m3u8
 
 知识,#genre#
 [BD]cctv9,https://stream.freetv.fun/8a99231be509bad4d51d74a2627680b3a42f0a75872d75a0089ca362c99fa7fb.m3u8
@@ -175,8 +180,13 @@
 [BD]上海纪实人文,https://stream.freetv.fun/b6e98019fd687d467b5676a034e2731459d9dfad493bfef11b48d27b499713d2.m3u8
 [BD]纪实人文,https://stream.freetv.fun/1cf98a92573659b43694da1fbb747670f224f73e69fa3848ebfe8f5807a89ade.m3u8
 [BD]全纪实,https://stream.freetv.fun/2d9108efd241fb2214b9b653b9da63bfd59d91a37341f98396be49a9157ef849.m3u8
+[BD]纪实科教,https://stream.freetv.fun/85af28b07a8945cf89362dcb07aa783c2844283d0064955d2d4588739c1b5e65.m3u8
+[BD]求索动物,https://stream.freetv.fun/99dbe799c9af96de879ae6baf445d6b325475ae18ac117713e9f940d6d3899f5.m3u8
+[BD]求索生活,https://stream.freetv.fun/80dafd9465b1553d68829527b1bd9e15e8d49585e9a7735f141aa6f7cf7cfb40.m3u8
+[BD]求索科学,https://stream.freetv.fun/3c7a8f431612bb4452904e6ce413e521e8e52e53495ae98c8a0e3e968183ef17.m3u8
 [BD]金鹰纪实,https://stream.freetv.fun/b10c750735f19188427eea571dff4c77e5ebf052f11a81e41db4ed0957f4f9a2.m3u8
 
 测试,#genre#
 [BD]newtv精品综合,https://stream.freetv.fun/b89ad7a91691e477d4ca16ecb22846cbc6da48be624f299b00413994365b1a02.m3u8
+[SD]动漫,https://stream.freetv.fun/e61c6988eb7328137ad20820a9c412c94b96333c04ed44ba02215d1f33e907ef.m3u8
 [BD]电影频道,https://stream.freetv.fun/db0a9bcd5fbb78227fe26473081b88ef7946b8df481c67be79ad78c54f264d09.m3u8
