@@ -148,7 +148,7 @@
 | 140 | [HD]龙华洋片 | stream.freetv.fun | <https://stream.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8> |
 | 141 | [VGA]龙华电影 | stream.freetv.fun | <https://stream.freetv.fun/f529880bfbd0553bf3458aac75e287c2540c992956859a804409294e70c618f2.ctv> |
 
-Updated at **6/20/2024 6:09:08 AM**
+Updated at **6/20/2024 9:38:52 AM**
 
 ## 使用说明
 

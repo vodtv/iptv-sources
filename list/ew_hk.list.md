@@ -9,7 +9,7 @@
 | 1 | [HD]tvri world | stream.freetv.fun | <https://stream.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
 | 2 | [HD]香港c+ | stream.freetv.fun | <https://stream.freetv.fun/8809ef652c64001910cceaa72e6190b5bfe53d1f7478b98f2bcac0531f8c436d.m3u8> |
 | 3 | [VGA]rthk33 | stream.freetv.fun | <https://stream.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8> |
-| 4 | [VGA]discovery kids | stream.freetv.fun | <https://stream.freetv.fun/d78d2807e3d6bb3c4add508a0f548df4bc97dee52811b0fe260dac57c2330224.m3u8> |
+| 4 | [HD]discovery kids | stream.freetv.fun | <https://stream.freetv.fun/d78d2807e3d6bb3c4add508a0f548df4bc97dee52811b0fe260dac57c2330224.m3u8> |
 | 5 | [SD]hks | stream.freetv.fun | <https://stream.freetv.fun/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.ctv> |
 | 6 | [HD]hoy tv | stream.freetv.fun | <https://stream.freetv.fun/1496043c9019ec1e6c21f1257e1f303b901a1f4effc143fb7da3c19cc4de0ecc.ctv> |
 | 7 | [BD]hoy 资讯 | stream.freetv.fun | <https://stream.freetv.fun/4e545e1c6ea987cde8e16b28807632d31faf15672e9ff01ea3a7877674e23cb5.ctv> |
@@ -45,7 +45,7 @@
 | 37 | [HD]tvb 黄金翡翠 | stream.freetv.fun | <https://stream.freetv.fun/9e2258b3741d635d63251d59931c1d7e6bcf0f501c10bfed4f814525cd60a0bb.ctv> |
 | 38 | [HD]360 tv (720p) [not 24/7] | stream.freetv.fun | <https://stream.freetv.fun/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8> |
 | 39 | [BD]viutv | stream.freetv.fun | <https://stream.freetv.fun/4b1dd593dbef7dda5679ff12ddcb296b1b4aacaa6180c8e3f386de5a3c60f5e7.m3u8> |
-| 40 | [BD]viutv six | stream.freetv.fun | <https://stream.freetv.fun/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.m3u8> |
+| 40 | [BD]viutvsix | stream.freetv.fun | <https://stream.freetv.fun/1f1b52eaafc9cf1ce4bf8347fb954b8a4f24a44f100f30edfbe87312e6341595.m3u8> |
 | 41 | [HD]now golf 2 | stream.freetv.fun | <https://stream.freetv.fun/f018c849e038c145ffd06b1154ca0878a3afdb0107bf767ad2b122e7b72be73e.ctv> |
 | 42 | [HD]now golf 3 | stream.freetv.fun | <https://stream.freetv.fun/e7cd865b18c1eb242cbc61e28bfed8b9d58caf81f69f77521ef174b05c71c73b.ctv> |
 | 43 | [BD]now sports 3 | stream.freetv.fun | <https://stream.freetv.fun/c8f1c6394c998c79274881ecd16843acdc99523e4b585996cea4889d18334665.ctv> |
@@ -80,7 +80,7 @@
 | 72 | [SD]凤凰电影 | stream.freetv.fun | <https://stream.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
 | 73 | [BD]凤凰香港 | stream.freetv.fun | <https://stream.freetv.fun/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.ctv> |
 
-Updated at **6/20/2024 6:09:08 AM**
+Updated at **6/20/2024 9:38:52 AM**
 
 ## 使用说明
 
