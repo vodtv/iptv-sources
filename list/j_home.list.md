@@ -55,7 +55,7 @@
 | 47 | 中国天气 | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
 | 48 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8> |
 
-Updated at **6/20/2024 4:15:01 PM**
+Updated at **6/21/2024 8:49:41 AM**
 
 ## 使用说明
 

@@ -133,6 +133,7 @@
 [BD]湖北综合,https://stream.freetv.fun/a55cf145b70db7097c49ce1c256bb26c272ddba09ed129200475f44b3826e81d.m3u8
 [BD]湖北经视,https://stream.freetv.fun/a968f766a86c2a7690ca00cd8d3467ef79b4266675256e0e1f5b356aa8177fd2.m3u8
 [BD]第一财经,https://stream.freetv.fun/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8
+[BD]新闻综合,https://stream.freetv.fun/3c0c3e89643356e166fc8b62b1d7210c9e18aca2a0ff303c6a4b74425bd1d077.m3u8
 [BD]甘肃兰州新闻综合,https://stream.freetv.fun/edda061a42e3f65ca76623967cb1ccc607d00e2fef1f10c8b2382beda72062fb.m3u8
 [BD]兰州新闻,https://stream.freetv.fun/46f32e5cd0b28a78acb6056d26ac4db2752072ca6e03454c6b7af881ea8409c7.m3u8
 [BD]双鸭山新闻,https://stream.freetv.fun/240b6449b1a2b47c72a90c8a051707821088233fb5a0c228ca8f8ae7d39d2a27.m3u8
