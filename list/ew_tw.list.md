@@ -9,7 +9,7 @@
 | 1 | [VGA]khbs-tv news fort smith ar | stream.freetv.fun | <https://stream.freetv.fun/0686ee5a476df9816cdbe3abf8b1bf85b74b0cfbc6e0eebce68d86d0e84c1a80.m3u8> |
 | 2 | [HD]amc电影 | stream.freetv.fun | <https://stream.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8> |
 | 3 | [VGA]animax 卡通 | stream.freetv.fun | <https://stream.freetv.fun/cee858fd0e589ea65c433266af6068d68d26b9f85933b2b54cf589f17b807abf.ctv> |
-| 4 | [HD]bbcearth v4 | stream.freetv.fun | <https://stream.freetv.fun/7b6da2249a4bac12de83f5a29604efcddf4d1980787f9e4d78cb6580de971ed2.m3u8> |
+| 4 | [BD]bbcearth v4 | stream.freetv.fun | <https://stream.freetv.fun/7b6da2249a4bac12de83f5a29604efcddf4d1980787f9e4d78cb6580de971ed2.m3u8> |
 | 5 | [HD]bsアニマックス | stream.freetv.fun | <https://stream.freetv.fun/4778a86d67e2da19270fa1f218cb9d9516356c925d93fd28ffbe2c943ca7e50c.m3u8> |
 | 6 | [VGA]rama channel | stream.freetv.fun | <https://stream.freetv.fun/19424da4b391c17147743657e8f9ead864e7dc553e7ef4d105e830b5c859bef5.m3u8> |
 | 7 | [HD]ibc music | stream.freetv.fun | <https://stream.freetv.fun/3578ffaf2ba8bae9ba848bfcca72193311ad598059d4d41f8ce3debe6c0a0924.m3u8> |
@@ -54,7 +54,7 @@
 | 46 | [VGA]三立inews | stream.freetv.fun | <https://stream.freetv.fun/355445c29dfc6d7aeeab06dc831477945355890318886c5be26e7c221ef243d9.ctv> |
 | 47 | [HD]三立戏剧 | stream.freetv.fun | <https://stream.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8> |
 | 48 | [VGA]三立新闻 | stream.freetv.fun | <https://stream.freetv.fun/2a20b952545a0f44db6cd2ecaacfe7586f5bb015d1f9b33c6dece86e8c00cd38.ctv> |
-| 49 | [BD]三立综合 | stream.freetv.fun | <https://stream.freetv.fun/2c7e0a2ade6453d6a39e4a520da30f2dfe605a24daa05699d7debfbb7d846b01.m3u8> |
+| 49 | [HD]三立综合 | stream.freetv.fun | <https://stream.freetv.fun/2c7e0a2ade6453d6a39e4a520da30f2dfe605a24daa05699d7debfbb7d846b01.m3u8> |
 | 50 | [VGA]三立台湾 | stream.freetv.fun | <https://stream.freetv.fun/b02bd01dece7d9086087806b32129fdf937015058b0bdcfd5183b15ae0c81bfa.ctv> |
 | 51 | [BD]三立台湾 | stream.freetv.fun | <https://stream.freetv.fun/3ff6d4727ba82d29f7bc3ce5dab48787ed38bb63e67b535c9c8cebe95e81ced9.m3u8> |
 | 52 | [VGA]三立都会 | stream.freetv.fun | <https://stream.freetv.fun/02534f7e22d4ebf79b6f201f47027d47f36a8eacd363fbdad247be35c53be102.ctv> |
@@ -145,13 +145,12 @@
 | 137 | [BD]非凡新闻 | stream.freetv.fun | <https://stream.freetv.fun/a46f1155e768a1d44ec78e6a01acafe3f2f83650f9352db8e8eb84170d7535d7.ctv> |
 | 138 | [VGA]龙祥电影 | stream.freetv.fun | <https://stream.freetv.fun/e11c26f2cfe00922feec1b4ec96ad4d20ee3fc04eed9faf68ba88a421b4dad39.ctv> |
 | 139 | [HD]龙华偶像 | stream.freetv.fun | <https://stream.freetv.fun/f04cd7ed7bbbd3449b03632a4df58481a0871423d84f0e2950b5507a9652eaca.m3u8> |
-| 140 | [HD]龙华动画 | stream.freetv.fun | <https://stream.freetv.fun/34f3bb82caad54b71cadb2be5e93bad19b2655c66bf397791e66a5030576e675.ctv> |
-| 141 | [HD]龙华戏剧 | stream.freetv.fun | <https://stream.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8> |
-| 142 | [HD]龙华洋片 | stream.freetv.fun | <https://stream.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8> |
-| 143 | [HD]龙华经典 | stream.freetv.fun | <https://stream.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
-| 144 | [VGA]龙华电影 | stream.freetv.fun | <https://stream.freetv.fun/f529880bfbd0553bf3458aac75e287c2540c992956859a804409294e70c618f2.ctv> |
+| 140 | [HD]龙华戏剧 | stream.freetv.fun | <https://stream.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8> |
+| 141 | [HD]龙华洋片 | stream.freetv.fun | <https://stream.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8> |
+| 142 | [HD]龙华经典 | stream.freetv.fun | <https://stream.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
+| 143 | [VGA]龙华电影 | stream.freetv.fun | <https://stream.freetv.fun/f529880bfbd0553bf3458aac75e287c2540c992956859a804409294e70c618f2.ctv> |
 
-Updated at **6/21/2024 8:49:41 AM**
+Updated at **6/21/2024 4:14:39 PM**
 
 ## 使用说明
 

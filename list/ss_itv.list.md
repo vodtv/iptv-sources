@@ -276,7 +276,7 @@
 | 268 | 经典电影 | IPv4 直链 | <http://183.0.186.131:9900/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 269 | 经济科教 | IPv4 直链 | <http://14.212.185.27:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **6/21/2024 8:49:41 AM**
+Updated at **6/21/2024 4:14:39 PM**
 
 ## 使用说明
 

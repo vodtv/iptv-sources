@@ -16,7 +16,7 @@
 | 8 | [HD]澳门卫视 | stream.freetv.fun | <https://stream.freetv.fun/6f201083a058c27d3a9152555ee78b9d642439b2fd900952e4d0223f8103bca8.ctv> |
 | 9 | [HD]澳门资讯 | stream.freetv.fun | <https://stream.freetv.fun/df07814fabb1663ac92b3f84ece74ca5a524a5a3a6af19435ff064633fa59197.ctv> |
 
-Updated at **6/21/2024 8:49:41 AM**
+Updated at **6/21/2024 4:14:39 PM**
 
 ## 使用说明
 

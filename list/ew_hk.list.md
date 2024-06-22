@@ -48,7 +48,7 @@
 | 40 | [HD]360 tv (720p) [not 24/7] | stream.freetv.fun | <https://stream.freetv.fun/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8> |
 | 41 | [BD]viutv | stream.freetv.fun | <https://stream.freetv.fun/4b1dd593dbef7dda5679ff12ddcb296b1b4aacaa6180c8e3f386de5a3c60f5e7.m3u8> |
 | 42 | [BD]viutv six | stream.freetv.fun | <https://stream.freetv.fun/cb6936a6a03e9cdba87f09f8c97ccae50a0011906decda5203322522a78c0b8d.m3u8> |
-| 43 | [BD]now sports 3 | stream.freetv.fun | <https://stream.freetv.fun/c8f1c6394c998c79274881ecd16843acdc99523e4b585996cea4889d18334665.ctv> |
+| 43 | [HD]now sports 3 | stream.freetv.fun | <https://stream.freetv.fun/68b71c52a53d6e5ba1a5e1cbb11ffe3a1199c1fe51d94f277129781e3185b721.ctv> |
 | 44 | [HD]now sports 4 | stream.freetv.fun | <https://stream.freetv.fun/d97613dbf9d8adca37631e03165c9cf0195aa468c1f1ee79a51caee42d0dfc67.ctv> |
 | 45 | [HD]now sports 5 | stream.freetv.fun | <https://stream.freetv.fun/9bc6ab2dd6e2bf22c3ec9ca38b9d344175435f17dcf9c02e8bef349fc7d8aa13.ctv> |
 | 46 | [BD]now premier sports 6 | stream.freetv.fun | <https://stream.freetv.fun/bc898371f0ddeb83b607f0573217d672a429e61e56859f892d7308a23e233a22.ctv> |
@@ -58,7 +58,7 @@
 | 50 | [HD]tvb 粤语片 | stream.freetv.fun | <https://stream.freetv.fun/53c26137b1ccd26e603898bdc9cc1c53770c40c8afbe6699b0c32c7fb31374b4.ctv> |
 | 51 | [HD]剧集 | stream.freetv.fun | <https://stream.freetv.fun/951736a1c8422926a55eccdc7421499ea16aaa02acebe00a83b1e76229d992aa.ctv> |
 | 52 | [SD]天映经典 | stream.freetv.fun | <https://stream.freetv.fun/86c988eb117e1f70b6e44d401063b13d4298971ab10b6b7cf7a283681c299643.ctv> |
-| 53 | [BD]恐怖电影 | stream.freetv.fun | <https://stream.freetv.fun/04d6904c89dc9ca2af51673730730672638a4a9e72f9775618048a5331394b72.ctv> |
+| 53 | [HD]恐怖电影 | stream.freetv.fun | <https://stream.freetv.fun/04d6904c89dc9ca2af51673730730672638a4a9e72f9775618048a5331394b72.ctv> |
 | 54 | [SD]戏曲 | stream.freetv.fun | <https://stream.freetv.fun/33ab0f2e9a962925d20603efa0d82ce80a3e8d45e7a2898710223dfeb0fdfd9f.ctv> |
 | 55 | [BD]明珠台 | stream.freetv.fun | <https://stream.freetv.fun/36d4ca249d75335cdeaeb0fafe9671a63a073e7ba8971578a8b40429cded40dc.ctv> |
 | 56 | [BD]星空卫视 | stream.freetv.fun | <https://stream.freetv.fun/d669fabd35daeaf67952480c48acf16e6eef6fa2a12919e2ca169894e33a93d7.m3u8> |
@@ -81,7 +81,7 @@
 | 73 | [SD]凤凰电影 | stream.freetv.fun | <https://stream.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.ctv> |
 | 74 | [BD]凤凰香港 | stream.freetv.fun | <https://stream.freetv.fun/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.ctv> |
 
-Updated at **6/21/2024 8:49:41 AM**
+Updated at **6/21/2024 4:14:39 PM**
 
 ## 使用说明
 
