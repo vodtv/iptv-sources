@@ -65,7 +65,7 @@
 | 57 | [HD]有线新闻 | stream.freetv.fun | <https://stream.freetv.fun/558069a2e8c13ec449be43043df699c8f2fe5980a1348244a574596b2a77a3dd.m3u8> |
 | 58 | [HD]有线财经资讯 | stream.freetv.fun | <https://stream.freetv.fun/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8> |
 | 59 | [BD]无线新闻 | stream.freetv.fun | <https://stream.freetv.fun/d9b4b272710a828a3ab5e88b9b7a6f696ce61bd1c01ae8990e46f908f6842e98.m3u8> |
-| 60 | [HD]无线新闻 | stream.freetv.fun | <https://stream.freetv.fun/662e5a352f2b84358ebad27c76fec0e01bcc3cd0490e4b00a8dcd0621ddc3d35.ctv> |
+| 60 | [BD]无线新闻 | stream.freetv.fun | <https://stream.freetv.fun/a5939b915562fd0fa5b663475ec27ae72074b246a4675c8812de73566f836931.m3u8> |
 | 61 | [HD]无线财经 | twcdn.top | <rtmp://twcdn.top/sat/hk031> |
 | 62 | [SD]环球电视 | stream.freetv.fun | <https://stream.freetv.fun/8884871c3db7be5caf8d6dc44cfe4909e921ffffc77be1d1b7b2eeec0cbdedbb.m3u8> |
 | 63 | [BD]美亚电影 | stream.freetv.fun | <https://stream.freetv.fun/cca79216133c9c37a7438594f09d5427cd65fcb2b2a4c367e3403fb3026bb3ae.ctv> |
@@ -77,11 +77,11 @@
 | 69 | [SD]香港电台(34) | stream.freetv.fun | <https://stream.freetv.fun/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8> |
 | 70 | [VGA]凤凰卫视香港 | stream.freetv.fun | <https://stream.freetv.fun/b00f0f5bc6be5b4622aefaa1e8fe4dee5787ff6179bd58a96cc662efba7c3585.m3u8> |
 | 71 | [BD]凤凰中文 | stream.freetv.fun | <https://stream.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8> |
-| 72 | [BD]凤凰资讯 | stream.freetv.fun | <https://stream.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv> |
+| 72 | [BD]凤凰资讯 | stream.freetv.fun | <https://stream.freetv.fun/dfb226a17fb306cc8882209213987bda586dce57054d4f4f0d02a8815f8a5ca1.m3u8> |
 | 73 | [SD]凤凰电影 | stream.freetv.fun | <https://stream.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.ctv> |
 | 74 | [BD]凤凰香港 | stream.freetv.fun | <https://stream.freetv.fun/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.ctv> |
 
-Updated at **6/21/2024 4:14:39 PM**
+Updated at **6/22/2024 8:49:09 AM**
 
 ## 使用说明
 
