@@ -13,10 +13,9 @@
 | 5 | [HD]澳视葡文 | stream.freetv.fun | <https://stream.freetv.fun/470cc9f6910f54f75c4800037462a15e29c9a5e1239b8481209a25a18865d21f.m3u8> |
 | 6 | [HD]ช่อง 澳视体育 | stream.freetv.fun | <https://stream.freetv.fun/c1874db48a22a08dceee28ef41e671c56a7fedc6e5d285434acb468ec8e63874.m3u8> |
 | 7 | [BD]澳门macau | stream.freetv.fun | <https://stream.freetv.fun/56213859f6466dfd2be0aaa613be54e8476f292b08e23ded06de089a366481d0.m3u8> |
-| 8 | [HD]澳门卫视 | stream.freetv.fun | <https://stream.freetv.fun/6f201083a058c27d3a9152555ee78b9d642439b2fd900952e4d0223f8103bca8.ctv> |
-| 9 | [BD]澳门资讯 | stream.freetv.fun | <https://stream.freetv.fun/5c52b1547114ca8dddd33cbaca623d2fdfd1d0a412bc808444b5b0f0e5346487.ctv> |
+| 8 | [HD]澳门资讯 | stream.freetv.fun | <https://stream.freetv.fun/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8> |
 
-Updated at **6/22/2024 8:49:09 AM**
+Updated at **6/22/2024 4:13:48 PM**
 
 ## 使用说明
 

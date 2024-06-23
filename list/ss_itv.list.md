@@ -377,7 +377,7 @@
 | 369 | 金鹰卡通 | IPv4 直链 | <http://171.118.223.183:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 370 | 金鹰卡通 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **6/22/2024 8:49:09 AM**
+Updated at **6/22/2024 4:13:48 PM**
 
 ## 使用说明
 

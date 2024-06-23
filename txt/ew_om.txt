@@ -9,10 +9,9 @@
 
 综合,#genre#
 [BD]澳视澳门,https://stream.freetv.fun/56e911076120ba8a4639f7446c639591da9423eba3a14212acc42648d2bfb473.m3u8
-[HD]澳门卫视,https://stream.freetv.fun/6f201083a058c27d3a9152555ee78b9d642439b2fd900952e4d0223f8103bca8.ctv
 
 运动,#genre#
 [HD]ช่อง_澳视体育,https://stream.freetv.fun/c1874db48a22a08dceee28ef41e671c56a7fedc6e5d285434acb468ec8e63874.m3u8
 
 新闻,#genre#
-[BD]澳门资讯,https://stream.freetv.fun/5c52b1547114ca8dddd33cbaca623d2fdfd1d0a412bc808444b5b0f0e5346487.ctv
+[HD]澳门资讯,https://stream.freetv.fun/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8
