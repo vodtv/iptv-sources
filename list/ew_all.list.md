@@ -114,7 +114,7 @@
 | 106 | [BD]东南卫视 | stream.freetv.fun | <https://stream.freetv.fun/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8> |
 | 107 | [BD]东方卫视 | stream.freetv.fun | <https://stream.freetv.fun/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8> |
 | 108 | [BD]东方财经 | stream.freetv.fun | <https://stream.freetv.fun/48ab4fd132022b4a2a80f0bb96954a47062575c99c6888a136e6c456eba64387.m3u8> |
-| 109 | [BD]梨园频道 | stream.freetv.fun | <https://stream.freetv.fun/a36112d79e692baf0c84ddcd85f0a41d2f1c51e55bde4b1b3503cd712070718e.m3u8> |
+| 109 | [BD]梨园 | stream.freetv.fun | <https://stream.freetv.fun/e90cab44095472c9412d840373126442dbe0046611198fcf3ee3761b82660ef3.m3u8> |
 | 110 | [BD]乐游 | stream.freetv.fun | <https://stream.freetv.fun/def8d702a15b73a39f3577a364bc30f590961713c63dd0c9366d2af945065b9c.m3u8> |
 | 111 | [BD]欢笑剧场 | stream.freetv.fun | <https://stream.freetv.fun/1f834670db83e0b35272ba826ec729906e041ed47119b15f52bcbab51f31e4de.m3u8> |
 | 112 | [BD]武术世界 | stream.freetv.fun | <https://stream.freetv.fun/7d383da3b4c72cbec381e2752163d3acd8e6aa2b1a7ee95c96469c262ad52025.m3u8> |
@@ -191,7 +191,7 @@
 | 183 | [BD]黑龙江卫视 | stream.freetv.fun | <https://stream.freetv.fun/7cefa430ea379ed99bf773cc85493f267d593977315add85fc376105d3846981.m3u8> |
 | 184 | [BD]黑龙江都市 | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **6/23/2024 8:53:53 AM**
+Updated at **6/23/2024 4:12:30 PM**
 
 ## 使用说明
 

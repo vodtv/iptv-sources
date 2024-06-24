@@ -463,7 +463,7 @@
 | 455 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 456 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 
-Updated at **6/23/2024 8:53:53 AM**
+Updated at **6/23/2024 4:12:30 PM**
 
 ## 使用说明
 
