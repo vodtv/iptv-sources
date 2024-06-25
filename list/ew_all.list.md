@@ -190,7 +190,7 @@
 | 182 | [BD]黑龙江卫视 | stream.freetv.fun | <https://stream.freetv.fun/7cefa430ea379ed99bf773cc85493f267d593977315add85fc376105d3846981.m3u8> |
 | 183 | [BD]黑龙江都市 | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **6/24/2024 4:14:40 PM**
+Updated at **6/25/2024 8:50:42 AM**
 
 ## 使用说明
 
