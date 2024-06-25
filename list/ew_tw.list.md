@@ -16,7 +16,7 @@
 | 8 | [BD]catchplay-电影 | stream.freetv.fun | <https://stream.freetv.fun/4ad6faf439337a12dc4cd3a4722a712747351cc5cb3dd2feb05dc7d176d69295.ctv> |
 | 9 | [HD]dazn la liga | stream.freetv.fun | <https://stream.freetv.fun/bb1ff0ce0d87f639ea786ae55d4b75fe0e36cff09cf8cd034ace8fea0616afd6.ctv> |
 | 10 | [HD]dazn2 | stream.freetv.fun | <https://stream.freetv.fun/94e9f0a64e3104f9d55d2750b441ad14c035d1965f7b9c4dde93aeefb6899eb8.m3u8> |
-| 11 | [HD]discovery channel | stream.freetv.fun | <https://stream.freetv.fun/93fcd1594411ac63fda1ea612e8ce8850672cf978164a6054cd2ef35626d5ebb.m3u8> |
+| 11 | [VGA]discovery channel | stream.freetv.fun | <https://stream.freetv.fun/a179bd99529868cd06725c8b825a27b77dcb408f612392296f5420ad96609a57.ctv> |
 | 12 | [BD]discovery hd world | stream.freetv.fun | <https://stream.freetv.fun/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8> |
 | 13 | [SD]discovery science | stream.freetv.fun | <https://stream.freetv.fun/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8> |
 | 14 | [BD]elta生活旅游 | stream.freetv.fun | <https://stream.freetv.fun/0df3e88766a547113f11ad4f090289476da1f0b2e586fe350939cc5f5779bb09.ctv> |
@@ -153,21 +153,22 @@
 | 145 | [HD]靖天日本 | stream.freetv.fun | <https://stream.freetv.fun/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.ctv> |
 | 146 | [BD]靖天映画 | stream.freetv.fun | <https://stream.freetv.fun/feaa2c7eeaa63b1901a08d1b2c3d711c1198fa56765f3aca7a88c5d31dbcd398.ctv> |
 | 147 | [BD]靖天欢乐 | stream.freetv.fun | <https://stream.freetv.fun/69f19fe4a56eaf924aca142d6ad6f2efdcfba09ad4785ab60d5548fd5a72656a.ctv> |
-| 148 | [BD]靖天育乐 | stream.freetv.fun | <https://stream.freetv.fun/fe7adca93f22e088e68343794fc435a9c196ae886fe39b96629a869ef987c06b.ctv> |
-| 149 | [BD]靖天资讯 | stream.freetv.fun | <https://stream.freetv.fun/dc312cfd1f83497a7080eb591359de2565fe6b1ef043b9f19b52700c8cf7464d.ctv> |
-| 150 | [VGA]靖天电影 | stream.freetv.fun | <https://stream.freetv.fun/b7b334eee155c0e904ec230e64f4ff9f242a5158d58709ce6e1f5b8d18216b10.ctv> |
-| 151 | [BD]靖洋戏剧 | stream.freetv.fun | <https://stream.freetv.fun/5452480acde23910bb2831146a9b2b97355b909f7df65938f1309c73a1b35d5f.ctv> |
-| 152 | [BD]非凡商业 | stream.freetv.fun | <https://stream.freetv.fun/410f89101d2157cb4feaf5f29d104ae500e069125b751cf7a555e63314e2a153.ctv> |
-| 153 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
-| 154 | [VGA]龙祥电影 | stream.freetv.fun | <https://stream.freetv.fun/e11c26f2cfe00922feec1b4ec96ad4d20ee3fc04eed9faf68ba88a421b4dad39.ctv> |
-| 155 | [HD]龙华偶像 | stream.freetv.fun | <https://stream.freetv.fun/f04cd7ed7bbbd3449b03632a4df58481a0871423d84f0e2950b5507a9652eaca.m3u8> |
-| 156 | [HD]龙华戏剧 | stream.freetv.fun | <https://stream.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8> |
-| 157 | [BD]龙华日韩 | stream.freetv.fun | <https://stream.freetv.fun/54187f7b52bbb08407ce9894fa6e6b0ba632cdd0aeb29c91e9cb9efd129898ce.ctv> |
-| 158 | [HD]龙华洋片 | stream.freetv.fun | <https://stream.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8> |
-| 159 | [HD]龙华经典 | stream.freetv.fun | <https://stream.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
-| 160 | [VGA]龙华电影 | stream.freetv.fun | <https://stream.freetv.fun/f529880bfbd0553bf3458aac75e287c2540c992956859a804409294e70c618f2.ctv> |
+| 148 | [BD]靖天综合 | stream.freetv.fun | <https://stream.freetv.fun/fd6a2d196572e67cb8d49f16bcd9602af8b7408cd4e1e6a9e4ae988e80481df7.ctv> |
+| 149 | [BD]靖天育乐 | stream.freetv.fun | <https://stream.freetv.fun/fe7adca93f22e088e68343794fc435a9c196ae886fe39b96629a869ef987c06b.ctv> |
+| 150 | [BD]靖天资讯 | stream.freetv.fun | <https://stream.freetv.fun/dc312cfd1f83497a7080eb591359de2565fe6b1ef043b9f19b52700c8cf7464d.ctv> |
+| 151 | [VGA]靖天电影 | stream.freetv.fun | <https://stream.freetv.fun/b7b334eee155c0e904ec230e64f4ff9f242a5158d58709ce6e1f5b8d18216b10.ctv> |
+| 152 | [BD]靖洋戏剧 | stream.freetv.fun | <https://stream.freetv.fun/5452480acde23910bb2831146a9b2b97355b909f7df65938f1309c73a1b35d5f.ctv> |
+| 153 | [BD]非凡商业 | stream.freetv.fun | <https://stream.freetv.fun/410f89101d2157cb4feaf5f29d104ae500e069125b751cf7a555e63314e2a153.ctv> |
+| 154 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
+| 155 | [VGA]龙祥电影 | stream.freetv.fun | <https://stream.freetv.fun/e11c26f2cfe00922feec1b4ec96ad4d20ee3fc04eed9faf68ba88a421b4dad39.ctv> |
+| 156 | [HD]龙华偶像 | stream.freetv.fun | <https://stream.freetv.fun/f04cd7ed7bbbd3449b03632a4df58481a0871423d84f0e2950b5507a9652eaca.m3u8> |
+| 157 | [HD]龙华戏剧 | stream.freetv.fun | <https://stream.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8> |
+| 158 | [BD]龙华日韩 | stream.freetv.fun | <https://stream.freetv.fun/54187f7b52bbb08407ce9894fa6e6b0ba632cdd0aeb29c91e9cb9efd129898ce.ctv> |
+| 159 | [HD]龙华洋片 | stream.freetv.fun | <https://stream.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8> |
+| 160 | [HD]龙华经典 | stream.freetv.fun | <https://stream.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
+| 161 | [VGA]龙华电影 | stream.freetv.fun | <https://stream.freetv.fun/f529880bfbd0553bf3458aac75e287c2540c992956859a804409294e70c618f2.ctv> |
 
-Updated at **6/24/2024 8:51:50 AM**
+Updated at **6/24/2024 4:14:40 PM**
 
 ## 使用说明
 

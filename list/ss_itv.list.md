@@ -272,7 +272,7 @@
 | 264 | 金鹰卡通 | IPv4 直链 | <http://123.154.30.68:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 265 | 钱江 | IPv4 直链 | <http://123.154.30.68:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **6/24/2024 8:51:50 AM**
+Updated at **6/24/2024 4:14:40 PM**
 
 ## 使用说明
 
