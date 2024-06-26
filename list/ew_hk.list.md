@@ -22,7 +22,7 @@
 | 14 | [BD]surf now tv | stream.freetv.fun | <https://stream.freetv.fun/d05473213eccf4814f220641dbcf25abe94f124106c31eed62c4c51ee611342d.m3u8> |
 | 15 | [BD]pearl 明珠 | stream.freetv.fun | <https://stream.freetv.fun/7904fb8d43b605bd9fc4c14e29f4fb263b17e8d8bb35364871ec25d2814e594f.m3u8> |
 | 16 | [HD]rthktv31 | stream.freetv.fun | <https://stream.freetv.fun/7f10de0a444dfb58125efec7099f30e2d09bfd6cca13a50da342d32c1f5b7e02.ctv> |
-| 17 | [BD]rthk32 | stream.freetv.fun | <https://stream.freetv.fun/5f2f369a9803a7a2042899025a61af3ca1d0c95611bbb1ed406307634499a4ed.m3u8> |
+| 17 | [HD]rthktv32 | stream.freetv.fun | <https://stream.freetv.fun/0cabdd1fe545152a581fe7c05f3986c05463120b969c103f91276bd201393542.ctv> |
 | 18 | [HD]rthk34 | stream.freetv.fun | <https://stream.freetv.fun/fc2c2ef905744436e9fcf6986af6d8f332b0848071869b559109027daa846b52.m3u8> |
 | 19 | [HD]star (720p) | stream.freetv.fun | <https://stream.freetv.fun/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8> |
 | 20 | [BD]star sports 2 | stream.freetv.fun | <https://stream.freetv.fun/13cd18dfe986eebdc500e2f9aa09d73aac171bf4e47e01b874375f9d35f51dac.ctv> |
@@ -64,7 +64,7 @@
 | 56 | [SD]凤凰电影 | stream.freetv.fun | <https://stream.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.ctv> |
 | 57 | [BD]凤凰香港 | stream.freetv.fun | <https://stream.freetv.fun/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.m3u8> |
 
-Updated at **6/25/2024 8:50:42 AM**
+Updated at **6/25/2024 4:15:13 PM**
 
 ## 使用说明
 

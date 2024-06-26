@@ -25,7 +25,7 @@
 [VGA]rthk33,https://stream.freetv.fun/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
 [BD]hoy_tv,https://stream.freetv.fun/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.m3u8
 [BD]now新闻,https://stream.freetv.fun/435c471e9b9067599cfd295d1b7b3ad9e07efd67187635228cabb35c791d16c6.m3u8
-[BD]rthk32,https://stream.freetv.fun/5f2f369a9803a7a2042899025a61af3ca1d0c95611bbb1ed406307634499a4ed.m3u8
+[HD]rthktv32,https://stream.freetv.fun/0cabdd1fe545152a581fe7c05f3986c05463120b969c103f91276bd201393542.ctv
 [HD]rthk34,https://stream.freetv.fun/fc2c2ef905744436e9fcf6986af6d8f332b0848071869b559109027daa846b52.m3u8
 [HD]btv新闻,https://stream.freetv.fun/63f33d10fd62555349ee5f7f4d5359209d04933ec4128c0537f3d2999e7f4852.ctv
 [BD]tvbs新闻,https://stream.freetv.fun/3b03cc3526a567aa659a19056497b9e0b4ea1d3419f7eafcfab73b77b7c51332.ctv

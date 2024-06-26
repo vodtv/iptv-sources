@@ -29,7 +29,7 @@
 | 21 | [BD]eleven sports 3 | stream.freetv.fun | <https://stream.freetv.fun/ae44bb69fe3de6ce88639afd4634b97b235718f8e95193e3494bc97fc41f6c8f.ctv> |
 | 22 | [VGA]food | stream.freetv.fun | <https://stream.freetv.fun/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8> |
 | 23 | [HD]global trekker-cdn6 | stream.freetv.fun | <https://stream.freetv.fun/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8> |
-| 24 | [BD]young hollywood | stream.freetv.fun | <https://stream.freetv.fun/989eb94e870bd36822d0078cb3fa743a9295f65d00b4b471c365c3f5eab578e3.m3u8> |
+| 24 | [BD]young hollywood | stream.freetv.fun | <https://stream.freetv.fun/2623573622b9232eff66b6394bddba85eeaa306d9d7a162d421932d259d06a6c.m3u8> |
 | 25 | [BD]love nature 4k | stream.freetv.fun | <https://stream.freetv.fun/1311b212993c11b75e1f5ab66be6d7a2241b36ddce52a3d8dd046a9b057da66e.m3u8> |
 | 26 | [HD]momo 2 | stream.freetv.fun | <https://stream.freetv.fun/d1a436f5dd0dc5409129287f5d8015765531557b08c2528de3208835ac6469be.m3u8> |
 | 27 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
@@ -117,7 +117,7 @@
 | 109 | [VGA]东森综合 | stream.freetv.fun | <https://stream.freetv.fun/a589eb53537e74ab45f36cf830fc64c9d443389f798bcc9d25467044151ac17a.ctv> |
 | 110 | [VGA]东森美洲 | stream.freetv.fun | <https://stream.freetv.fun/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8> |
 | 111 | [BD]东森美洲卫视 | stream.freetv.fun | <https://stream.freetv.fun/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8> |
-| 112 | [BD]东森财经 | stream.freetv.fun | <https://stream.freetv.fun/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8> |
+| 112 | [HD]东森财经 | stream.freetv.fun | <https://stream.freetv.fun/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8> |
 | 113 | [BD]东森财经新闻 | stream.freetv.fun | <https://stream.freetv.fun/056f24b278e50a392a87b759f9ee54b1a7058b40a21498556036081b6994692d.ctv> |
 | 114 | [SD]东森超视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv331> |
 | 115 | [VGA]东森电影 | stream.freetv.fun | <https://stream.freetv.fun/a21417fa7dcac28e500826fa24e9162d0331a11a04d372e41e6631bc30094247.ctv> |
@@ -175,7 +175,7 @@
 | 167 | [HD]龙华经典 | stream.freetv.fun | <https://stream.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 168 | [VGA]龙华电影 | stream.freetv.fun | <https://stream.freetv.fun/f529880bfbd0553bf3458aac75e287c2540c992956859a804409294e70c618f2.ctv> |
 
-Updated at **6/25/2024 8:50:42 AM**
+Updated at **6/25/2024 4:15:13 PM**
 
 ## 使用说明
 
