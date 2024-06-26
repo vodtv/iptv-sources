@@ -25,7 +25,7 @@
 | 17 | [BD]elta生活英语 | stream.freetv.fun | <https://stream.freetv.fun/e0a6683db4c17a756417fda95574b84b65d0017f7436f089ed80648090464c5c.ctv> |
 | 18 | [VGA]eye 旅游 | stream.freetv.fun | <https://stream.freetv.fun/5108e253f49ca6051e7774321ed2a5a4fd7675c5bfa9e5d970be903cd491b084.ctv> |
 | 19 | [BD]eleven sports 1 pl | stream.freetv.fun | <https://stream.freetv.fun/0cd7da9871e44f56495cd1459d1fbabc2cd969cbff464543dc8bfe00f329033d.ctv> |
-| 20 | [VGA]eleven sports 2 pl | stream.freetv.fun | <https://stream.freetv.fun/2b642c5a32dbee3c901aa7bea373b1953d472a0bea38a3adc76077209cfbd37a.ctv> |
+| 20 | [BD]eleven sports 2 pl | stream.freetv.fun | <https://stream.freetv.fun/2b642c5a32dbee3c901aa7bea373b1953d472a0bea38a3adc76077209cfbd37a.ctv> |
 | 21 | [BD]eleven sports 3 | stream.freetv.fun | <https://stream.freetv.fun/ae44bb69fe3de6ce88639afd4634b97b235718f8e95193e3494bc97fc41f6c8f.ctv> |
 | 22 | [VGA]food | stream.freetv.fun | <https://stream.freetv.fun/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8> |
 | 23 | [HD]global trekker-cdn6 | stream.freetv.fun | <https://stream.freetv.fun/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8> |
@@ -149,7 +149,7 @@
 | 141 | [BD]台视新闻 | stream.freetv.fun | <https://stream.freetv.fun/3e712c7facb3dbae8eebf29e560978e03f3711827b09e8a4f2ae7f346673716f.ctv> |
 | 142 | [BD]台视财经 | stream.freetv.fun | <https://stream.freetv.fun/25291b672ddf485409f82c5cffb3dc50abc108d5d0f4eb47a155f99cd01c59c4.ctv> |
 | 143 | [VGA]华视 | stream.freetv.fun | <https://stream.freetv.fun/8088984761705ad7e18a4bf6e5f3aad74fa517630f23eabd084d52445041e796.ctv> |
-| 144 | [VGA]华视 新闻 | stream.freetv.fun | <https://stream.freetv.fun/42cf8d87ad50621eb924e3f43db93f08dacc310607c27db06cb9f2f2bc8f041e.m3u8> |
+| 144 | [BD]华视 新闻 | stream.freetv.fun | <https://stream.freetv.fun/42cf8d87ad50621eb924e3f43db93f08dacc310607c27db06cb9f2f2bc8f041e.m3u8> |
 | 145 | [BD]猪哥亮歌厅秀 | stream.freetv.fun | <https://stream.freetv.fun/1e9dbbeb25217efb00af70c058330a738b529f8ef5a5505ed41fb7a9a85a85bb.ctv> |
 | 146 | [BD]采昌影剧 | stream.freetv.fun | <https://stream.freetv.fun/74bd2635f43c9efb719d0be31eaf30783381d127199369370664108a7c147d84.ctv> |
 | 147 | [BD]镜新闻 | stream.freetv.fun | <https://stream.freetv.fun/2dc74e361ad72612c80e55680bb6ae1a98d93897b2d447e10ad03d2ef883219d.m3u8> |
@@ -175,7 +175,7 @@
 | 167 | [HD]龙华经典 | stream.freetv.fun | <https://stream.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 168 | [VGA]龙华电影 | stream.freetv.fun | <https://stream.freetv.fun/f529880bfbd0553bf3458aac75e287c2540c992956859a804409294e70c618f2.ctv> |
 
-Updated at **6/25/2024 4:15:13 PM**
+Updated at **6/26/2024 8:50:26 AM**
 
 ## 使用说明
 
