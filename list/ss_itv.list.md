@@ -337,7 +337,7 @@
 | 329 | 金鹰卡通 | IPv4 直链 | <http://223.159.9.212:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 330 | 金鹰纪实 | IPv4 直链 | <http://223.159.9.212:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **6/26/2024 8:50:26 AM**
+Updated at **6/26/2024 4:14:35 PM**
 
 ## 使用说明
 

@@ -56,12 +56,12 @@
 | 48 | [SD]香港卫视 | stream.freetv.fun | <https://stream.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv> |
 | 49 | [SD]香港电台(34) | stream.freetv.fun | <https://stream.freetv.fun/fff47f95d4dac240120edd29a384c302d30f12642b79e96eab61e8449641f6db.m3u8> |
 | 50 | [HD]凤凰卫视 | stream.freetv.fun | <https://stream.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.m3u8> |
-| 51 | [BD]凤凰中文 | stream.freetv.fun | <https://stream.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8> |
+| 51 | [BD]凤凰中文 | stream.freetv.fun | <https://stream.freetv.fun/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.ctv> |
 | 52 | [BD]凤凰资讯 | stream.freetv.fun | <https://stream.freetv.fun/03b8b50959f71c9480228564b4fedbe3cd0927a427d0bc903059a5843cb7c4b6.ctv> |
 | 53 | [SD]凤凰电影 | stream.freetv.fun | <https://stream.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.ctv> |
 | 54 | [BD]凤凰香港 | stream.freetv.fun | <https://stream.freetv.fun/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.m3u8> |
 
-Updated at **6/26/2024 8:50:26 AM**
+Updated at **6/26/2024 4:14:35 PM**
 
 ## 使用说明
 

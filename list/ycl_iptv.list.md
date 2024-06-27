@@ -157,7 +157,7 @@
 | 149 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
 | 150 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
 
-Updated at **6/26/2024 8:50:26 AM**
+Updated at **6/26/2024 4:14:35 PM**
 
 ## 使用说明
 
