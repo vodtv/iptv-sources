@@ -34,7 +34,7 @@
 [HD]无线财经,rtmp://twcdn.top/sat/hk031
 [SD]环球电视,https://stream.freetv.fun/8884871c3db7be5caf8d6dc44cfe4909e921ffffc77be1d1b7b2eeec0cbdedbb.m3u8
 [HD]香港有线新闻,https://stream.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
-[BD]凤凰资讯,https://stream.freetv.fun/03b8b50959f71c9480228564b4fedbe3cd0927a427d0bc903059a5843cb7c4b6.ctv
+[BD]凤凰资讯,https://stream.freetv.fun/dfb226a17fb306cc8882209213987bda586dce57054d4f4f0d02a8815f8a5ca1.ctv
 
 知识,#genre#
 [HD]discovery_kids,https://stream.freetv.fun/d78d2807e3d6bb3c4add508a0f548df4bc97dee52811b0fe260dac57c2330224.m3u8

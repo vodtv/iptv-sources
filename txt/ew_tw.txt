@@ -37,6 +37,7 @@
 [SD]经典电影,https://stream.freetv.fun/a8fb7adb8dbbc9bb8251b6dca1f06bde4a42896fc3c871353438d667450360b1.ctv
 [VGA]纬来戏剧,https://stream.freetv.fun/d30be4d442e5bc73477a066e6711128063cc890ba1242c65a15cdd624db4c205.ctv
 [VGA]纬来电影,https://stream.freetv.fun/f9f7163d9269e34ab3952e30ac6b501b71e4ea073bdcc8e2c0a2749f951bc35f.ctv
+[BD]美亚电影,https://stream.freetv.fun/364ab897bc6f681e9a63a87348e5234e25e3582b43777c2f449bd4081b94f578.ctv
 [BD]采昌影剧,https://stream.freetv.fun/74bd2635f43c9efb719d0be31eaf30783381d127199369370664108a7c147d84.ctv
 [VGA]靖天戏剧,https://stream.freetv.fun/a4443365cf8e8a960315ea90dee7c23c7cf9a60b30793404311ec6955ac5e199.ctv
 [HD]靖天日本,https://stream.freetv.fun/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.ctv
@@ -158,7 +159,7 @@
 [HD]global_trekker-cdn6,https://stream.freetv.fun/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8
 [BD]love_nature_4k,https://stream.freetv.fun/1311b212993c11b75e1f5ab66be6d7a2241b36ddce52a3d8dd046a9b057da66e.m3u8
 [SD]natgeo_japan,https://stream.freetv.fun/d46e743c8a4b7a0251c7df036f0969c69258d6277c9b661c410762fd7a923791.m3u8
-[SD]smithsonian_channel_selects,https://stream.freetv.fun/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
+[HD]smithsonian_channel_selects,https://stream.freetv.fun/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 
 新闻,#genre#
 [BD]tvbsnews,https://stream.freetv.fun/cb543d68699e7a207dfa24e617f1a3a702eb09e2cfefcb732636ca4720162c0d.ctv

@@ -37,7 +37,7 @@
 [BD]大庆新闻,https://stream.freetv.fun/3f2d138ab8e4e53dea4cd5592a88b5c4b703c7de6b73a385bbee713b7adffbb9.m3u8
 [SD]宁夏卫视,https://stream.freetv.fun/cc16a0fe49219a8e892e4ac0a89d626d09f0c5af7cd94198648427aca9719943.m3u8
 [SD]山东教育,https://stream.freetv.fun/6b4df81fb3b96045e51300af38766d1edfdfbdb72082ff6c5233afbff144c78e.m3u8
-[BD]文物宝库,https://stream.freetv.fun/499ee76d5b019bd5420fbca477643aa01975ae2b9497701fe809c47fe224af68.m3u8
+[BD]文物宝库,https://stream.freetv.fun/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8
 [BD]梨园,https://stream.freetv.fun/e90cab44095472c9412d840373126442dbe0046611198fcf3ee3761b82660ef3.m3u8
 [BD]武术世界,https://stream.freetv.fun/3b602b9a463136db096066c04bdfbac7f6bad519f824fdda60b2028c8d277950.m3u8
 [BD]湖北垄上,https://stream.freetv.fun/09e9c02f9cb812a4f4ccd37ba4c1e42816c9c30f1a93c73bbb72170b80860b10.m3u8

@@ -111,7 +111,7 @@
 | 103 | [SD]延边卫视 | stream.freetv.fun | <https://stream.freetv.fun/2abb7c7b1f1e080daba8f7e8256e96cbea4dc3a2919beccbdf008d81899b92ce.m3u8> |
 | 104 | [BD]快乐垂钓 | stream.freetv.fun | <https://stream.freetv.fun/2c44d3bd5e3f2fcaa1655cac5b825a7e216179de2461432d070041d687913724.m3u8> |
 | 105 | [BD]爱上4k | stream.freetv.fun | <https://stream.freetv.fun/c9bf04e77e3dc9ab083f0f7236b91ab766b0427ddf29332e08427ea39c7e8b7f.m3u8> |
-| 106 | [BD]文物宝库 | stream.freetv.fun | <https://stream.freetv.fun/499ee76d5b019bd5420fbca477643aa01975ae2b9497701fe809c47fe224af68.m3u8> |
+| 106 | [BD]文物宝库 | stream.freetv.fun | <https://stream.freetv.fun/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8> |
 | 107 | [SD]新疆卫视 | stream.freetv.fun | <https://stream.freetv.fun/788702ed504aeda3322f8db5973d9fc056ede56e02560b365a5cc69efc07874a.m3u8> |
 | 108 | [BD]东南卫视 | stream.freetv.fun | <https://stream.freetv.fun/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8> |
 | 109 | [BD]东方卫视 | stream.freetv.fun | <https://stream.freetv.fun/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8> |
@@ -195,7 +195,7 @@
 | 187 | [BD]黑龙江卫视 | stream.freetv.fun | <https://stream.freetv.fun/7cefa430ea379ed99bf773cc85493f267d593977315add85fc376105d3846981.m3u8> |
 | 188 | [BD]黑龙江都市 | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **6/27/2024 8:50:56 AM**
+Updated at **6/27/2024 4:14:13 PM**
 
 ## 使用说明
 
