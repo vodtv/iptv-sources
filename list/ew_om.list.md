@@ -6,16 +6,16 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [BD]澳视葡文canalmacau | stream.freetv.fun | <https://stream.freetv.fun/b57ec6767b59bfdc04be03a00fe483a271362e631f24675b2b57c0f54097b041.ctv> |
-| 2 | [VGA]澳亚卫视 | stream.freetv.fun | <https://stream.freetv.fun/082af507aedc8c88594eb285377c2220e6b116e8e754e098e0ea9f764be2f886.m3u8> |
-| 3 | [BD]澳视澳门 | stream.freetv.fun | <https://stream.freetv.fun/56e911076120ba8a4639f7446c639591da9423eba3a14212acc42648d2bfb473.m3u8> |
-| 4 | [HD]澳门综艺 | stream.freetv.fun | <https://stream.freetv.fun/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8> |
-| 5 | [HD]澳视葡文 | stream.freetv.fun | <https://stream.freetv.fun/230d718383bedd8c9757fbfe8589a51c9ecf4131fbfb7a22f462ddf17fa1435e.m3u8> |
-| 6 | [HD]ช่อง 澳视体育 | stream.freetv.fun | <https://stream.freetv.fun/c1874db48a22a08dceee28ef41e671c56a7fedc6e5d285434acb468ec8e63874.m3u8> |
-| 7 | [BD]澳门macau | stream.freetv.fun | <https://stream.freetv.fun/56213859f6466dfd2be0aaa613be54e8476f292b08e23ded06de089a366481d0.m3u8> |
-| 8 | [HD]澳门资讯 | stream.freetv.fun | <https://stream.freetv.fun/df07814fabb1663ac92b3f84ece74ca5a524a5a3a6af19435ff064633fa59197.m3u8> |
+| 1 | [BD]澳视葡文canalmacau | stream1.freetv.fun | <https://stream1.freetv.fun/b57ec6767b59bfdc04be03a00fe483a271362e631f24675b2b57c0f54097b041.ctv> |
+| 2 | [VGA]澳亚卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/082af507aedc8c88594eb285377c2220e6b116e8e754e098e0ea9f764be2f886.m3u8> |
+| 3 | [BD]澳视澳门 | stream1.freetv.fun | <https://stream1.freetv.fun/56e911076120ba8a4639f7446c639591da9423eba3a14212acc42648d2bfb473.m3u8> |
+| 4 | [HD]澳门综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8> |
+| 5 | [HD]澳视葡文 | stream1.freetv.fun | <https://stream1.freetv.fun/230d718383bedd8c9757fbfe8589a51c9ecf4131fbfb7a22f462ddf17fa1435e.m3u8> |
+| 6 | [HD]ช่อง 澳视体育 | stream1.freetv.fun | <https://stream1.freetv.fun/c1874db48a22a08dceee28ef41e671c56a7fedc6e5d285434acb468ec8e63874.m3u8> |
+| 7 | [BD]澳门macau | stream1.freetv.fun | <https://stream1.freetv.fun/56213859f6466dfd2be0aaa613be54e8476f292b08e23ded06de089a366481d0.m3u8> |
+| 8 | [HD]澳门资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/df07814fabb1663ac92b3f84ece74ca5a524a5a3a6af19435ff064633fa59197.m3u8> |
 
-Updated at **6/28/2024 4:13:58 PM**
+Updated at **6/29/2024 8:49:48 AM**
 
 ## 使用说明
 
