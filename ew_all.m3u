@@ -137,6 +137,8 @@ https://stream.freetv.fun/b6e98019fd687d467b5676a034e2731459d9dfad493bfef11b48d2
 https://stream.freetv.fun/2d3ba75af9e64a07aa4afac0425853a3af1ec9be79ee2f973a5722c76f6b4839.m3u8
 #EXTINF:-1 tvg-name="上海都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827123637693874_80.png" group-title="综合",[BD]上海都市
 https://stream.freetv.fun/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8
+#EXTINF:-1 tvg-name="中国天气" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113230902027248_96.png" group-title="新闻",[SD]中国天气
+https://stream.freetv.fun/1abcb39d0d4b1323093711a4a584fc8d66d02271f997b5ebb83e3c80ae27906c.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510150751993281_49.jpg" group-title="运动",[BD]五星体育
 https://stream.freetv.fun/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225428953453_32.jpg" group-title="儿童",[SD]优漫卡通

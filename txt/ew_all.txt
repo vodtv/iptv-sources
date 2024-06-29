@@ -8,6 +8,7 @@
 [BD]cgtn,https://stream.freetv.fun/adbb9c7d93cfce44bcdb1240d8e67a7638ae0a74e6dbe3a8024b0af2e87ea474.m3u8
 [SD]cetv-4,https://stream.freetv.fun/2c08cc2820f1f0a8531e0e44552024f9973a573255c7b5d2561aa80349eff9f9.m3u8
 [BD]上海新闻,https://stream.freetv.fun/4ea02af0c45ed12a4f2ec70081a02250d7e9cd39a0b4b14a9f48ccd276224c22.m3u8
+[SD]中国天气,https://stream.freetv.fun/1abcb39d0d4b1323093711a4a584fc8d66d02271f997b5ebb83e3c80ae27906c.m3u8
 [BD]哈尔滨新闻,https://stream.freetv.fun/36c0c41e0c8d9a07011125cdb56c574fed12d8ba0a19fcd955f4c0499e05d703.m3u8
 [BD]东方财经,https://stream.freetv.fun/48ab4fd132022b4a2a80f0bb96954a47062575c99c6888a136e6c456eba64387.m3u8
 [BD]海南新闻,https://stream.freetv.fun/8b98df967ed168dec0a6ccaa4e186dc27c2ffb698be5ef9c00bf6a5c30345a02.m3u8
