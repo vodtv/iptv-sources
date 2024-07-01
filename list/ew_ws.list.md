@@ -41,7 +41,11 @@
 | 33 | [BD]青海卫视 | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv> |
 | 34 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
 
-Updated at **7/1/2024 8:56:37 AM**
+<<<<<<< HEAD
+Updated at **2024/7/1 20:39:03**
+=======
+Updated at **7/1/2024 4:15:07 PM**
+>>>>>>> 9b3c98c2883d3d14971d2b64d698192d09cc9a32
 
 ## 使用说明
 
