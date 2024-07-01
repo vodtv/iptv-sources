@@ -32,11 +32,6 @@
 | HBv6 | [hbv6.m3u](./hbv6.m3u ) <br> [hbv6.txt](./txt/hbv6.txt ) | [List for HBv6](./list/hbv6.list ) | 33 | - |
 | joevess/IPTV home | [j_home.m3u](./j_home.m3u ) <br> [j_home.txt](./txt/j_home.txt ) | [List for joevess/IPTV home](./list/j_home.list ) | 50 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](./j_iptv.m3u ) <br> [j_iptv.txt](./txt/j_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_iptv.list ) | 456 | - |
-<<<<<<< HEAD
-| joevess/IPTV sources | [j_home_sources.m3u](./j_home_sources.m3u ) <br> [j_home_sources.txt](./txt/j_home_sources.txt ) | [List for joevess/IPTV sources](./list/j_home_sources.list ) | 90 | - |
-| joevess/IPTV iptv | [j_iptv_sources.m3u](./j_iptv_sources.m3u ) <br> [j_iptv_sources.txt](./txt/j_iptv_sources.txt ) | [List for joevess/IPTV iptv](./list/j_iptv_sources.list ) | 568 | - |
-=======
->>>>>>> 9b3c98c2883d3d14971d2b64d698192d09cc9a32
 | iptv.org China | [o_cn.m3u](./o_cn.m3u ) <br> [o_cn.txt](./txt/o_cn.txt ) | [List for iptv.org China](./list/o_cn.list ) | 530 | - |
 | iptv.org stream China | [o_s_cn.m3u](./o_s_cn.m3u ) <br> [o_s_cn.txt](./txt/o_s_cn.txt ) | [List for iptv.org stream China](./list/o_s_cn.list ) | 495 | - |
 | iptv.org stream China 112114 | [o_s_cn_112114.m3u](./o_s_cn_112114.m3u ) <br> [o_s_cn_112114.txt](./txt/o_s_cn_112114.txt ) | [List for iptv.org stream China 112114](./list/o_s_cn_112114.list ) | 18 | - |
@@ -57,11 +52,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 435 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 85 | - |
 
-<<<<<<< HEAD
- > Updated at **2024/7/1 20:39:03**
-=======
- > Updated at **7/1/2024 4:15:07 PM**
->>>>>>> 9b3c98c2883d3d14971d2b64d698192d09cc9a32
+ > Updated at **7/1/2024 8:56:37 AM**
 
 ## 📚 EPG 节目单
 
@@ -72,11 +63,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
-<<<<<<< HEAD
- > Updated at **2024/7/1 20:39:03**
-=======
- > Updated at **7/1/2024 4:15:07 PM**
->>>>>>> 9b3c98c2883d3d14971d2b64d698192d09cc9a32
+ > Updated at **7/1/2024 8:56:37 AM**
 
 ## 🚀Github 文件加速
 
