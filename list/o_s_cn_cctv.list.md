@@ -21,11 +21,7 @@
 | 13 | CCTV-10科教 (1080p) | 欧乐影院 | <https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8> |
 | 14 | CCTV-13新闻 (1080p) | CCTV | <https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8> |
 
-<<<<<<< HEAD
-Updated at **2024/7/1 23:15:23**
-=======
-Updated at **7/1/2024 9:03:05 PM**
->>>>>>> ebcc6ed73ccff6f130e2d3197cd3720871bff7ef
+Updated at **2024/7/2 00:13:14**
 
 ## 使用说明
 

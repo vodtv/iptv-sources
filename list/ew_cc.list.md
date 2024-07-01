@@ -15,11 +15,7 @@
 | 7 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
 | 8 | [BD]风云足球[ipv6] | epg.pw | <https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8> |
 
-<<<<<<< HEAD
-Updated at **2024/7/1 23:15:23**
-=======
-Updated at **7/1/2024 9:03:05 PM**
->>>>>>> ebcc6ed73ccff6f130e2d3197cd3720871bff7ef
+Updated at **2024/7/2 00:13:14**
 
 ## 使用说明
 
