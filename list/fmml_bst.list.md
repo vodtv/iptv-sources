@@ -131,7 +131,11 @@
 | 123 | 百视通体育6 | pi.0472.org | <https://pi.0472.org/hls/sport6.m3u8> |
 | 124 | 百视通体育7 | pi.0472.org | <https://pi.0472.org/hls/sport7.m3u8> |
 
-Updated at **7/1/2024 8:56:37 AM**
+<<<<<<< HEAD
+Updated at **2024/7/1 23:15:23**
+=======
+Updated at **7/1/2024 9:03:05 PM**
+>>>>>>> ebcc6ed73ccff6f130e2d3197cd3720871bff7ef
 
 ## 使用说明
 

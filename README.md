@@ -32,6 +32,8 @@
 | HBv6 | [hbv6.m3u](./hbv6.m3u ) <br> [hbv6.txt](./txt/hbv6.txt ) | [List for HBv6](./list/hbv6.list ) | 33 | - |
 | joevess/IPTV home | [j_home.m3u](./j_home.m3u ) <br> [j_home.txt](./txt/j_home.txt ) | [List for joevess/IPTV home](./list/j_home.list ) | 50 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](./j_iptv.m3u ) <br> [j_iptv.txt](./txt/j_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_iptv.list ) | 456 | - |
+| joevess/IPTV sources | [j_home_sources.m3u](./j_home_sources.m3u ) <br> [j_home_sources.txt](./txt/j_home_sources.txt ) | [List for joevess/IPTV sources](./list/j_home_sources.list ) | 90 | - |
+| joevess/IPTV iptv | [j_iptv_sources.m3u](./j_iptv_sources.m3u ) <br> [j_iptv_sources.txt](./txt/j_iptv_sources.txt ) | [List for joevess/IPTV iptv](./list/j_iptv_sources.list ) | 568 | - |
 | iptv.org China | [o_cn.m3u](./o_cn.m3u ) <br> [o_cn.txt](./txt/o_cn.txt ) | [List for iptv.org China](./list/o_cn.list ) | 530 | - |
 | iptv.org stream China | [o_s_cn.m3u](./o_s_cn.m3u ) <br> [o_s_cn.txt](./txt/o_s_cn.txt ) | [List for iptv.org stream China](./list/o_s_cn.list ) | 495 | - |
 | iptv.org stream China 112114 | [o_s_cn_112114.m3u](./o_s_cn_112114.m3u ) <br> [o_s_cn_112114.txt](./txt/o_s_cn_112114.txt ) | [List for iptv.org stream China 112114](./list/o_s_cn_112114.list ) | 18 | - |
@@ -50,9 +52,13 @@
 | 北京移动 单播列表 | [q_bj_iptv_mobile.m3u](./q_bj_iptv_mobile.m3u ) <br> [q_bj_iptv_mobile.txt](./txt/q_bj_iptv_mobile.txt ) | [List for 北京移动 单播列表](./list/q_bj_iptv_mobile.list ) | 154 | - |
 | 北京移动 组播列表 | [q_bj_iptv_mobile_m.m3u](./q_bj_iptv_mobile_m.m3u ) <br> [q_bj_iptv_mobile_m.txt](./txt/q_bj_iptv_mobile_m.txt ) | [List for 北京移动 组播列表](./list/q_bj_iptv_mobile_m.list ) | 137 | - |
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 435 | - |
-| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 85 | - |
+| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 78 | - |
 
- > Updated at **7/1/2024 8:56:37 AM**
+<<<<<<< HEAD
+ > Updated at **2024/7/1 23:15:23**
+=======
+ > Updated at **7/1/2024 9:03:05 PM**
+>>>>>>> ebcc6ed73ccff6f130e2d3197cd3720871bff7ef
 
 ## 📚 EPG 节目单
 
@@ -63,7 +69,11 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **7/1/2024 8:56:37 AM**
+<<<<<<< HEAD
+ > Updated at **2024/7/1 23:15:23**
+=======
+ > Updated at **7/1/2024 9:03:05 PM**
+>>>>>>> ebcc6ed73ccff6f130e2d3197cd3720871bff7ef
 
 ## 🚀Github 文件加速
 
