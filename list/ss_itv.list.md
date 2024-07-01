@@ -375,7 +375,7 @@
 | 367 | 莆田综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23302_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 368 | 金鹰卡通 | IPv4 直链 | <http://111.225.112.48:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **6/30/2024 8:55:19 AM**
+Updated at **6/30/2024 4:13:15 PM**
 
 ## 使用说明
 
