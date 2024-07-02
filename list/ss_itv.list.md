@@ -442,7 +442,7 @@
 | 434 | 金鹰卡通 | IPv4 直链 | <http://106.46.114.199:8011/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 435 | 金鹰纪实 | IPv4 直链 | <http://121.19.134.225:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2024/7/2 00:13:14**
+Updated at **7/2/2024 12:14:56 AM**
 
 ## 使用说明
 

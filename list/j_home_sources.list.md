@@ -97,7 +97,7 @@
 | 89 | CETV4空中课堂频道 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv4/zjpd.m3u8> |
 | 90 | CETV4空中课堂频道 | IPv4 直链 | <http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8> |
 
-Updated at **2024/7/2 00:13:14**
+Updated at **7/2/2024 12:14:56 AM**
 
 ## 使用说明
 

@@ -164,7 +164,7 @@
 | 156 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 157 | [VGA]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f529880bfbd0553bf3458aac75e287c2540c992956859a804409294e70c618f2.ctv> |
 
-Updated at **2024/7/2 00:13:14**
+Updated at **7/2/2024 12:14:56 AM**
 
 ## 使用说明
 
