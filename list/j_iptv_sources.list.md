@@ -575,7 +575,7 @@
 | 567 | CGTN阿语 | CGTN | <https://livear.cgtn.com/500a/prog_index.m3u8> |
 | 568 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **7/2/2024 10:20:58 AM**
+Updated at **7/2/2024 4:14:12 PM**
 
 ## 使用说明
 
