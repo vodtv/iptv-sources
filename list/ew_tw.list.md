@@ -37,7 +37,7 @@
 | 29 | [BD]pet club tv | stream1.freetv.fun | <https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
 | 30 | [VGA]rock entertainment | stream1.freetv.fun | <https://stream1.freetv.fun/2e1e11d520001bc70ceec9d1015b1764eff6257ead0a05de05b2c0e4de3e7ee6.ctv> |
 | 31 | [HD]smithsonian channel selects | stream1.freetv.fun | <https://stream1.freetv.fun/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
-| 32 | [BD]movies | stream1.freetv.fun | <https://stream1.freetv.fun/28aa0dbf69820206bc3a26a5cf80a7f8987c491f6a6618006ddb098a3b603153.ctv> |
+| 32 | [HD]movies | stream1.freetv.fun | <https://stream1.freetv.fun/28aa0dbf69820206bc3a26a5cf80a7f8987c491f6a6618006ddb098a3b603153.ctv> |
 | 33 | [SD]kttv3 | stream1.freetv.fun | <https://stream1.freetv.fun/cb51ce37e35060ae05fb6978c3c86595068860e8636418b75eebe99495307e43.ctv> |
 | 34 | [BD]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/8367c93681f2d6627b3575b8919e7df4a246630f0640fbf2ccb3f1aa0ff740a4.ctv> |
 | 35 | [HD]tvb asia | stream1.freetv.fun | <https://stream1.freetv.fun/acbf7b6df5efa5375146a7834b75458f69539cedf631f552494df59ce787ffcb.ctv> |
@@ -108,7 +108,7 @@
 | 100 | [BD]民视 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv051> |
 | 101 | [HD]民视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/5894b8838d821283efe476fc68f07338f39c2d48776be1326f3d378cc73aa9e0.m3u8> |
 | 102 | [BD]民视新闻 hd | stream1.freetv.fun | <https://stream1.freetv.fun/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8> |
-| 103 | [BD]民视台湾 | stream1.freetv.fun | <https://stream1.freetv.fun/2db80205d765ac831839666fd947344a1c3e891c4524beaf88022f9cd369af8a.ctv> |
+| 103 | [BD]民视台湾 | stream1.freetv.fun | <https://stream1.freetv.fun/6de6fc3073fd98a8f878df8d20a3bc89656f040bfec5801acaa1e8cd2e112cb8.m3u8> |
 | 104 | [BD]无线财经资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/2ab8f2fdd823357655f7c671dc9683df3105eb8e908eca6728c3994cb37da1e1.ctv> |
 | 105 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/b399ca0e9a6cda833d86d80ddd3423a9246b120ce63e0ce8c86fb2296f97b058.m3u8> |
 | 106 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
@@ -141,7 +141,7 @@
 | 133 | [HD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8> |
 | 134 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 
-Updated at **7/3/2024 4:14:20 PM**
+Updated at **7/4/2024 8:51:05 AM**
 
 ## 使用说明
 
