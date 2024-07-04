@@ -434,7 +434,7 @@
 | 426 | 风云足球 | IPv4 直链 | <http://123.189.36.39:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 427 | 黑龙江 | IPv4 直链 | <http://123.189.36.39:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **7/3/2024 8:50:52 AM**
+Updated at **7/3/2024 4:14:20 PM**
 
 ## 使用说明
 
