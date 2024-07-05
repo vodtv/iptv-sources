@@ -381,7 +381,7 @@
 | 373 | 金鹰纪实 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 374 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **7/4/2024 8:51:05 AM**
+Updated at **7/4/2024 4:14:33 PM**
 
 ## 使用说明
 
