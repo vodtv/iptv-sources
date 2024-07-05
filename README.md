@@ -41,32 +41,11 @@
 | iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](./o_s_cn_cgtn.m3u ) <br> [o_s_cn_cgtn.txt](./txt/o_s_cn_cgtn.txt ) | [List for iptv.org stream China CGTN](./list/o_s_cn_cgtn.list ) | 6 | - |
 | epg.pw 央视 | [ew_cc.m3u](./ew_cc.m3u ) <br> [ew_cc.txt](./txt/ew_cc.txt ) | [List for epg.pw 央视](./list/ew_cc.list ) | 8 | - |
 | epg.pw 卫视 | [ew_ws.m3u](./ew_ws.m3u ) <br> [ew_ws.txt](./txt/ew_ws.txt ) | [List for epg.pw 卫视](./list/ew_ws.list ) | 34 | - |
-<<<<<<< HEAD
 | epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 640 | - |
 | epg.pw 香港 | [ew_hk.m3u](./ew_hk.m3u ) <br> [ew_hk.txt](./txt/ew_hk.txt ) | [List for epg.pw 香港](./list/ew_hk.list ) | 57 | - |
 | epg.pw 澳門 | [ew_om.m3u](./ew_om.m3u ) <br> [ew_om.txt](./txt/ew_om.txt ) | [List for epg.pw 澳門](./list/ew_om.list ) | 7 | - |
 | epg.pw 台灣 | [ew_tw.m3u](./ew_tw.m3u ) <br> [ew_tw.txt](./txt/ew_tw.txt ) | [List for epg.pw 台灣](./list/ew_tw.list ) | 132 | - |
-| epg.pw 全部 | [ew_all.m3u](./ew_all.m3u ) <br> [ew_all.txt](./txt/ew_all.txt ) | [List for epg.pw 全部](./list/ew_all.list ) | 2736 | - |
-| epg.pw ipv6 | [ew_all.m3u](./ew_all.m3u ) <br> [ew_all.txt](./txt/ew_all.txt ) | [List for epg.pw ipv6](./list/ew_all.list ) | 194 | - |
-| 北京联通 单播列表 | [q_bj_iptv_unicom.m3u](./q_bj_iptv_unicom.m3u ) <br> [q_bj_iptv_unicom.txt](./txt/q_bj_iptv_unicom.txt ) | [List for 北京联通 单播列表](./list/q_bj_iptv_unicom.list ) | 139 | ✅ |
-| 北京联通 组播列表 | [q_bj_iptv_unicom_m.m3u](./q_bj_iptv_unicom_m.m3u ) <br> [q_bj_iptv_unicom_m.txt](./txt/q_bj_iptv_unicom_m.txt ) | [List for 北京联通 组播列表](./list/q_bj_iptv_unicom_m.list ) | 139 | ✅ |
-| 北京移动 单播列表 | [q_bj_iptv_mobile.m3u](./q_bj_iptv_mobile.m3u ) <br> [q_bj_iptv_mobile.txt](./txt/q_bj_iptv_mobile.txt ) | [List for 北京移动 单播列表](./list/q_bj_iptv_mobile.list ) | 154 | ✅ |
-| 北京移动 组播列表 | [q_bj_iptv_mobile_m.m3u](./q_bj_iptv_mobile_m.m3u ) <br> [q_bj_iptv_mobile_m.txt](./txt/q_bj_iptv_mobile_m.txt ) | [List for 北京移动 组播列表](./list/q_bj_iptv_mobile_m.list ) | 137 | ✅ |
-| 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 435 | ✅ |
-| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 78 | ✅ |
-
- > Updated at **2024/7/5 21:48:47**
-
-## 📚 EPG 节目单
-
-| epg | url | isRollback |
-| --- | --- | ---------- |
-=======
-| epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 637 | - |
-| epg.pw 香港 | [ew_hk.m3u](./ew_hk.m3u ) <br> [ew_hk.txt](./txt/ew_hk.txt ) | [List for epg.pw 香港](./list/ew_hk.list ) | 56 | - |
-| epg.pw 澳門 | [ew_om.m3u](./ew_om.m3u ) <br> [ew_om.txt](./txt/ew_om.txt ) | [List for epg.pw 澳門](./list/ew_om.list ) | 7 | - |
-| epg.pw 台灣 | [ew_tw.m3u](./ew_tw.m3u ) <br> [ew_tw.txt](./txt/ew_tw.txt ) | [List for epg.pw 台灣](./list/ew_tw.list ) | 132 | - |
-| epg.pw 全部 | [ew_all.m3u](./ew_all.m3u ) <br> [ew_all.txt](./txt/ew_all.txt ) | [List for epg.pw 全部](./list/ew_all.list ) | 2733 | - |
+| epg.pw 全部 | [ew_all.m3u](./ew_all.m3u ) <br> [ew_all.txt](./txt/ew_all.txt ) | [List for epg.pw 全部](./list/ew_all.list ) | 2737 | - |
 | epg.pw ipv6 | [ew_all.m3u](./ew_all.m3u ) <br> [ew_all.txt](./txt/ew_all.txt ) | [List for epg.pw ipv6](./list/ew_all.list ) | 194 | - |
 | 北京联通 单播列表 | [q_bj_iptv_unicom.m3u](./q_bj_iptv_unicom.m3u ) <br> [q_bj_iptv_unicom.txt](./txt/q_bj_iptv_unicom.txt ) | [List for 北京联通 单播列表](./list/q_bj_iptv_unicom.list ) | 138 | - |
 | 北京联通 组播列表 | [q_bj_iptv_unicom_m.m3u](./q_bj_iptv_unicom_m.m3u ) <br> [q_bj_iptv_unicom_m.txt](./txt/q_bj_iptv_unicom_m.txt ) | [List for 北京联通 组播列表](./list/q_bj_iptv_unicom_m.list ) | 138 | - |
@@ -75,20 +54,18 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 452 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 86 | - |
 
- > Updated at **7/5/2024 4:13:54 PM**
+ > Updated at **7/5/2024 10:08:50 PM**
 
 ## 📚 EPG 节目单
 
 | epg | url | isRollback |
 | --- | --- | ---------- |
->>>>>>> 34bd71a98925f2ff2d50bf6fedc08132bbeea0c8
 | EPG接口1 | [fmml.xml](./epg/fmml.xml ) | - |
 | EPG接口2 | [51zmt.xml](./epg/51zmt.xml ) | - |
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
-<<<<<<< HEAD
- > Updated at **2024/7/5 21:48:47**
+ > Updated at **7/5/2024 10:08:50 PM**
 
 ## 🚀Github 文件加速
 
@@ -168,85 +145,3 @@ https://gist.gitmirror.com/dimitardanailov/6acdd54ab67d5a25c0229b2fe5bbb42b/raw/
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 您可以 Fork 本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
 - 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
-=======
- > Updated at **7/5/2024 4:13:54 PM**
-
-## 🚀Github 文件加速
-
-> 加速下载 Github Release、Archive 等文件。
-
-- Github 文件加速
-
-| #   | 选择线路                          | 使用方式                                  | 举例说明                                                                                           |
-| --- | --------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 1   | gh.con.sh                         | 在源网址前加上 https://gh.con.sh/         | https://gh.con.sh/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt         |
-| 3   | {hub,cdn}.gitmirror.com           | 在源网址前加上 https://hub.gitmirror.com/ | https://hub.gitmirror.com/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt |
-| 4   | ghproxy.net && mirror.ghproxy.com | 在源网址前加上 https://ghproxy.com/       | https://ghproxy.com/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt       |
-| 5   | {fastly,cdn,gcore}.jsdelivr.net   | 源域名替换为 https://cdn.jsdelivr.net/gh/ | https://cdn.jsdelivr.net/gh/vodtv/iptv-sources@gh-pages/txt/cn.txt                                 |
-| 6   | {cf}.ghproxy.cc                   | 在源网址前加上 https://ghproxy.com/       | https://ghproxy.com/https://raw.githubusercontent.com/vodtv/iptv-sources/gh-pages/txt/cn.txt       |
-
-- RAW 加速服务
-
-将原网址
-
-```
-raw.githubusercontent.com
-
-```
-
-替换为
-
-```
-raw.gitmirror.com
-
-```
-
-即可，例如：
-
-```
-https://raw.gitmirror.com/vodtv/iptv-sources/gh-pages/txt/cn.txt
-
-```
-
-- Gist 加速服务
-
-将原网址
-
-```
-gist.githubusercontent.com
-
-```
-
-替换为
-
-```
-gist.gitmirror.com
-
-```
-
-即可，例如：
-
-```
-https://gist.gitmirror.com/dimitardanailov/6acdd54ab67d5a25c0229b2fe5bbb42b/raw/397f0873922a6aa48895074cc28d7f71c8261b81/create_user.sh
-
-```
-
-## ℹ️ 资源出处:
-
-- <https://epg.pw/test_channel_page.html>
-- <https://github.com/iptv-org/iptv>
-- <https://github.com/YueChan/Live>
-- <https://github.com/YanG-1989/m3u>
-- <https://github.com/fanmingming/live>
-- <https://github.com/qwerttvv/Beijing-IPTV>
-- <https://github.com/joevess/IPTV>
-
-## 💡 免责申明
-
-- 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
-- 通过 M3U8 Web Player 测试直播源需使用 https 协议的直播源链接。
-- 部分广播电台节目播出具有一定的时效性，需要在指定时段进行收听。
-- 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
-- 您可以 Fork 本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
-- 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
->>>>>>> 34bd71a98925f2ff2d50bf6fedc08132bbeea0c8

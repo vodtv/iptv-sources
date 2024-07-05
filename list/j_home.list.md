@@ -1,20 +1,11 @@
 # List for **joevess/IPTV home**
 
-<<<<<<< HEAD
 > M3U: [j_home.m3u](./j_home.m3u ), TXT: [j_home.txt](./txt/j_home.txt )
 
 ## 频道详情
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-=======
-> M3U: [j_home.m3u](./j_home.m3u ), TXT: [j_home.txt](./txt/j_home.txt )
-
-## 频道详情
-
-| No. | Channel Name | From | Source |
-| --- | ------------ | ---- | ------ |
->>>>>>> 34bd71a98925f2ff2d50bf6fedc08132bbeea0c8
 | 1 | CCTV-1综合 | event.pull.hebtv.com | <https://event.pull.hebtv.com/jishi/cp3.m3u8> |
 | 2 | CCTV-2财经 | liveop.cctv.cn | <http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8> |
 | 3 | CCTV-6电影 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8> |
@@ -40,8 +31,7 @@
 | 23 | CETV3中国教育电视台三套 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv3/bjdm.m3u8> |
 | 24 | CETV4空中课堂频道 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv4/zjpd.m3u8> |
 
-<<<<<<< HEAD
-Updated at **2024/7/5 21:48:47**
+Updated at **7/5/2024 10:08:50 PM**
 
 ## 使用说明
 
@@ -52,16 +42,3 @@ Updated at **2024/7/5 21:48:47**
 - 本站 IPTV 动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
 - 非常感谢您的大力支持和理解！
-=======
-Updated at **7/5/2024 4:13:54 PM**
-
-## 使用说明
-
-- 推荐适配派大星、DIYP 空壳等手机或 TV 软件安装.
-
-- 捐赠打赏地址 <https://viptv.work/about/support！>
-
-- 本站 IPTV 动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
-
-- 非常感谢您的大力支持和理解！
->>>>>>> 34bd71a98925f2ff2d50bf6fedc08132bbeea0c8
