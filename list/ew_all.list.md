@@ -99,7 +99,7 @@
 | 91 | [SD]天元围棋 | stream1.freetv.fun | <https://stream1.freetv.fun/261491c75aa14258ebee63125a4744938437f025ec776a172c9fa83859279ffd.m3u8> |
 | 92 | [BD]天津卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/f37f043d64a5cf5ce745d4b08ffc152f44296419a9bf05d27b8bb6f54177ad0c.m3u8> |
 | 93 | [SD]安多卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/089e83fa56489b878e760067ab179adc3c16258643ea8d55fc3318834fd8a3d3.m3u8> |
-| 94 | [BD]安徽｜卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/1331a01f16ecbf1c990cc60776b0fdf0ac95260928a04c1436a949a019afd1c6.m3u8> |
+| 94 | [BD]安徽｜卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/11d66fe718bc3c428293f5ca1c67cd120aa23172e604107f56e68febeb03a2d9.m3u8> |
 | 95 | [SD]宁夏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cc16a0fe49219a8e892e4ac0a89d626d09f0c5af7cd94198648427aca9719943.m3u8> |
 | 96 | [SD]山东教育 | stream1.freetv.fun | <https://stream1.freetv.fun/6b4df81fb3b96045e51300af38766d1edfdfbdb72082ff6c5233afbff144c78e.m3u8> |
 | 97 | [SD]山东教育卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/ce1ce7371c07a9ff6a9c6e79b0522ea52f7e8a8cfa3fa4646b3b1188a8b7168b.m3u8> |
@@ -201,7 +201,7 @@
 | 193 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/7cefa430ea379ed99bf773cc85493f267d593977315add85fc376105d3846981.m3u8> |
 | 194 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **7/4/2024 4:14:33 PM**
+Updated at **7/5/2024 8:50:36 AM**
 
 ## 使用说明
 

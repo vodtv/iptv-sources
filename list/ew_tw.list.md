@@ -28,8 +28,8 @@
 | 20 | [VGA]food | stream1.freetv.fun | <https://stream1.freetv.fun/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8> |
 | 21 | [HD]global trekker-cdn6 | stream1.freetv.fun | <https://stream1.freetv.fun/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8> |
 | 22 | [HD]hgtv | stream1.freetv.fun | <https://stream1.freetv.fun/1e08fadcdfc3fb29e62fdfa7e3d53fd4f6ac9ecf1f1c27103d8f009b4b315dff.ctv> |
-| 23 | [BD]ช่อง cm hollywood 10 | stream1.freetv.fun | <https://stream1.freetv.fun/2437a3a4b6e2f6deaed05f2d570c8cdf7d5b6d73ccf310da29a8a95a0bbbf2b8.ctv> |
-| 24 | [HD]jet综合 | stream1.freetv.fun | <https://stream1.freetv.fun/2ffe73e20426c456381b57767d2c80baaf8fb0c59d7dcfbdc03f3c9df3cac16f.m3u8> |
+| 23 | [BD]young hollywood | stream1.freetv.fun | <https://stream1.freetv.fun/2623573622b9232eff66b6394bddba85eeaa306d9d7a162d421932d259d06a6c.m3u8> |
+| 24 | [BD]jet综合 | stream1.freetv.fun | <https://stream1.freetv.fun/2ffe73e20426c456381b57767d2c80baaf8fb0c59d7dcfbdc03f3c9df3cac16f.m3u8> |
 | 25 | [HD]lifetime west | stream1.freetv.fun | <https://stream1.freetv.fun/c3cb9a0124def7ea782f76ba2cef112a7fe63b298505ef278002c007ad5c4e58.ctv> |
 | 26 | [HD]ช่อง love nature | stream1.freetv.fun | <https://stream1.freetv.fun/6ca8c06e4a447faa15af32dde46922f9a0d15c92ece338fd3daaf7c895f285f0.ctv> |
 | 27 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
@@ -39,7 +39,7 @@
 | 31 | [HD]smithsonian channel selects | stream1.freetv.fun | <https://stream1.freetv.fun/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
 | 32 | [HD]movies | stream1.freetv.fun | <https://stream1.freetv.fun/28aa0dbf69820206bc3a26a5cf80a7f8987c491f6a6618006ddb098a3b603153.ctv> |
 | 33 | [SD]kttv3 | stream1.freetv.fun | <https://stream1.freetv.fun/cb51ce37e35060ae05fb6978c3c86595068860e8636418b75eebe99495307e43.ctv> |
-| 34 | [BD]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/8367c93681f2d6627b3575b8919e7df4a246630f0640fbf2ccb3f1aa0ff740a4.ctv> |
+| 34 | [VGA]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/5ff69e6b2e5eea60dcf5154d7548e6180b5afa05f43fe358ab4084f11eaadf34.m3u8> |
 | 35 | [HD]tvb asia | stream1.freetv.fun | <https://stream1.freetv.fun/acbf7b6df5efa5375146a7834b75458f69539cedf631f552494df59ce787ffcb.ctv> |
 | 36 | [BD]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv> |
 | 37 | [BD]tvbs news 新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/e5ca85d0e8c58c48002e5a85f74f9ae1a273ab97763cf26a3c6603b3133ece97.ctv> |
@@ -71,8 +71,8 @@
 | 63 | [HD]博斯运动 1 | stream1.freetv.fun | <https://stream1.freetv.fun/add68df2c5d9b92392bfd5cd98ed843fcf7db73cb60ed274f0c13ac73fde2fab.ctv> |
 | 64 | [HD]博斯高球 | stream1.freetv.fun | <https://stream1.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8> |
 | 65 | [HD]博斯魅力 | stream1.freetv.fun | <https://stream1.freetv.fun/53e1bcead4c2301a13c3da0e5b9874d51ca01b18ac1f2b6015bc5bf1b12fd1c8.m3u8> |
-| 66 | [HD]台视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv071> |
-| 67 | [HD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.ctv> |
+| 66 | [HD]台视 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv071> |
+| 67 | [BD]台视新闻台 | stream1.freetv.fun | <https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8> |
 | 68 | [VGA]唯心电视 | stream1.freetv.fun | <https://stream1.freetv.fun/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8> |
 | 69 | [BD]国家地理儿童 | stream1.freetv.fun | <https://stream1.freetv.fun/879629b475ab87472f6aa231526b6ca680dfe239a506107120b46c55d6146a57.ctv> |
 | 70 | [BD]国会频道1 | stream1.freetv.fun | <https://stream1.freetv.fun/14256387a4019f342f90fb2e248e86362692b68d88e4cf9a6842fa659e6966b6.m3u8> |
@@ -88,7 +88,7 @@
 | 80 | [BD]客家电视 | stream1.freetv.fun | <https://stream1.freetv.fun/921b3ca2749441e477da93adcb40009fc486a61572b7ef24af79c9dcd2f58009.m3u8> |
 | 81 | [BD]寰宇财经新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/766802c26f8ac4a833deb9897b4b4a988a367bab80f07cae8c23a84eae4ad8f5.ctv> |
 | 82 | [BD]寰宇新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/b39c04ba29af87fb429c23c34eb72e72f6d53ae58de5b2b9fe944df42e88555a.ctv> |
-| 83 | [HD]年代much | stream1.freetv.fun | <https://stream1.freetv.fun/29458980ecd1560a7748913f3bd65a12aba1d486fac97de8723b7ea6e70dc683.m3u8> |
+| 83 | [BD]年代much | stream1.freetv.fun | <https://stream1.freetv.fun/29458980ecd1560a7748913f3bd65a12aba1d486fac97de8723b7ea6e70dc683.m3u8> |
 | 84 | [BD]年代新闻台 | stream1.freetv.fun | <https://stream1.freetv.fun/371863f79fd1ca486f1e79e1321bf71096588d0cfb2c433e0f5e8a198966ce29.m3u8> |
 | 85 | [HD]爱尔达影剧 | stream1.freetv.fun | <https://stream1.freetv.fun/813c978bc607dc5932f42d25dd341be1ed9ea035da9a558c192c61c9606e20fd.ctv> |
 | 86 | [HD]爱尔达综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0dee63ab2a11a81be56712faccb9ac96a33402d2e412431ce612bd80ead3d7a1.ctv> |
@@ -104,44 +104,42 @@
 | 96 | [BD]东森美洲卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8> |
 | 97 | [SD]东森超视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv331> |
 | 98 | [BD]东森电影 | stream1.freetv.fun | <https://stream1.freetv.fun/8b9338c8431ac5c96988336ac78dc95497517655dff3a315ff079c6506588178.m3u8> |
-| 99 | [BD]民视 | stream1.freetv.fun | <https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.ctv> |
-| 100 | [BD]民视 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv051> |
+| 99 | [HD]民视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv051> |
+| 100 | [HD]民视 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv051> |
 | 101 | [HD]民视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/5894b8838d821283efe476fc68f07338f39c2d48776be1326f3d378cc73aa9e0.m3u8> |
 | 102 | [BD]民视新闻 hd | stream1.freetv.fun | <https://stream1.freetv.fun/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8> |
-| 103 | [BD]民视台湾 | stream1.freetv.fun | <https://stream1.freetv.fun/6de6fc3073fd98a8f878df8d20a3bc89656f040bfec5801acaa1e8cd2e112cb8.m3u8> |
-| 104 | [BD]无线财经资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/2ab8f2fdd823357655f7c671dc9683df3105eb8e908eca6728c3994cb37da1e1.ctv> |
-| 105 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/b399ca0e9a6cda833d86d80ddd3423a9246b120ce63e0ce8c86fb2296f97b058.m3u8> |
-| 106 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
-| 107 | [SD]经典电影 | stream1.freetv.fun | <https://stream1.freetv.fun/26e9153177364b7c1bc7d1db50b6e9c74cc17d735c87c3863f7f8234247d8c6a.m3u8> |
-| 108 | [HD]纬来日本 | stream1.freetv.fun | <https://stream1.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.m3u8> |
-| 109 | [HD]纬来综合 | stream1.freetv.fun | <https://stream1.freetv.fun/a09899fad3b0e8431563b8c6136e10ca1cd352e0d9cfa4792b4c97838659bf8b.m3u8> |
-| 110 | [HD]纬来育乐 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv701> |
-| 111 | [HD]纬来电影 | stream1.freetv.fun | <https://stream1.freetv.fun/722505b3aabbd0a31f226ee7ea22ff410e8ebc38f635956ecc1be637b1732c0b.m3u8> |
-| 112 | [SD]纬来体育 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv721> |
-| 113 | [HD]美亚电影 | stream1.freetv.fun | <https://stream1.freetv.fun/364ab897bc6f681e9a63a87348e5234e25e3582b43777c2f449bd4081b94f578.ctv> |
-| 114 | [HD]美食星球 | stream1.freetv.fun | <https://stream1.freetv.fun/6509dee0376b2ac84260ff5fba93f74761868c57d3c1bec96f62b045f876f898.ctv> |
-| 115 | [BD]台视新闻 hd | stream1.freetv.fun | <https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
-| 116 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
-| 117 | [BD]新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/c173b772297d53c3f72dcf7b7e265b8d5302dde20bf254add3b06e7222484668.m3u8> |
-| 118 | [HD]靖天卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/8525821a0f63ad1474794a1c6ddc6d6ced2e0a57bc60be4f6d5504867e0076ae.ctv> |
-| 119 | [HD]靖天国际 | stream1.freetv.fun | <https://stream1.freetv.fun/008b7492f59e650ba35748ed3574761b770ddb195d7559017799911e8b8fcb4f.ctv> |
-| 120 | [BD]靖天戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/33f69d66438ca7bab6a19240d547e8cfc02899e135cd1d326aa84f2b5d78c1de.m3u8> |
-| 121 | [HD]靖天日本 | stream1.freetv.fun | <https://stream1.freetv.fun/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.ctv> |
-| 122 | [BD]靖天映画 | stream1.freetv.fun | <https://stream1.freetv.fun/9776016e1f0be8c850ff534869ef6e81b39645c2cf46a003b5f550ba8eb49d19.m3u8> |
-| 123 | [BD]靖天欢乐 | stream1.freetv.fun | <https://stream1.freetv.fun/65bac946711741a3e3c481db861f5690d730bcf543e8eaba3f513dc1e1c574fb.m3u8> |
-| 124 | [BD]靖天综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ed753fde1a3d74dc5fecbd7c625b4ba1d04a33350b911a43271b6f28a6027eed.m3u8> |
-| 125 | [BD]靖天育乐 | stream1.freetv.fun | <https://stream1.freetv.fun/cc02d989176e9fff71dc972773e9b8978c20d1191335cd7a9ad21dd81aaec31c.m3u8> |
-| 126 | [HD]靖天资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/266757bd8783307a7129774a0a81c9192c7410f7e4d430c8243e9a1126cdd149.m3u8> |
-| 127 | [BD]靖天电影 | stream1.freetv.fun | <https://stream1.freetv.fun/ec74891df57b6b6570473b2fb8cbd2b07a77c6b6732528d2e0b6100e95a50809.m3u8> |
-| 128 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
-| 129 | [BD]高点综合 | stream1.freetv.fun | <https://stream1.freetv.fun/6778e19f7a597528f39a8b156d8218edf0868d441540e6f229e87366d700e033.m3u8> |
-| 130 | [BD]龙祥电影 | stream1.freetv.fun | <https://stream1.freetv.fun/8530c2f0139df419649832523f6613c8ac5d6a11c6be547ac6e304cc45ef6301.m3u8> |
-| 131 | [HD]龙华偶像 | stream1.freetv.fun | <https://stream1.freetv.fun/f04cd7ed7bbbd3449b03632a4df58481a0871423d84f0e2950b5507a9652eaca.m3u8> |
-| 132 | [HD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8> |
-| 133 | [HD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8> |
-| 134 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
+| 103 | [BD]无线财经资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/2ab8f2fdd823357655f7c671dc9683df3105eb8e908eca6728c3994cb37da1e1.ctv> |
+| 104 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/b399ca0e9a6cda833d86d80ddd3423a9246b120ce63e0ce8c86fb2296f97b058.m3u8> |
+| 105 | [BD]生命电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8> |
+| 106 | [SD]经典电影 | stream1.freetv.fun | <https://stream1.freetv.fun/26e9153177364b7c1bc7d1db50b6e9c74cc17d735c87c3863f7f8234247d8c6a.m3u8> |
+| 107 | [HD]纬来日本 | stream1.freetv.fun | <https://stream1.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.m3u8> |
+| 108 | [BD]纬来综合 | stream1.freetv.fun | <https://stream1.freetv.fun/a09899fad3b0e8431563b8c6136e10ca1cd352e0d9cfa4792b4c97838659bf8b.m3u8> |
+| 109 | [HD]纬来育乐 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv701> |
+| 110 | [BD]纬来电影 | stream1.freetv.fun | <https://stream1.freetv.fun/722505b3aabbd0a31f226ee7ea22ff410e8ebc38f635956ecc1be637b1732c0b.m3u8> |
+| 111 | [SD]纬来体育 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv721> |
+| 112 | [HD]美亚电影 | stream1.freetv.fun | <https://stream1.freetv.fun/364ab897bc6f681e9a63a87348e5234e25e3582b43777c2f449bd4081b94f578.ctv> |
+| 113 | [HD]美食星球 | stream1.freetv.fun | <https://stream1.freetv.fun/6509dee0376b2ac84260ff5fba93f74761868c57d3c1bec96f62b045f876f898.ctv> |
+| 114 | [BD]台视新闻 hd | stream1.freetv.fun | <https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
+| 115 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
+| 116 | [BD]新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/c173b772297d53c3f72dcf7b7e265b8d5302dde20bf254add3b06e7222484668.m3u8> |
+| 117 | [HD]靖天国际 | stream1.freetv.fun | <https://stream1.freetv.fun/a9a4812881a3d4a36a13e260956a2b4bff4a20cda605a6588978a4da9443b16b.m3u8> |
+| 118 | [BD]靖天戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/33f69d66438ca7bab6a19240d547e8cfc02899e135cd1d326aa84f2b5d78c1de.m3u8> |
+| 119 | [HD]靖天日本 | stream1.freetv.fun | <https://stream1.freetv.fun/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.ctv> |
+| 120 | [BD]靖天映画 | stream1.freetv.fun | <https://stream1.freetv.fun/9776016e1f0be8c850ff534869ef6e81b39645c2cf46a003b5f550ba8eb49d19.m3u8> |
+| 121 | [BD]靖天欢乐 | stream1.freetv.fun | <https://stream1.freetv.fun/65bac946711741a3e3c481db861f5690d730bcf543e8eaba3f513dc1e1c574fb.m3u8> |
+| 122 | [BD]靖天综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ed753fde1a3d74dc5fecbd7c625b4ba1d04a33350b911a43271b6f28a6027eed.m3u8> |
+| 123 | [BD]靖天育乐 | stream1.freetv.fun | <https://stream1.freetv.fun/cc02d989176e9fff71dc972773e9b8978c20d1191335cd7a9ad21dd81aaec31c.m3u8> |
+| 124 | [HD]靖天资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/266757bd8783307a7129774a0a81c9192c7410f7e4d430c8243e9a1126cdd149.m3u8> |
+| 125 | [BD]靖天电影 | stream1.freetv.fun | <https://stream1.freetv.fun/ec74891df57b6b6570473b2fb8cbd2b07a77c6b6732528d2e0b6100e95a50809.m3u8> |
+| 126 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
+| 127 | [BD]高点综合 | stream1.freetv.fun | <https://stream1.freetv.fun/6778e19f7a597528f39a8b156d8218edf0868d441540e6f229e87366d700e033.m3u8> |
+| 128 | [BD]龙祥电影 | stream1.freetv.fun | <https://stream1.freetv.fun/07aac8565e583b4fbafd57a6dfbd63393f67e0c159e0bfc6a82da58de68320df.m3u8> |
+| 129 | [HD]龙华偶像 | stream1.freetv.fun | <https://stream1.freetv.fun/f04cd7ed7bbbd3449b03632a4df58481a0871423d84f0e2950b5507a9652eaca.m3u8> |
+| 130 | [HD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8> |
+| 131 | [HD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8> |
+| 132 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/5f51a5fb46662fa68a1abe657f86a57d78705f793c2fbab11d9f685e7a5a6974.ctv> |
 
-Updated at **7/4/2024 4:14:33 PM**
+Updated at **7/5/2024 8:50:36 AM**
 
 ## 使用说明
 
