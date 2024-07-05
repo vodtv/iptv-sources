@@ -27,7 +27,8 @@
 | 19 | iPanda 19 | gcwbndks.v.kcdnvip.com | <https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao19_2/index.m3u8> |
 | 20 | iPanda 20 | gcwbndks.v.kcdnvip.com | <https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao20_2/index.m3u8> |
 
-Updated at **7/5/2024 8:50:36 AM**
+<<<<<<< HEAD
+Updated at **2024/7/5 21:48:47**
 
 ## 使用说明
 
@@ -38,3 +39,16 @@ Updated at **7/5/2024 8:50:36 AM**
 - 本站 IPTV 动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
 - 非常感谢您的大力支持和理解！
+=======
+Updated at **7/5/2024 4:13:54 PM**
+
+## 使用说明
+
+- 推荐适配派大星、DIYP 空壳等手机或 TV 软件安装.
+
+- 捐赠打赏地址 <https://viptv.work/about/support！>
+
+- 本站 IPTV 动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+- 非常感谢您的大力支持和理解！
+>>>>>>> 34bd71a98925f2ff2d50bf6fedc08132bbeea0c8
