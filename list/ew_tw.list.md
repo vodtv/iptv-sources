@@ -139,7 +139,7 @@
 | 131 | [HD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8> |
 | 132 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/5f51a5fb46662fa68a1abe657f86a57d78705f793c2fbab11d9f685e7a5a6974.ctv> |
 
-Updated at **7/5/2024 10:08:50 PM**
+Updated at **7/5/2024 10:20:46 PM**
 
 ## 使用说明
 
