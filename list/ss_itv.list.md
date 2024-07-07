@@ -482,7 +482,7 @@
 | 474 | 黑龙江 | IPv4 直链 | <http://123.189.36.4:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 475 | 黑龙江 | IPv4 直链 | <http://123.189.36.39:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **7/7/2024 6:03:22 PM**
+Updated at **7/7/2024 6:05:15 PM**
 
 ## 使用说明
 
