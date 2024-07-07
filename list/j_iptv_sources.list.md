@@ -580,7 +580,7 @@
 | 572 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 | 573 | CGTN阿语 | CGTN | <https://livear.cgtn.com/500a/prog_index.m3u8> |
 
-Updated at **7/6/2024 8:49:12 AM**
+Updated at **7/6/2024 4:14:35 PM**
 
 ## 使用说明
 
