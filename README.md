@@ -40,11 +40,11 @@
 | iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](./o_s_cn_cgtn.m3u ) <br> [o_s_cn_cgtn.txt](./txt/o_s_cn_cgtn.txt ) | [List for iptv.org stream China CGTN](./list/o_s_cn_cgtn.list ) | 6 | - |
 | epg.pw 央视 | [ew_cc.m3u](./ew_cc.m3u ) <br> [ew_cc.txt](./txt/ew_cc.txt ) | [List for epg.pw 央视](./list/ew_cc.list ) | 8 | - |
 | epg.pw 卫视 | [ew_ws.m3u](./ew_ws.m3u ) <br> [ew_ws.txt](./txt/ew_ws.txt ) | [List for epg.pw 卫视](./list/ew_ws.list ) | 34 | - |
-| epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 616 | - |
+| epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 617 | - |
 | epg.pw 香港 | [ew_hk.m3u](./ew_hk.m3u ) <br> [ew_hk.txt](./txt/ew_hk.txt ) | [List for epg.pw 香港](./list/ew_hk.list ) | 53 | - |
 | epg.pw 澳門 | [ew_om.m3u](./ew_om.m3u ) <br> [ew_om.txt](./txt/ew_om.txt ) | [List for epg.pw 澳門](./list/ew_om.list ) | 6 | - |
 | epg.pw 台灣 | [ew_tw.m3u](./ew_tw.m3u ) <br> [ew_tw.txt](./txt/ew_tw.txt ) | [List for epg.pw 台灣](./list/ew_tw.list ) | 120 | - |
-| epg.pw 全部 | [ew_all.m3u](./ew_all.m3u ) <br> [ew_all.txt](./txt/ew_all.txt ) | [List for epg.pw 全部](./list/ew_all.list ) | 2677 | - |
+| epg.pw 全部 | [ew_all.m3u](./ew_all.m3u ) <br> [ew_all.txt](./txt/ew_all.txt ) | [List for epg.pw 全部](./list/ew_all.list ) | 2679 | - |
 | epg.pw ipv6 | [ew_all.m3u](./ew_all.m3u ) <br> [ew_all.txt](./txt/ew_all.txt ) | [List for epg.pw ipv6](./list/ew_all.list ) | 194 | - |
 | 北京联通 单播列表 | [q_bj_iptv_unicom.m3u](./q_bj_iptv_unicom.m3u ) <br> [q_bj_iptv_unicom.txt](./txt/q_bj_iptv_unicom.txt ) | [List for 北京联通 单播列表](./list/q_bj_iptv_unicom.list ) | 138 | - |
 | 北京联通 组播列表 | [q_bj_iptv_unicom_m.m3u](./q_bj_iptv_unicom_m.m3u ) <br> [q_bj_iptv_unicom_m.txt](./txt/q_bj_iptv_unicom_m.txt ) | [List for 北京联通 组播列表](./list/q_bj_iptv_unicom_m.list ) | 138 | - |
@@ -53,7 +53,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 475 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 85 | - |
 
- > Updated at **7/7/2024 6:05:15 PM**
+ > Updated at **7/7/2024 4:13:01 PM**
 
 ## 📚 EPG 节目单
 
@@ -64,7 +64,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **7/7/2024 6:05:15 PM**
+ > Updated at **7/7/2024 4:13:01 PM**
 
 ## 🚀Github 文件加速
 
@@ -138,22 +138,9 @@ https://gist.gitmirror.com/dimitardanailov/6acdd54ab67d5a25c0229b2fe5bbb42b/raw/
 
 ## 💡 免责申明
 
-**本仓库或本仓库相关的仓库, 以下简称为本仓库**
-**本仓库全部资源均搜集于互联网，如侵权请联系我删除**
-**本仓库或本仓库相关的仓库的管理者, 以下简称为本仓库管理者**
-**本仓库或本仓库相关的仓库的任何人员, 以下简称为本仓库人员**
-**本仓库或本仓库相关的仓库内分享的任何内容, 以下简称为本仓库内容**
-**本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家/地区/组织等的法律法规或相关规定的其他用途. 本仓库人员均不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断. 禁止任何公众号、自媒体进行任何形式的转载、发布**
-**本仓库内容的域名地址信息可以被任何人通过开发人员工具获取，没有经过逆向工程或网络攻击，不构成入侵计算机系统**
-**本仓库人员对任何本仓库内容问题概不负责，包括但不限于由任何本仓库内容错误导致的任何损失或损害**
-**间接使用本仓库内容的任何用户，包括但不限于建立 VPS 或在某些行为违反国家/地区法律或相关法规的情况下进行传播, 本仓库人员对于由此引起的任何隐私泄漏或其他后果概不负责**
-**请勿将本仓库内容用于商业或非法目的，否则后果自负**
-**如果任何单位或个人认为本仓库内容可能涉嫌侵犯其权利，则应及时通知并提供身份证明，所有权证明，本仓库管理者将在收到认证文件后删除相关本仓库内容**
-**任何以任何方式查看本仓库内容的人或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用/复制/修改了本仓库内容，则视为您已接受此免责声明**
-**本仓库内容中涉及的第三方硬件、软件等，与本仓库内容没有任何直接或间接的关系。本仓库内容仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本仓库内容无关**
-**所有基于本仓库内容的源代码，进行的任何修改，为其他个人或组织的自发行为，与本仓库内容没有任何直接或间接的关系，所造成的一切后果亦与本仓库内容和本仓库人员无关**
-**本仓库管理者保留随时对免责声明进行补充或更改的权利，直接或间接使用本仓库内容的个人或组织，视为接受本仓库分享的内容的免责声明**
-**请不要在中华人民共和国境内使用本仓库内容**
-**所有直接或间接使用本仓库内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本仓库内容。如对本仓库内容的功能有需求，应自行开发相关功能**
-**您必须在下载后的 24 小时内从您以任何形式存放或使用本仓库内容的任何硬件/软件/介质中完全删除本仓库内容**
-**您以任何形式阅读/使用/复制/修改了本仓库内容，则视为已接受此免责声明，请仔细阅读**
+- 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
+- 通过 M3U8 Web Player 测试直播源需使用 https 协议的直播源链接。
+- 部分广播电台节目播出具有一定的时效性，需要在指定时段进行收听。
+- 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
+- 您可以 Fork 本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
+- 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
