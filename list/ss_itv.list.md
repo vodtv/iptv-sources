@@ -440,7 +440,7 @@
 | 432 | 黑龙江 | IPv4 直链 | <http://123.189.36.39:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 433 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **7/8/2024 8:52:45 AM**
+Updated at **7/8/2024 4:14:37 PM**
 
 ## 使用说明
 
