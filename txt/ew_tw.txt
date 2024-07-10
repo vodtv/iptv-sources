@@ -15,12 +15,12 @@
 [BD]靖天日本,https://stream1.freetv.fun/1706c75d0a1c3105bd393d9000afb4c1dd741f5f3cef9ab677b83d270dc2ceec.m3u8
 [BD]靖天映画,https://stream1.freetv.fun/9776016e1f0be8c850ff534869ef6e81b39645c2cf46a003b5f550ba8eb49d19.m3u8
 [BD]靖天电影,https://stream1.freetv.fun/ec74891df57b6b6570473b2fb8cbd2b07a77c6b6732528d2e0b6100e95a50809.m3u8
-[BD]龙祥电影,https://stream1.freetv.fun/07aac8565e583b4fbafd57a6dfbd63393f67e0c159e0bfc6a82da58de68320df.m3u8
+[BD]龙祥电影,https://stream1.freetv.fun/8e9e5cb24c50e6f6c340ada5657e9d1099b9686d1ad10e5c41986ca5e504cc47.m3u8
 [HD]龙华戏剧,https://stream1.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8
 
 儿童,#genre#
 [SD]ช่อง_bs_animax,https://stream1.freetv.fun/15f139f08f2156b3664a772f9be58766beb39fef5a17db558e7db98301ee985c.m3u8
-[SD]bsアニマックス,https://stream1.freetv.fun/912dd51c996395923274baea2b63f3ece42da9e6622ed327233af08abc7c9a91.m3u8
+[VGA]bsアニマックス,https://stream1.freetv.fun/4778a86d67e2da19270fa1f218cb9d9516356c925d93fd28ffbe2c943ca7e50c.m3u8
 [BD]cn卡通,https://stream1.freetv.fun/dc12110f04c56c92bb85c7d092ae8f56bd4191d8bcb0d205575d3135985a0b41.ctv
 [BD]东森幼幼台,https://stream1.freetv.fun/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 [BD]靖天欢乐,https://stream1.freetv.fun/65bac946711741a3e3c481db861f5690d730bcf543e8eaba3f513dc1e1c574fb.m3u8
@@ -67,7 +67,6 @@
 综艺,#genre#
 [HD]cmusic,https://stream1.freetv.fun/83354f5586f4fca37024e26f7b182eded7f5c6b268a5cda1dc13c0583b32b297.m3u8
 [BD]jet综合,https://stream1.freetv.fun/2ffe73e20426c456381b57767d2c80baaf8fb0c59d7dcfbdc03f3c9df3cac16f.m3u8
-[HD]lifetime_west,https://stream1.freetv.fun/c3cb9a0124def7ea782f76ba2cef112a7fe63b298505ef278002c007ad5c4e58.ctv
 [BD]tvbs欢乐,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
 [BD]tvn,https://stream1.freetv.fun/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
 [HD]三立都会,https://stream1.freetv.fun/a2abe78388038c7b7187e49d210b5e04cccb546e3808c459470e4ed685a877d7.m3u8
