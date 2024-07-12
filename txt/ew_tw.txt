@@ -13,7 +13,6 @@
 [BD]靖天戏剧,https://stream1.freetv.fun/33f69d66438ca7bab6a19240d547e8cfc02899e135cd1d326aa84f2b5d78c1de.m3u8
 [BD]靖天日本,https://stream1.freetv.fun/1706c75d0a1c3105bd393d9000afb4c1dd741f5f3cef9ab677b83d270dc2ceec.m3u8
 [BD]靖天映画,https://stream1.freetv.fun/9776016e1f0be8c850ff534869ef6e81b39645c2cf46a003b5f550ba8eb49d19.m3u8
-[BD]靖天电影,https://stream1.freetv.fun/ec74891df57b6b6570473b2fb8cbd2b07a77c6b6732528d2e0b6100e95a50809.m3u8
 [BD]龙祥电影,https://stream1.freetv.fun/8e9e5cb24c50e6f6c340ada5657e9d1099b9686d1ad10e5c41986ca5e504cc47.m3u8
 [HD]龙华戏剧,https://stream1.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8
 
