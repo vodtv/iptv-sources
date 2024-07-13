@@ -421,7 +421,7 @@
 | 413 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 414 | CGTN阿语 | CGTN | <https://livear.cgtn.com/500a/prog_index.m3u8> |
 
-Updated at **7/12/2024 4:14:52 PM**
+Updated at **7/13/2024 8:51:57 AM**
 
 ## 使用说明
 
