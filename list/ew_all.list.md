@@ -35,7 +35,7 @@
 | 27 | [BD]cetv1 | stream1.freetv.fun | <https://stream1.freetv.fun/14867319e0bd88b95b76ec4ccfd62c4a50370f70bccf3fac4576396494640b1e.m3u8> |
 | 28 | [BD]cgtn | stream1.freetv.fun | <https://stream1.freetv.fun/adbb9c7d93cfce44bcdb1240d8e67a7638ae0a74e6dbe3a8024b0af2e87ea474.m3u8> |
 | 29 | [BD]cgtndocumentary | stream1.freetv.fun | <https://stream1.freetv.fun/1ebd8c247614989d427a4c85d5c480f6d1511f5d52cc7e14df6154d032288990.m3u8> |
-| 30 | [BD]chc动作电影 | stream1.freetv.fun | <https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c45abf42f273.m3u8> |
+| 30 | [BD]chc动作电影 | stream1.freetv.fun | <https://stream1.freetv.fun/bd022833292ad7c9cc7f961ee984c8cd022476f5fbedcac021a104260aeb62a0.m3u8> |
 | 31 | [BD]chc家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/16f1eb82e9c0595d7a29810b7259a0d02481e4c8c41bd426fa9843a4f4c97ea5.m3u8> |
 | 32 | [BD]chc高清电影 | stream1.freetv.fun | <https://stream1.freetv.fun/513b5aea95520a37ae24d3ef1be5f02e0bbb0b3b937c0bb6d4154722a9a2d8fd.m3u8> |
 | 33 | [SD]cetv-4 | stream1.freetv.fun | <https://stream1.freetv.fun/2c08cc2820f1f0a8531e0e44552024f9973a573255c7b5d2561aa80349eff9f9.m3u8> |
@@ -128,7 +128,7 @@
 | 120 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/7cefa430ea379ed99bf773cc85493f267d593977315add85fc376105d3846981.m3u8> |
 | 121 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **7/12/2024 8:51:15 AM**
+Updated at **7/12/2024 4:14:52 PM**
 
 ## 使用说明
 
