@@ -211,8 +211,8 @@ https://stream1.freetv.fun/7701dd756ecae2f4dffeedcb2765bc739684d863c3e42c3f8011c
 https://stream1.freetv.fun/52247d75a0d4056938f440965edb33e5bc7582911b83208d131a4271a0414634.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="13900" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531153842547224_70.jpg" group-title="综合",[SD]青海卫视
 https://stream1.freetv.fun/e0551db6bc9512b248a2da5f2455dee2c1d3164fb9ece82daa77b0c1b7ffb8a4.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视中文" tvg-id="11098" tvg-country="香港" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png" group-title="综合",[BD]凤凰中文 8m1080
-https://stream1.freetv.fun/459c73f6025193a4ccb431c2f7c7a4569632d7c54f8398fbd1765496d9e84914.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视中文" tvg-id="11098" tvg-country="香港" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png" group-title="综合",[BD]凤凰中文
+https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-id="368910" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="综合",[BD]凤凰香港
 https://stream1.freetv.fun/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
 #EXTINF:-1 tvg-name="黑龙江公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531154420804560_53.jpg" group-title="综合",[BD]黑龙江大庆公共

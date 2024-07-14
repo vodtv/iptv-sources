@@ -112,7 +112,7 @@
 | 104 | [SD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/7701dd756ecae2f4dffeedcb2765bc739684d863c3e42c3f8011ce91273bbcc2.m3u8> |
 | 105 | [SD]青岛新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/52247d75a0d4056938f440965edb33e5bc7582911b83208d131a4271a0414634.m3u8> |
 | 106 | [SD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/e0551db6bc9512b248a2da5f2455dee2c1d3164fb9ece82daa77b0c1b7ffb8a4.m3u8> |
-| 107 | [BD]凤凰中文 8m1080 | stream1.freetv.fun | <https://stream1.freetv.fun/459c73f6025193a4ccb431c2f7c7a4569632d7c54f8398fbd1765496d9e84914.m3u8> |
+| 107 | [BD]凤凰中文 | stream1.freetv.fun | <https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.m3u8> |
 | 108 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8> |
 | 109 | [BD]黑龙江大庆公共 | stream1.freetv.fun | <https://stream1.freetv.fun/9a5ec800670010eba099083427cdf0f0adf5d585296e6cdc396169c87745a07c.m3u8> |
 | 110 | [BD]黑龙江少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/5e319bddd0791b061d150e2211423872627fda288b7aaa32075ee025142b8d38.m3u8> |
@@ -124,7 +124,7 @@
 | 116 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/7cefa430ea379ed99bf773cc85493f267d593977315add85fc376105d3846981.m3u8> |
 | 117 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **7/13/2024 4:12:51 PM**
+Updated at **7/14/2024 8:56:08 AM**
 
 ## 使用说明
 

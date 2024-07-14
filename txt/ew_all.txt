@@ -83,7 +83,7 @@
 [BD]重庆卫视,https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8
 [SD]陕西卫视,https://stream1.freetv.fun/d1c3111777dcbffa0ac86e34e8864c3756ce4c954be55f6b0b993cceb3a1a58a.m3u8
 [SD]青海卫视,https://stream1.freetv.fun/e0551db6bc9512b248a2da5f2455dee2c1d3164fb9ece82daa77b0c1b7ffb8a4.m3u8
-[BD]凤凰中文_8m1080,https://stream1.freetv.fun/459c73f6025193a4ccb431c2f7c7a4569632d7c54f8398fbd1765496d9e84914.m3u8
+[BD]凤凰中文,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.m3u8
 [BD]凤凰香港,https://stream1.freetv.fun/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
 [BD]黑龙江大庆公共,https://stream1.freetv.fun/9a5ec800670010eba099083427cdf0f0adf5d585296e6cdc396169c87745a07c.m3u8
 [BD]黑龙江文体,https://stream1.freetv.fun/010e2360e79bf13430b733bd1ffcd07addc73ff7c6ff9a16d03ada96ea34d18b.m3u8
