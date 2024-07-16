@@ -97,7 +97,7 @@
 | 89 | 兵团卫视 | IPv4 直链 | <http://58.248.112.204:8006/GD_CUCC/G_BINGTUAN.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNeZrZhc4ByPzllzwl%2BnQCptXegc8mHhyqa0XGiK5PALV> |
 | 90 | 三沙卫视 | IPv4 直链 | <http://27.40.16.68:8112/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKn28G%2BWQkLi7Q1Mh845gzlZpk5pTBlduEA6C0mU%2FOMOo&Fsv_Tgid=522e344ac98566f6> |
 
-Updated at **7/15/2024 8:53:46 AM**
+Updated at **7/15/2024 4:14:46 PM**
 
 ## 使用说明
 
