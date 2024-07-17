@@ -290,7 +290,7 @@
 | 282 | 金鹰卡通 | IPv4 直链 | <http://111.225.115.176:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 283 | 金鹰纪实 | IPv4 直链 | <http://111.225.115.176:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **7/16/2024 8:52:33 AM**
+Updated at **7/16/2024 4:15:10 PM**
 
 ## 使用说明
 

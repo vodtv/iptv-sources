@@ -12,7 +12,7 @@
 | 4 | [BD]澳门macau | stream1.freetv.fun | <https://stream1.freetv.fun/56213859f6466dfd2be0aaa613be54e8476f292b08e23ded06de089a366481d0.m3u8> |
 | 5 | [BD]澳门资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/45db1a0bae9d32dd70fce159b47d886c8fbf6ec5ee57af0e2f91ef017ba73338.m3u8> |
 
-Updated at **7/16/2024 8:52:33 AM**
+Updated at **7/16/2024 4:15:10 PM**
 
 ## 使用说明
 
