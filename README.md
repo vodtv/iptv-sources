@@ -29,9 +29,9 @@
 | 熊猫直播 | [xiongmao.m3u](./xiongmao.m3u ) <br> [xiongmao.txt](./txt/xiongmao.txt ) | [List for 熊猫直播](./list/xiongmao.list ) | 20 | - |
 | HBv4 | [hbv4.m3u](./hbv4.m3u ) <br> [hbv4.txt](./txt/hbv4.txt ) | [List for HBv4](./list/hbv4.list ) | 33 | - |
 | HBv6 | [hbv6.m3u](./hbv6.m3u ) <br> [hbv6.txt](./txt/hbv6.txt ) | [List for HBv6](./list/hbv6.list ) | 33 | - |
-| joevess/IPTV home | [j_home.m3u](./j_home.m3u ) <br> [j_home.txt](./txt/j_home.txt ) | [List for joevess/IPTV home](./list/j_home.list ) | 54 | - |
+| joevess/IPTV home | [j_home.m3u](./j_home.m3u ) <br> [j_home.txt](./txt/j_home.txt ) | [List for joevess/IPTV home](./list/j_home.list ) | 21 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](./j_iptv.m3u ) <br> [j_iptv.txt](./txt/j_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_iptv.list ) | 414 | - |
-| joevess/IPTV sources | [j_home_sources.m3u](./j_home_sources.m3u ) <br> [j_home_sources.txt](./txt/j_home_sources.txt ) | [List for joevess/IPTV sources](./list/j_home_sources.list ) | 76 | - |
+| joevess/IPTV sources | [j_home_sources.m3u](./j_home_sources.m3u ) <br> [j_home_sources.txt](./txt/j_home_sources.txt ) | [List for joevess/IPTV sources](./list/j_home_sources.list ) | 27 | - |
 | joevess/IPTV iptv | [j_iptv_sources.m3u](./j_iptv_sources.m3u ) <br> [j_iptv_sources.txt](./txt/j_iptv_sources.txt ) | [List for joevess/IPTV iptv](./list/j_iptv_sources.list ) | 505 | - |
 | iptv.org China | [o_cn.m3u](./o_cn.m3u ) <br> [o_cn.txt](./txt/o_cn.txt ) | [List for iptv.org China](./list/o_cn.list ) | 531 | - |
 | iptv.org stream China | [o_s_cn.m3u](./o_s_cn.m3u ) <br> [o_s_cn.txt](./txt/o_s_cn.txt ) | [List for iptv.org stream China](./list/o_s_cn.list ) | 496 | - |
@@ -50,10 +50,10 @@
 | 北京联通 组播列表 | [q_bj_iptv_unicom_m.m3u](./q_bj_iptv_unicom_m.m3u ) <br> [q_bj_iptv_unicom_m.txt](./txt/q_bj_iptv_unicom_m.txt ) | [List for 北京联通 组播列表](./list/q_bj_iptv_unicom_m.list ) | 138 | - |
 | 北京移动 单播列表 | [q_bj_iptv_mobile.m3u](./q_bj_iptv_mobile.m3u ) <br> [q_bj_iptv_mobile.txt](./txt/q_bj_iptv_mobile.txt ) | [List for 北京移动 单播列表](./list/q_bj_iptv_mobile.list ) | 153 | - |
 | 北京移动 组播列表 | [q_bj_iptv_mobile_m.m3u](./q_bj_iptv_mobile_m.m3u ) <br> [q_bj_iptv_mobile_m.txt](./txt/q_bj_iptv_mobile_m.txt ) | [List for 北京移动 组播列表](./list/q_bj_iptv_mobile_m.list ) | 137 | - |
-| 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 352 | - |
-| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 92 | - |
+| 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 449 | - |
+| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 91 | - |
 
- > Updated at **7/18/2024 4:14:28 PM**
+ > Updated at **7/19/2024 8:52:39 AM**
 
 ## 📚 EPG 节目单
 
@@ -64,7 +64,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **7/18/2024 4:14:28 PM**
+ > Updated at **7/19/2024 8:52:39 AM**
 
 ## 🚀Github 文件加速
 
