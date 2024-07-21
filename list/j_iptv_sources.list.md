@@ -512,7 +512,7 @@
 | 504 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 | 505 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **7/20/2024 4:13:06 PM**
+Updated at **7/21/2024 8:56:00 AM**
 
 ## 使用说明
 
