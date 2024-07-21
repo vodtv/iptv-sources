@@ -53,18 +53,18 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 441 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 90 | - |
 
- > Updated at **7/20/2024 8:51:04 AM**
+ > Updated at **7/20/2024 4:13:06 PM**
 
 ## 📚 EPG 节目单
 
 | epg | url | isRollback |
 | --- | --- | ---------- |
 | EPG接口1 | [fmml.xml](./epg/fmml.xml ) | - |
-| EPG接口2 | [51zmt.xml](./epg/51zmt.xml ) | - |
-| EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
+| EPG接口2 | [51zmt.xml](./epg/51zmt.xml ) | update failed |
+| EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | update failed |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **7/20/2024 8:51:04 AM**
+ > Updated at **7/20/2024 4:13:06 PM**
 
 ## 🚀Github 文件加速
 
