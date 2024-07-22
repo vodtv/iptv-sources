@@ -53,7 +53,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 468 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 90 | - |
 
- > Updated at **7/21/2024 8:56:00 AM**
+ > Updated at **7/21/2024 4:13:06 PM**
 
 ## 📚 EPG 节目单
 
@@ -64,7 +64,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | update failed |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | update failed |
 
- > Updated at **7/21/2024 8:56:00 AM**
+ > Updated at **7/21/2024 4:13:06 PM**
 
 ## 🚀Github 文件加速
 

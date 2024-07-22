@@ -97,7 +97,7 @@
 | 89 | 青海卫视 | IPv4 直链 | <http://221.4.143.69:8114/GD_CUCC/G_QINGHAI.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNQd8WQ5jaIFuIx4Sh5YvGI1lofE4cVEkemJD5Zxki%2FhU&Fsv_Tgid=523ed92c71e23cf8&FvSeid=b2dd732f6f665a7a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9877&Fsv_chan_hls_se_idx=61&Fsv_TBt=2287367&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_QINGHAI&Fsv_CMSID=GD_CUCC> |
 | 90 | 三沙卫视 | IPv4 直链 | <http://221.4.143.68:8112/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKn28G%2BWQkLi7Q1Mh845gzlZpk5pTBlduEA6C0mU%2FOMOo&Fsv_Tgid=523ed935caf4bd3e> |
 
-Updated at **7/21/2024 8:56:00 AM**
+Updated at **7/21/2024 4:13:06 PM**
 
 ## 使用说明
 

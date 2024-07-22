@@ -108,7 +108,7 @@
 | 100 | [HD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8> |
 | 101 | [HD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.ctv> |
 
-Updated at **7/21/2024 8:56:00 AM**
+Updated at **7/21/2024 4:13:06 PM**
 
 ## 使用说明
 
