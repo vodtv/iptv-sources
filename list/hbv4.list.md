@@ -40,7 +40,7 @@
 | 32 | CCTV高尔夫.网球 | IPv4 直链 | <http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226742/index.m3u8> |
 | 33 | 大湾区卫视 | IPv4 直链 | <http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226748/index.m3u8> |
 
-Updated at **7/22/2024 4:15:40 PM**
+Updated at **7/23/2024 8:52:32 AM**
 
 ## 使用说明
 
