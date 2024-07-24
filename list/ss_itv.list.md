@@ -386,7 +386,7 @@
 | 378 | 黑龙江 | IPv4 直链 | <http://123.189.36.4:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 379 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **7/23/2024 8:52:32 AM**
+Updated at **7/23/2024 4:15:50 PM**
 
 ## 使用说明
 
