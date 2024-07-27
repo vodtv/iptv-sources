@@ -94,7 +94,7 @@
 | 86 | [BD]龙祥电影 | stream1.freetv.fun | <https://stream1.freetv.fun/8530c2f0139df419649832523f6613c8ac5d6a11c6be547ac6e304cc45ef6301.m3u8> |
 | 87 | [HD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.ctv> |
 
-Updated at **7/26/2024 8:51:50 AM**
+Updated at **7/26/2024 4:14:03 PM**
 
 ## 使用说明
 
