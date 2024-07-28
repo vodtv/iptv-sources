@@ -371,7 +371,7 @@
 | 363 | 都市 | IPv4 直链 | <http://123.160.175.38:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 364 | 金鹰纪实 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **7/27/2024 8:51:35 AM**
+Updated at **7/27/2024 4:12:58 PM**
 
 ## 使用说明
 
