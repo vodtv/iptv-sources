@@ -440,7 +440,7 @@
 | 432 | 金鹰纪实 | IPv4 直链 | <http://111.225.115.28:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 433 | 金鹰纪实 | IPv4 直链 | <http://111.225.113.33:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **7/28/2024 8:56:24 AM**
+Updated at **7/28/2024 4:12:50 PM**
 
 ## 使用说明
 
