@@ -4,11 +4,12 @@
 [HD]root_sports_plus_2,https://stream1.freetv.fun/f87997be8937d08b86c1b94d0894e9f62cf0e210c45608b1a554ebe1ba885ca4.ctv
 [BD]star_sports_2,https://stream1.freetv.fun/13cd18dfe986eebdc500e2f9aa09d73aac171bf4e47e01b874375f9d35f51dac.ctv
 [BD]now_hk_sports_3_⁴ᵏ,https://stream1.freetv.fun/de322786d6f6c33e07b540c462ae0464a701169987d6ddc322c2055c8b4eeb8d.ctv
-[VGA]now_hk_sports_2_⁴ᵏ,https://stream1.freetv.fun/e4ca6e6ea832e11cca1d59f46c93f945a550afd403008e017c9d380c42c88376.ctv
+[BD]now_hk_sports_2_⁴ᵏ,https://stream1.freetv.fun/e4ca6e6ea832e11cca1d59f46c93f945a550afd403008e017c9d380c42c88376.ctv
 
 综合,#genre#
 [HD]tvri_world,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
 [HD]now_tv,https://stream1.freetv.fun/9a86f6504ebc39ebede157d2cf9c33aaf0bebea50e8abf8d609327539a7acbe0.m3u8
+[BD]pearl_明珠,https://stream1.freetv.fun/7904fb8d43b605bd9fc4c14e29f4fb263b17e8d8bb35364871ec25d2814e594f.m3u8
 [HD]tvbj1,https://stream1.freetv.fun/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
 [BD]tvb翡翠,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
 [BD]ช่อง_viu_tv,https://stream1.freetv.fun/f2a1c94dff3575e185e1f2c13e7603b8aaf430741516643f8f055ed327d0ba8e.ctv
