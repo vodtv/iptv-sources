@@ -16,7 +16,7 @@
 | 8 | [BD]discovery channel | stream1.freetv.fun | <https://stream1.freetv.fun/cc9401821b6012a3da7e68a57be59ae14f4dc3c511c0101df5aadfa76284b313.m3u8> |
 | 9 | [BD]world-1 | stream1.freetv.fun | <https://stream1.freetv.fun/e46b9c5b45349d4568ba7748e30643c2919bba8f9ee28478a858db061fc2b366.m3u8> |
 | 10 | [BD]discovery east | stream1.freetv.fun | <https://stream1.freetv.fun/21bc6fc8b394ab3ca60cfa793c4acef84154900498bf749c5ae0f5dce2f66dce.ctv> |
-| 11 | [HD]ttv | stream1.freetv.fun | <https://stream1.freetv.fun/b0cb10857e5b0bddf8b6a8ca75d36a29563d15c644f1176528d85181687d7df2.m3u8> |
+| 11 | [SD]kttv3 | stream1.freetv.fun | <https://stream1.freetv.fun/cb51ce37e35060ae05fb6978c3c86595068860e8636418b75eebe99495307e43.ctv> |
 | 12 | [VGA]tv turfe | stream1.freetv.fun | <https://stream1.freetv.fun/482dde6f9ded0ba74b5f8c6a37ee833e248384c9b035219de51eff3de2c6a853.m3u8> |
 | 13 | [HD]eleven sports 1 pl | stream1.freetv.fun | <https://stream1.freetv.fun/0cd7da9871e44f56495cd1459d1fbabc2cd969cbff464543dc8bfe00f329033d.ctv> |
 | 14 | [HD]eleven sports 2 pl | stream1.freetv.fun | <https://stream1.freetv.fun/2b642c5a32dbee3c901aa7bea373b1953d472a0bea38a3adc76077209cfbd37a.ctv> |
@@ -33,7 +33,7 @@
 | 25 | [BD]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/8367c93681f2d6627b3575b8919e7df4a246630f0640fbf2ccb3f1aa0ff740a4.m3u8> |
 | 26 | [HD]TVBS ASIA | stream1.freetv.fun | <https://stream1.freetv.fun/ef79412fd444aa7ed0352c78dc157a4fab106dd8f6a33a101a79e569908560dc.ctv> |
 | 27 | [BD]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv> |
-| 28 | [VGA]tvbs欢乐 | stream1.freetv.fun | <https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv> |
+| 28 | [BD]tvbs欢乐 | stream1.freetv.fun | <https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv> |
 | 29 | [BD]tvn | stream1.freetv.fun | <https://stream1.freetv.fun/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8> |
 | 30 | [BD]taiwan plus tv | stream1.freetv.fun | <https://stream1.freetv.fun/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8> |
 | 31 | [HD]三立戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8> |
@@ -84,7 +84,7 @@
 | 76 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 | 77 | [BD]龙祥电影 | stream1.freetv.fun | <https://stream1.freetv.fun/8530c2f0139df419649832523f6613c8ac5d6a11c6be547ac6e304cc45ef6301.m3u8> |
 
-Updated at **7/29/2024 4:14:43 PM**
+Updated at **7/30/2024 8:52:31 AM**
 
 ## 使用说明
 

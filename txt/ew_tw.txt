@@ -24,7 +24,7 @@
 综艺,#genre#
 [HD]cmusic,https://stream1.freetv.fun/962b183db2050a7f4995fa60fb432e5da6df5872565cb7f6792a673d3c157248.m3u8
 [BD]ROCK_ENTERTAINMENT,https://stream1.freetv.fun/982e0086a1af28f954812199017b7dcb4d1907b40d35671e1c0898cdf86ce6c7.ctv
-[VGA]tvbs欢乐,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
+[BD]tvbs欢乐,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
 [BD]tvn,https://stream1.freetv.fun/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
 [SD]纬来日本,rtmp://f13h.mine.nu/sat/tv771
 
@@ -41,7 +41,7 @@
 [HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
 奥运,#genre#
-[HD]ttv,https://stream1.freetv.fun/b0cb10857e5b0bddf8b6a8ca75d36a29563d15c644f1176528d85181687d7df2.m3u8
+[SD]kttv3,https://stream1.freetv.fun/cb51ce37e35060ae05fb6978c3c86595068860e8636418b75eebe99495307e43.ctv
 [VGA]tv_turfe,https://stream1.freetv.fun/482dde6f9ded0ba74b5f8c6a37ee833e248384c9b035219de51eff3de2c6a853.m3u8
 
 其它,#genre#
