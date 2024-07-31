@@ -84,7 +84,7 @@
 | 76 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 | 77 | [BD]龙祥电影 | stream1.freetv.fun | <https://stream1.freetv.fun/8530c2f0139df419649832523f6613c8ac5d6a11c6be547ac6e304cc45ef6301.m3u8> |
 
-Updated at **7/30/2024 8:52:31 AM**
+Updated at **7/30/2024 4:14:46 PM**
 
 ## 使用说明
 
