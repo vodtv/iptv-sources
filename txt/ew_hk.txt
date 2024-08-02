@@ -8,12 +8,12 @@
 [HD]tvri_world,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
 [BD]surf_now_tv,https://stream1.freetv.fun/d05473213eccf4814f220641dbcf25abe94f124106c31eed62c4c51ee611342d.m3u8
 [BD]pearl_明珠,https://stream1.freetv.fun/7904fb8d43b605bd9fc4c14e29f4fb263b17e8d8bb35364871ec25d2814e594f.m3u8
-[BD]tvb翡翠,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
 [HD]viu_tv,https://stream1.freetv.fun/803df47e6359cebf303b72f2e5c25e8ef0f80a469d859375fc6afd7d7ff83dc6.ctv
+[BD]tvb翡翠,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
 [BD]翡翠台,https://stream1.freetv.fun/9d4fa7779c923ec2103a461f5d8c22275532ee65b176d1c476ce727188ee512f.ctv
 [SD]香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 [SD]香港电台(34),https://stream1.freetv.fun/fff47f95d4dac240120edd29a384c302d30f12642b79e96eab61e8449641f6db.m3u8
-[HD]凤凰卫视,https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.m3u8
+[BD]凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.ctv
 [BD]凤凰中文,https://stream1.freetv.fun/fd3f587c16496807d24b3f3c58eff10439384428069068b6b822777315cbc5b6.ctv
 [VGA]ช่อง_凤凰香港,https://stream1.freetv.fun/278928098177a64f1d5ab32eb998c0ced86d8e7817a1803eac8cef280c5c2abd.ctv
 
@@ -25,7 +25,7 @@
 [HD]tvb娱乐新闻,https://stream1.freetv.fun/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.ctv
 [HD]tvb娱乐新闻,https://stream1.freetv.fun/6ae70aef879e11d16da2e44b6c3d594b4efcebd255492ada28c2c461b9ea8b85.m3u8
 [BD]viutv,https://stream1.freetv.fun/4b1dd593dbef7dda5679ff12ddcb296b1b4aacaa6180c8e3f386de5a3c60f5e7.m3u8
-[BD]viutvsix,https://stream1.freetv.fun/205dd2177e421abb6ceff1d0f569bdcfaac1d13e27f6f526919ac0397d0ba645.m3u8
+[BD]viutv_six,https://stream1.freetv.fun/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.m3u8
 [VGA]星空卫视,https://stream1.freetv.fun/d669fabd35daeaf67952480c48acf16e6eef6fa2a12919e2ca169894e33a93d7.ctv
 
 新闻,#genre#

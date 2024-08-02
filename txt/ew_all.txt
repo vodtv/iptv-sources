@@ -43,6 +43,7 @@
 [BD]山东卫视,https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.m3u8
 [SD]山西卫视,https://stream1.freetv.fun/ef229f0027dbcce1191c060a7f27926c0e8ebff8b162ae3912aa5c45d977a88d.m3u8
 [SD]康巴卫视,https://stream1.freetv.fun/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8
+[SD]厦门卫视,https://stream1.freetv.fun/1cfe6979f0b718732c17812fbca90906a192c995065341a2b7ebad75427ed110.m3u8
 [HD]广东珠江,https://stream1.freetv.fun/703a1181e6dd8bf05f3f98dae297ee163fd5323f83973720a9763eb1b6e59b88.m3u8
 [BD]广东卫视,https://stream1.freetv.fun/e4d6fc2ea3696865781c1416441b9f758ae725fa75c57ce25de8db86e3539fcd.m3u8
 [BD]广西卫视,https://stream1.freetv.fun/fd42bf7648f41c0bc4f2824aa17b174b4588405985baa28a887022e04791489e.m3u8
@@ -91,6 +92,7 @@
 儿童,#genre#
 [BD]cctv14,https://stream1.freetv.fun/aa2dd2bceb8f1a2b34aacb4349b88e09153349fb5699ae85c7ed94daaaa357c4.m3u8
 [SD]优漫卡通,https://stream1.freetv.fun/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8
+[SD]嘉佳卡通,https://stream1.freetv.fun/384453b25ec5bed515b3ebd612d1d45d3d6645541683d6c5e70f7f5fbbc8d5e5.m3u8
 [BD]海南少儿,https://stream1.freetv.fun/de15b55d7bca1bae9bbb27c17e39fc94dab731bde02c0b6d6ac5ed894ed4ba54.m3u8
 [BD]甘肃少儿,https://stream1.freetv.fun/f39eb4b8e496b25598289e72357d96f5b87c3ebc5d1923fe43f62937674bec71.m3u8
 [SD]金鹰卡通,https://stream1.freetv.fun/d2e1b4c338adcdd3de1589d4d918567e394284d774f687703d7a41adf4a515b3.m3u8

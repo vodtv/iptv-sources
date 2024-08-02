@@ -658,7 +658,7 @@
 | 650 | 黑龙江 | IPv4 直链 | <http://123.189.36.103:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 651 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **8/1/2024 8:57:01 AM**
+Updated at **8/1/2024 4:14:44 PM**
 
 ## 使用说明
 
