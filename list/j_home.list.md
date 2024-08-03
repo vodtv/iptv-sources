@@ -61,7 +61,7 @@
 | 53 | 中国天气 | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
 | 54 | CETV1中国教育电视台一套 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv1/ypd.m3u8> |
 
-Updated at **8/2/2024 8:52:25 AM**
+Updated at **8/2/2024 4:14:13 PM**
 
 ## 使用说明
 
