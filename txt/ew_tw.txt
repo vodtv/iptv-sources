@@ -62,7 +62,7 @@
 [HD]eleven_sports_1_pl,https://stream1.freetv.fun/0cd7da9871e44f56495cd1459d1fbabc2cd969cbff464543dc8bfe00f329033d.ctv
 [HD]eleven_sports_2_pl,https://stream1.freetv.fun/2b642c5a32dbee3c901aa7bea373b1953d472a0bea38a3adc76077209cfbd37a.ctv
 [HD]eleven_sports_3,https://stream1.freetv.fun/ae44bb69fe3de6ce88639afd4634b97b235718f8e95193e3494bc97fc41f6c8f.ctv
-[HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
+[BD]纬来体育,https://stream1.freetv.fun/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.ctv
 
 奥运,#genre#
 [HD]ttv,https://stream1.freetv.fun/b0cb10857e5b0bddf8b6a8ca75d36a29563d15c644f1176528d85181687d7df2.m3u8

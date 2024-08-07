@@ -76,7 +76,7 @@
 | 68 | [SD]纬来日本 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv771> |
 | 69 | [BD]纬来精采 | stream1.freetv.fun | <https://stream1.freetv.fun/d7fb67b6ad553367e15a443a726eb62c44d1775de9b706ebde77eead8d67ba58.m3u8> |
 | 70 | [HD]纬来育乐 | IPv4 直链 | <rtmp://220.130.201.73/sat/tv701> |
-| 71 | [HD]纬来体育 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv721> |
+| 71 | [BD]纬来体育 | stream1.freetv.fun | <https://stream1.freetv.fun/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.ctv> |
 | 72 | [HD]美食星球 | stream1.freetv.fun | <https://stream1.freetv.fun/d17faaef03f6e09ab6765635e1e378291786611972ff60298cb0bb0c44540936.ctv> |
 | 73 | [BD]台视新闻 hd | stream1.freetv.fun | <https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
 | 74 | [BD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
@@ -84,7 +84,7 @@
 | 76 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 | 77 | [BD]龙祥电影 | stream1.freetv.fun | <https://stream1.freetv.fun/8e9e5cb24c50e6f6c340ada5657e9d1099b9686d1ad10e5c41986ca5e504cc47.m3u8> |
 
-Updated at **8/6/2024 8:52:41 AM**
+Updated at **8/6/2024 4:14:23 PM**
 
 ## 使用说明
 

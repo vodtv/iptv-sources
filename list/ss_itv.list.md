@@ -583,7 +583,7 @@
 | 575 | 齐鲁 | IPv4 直链 | <http://119.164.94.34:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 576 | 齐鲁 | IPv4 直链 | <http://119.164.94.161:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **8/6/2024 8:52:41 AM**
+Updated at **8/6/2024 4:14:23 PM**
 
 ## 使用说明
 
