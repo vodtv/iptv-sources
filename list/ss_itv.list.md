@@ -563,7 +563,7 @@
 | 555 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 556 | 龙祥电影 | IPv4 直链 | <http://119.125.104.198:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **8/7/2024 8:53:31 AM**
+Updated at **8/7/2024 4:15:24 PM**
 
 ## 使用说明
 
