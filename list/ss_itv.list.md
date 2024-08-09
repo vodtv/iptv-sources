@@ -622,7 +622,7 @@
 | 614 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 615 | 龙祥电影 | IPv4 直链 | <http://119.125.104.198:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **8/8/2024 8:53:14 AM**
+Updated at **8/8/2024 4:14:49 PM**
 
 ## 使用说明
 
