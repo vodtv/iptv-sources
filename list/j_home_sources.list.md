@@ -190,7 +190,7 @@
 | 182 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8> |
 | 183 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801_fhd.m3u8> |
 
-Updated at **8/12/2024 8:54:52 AM**
+Updated at **8/12/2024 4:15:55 PM**
 
 ## 使用说明
 
