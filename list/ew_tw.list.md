@@ -87,7 +87,7 @@
 | 79 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 | 80 | [HD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8> |
 
-Updated at **8/15/2024 8:51:12 AM**
+Updated at **8/15/2024 4:15:08 PM**
 
 ## 使用说明
 
