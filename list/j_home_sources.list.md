@@ -178,7 +178,7 @@
 | 170 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801_fhd.m3u8> |
 | 171 | CETV2中国教育电视台二套 | IPv4 直链 | <http://111.225.113.186:808/tsfile/live/1037_1.m3u8> |
 
-Updated at **8/15/2024 4:15:08 PM**
+Updated at **8/16/2024 8:53:02 AM**
 
 ## 使用说明
 
