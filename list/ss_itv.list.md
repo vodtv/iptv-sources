@@ -605,7 +605,7 @@
 | 597 | 黑龙江 | IPv4 直链 | <http://123.189.36.155:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 598 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **8/17/2024 8:51:30 AM**
+Updated at **8/17/2024 4:13:45 PM**
 
 ## 使用说明
 
