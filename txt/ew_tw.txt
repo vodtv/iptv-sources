@@ -62,9 +62,11 @@
 运动,#genre#
 [HD]dazn_portugues,https://stream1.freetv.fun/8d5c263adb508ada83ab3b8dc676723eef3c2445bcac4b402bdd6f10a51c6c29.ctv
 [HD]dazn2,https://stream1.freetv.fun/94e9f0a64e3104f9d55d2750b441ad14c035d1965f7b9c4dde93aeefb6899eb8.m3u8
+[BD]elta体育4,rtmp://9hv9.mine.nu/sat/md021
 [HD]eleven_sports_1,https://stream1.freetv.fun/fb51a4cccb1b9eaecc84a1fd52ca1878460ff726cf63efdbc793f726e96f9058.ctv
 [HD]eleven_sports_2_pl,https://stream1.freetv.fun/2b642c5a32dbee3c901aa7bea373b1953d472a0bea38a3adc76077209cfbd37a.ctv
 [HD]eleven_sports_3,https://stream1.freetv.fun/ae44bb69fe3de6ce88639afd4634b97b235718f8e95193e3494bc97fc41f6c8f.ctv
+[BD]nba_-_04,https://stream1.freetv.fun/bd53af63a3ec824e0b84c6acfe3b93420d9cbd517bd1a8057c9a0b5be79e8bd7.ctv
 [HD]博斯无限,https://stream1.freetv.fun/6176d8ff62284ef0e44fc7721de2d3ecc5466595e83efd5430a40f045e639c31.m3u8
 [HD]博斯运动,https://stream1.freetv.fun/6336ddc3c7f5f2207f760c9c702f6ea835ab0f1ba340a8318ca990da0a8176b4.m3u8
 [HD]博斯高球,https://stream1.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8

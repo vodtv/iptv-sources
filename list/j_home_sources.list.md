@@ -175,7 +175,7 @@
 | 167 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8> |
 | 168 | CETV4空中课堂频道 | IPv4 直链 | <http://123.183.77.174:808/hls/92/index.m3u8> |
 
-Updated at **8/19/2024 4:15:23 PM**
+Updated at **8/20/2024 8:53:02 AM**
 
 ## 使用说明
 
