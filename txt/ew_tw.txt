@@ -16,7 +16,6 @@
 [BD]discovery_hd_world,https://stream1.freetv.fun/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
 [SD]discovery_science,https://stream1.freetv.fun/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
 [HD]discovery_west,https://stream1.freetv.fun/446f010a5a72bea8c071685545455ee33fa68e50387ec66b81a7d87943f4bcbf.ctv
-[BD]eve-bha,https://stream1.freetv.fun/09d898c0d15922505794c15d90367ef554aa15c70e536f2968e0d306ff08ba84.m3u8
 [HD]love_nature,https://stream1.freetv.fun/b395444e812c106932e74d89abc6636d90a79f67be3f729b0c11926e452a485c.m3u8
 [SD]natgeo_japan,https://stream1.freetv.fun/d46e743c8a4b7a0251c7df036f0969c69258d6277c9b661c410762fd7a923791.m3u8
 [BD]smithsonian_channel,https://stream1.freetv.fun/b1553b81be58e6846203539f162b4b40c0cc53697d897d9388b42fa7f43f8cae.ctv
@@ -31,6 +30,7 @@
 [HD]三立综合,https://stream1.freetv.fun/2c7e0a2ade6453d6a39e4a520da30f2dfe605a24daa05699d7debfbb7d846b01.m3u8
 [BD]三立台湾台,https://stream1.freetv.fun/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv
 [BD]中视,rtmp://f13h.mine.nu/sat/tv091
+[BD]中视经典,https://stream1.freetv.fun/e0e88c6e4defe27668fec2d8a9f7c1fb346e5ee3e7fd6cd1885abf6b9a24a8fb.ctv
 [HD]八大综合,https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 [HD]台视,rtmp://f13h.mine.nu/sat/tv071
 [HD]国会频道2,https://stream1.freetv.fun/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8

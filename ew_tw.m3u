@@ -27,8 +27,6 @@ https://stream1.freetv.fun/446f010a5a72bea8c071685545455ee33fa68e50387ec66b81a7d
 https://stream1.freetv.fun/a3f7b0886396e045987e048ef36063207e6a743db18c6d6df951227d39034a24.m3u8
 #EXTINF:-1 tvg-name="ELTA体育4" tvg-id="368592" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/01/16/large/20240116025313246280_42.png" group-title="运动",[BD]elta体育4
 rtmp://9hv9.mine.nu/sat/md021
-#EXTINF:-1 tvg-name="EVE HD(maintain)" tvg-id="" tvg-country="台湾" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2016/01/29/large/20160129175702835037_89.png" group-title="知识",[BD]eve-bha
-https://stream1.freetv.fun/09d898c0d15922505794c15d90367ef554aa15c70e536f2968e0d306ff08ba84.m3u8
 #EXTINF:-1 tvg-name="Eleven Sports1" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="运动",[HD]eleven sports 1
 https://stream1.freetv.fun/fb51a4cccb1b9eaecc84a1fd52ca1878460ff726cf63efdbc793f726e96f9058.ctv
 #EXTINF:-1 tvg-name="Eleven Sports2" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="运动",[HD]eleven sports 2 pl
@@ -77,6 +75,8 @@ https://stream1.freetv.fun/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="中视新闻" tvg-id="14107" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221808922798_13.jpg" group-title="新闻",[BD]中视新闻
 https://stream1.freetv.fun/279682439ae7d95097abfcd5111fd366ad5be7cf7a2b80b9b2587cd19761521f.m3u8
+#EXTINF:-1 tvg-name="中视经典" tvg-id="368768" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221628321961_26.jpg" group-title="综合",[BD]中视经典
+https://stream1.freetv.fun/e0e88c6e4defe27668fec2d8a9f7c1fb346e5ee3e7fd6cd1885abf6b9a24a8fb.ctv
 #EXTINF:-1 tvg-name="人间卫视" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="其它",[HD]人间卫视
 https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
 #EXTINF:-1 tvg-name="八大戏剧HD" tvg-id="369226" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png" group-title="电影",[HD]八大戏剧
