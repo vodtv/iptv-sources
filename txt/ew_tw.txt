@@ -60,6 +60,7 @@
 [BD]公视3,https://stream1.freetv.fun/fe6ab13a476547a8fa54cb5ab46d9fc8296f96067be4c618800dae4e404c37ab.m3u8
 [HD]公视台语,https://stream1.freetv.fun/8a084cddc24bdbc15754dc2cf95a0954f8f30f45aef944c7d8b7f0aa0ba8e077.ctv
 [HD]国会频道2,https://stream1.freetv.fun/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8
+[BD]东森综合,https://stream1.freetv.fun/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
 [VGA]东森美洲,https://stream1.freetv.fun/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
 [BD]东森美洲中国,https://stream1.freetv.fun/0d9d053e113b9f4affb851bf56c0a2ed8755fab592272d0d922555abd74cee95.m3u8
 [BD]东森美洲卫视,https://stream1.freetv.fun/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
@@ -70,6 +71,7 @@
 [HD]民视台湾,https://stream1.freetv.fun/6de6fc3073fd98a8f878df8d20a3bc89656f040bfec5801acaa1e8cd2e112cb8.m3u8
 [BD]纬来精采,https://stream1.freetv.fun/d7fb67b6ad553367e15a443a726eb62c44d1775de9b706ebde77eead8d67ba58.m3u8
 [BD]纬来育乐（测试）,https://stream1.freetv.fun/a50768b6529ee2c90d64e35a73ea5d4e78f161f09d05a600285a528bb4485feb.m3u8
+[BD]华视,https://stream1.freetv.fun/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 
 音乐,#genre#
 [BD]tennis_channel,https://stream1.freetv.fun/9d741f7a69392950497ff7540a55c1dffda3c541e9e2e672be1d8ce8eb40afc0.ctv
@@ -85,7 +87,7 @@
 [BD]tvn,https://stream1.freetv.fun/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
 [BD]三立都会,https://stream1.freetv.fun/4cf0405feb7da9c71ac8d099a8652a1d7eea3b3bc176256de75a3e4c13899e15.m3u8
 [BD]国兴卫视-备,https://stream1.freetv.fun/c1158d3252a6164943b36767754781ccb1eedd749a44364350c89f6bfb41005e.m3u8
-[BD]纬来日本,https://stream1.freetv.fun/d480abf9f7c9121acb90bf59890605b053ae156c2d08d95f60cdf9e5479bb823.m3u8
+[HD]纬来日本,https://stream1.freetv.fun/9da2a954a3cb621db9561441401c4e8bc381f81625aa9a3f7c8bf48e852cdf09.ctv
 
 儿童,#genre#
 [BD]cn卡通,https://stream1.freetv.fun/dc12110f04c56c92bb85c7d092ae8f56bd4191d8bcb0d205575d3135985a0b41.ctv
@@ -115,7 +117,7 @@
 [VGA]博斯高球-2,https://stream1.freetv.fun/e3718958e8c5b40accba2ce61ba825c91df92d9d7e7a6d142bb82b83e9ecd734.ctv
 [HD]时尚运动_x,https://stream1.freetv.fun/132bed1410e1cd66f122d629b5320353bacd8f2765fd745940f45e4b5e3f38f1.ctv
 [HD]智林体育,https://stream1.freetv.fun/315d95b2bbbf837204322e552c722d57a6dae55099a04d6d55702c8eba1f63d5.ctv
-[BD]纬来体育,https://stream1.freetv.fun/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.ctv
+[HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
 奥运,#genre#
 [BD]tv_toruń,https://stream1.freetv.fun/a3f7b0886396e045987e048ef36063207e6a743db18c6d6df951227d39034a24.m3u8
@@ -136,6 +138,7 @@
 [BD]东森新闻,https://stream1.freetv.fun/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
 [BD]东森新闻4,https://stream1.freetv.fun/2c334697a617065e293be7a4bb1ab1021711fc35dbe87250832d2ca02adc9ef8.m3u8
 [BD]东森新闻,https://stream1.freetv.fun/e0188b3df38e29071c9a11bae0d48c5c5ca928f066fe9ba3714ecede5c58c9ab.m3u8
+[HD]东森财经,https://stream1.freetv.fun/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8
 [BD]民视新闻_hd,https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
 [BD]民视新闻_hd,https://stream1.freetv.fun/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
 [BD]台视,https://stream1.freetv.fun/8f16b3e76be7d2748d8c72e2528f09154719c808d4d68d4dbdee90ab4ca6dfcb.m3u8
