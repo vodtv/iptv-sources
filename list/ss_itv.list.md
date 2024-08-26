@@ -623,7 +623,7 @@
 | 615 | 黑龙江 | IPv4 直链 | <http://123.189.36.7:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 616 | 黑龙江 | IPv4 直链 | <http://123.189.36.155:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **8/25/2024 8:57:40 AM**
+Updated at **8/25/2024 4:13:50 PM**
 
 ## 使用说明
 
