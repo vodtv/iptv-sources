@@ -67,7 +67,7 @@
 | 59 | 中国天气 | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
 | 60 | CETV1中国教育电视台一套 | IPv4 直链 | <http://121.24.98.253:8090/hls/67/index.m3u8> |
 
-Updated at **8/26/2024 4:16:11 PM**
+Updated at **8/27/2024 8:54:30 AM**
 
 ## 使用说明
 
