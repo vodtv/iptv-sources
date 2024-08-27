@@ -417,7 +417,7 @@
 | 409 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 410 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 
-Updated at **8/26/2024 8:54:10 AM**
+Updated at **8/26/2024 4:16:11 PM**
 
 ## 使用说明
 
