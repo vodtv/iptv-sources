@@ -97,7 +97,7 @@
 | 89 | 兵团卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8> |
 | 90 | 三沙卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/sanshaSD/__op/default/__f/1/v1M/index.m3u8> |
 
-Updated at **8/31/2024 8:55:10 AM**
+Updated at **8/31/2024 4:14:12 PM**
 
 ## 使用说明
 
