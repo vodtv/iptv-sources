@@ -157,7 +157,7 @@
 | 149 | New KPOP | newidco-newkid-1-eu.xiaomi.wurl.tv | <https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 | 150 | Billiards TV | newidco-billiardstv-1-eu.xiaomi.wurl.tv | <https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 
-Updated at **9/1/2024 4:14:26 PM**
+Updated at **9/2/2024 8:56:42 AM**
 
 ## 使用说明
 
