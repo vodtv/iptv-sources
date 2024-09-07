@@ -84,6 +84,9 @@
 [HD]cctv11,https://stream1.freetv.fun/1980a78116511f29dafdfa41489fce7e543496c6b77c79ae56edeb3406470caa.m3u8
 [BD]cctv6,https://stream1.freetv.fun/51d6d337c4cbc6022c79db6d28f1606a876b750df63ed3505cb35ca43f038e4d.m3u8
 [BD]cctv8,https://stream1.freetv.fun/ba3b4e36fb922605a51884cd578cbd1d0bdf8c80a5278cd2a400a5facbbfb270.m3u8
+[SD]chc动作电影,https://stream1.freetv.fun/da8734ae11d0cc4577c2ed135c221b16c1c9d8dcf20389607f5db246de801474.m3u8
+[SD]chc家庭影院,https://stream1.freetv.fun/4baf8d6257afc16275e93604ac917bdd4bb3731c5a42f86ff10e33d652cfe91b.m3u8
+[BD]chc影迷电影,https://stream1.freetv.fun/11fa74ffb8cfcd6eff836607344827a8dcaf15f893bef299b2287d127b63f87f.m3u8
 [SD]哈尔滨影视,https://stream1.freetv.fun/b681acfb3d9cf5bc9d056d8513a6f1ef9ead223fe349f541e02a39edfabbd88a.m3u8
 [BD]东方影视,https://stream1.freetv.fun/f2b33637a75538cb25e6b62e5e5766129206ad2150bec2c91e8cd58734d3b4c0.m3u8
 [BD]黑龙江影视,https://stream1.freetv.fun/5aa13d0b84257000c999f97fb9b77649d0eecc3f391c330f922e3161616150c1.m3u8

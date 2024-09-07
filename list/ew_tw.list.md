@@ -15,7 +15,7 @@
 | 7 | [BD]catchplay 电影 | stream1.freetv.fun | <https://stream1.freetv.fun/d7162392975384a49356c9d916a88e130768870e5f8a431658a079611df56da4.ctv> |
 | 8 | [HD]dazn portugues | stream1.freetv.fun | <https://stream1.freetv.fun/8d5c263adb508ada83ab3b8dc676723eef3c2445bcac4b402bdd6f10a51c6c29.ctv> |
 | 9 | [HD]dazn2 | stream1.freetv.fun | <https://stream1.freetv.fun/94e9f0a64e3104f9d55d2750b441ad14c035d1965f7b9c4dde93aeefb6899eb8.m3u8> |
-| 10 | [BD]discovery channel | stream1.freetv.fun | <https://stream1.freetv.fun/5471ed6a2a8741edc2375d513e7f5e1b6b62a2c170a5da2218f95e8afd4b7176.m3u8> |
+| 10 | [VGA]discovery channel | stream1.freetv.fun | <https://stream1.freetv.fun/5471ed6a2a8741edc2375d513e7f5e1b6b62a2c170a5da2218f95e8afd4b7176.m3u8> |
 | 11 | [BD]discovery hd world | stream1.freetv.fun | <https://stream1.freetv.fun/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8> |
 | 12 | [BD]discovery science | stream1.freetv.fun | <https://stream1.freetv.fun/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8> |
 | 13 | [BD]discovery español | stream1.freetv.fun | <https://stream1.freetv.fun/e43e85cd770c5bfa7369e4bab628e0ae0ec235b7234c4c619d04d4953fd1bca4.ctv> |
@@ -64,7 +64,7 @@
 | 56 | [BD]滚动力 rollor | stream1.freetv.fun | <https://stream1.freetv.fun/c61ba4efee6e01f2439ef547bf58336c4bb58bbddb476df9376a40adc1fcd6f8.ctv> |
 | 57 | [VGA]三立国际 | stream1.freetv.fun | <https://stream1.freetv.fun/1649230d30717de3b89c98561d6b93d9afd7cb93339ac1ad29423158001db6bd.m3u8> |
 | 58 | [HD]三立戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/061bb61f129b85697df7340fdca7fd2f11f819847b21a8deac5032eb41908e5d.m3u8> |
-| 59 | [HD]三立新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/19bb2614438a969a06d41ed9d4fd9c4f2c61837346096f0b9286fa0d7d18b96c.m3u8> |
+| 59 | [VGA]三立新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv> |
 | 60 | [BD]三立综合 | stream1.freetv.fun | <https://stream1.freetv.fun/fdf2bf897e0217754c91e5064b1ac7855f31eda692af574b11db9c97d9b5e23b.ctv> |
 | 61 | [BD]三立台湾 | stream1.freetv.fun | <https://stream1.freetv.fun/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8> |
 | 62 | [BD]三立台湾 | stream1.freetv.fun | <https://stream1.freetv.fun/3ff6d4727ba82d29f7bc3ce5dab48787ed38bb63e67b535c9c8cebe95e81ced9.ctv> |
@@ -107,7 +107,7 @@
 | 99 | [HD]大爱1台 | stream1.freetv.fun | <https://stream1.freetv.fun/cda9c15049fc9a62b363d1018881fe11828f20acfccb0ba7927604e967e003e7.m3u8> |
 | 100 | [HD]大爱2 | stream1.freetv.fun | <https://stream1.freetv.fun/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8> |
 | 101 | [BD]大爱电视 | stream1.freetv.fun | <https://stream1.freetv.fun/0a11ee11ea6abba07e2a263e03263149e470dfaeb4d746d29b8ccb8c9a8b511c.ctv> |
-| 102 | [HD]大立电视 | stream1.freetv.fun | <https://stream1.freetv.fun/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8> |
+| 102 | [BD]大立电视 | stream1.freetv.fun | <https://stream1.freetv.fun/e430593dd56fde9998d6d4c5598f7b44f146b2907f056112a81a42a34ac4cbc1.m3u8> |
 | 103 | [BD]好莱坞电影 | stream1.freetv.fun | <https://stream1.freetv.fun/a79a50a0196d7ee9ede077afd740c3789bea10d0b76951a09014fb92956aefc5.ctv> |
 | 104 | [VGA]好消息 | stream1.freetv.fun | <https://stream1.freetv.fun/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8> |
 | 105 | [HD]好消息2 | stream1.freetv.fun | <https://stream1.freetv.fun/99a7112e32330890db56fd04e059dc59c9fdc4bf19c9167967a3e22b131d2441.m3u8> |
@@ -117,7 +117,7 @@
 | 109 | [BD]寰宇hd综合 | stream1.freetv.fun | <https://stream1.freetv.fun/2184eca853c01def8e7bde467c46f88c3f47a5f2a8247b8be532478970713d95.ctv> |
 | 110 | [HD]寰宇财经 | stream1.freetv.fun | <https://stream1.freetv.fun/8451e14d80695c506a2baa01b87c0d8d9e1784d2acee23151690e2da7b36c6d6.m3u8> |
 | 111 | [BD]年代much | stream1.freetv.fun | <https://stream1.freetv.fun/29458980ecd1560a7748913f3bd65a12aba1d486fac97de8723b7ea6e70dc683.m3u8> |
-| 112 | [BD]年代新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/b568fdf49ecc39119662a57f6e4ee16a6e41643a2a3c66854f9bc81663a8174b.ctv> |
+| 112 | [BD]年代新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/d55f0bf3ca7f68a0861404d9ecd878546b74f474f002f7cd69c88d2ce185d041.m3u8> |
 | 113 | [BD]影迷数位纪实 | stream1.freetv.fun | <https://stream1.freetv.fun/ff8b9851882cb38cff169f5207382953d184131ec628d15df77c06d309cb9e1d.ctv> |
 | 114 | [BD]影迷数位电影 | stream1.freetv.fun | <https://stream1.freetv.fun/092f3ca46d1e5f24e6458d55a857b3bd6521a3cb992a57f2eff178f58a2ffae0.ctv> |
 | 115 | [HD]爱尔达影剧 | stream1.freetv.fun | <https://stream1.freetv.fun/813c978bc607dc5932f42d25dd341be1ed9ea035da9a558c192c61c9606e20fd.ctv> |
@@ -131,7 +131,7 @@
 | 123 | [BD]东森新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv> |
 | 124 | [BD]东森新闻4 | stream1.freetv.fun | <https://stream1.freetv.fun/2c334697a617065e293be7a4bb1ab1021711fc35dbe87250832d2ca02adc9ef8.m3u8> |
 | 125 | [HD]东森新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/8f2b42373f36053054b9e34d7b381afff8efde2a828d20bab578c9137288cdd6.m3u8> |
-| 126 | [BD]东森洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/7e2982f5889af5d8c03c773d7cd2742a1595bf464ac49fdd012b1a29e4a00af3.ctv> |
+| 126 | [BD]东森洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/3472bff5bba04badcd6f0289d5792d8710bfa290dd19488c097c79bcb63d122b.m3u8> |
 | 127 | [BD]东森综合 | stream1.freetv.fun | <https://stream1.freetv.fun/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8> |
 | 128 | [VGA]东森美洲 | stream1.freetv.fun | <https://stream1.freetv.fun/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8> |
 | 129 | [BD]东森美洲中国 | stream1.freetv.fun | <https://stream1.freetv.fun/0d9d053e113b9f4affb851bf56c0a2ed8755fab592272d0d922555abd74cee95.m3u8> |
@@ -198,7 +198,7 @@
 | 190 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/b3cafc1195fc65049e4faa3252721631530e68ef560f3cbd2f0db533d558cf57.m3u8> |
 | 191 | [HD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/b44f3f8206b7073445564de4284c7899fe6665a88f13e2e4043ef41dec4daed0.ctv> |
 
-Updated at **9/6/2024 4:15:19 PM**
+Updated at **9/7/2024 8:54:50 AM**
 
 ## 使用说明
 
