@@ -15,7 +15,7 @@
 | 7 | [BD]catchplay 电影 | stream1.freetv.fun | <https://stream1.freetv.fun/d7162392975384a49356c9d916a88e130768870e5f8a431658a079611df56da4.ctv> |
 | 8 | [HD]dazn portugues | stream1.freetv.fun | <https://stream1.freetv.fun/8d5c263adb508ada83ab3b8dc676723eef3c2445bcac4b402bdd6f10a51c6c29.ctv> |
 | 9 | [HD]dazn2 | stream1.freetv.fun | <https://stream1.freetv.fun/94e9f0a64e3104f9d55d2750b441ad14c035d1965f7b9c4dde93aeefb6899eb8.m3u8> |
-| 10 | [BD]discovery channel | stream1.freetv.fun | <https://stream1.freetv.fun/5471ed6a2a8741edc2375d513e7f5e1b6b62a2c170a5da2218f95e8afd4b7176.m3u8> |
+| 10 | [SD]discovery channel | stream1.freetv.fun | <https://stream1.freetv.fun/5471ed6a2a8741edc2375d513e7f5e1b6b62a2c170a5da2218f95e8afd4b7176.m3u8> |
 | 11 | [BD]discovery hd world | stream1.freetv.fun | <https://stream1.freetv.fun/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8> |
 | 12 | [BD]discovery science | stream1.freetv.fun | <https://stream1.freetv.fun/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8> |
 | 13 | [BD]discovery español | stream1.freetv.fun | <https://stream1.freetv.fun/e43e85cd770c5bfa7369e4bab628e0ae0ec235b7234c4c619d04d4953fd1bca4.ctv> |
@@ -33,7 +33,7 @@
 | 25 | [BD]fun 探索娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/70e0de7eab7c47c9eeeb98453a85b6012f3e357764bb5760bfebeb67a5e4ceab.ctv> |
 | 26 | [VGA]food | stream1.freetv.fun | <https://stream1.freetv.fun/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8> |
 | 27 | [BD]global trekker | stream1.freetv.fun | <https://stream1.freetv.fun/ea3c3fe340819afc58746ae7ca5576f2b6030c5b8c87215de6938416287d42cc.ctv> |
-| 28 | [BD]hbo signature | stream1.freetv.fun | <https://stream1.freetv.fun/87506f962b90c1e6a534a2768eec4e2caa0b75d1453dedd5b28b87f812cd11c4.m3u8> |
+| 28 | [HD]hbo signature | stream1.freetv.fun | <https://stream1.freetv.fun/87506f962b90c1e6a534a2768eec4e2caa0b75d1453dedd5b28b87f812cd11c4.m3u8> |
 | 29 | [BD]hollywood classics | stream1.freetv.fun | <https://stream1.freetv.fun/0b7b43f22318768ae441ed3a4db8ae15bb12e2d8818cd19522be6a87352b2464.m3u8> |
 | 30 | [HD]jet综合 | stream1.freetv.fun | <https://stream1.freetv.fun/cd8155e26d814ebf606095b3193db7a12628d72dee8068015f9943e0188dac53.ctv> |
 | 31 | [BD]lifetime 娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/dd5c8d2da93dee840c32e992753cea6a9d45ee634faf6e27dde6efd6512d7aea.ctv> |
@@ -66,7 +66,7 @@
 | 58 | [HD]三立戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/061bb61f129b85697df7340fdca7fd2f11f819847b21a8deac5032eb41908e5d.m3u8> |
 | 59 | [BD]三立新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv> |
 | 60 | [BD]三立综合 | stream1.freetv.fun | <https://stream1.freetv.fun/fdf2bf897e0217754c91e5064b1ac7855f31eda692af574b11db9c97d9b5e23b.ctv> |
-| 61 | [BD]三立台湾 | stream1.freetv.fun | <https://stream1.freetv.fun/b02bd01dece7d9086087806b32129fdf937015058b0bdcfd5183b15ae0c81bfa.ctv> |
+| 61 | [BD]三立台湾 | stream1.freetv.fun | <https://stream1.freetv.fun/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8> |
 | 62 | [BD]三立台湾 | stream1.freetv.fun | <https://stream1.freetv.fun/3ff6d4727ba82d29f7bc3ce5dab48787ed38bb63e67b535c9c8cebe95e81ced9.ctv> |
 | 63 | [BD]三立都会 | stream1.freetv.fun | <https://stream1.freetv.fun/06662348c5d655eada3055681991e16181b0fb309c68d52463437f1d8e20b599.m3u8> |
 | 64 | [HD]中天亚洲 | stream1.freetv.fun | <https://stream1.freetv.fun/1a139a2e00679a462ea11e36cee3ef3ee82ba7668bead6090f63ade3cb38d766.ctv> |
@@ -198,7 +198,7 @@
 | 190 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/b3cafc1195fc65049e4faa3252721631530e68ef560f3cbd2f0db533d558cf57.m3u8> |
 | 191 | [HD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/b44f3f8206b7073445564de4284c7899fe6665a88f13e2e4043ef41dec4daed0.ctv> |
 
-Updated at **9/8/2024 9:00:30 AM**
+Updated at **9/8/2024 4:14:02 PM**
 
 ## 使用说明
 
