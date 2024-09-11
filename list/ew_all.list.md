@@ -91,7 +91,7 @@
 | 83 | [SD]西藏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/e9b551911f75a12de9d10157ac98a47d34040438240edc0626e3a1d0dfe7b3d2.m3u8> |
 | 84 | [BD]贵州卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.m3u8> |
 | 85 | [BD]魅力足球 | stream1.freetv.fun | <https://stream1.freetv.fun/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8> |
-| 86 | [SD]农林卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4509b28aa6870b6723880c39a01a00ab539461605d227f22a85ba3d105592ad9.m3u8> |
+| 86 | [SD]农林卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/45065b7c39b95e8548fbe7aa43fcb376ae2c75e94fb5826644010643e98a4d32.m3u8> |
 | 87 | [BD]辽宁卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/91916992fb62b120939e6706e0afe5b3f293ac89ef6e02481b3f54c9a869c6c3.m3u8> |
 | 88 | [BD]重庆卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8> |
 | 89 | [SD]金鹰卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/d2e1b4c338adcdd3de1589d4d918567e394284d774f687703d7a41adf4a515b3.m3u8> |
@@ -111,7 +111,7 @@
 | 103 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 104 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **9/10/2024 8:56:52 AM**
+Updated at **9/10/2024 4:15:40 PM**
 
 ## 使用说明
 

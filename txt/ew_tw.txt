@@ -67,7 +67,7 @@
 [BD]八大娱乐,https://stream1.freetv.fun/89721c3a03d6612da0013885a828bad02a80c584180bcbd938d3acd88a90427d.m3u8
 [BD]民视综艺,https://stream1.freetv.fun/444c52a6e20c3fc54184073761350f1a03bf0298db751fdbfafb1814dcc71cf8.ctv
 [BD]民视综艺,https://stream1.freetv.fun/f670f5cf01c23f89a7dd6422e4c39feb0d793707ac34e7aef07f2f55a7d58aec.ctv
-[BD]纬来日本,https://stream1.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.ctv
+[HD]纬来日本,https://stream1.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.ctv
 [BD]金光布袋戏,https://stream1.freetv.fun/5419e453b1de9b2d8feba8c83e30844a12bcc8ddc543c1545bae6cf6ef73301c.ctv
 
 儿童,#genre#
@@ -111,7 +111,6 @@
 
 奥运,#genre#
 [HD]elta1,https://stream1.freetv.fun/1d14225fdb6b3260cb756f62e4fcf44cda4557264f96f1c89f0194f10f1ddeca.ctv
-[BD]tv_toruń,https://stream1.freetv.fun/a3f7b0886396e045987e048ef36063207e6a743db18c6d6df951227d39034a24.m3u8
 
 综合,#genre#
 [BD]fun_探索娱乐,https://stream1.freetv.fun/70e0de7eab7c47c9eeeb98453a85b6012f3e357764bb5760bfebeb67a5e4ceab.ctv

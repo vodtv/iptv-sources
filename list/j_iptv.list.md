@@ -451,7 +451,7 @@
 | 443 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 444 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 
-Updated at **9/10/2024 8:56:52 AM**
+Updated at **9/10/2024 4:15:40 PM**
 
 ## 使用说明
 
