@@ -509,7 +509,7 @@
 | 501 | QTV-1 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8> |
 | 502 | Lanzhou Comprehensive News Channel | liveplus.lztv.tv | <https://liveplus.lztv.tv/xwzh/HD/live.m3u8> |
 
-Updated at **9/14/2024 8:55:36 AM**
+Updated at **9/14/2024 4:16:07 PM**
 
 ## 使用说明
 
