@@ -48,6 +48,7 @@
 综艺,#genre#
 [SD]cmusic,https://stream1.freetv.fun/962b183db2050a7f4995fa60fb432e5da6df5872565cb7f6792a673d3c157248.m3u8
 [HD]elta娱乐,https://stream1.freetv.fun/5afb485f7e1ed36f9f2e6bfd1df8698fadb395303e70cef7cb752e42f579f826.ctv
+[BD]ROCK_ENTERTAINMENT,https://stream1.freetv.fun/fe20a7334837d153654119b88519c3811a21993756b28b8fe5f0d447837d432c.ctv
 [BD]tvbs欢乐,https://stream1.freetv.fun/34dc7b4981ac62f6c596085f0b3cd421ce22b144d9521373f405a7c658f43a50.m3u8
 [HD]tvbs精采,https://stream1.freetv.fun/c6cf6d640e74eaafae11b307f0e6d7ad9920546452e2a979eedd215108ac5e31.ctv
 [BD]tvn,https://stream1.freetv.fun/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
@@ -102,7 +103,7 @@
 [VGA]三立综合,https://stream1.freetv.fun/fdf2bf897e0217754c91e5064b1ac7855f31eda692af574b11db9c97d9b5e23b.m3u8
 [BD]三立台湾,https://stream1.freetv.fun/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8
 [BD]三立台湾,https://stream1.freetv.fun/3ff6d4727ba82d29f7bc3ce5dab48787ed38bb63e67b535c9c8cebe95e81ced9.ctv
-[HD]中天亚洲,https://stream1.freetv.fun/1a139a2e00679a462ea11e36cee3ef3ee82ba7668bead6090f63ade3cb38d766.ctv
+[HD]中天亚洲台,https://stream1.freetv.fun/68b7f9022e8ceffabd4568c1f65ef0528a87b769f447c97d880fd28fa84168bb.ctv
 [HD]中天亚洲,https://stream1.freetv.fun/d24f5f66644bf779e03b45438e9b1a0ca8d1953a35a0090a6ba3f05a1ab873d2.ctv
 [HD]中视,rtmp://f13h.mine.nu:1935/sat/tv091
 [HD]中视经典,https://stream1.freetv.fun/e0e88c6e4defe27668fec2d8a9f7c1fb346e5ee3e7fd6cd1885abf6b9a24a8fb.ctv
