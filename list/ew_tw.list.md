@@ -55,7 +55,7 @@
 | 47 | [HD]中视菁采 | stream1.freetv.fun | <https://stream1.freetv.fun/68e9b4a0a59369822cb4447da6ddefd8032c322dc5fe904f0d84224747d03b47.ctv> |
 | 48 | [HD]亚洲旅游 | stream1.freetv.fun | <https://stream1.freetv.fun/5eb9f663b32a44cde3f6f3b984d8f841bc81d50549f773b1cb1f49fed7dd7fce.ctv> |
 | 49 | [HD]人间卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8> |
-| 50 | [BD]八大戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/6b1701a07ea621155cdaa9ee604b6c6ebc763093fafaf493ce7a3c2e206be799.m3u8> |
+| 50 | [VGA]八大戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/142384e4d4da3c9b4c31aabacbc41888ac3d21604ab6a80306afc96a831ad01a.m3u8> |
 | 51 | [HD]八大精彩 | stream1.freetv.fun | <https://stream1.freetv.fun/f1998f7433bb8b7f0966903c2774f3d880768d5bfb81afa524ac0917eb4d17b7.ctv> |
 | 52 | [HD]八大综合 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e2acb4411d2645455c89da8f24a838c3094e198b1d05ebc24b042afa587556.ctv> |
 | 53 | [HD]八大综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/9d2a322b7eebe7f4871007237fd947f3637931b381ff02449827a280538ab854.ctv> |
@@ -118,7 +118,7 @@
 | 110 | [HD]纬来育乐 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv701> |
 | 111 | [BD]纬来电影 | stream1.freetv.fun | <https://stream1.freetv.fun/722505b3aabbd0a31f226ee7ea22ff410e8ebc38f635956ecc1be637b1732c0b.m3u8> |
 | 112 | [BD]纬来体育 | stream1.freetv.fun | <https://stream1.freetv.fun/293ffc7d611ff105b214c4988db64f399b5ab87a1b5395ca4ff735e98645e854.ctv> |
-| 113 | [HD]美亚电影 | stream1.freetv.fun | <https://stream1.freetv.fun/364ab897bc6f681e9a63a87348e5234e25e3582b43777c2f449bd4081b94f578.m3u8> |
+| 113 | [BD]美亚电影 | stream1.freetv.fun | <https://stream1.freetv.fun/1f65979c3b9190ec8f0120b85e6a65c8327f1378d612bb9e195c87f79cfa1652.m3u8> |
 | 114 | [HD]台湾戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/81eba36bf074826b4100a35b010cf2450c15440ba0dff01da9394baee05b9863.ctv> |
 | 115 | [BD]台视 | stream1.freetv.fun | <https://stream1.freetv.fun/a7dddec93a9aabf57c6cc078c93713caa086c81dca9b15afc481edbf797543e1.m3u8> |
 | 116 | [BD]台视新闻 hd | stream1.freetv.fun | <https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
@@ -152,7 +152,7 @@
 | 144 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/5f51a5fb46662fa68a1abe657f86a57d78705f793c2fbab11d9f685e7a5a6974.ctv> |
 | 145 | [HD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8> |
 
-Updated at **11/6/2024 4:16:57 PM**
+Updated at **11/7/2024 8:58:28 AM**
 
 ## 使用说明
 
