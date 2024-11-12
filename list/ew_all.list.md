@@ -75,7 +75,7 @@
 | 67 | [BD]东方影视 | stream1.freetv.fun | <https://stream1.freetv.fun/772a3f614df22e236a632996d17934432030a5daa5c6c76e91c7a6c438dee3f5.m3u8> |
 | 68 | [BD]东方卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/28892ec227ba71b02a176cbc200308ed6a49b3ff32c15bca18953582055e5045.m3u8> |
 | 69 | [BD]求索纪录 | stream1.freetv.fun | <https://stream1.freetv.fun/ca7a2161e32c51b69025f99041dfccd2cb16223b2bbadf6f96874dd83a8fd210.m3u8> |
-| 70 | [BD]江苏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/ef254107d931990db447a061e8aaa71b4c66228fbccf64d72cf6c9f6e664272f.m3u8> |
+| 70 | [BD]江苏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4f24c45e978db16f03f9526a99b66684f76c164081454f9fb06fb75f3909339d.m3u8> |
 | 71 | [BD]江西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.m3u8> |
 | 72 | [BD]河北卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/49b81228eb02073791ce98fbba2fbd077663e55bc903daf2faa35d18705df6f4.m3u8> |
 | 73 | [SD]河南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/23db28c32ab3480201f1786bd63814a74e07902931ef4aa44300461df3ec1495.m3u8> |
@@ -118,7 +118,7 @@
 | 110 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 111 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **11/11/2024 4:16:48 PM**
+Updated at **11/12/2024 8:57:35 AM**
 
 ## 使用说明
 
