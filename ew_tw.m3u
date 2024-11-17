@@ -43,6 +43,8 @@ rtmp://f13h.mine.nu/sat/tv761
 https://stream1.freetv.fun/25764ff8977e46f69f07dfd235ef37be6dfbf338c492c45b5092adf631ee4cca.ctv
 #EXTINF:-1 tvg-name="PET CLUB TV" tvg-id="368671" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png" group-title="其它",[BD]pet club tv
 https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="368806" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png" group-title="综艺",[BD]ROCK ENTERTAINMENT
+https://stream1.freetv.fun/11c611cc09a3e1c3c1232adb9ee149e67250061c7b4f99adc49f921e01a94526.ctv
 #EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg" group-title="知识",[BD]smithsonian channel
 https://stream1.freetv.fun/b1553b81be58e6846203539f162b4b40c0cc53697d897d9388b42fa7f43f8cae.ctv
 #EXTINF:-1 tvg-name="TVBS" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162515629145_45.png" group-title="综合",[BD]tvbs
@@ -149,8 +151,8 @@ https://stream1.freetv.fun/9b76ea2344e9add33d27b06fcec84015f4aec3bfb9662be24880d
 https://stream1.freetv.fun/9b973e9c3e8bf6aa095d124d1612b7a28f1cedd91b9e75c7fa4421dec39e2970.m3u8
 #EXTINF:-1 tvg-name="东森戏剧" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126213003695910_75.jpg" group-title="电影",[BD]东森戏剧
 https://stream1.freetv.fun/63afc04b6f48d6ab1be98e6ac787f6a5ae5341600353f7f32af5bd39bd544b07.m3u8
-#EXTINF:-1 tvg-name="东森新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg" group-title="新闻",[BD]东森新闻
-https://stream1.freetv.fun/4e8297ed0610c91e855ddb69d24344baa6b732dd2d1b24ac2e0a71a3d39ca41c.ctv
+#EXTINF:-1 tvg-name="东森新闻" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg" group-title="新闻",[VGA]东森新闻
+https://stream1.freetv.fun/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
 #EXTINF:-1 tvg-name="东森新闻HD" tvg-id="369248" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105958907992_29.png" group-title="新闻",[BD]东森新闻
 https://stream1.freetv.fun/ead6203029ad1e27a3333fb53d1134bce31f59708fb7241446911487f5f91e68.ctv
 #EXTINF:-1 tvg-name="东森综合" tvg-id="369188" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105831030948_83.png" group-title="综合",[BD]东森综合
@@ -197,7 +199,7 @@ https://stream1.freetv.fun/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f374
 https://stream1.freetv.fun/a8fb7adb8dbbc9bb8251b6dca1f06bde4a42896fc3c871353438d667450360b1.m3u8
 #EXTINF:-1 tvg-name="纬来戏剧" tvg-id="369224" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105525808337_70.png" group-title="电影",[BD]纬来戏剧
 https://stream1.freetv.fun/9a3ecad00b3dc63999364b9fe2b57b38e82f78f75cf6357e92dbe8f19feb7218.m3u8
-#EXTINF:-1 tvg-name="纬来日本" tvg-id="369284" tvg-country="台湾" tvg-language="日语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105459178241_22.png" group-title="综艺",[BD]纬来日本
+#EXTINF:-1 tvg-name="纬来日本" tvg-id="369284" tvg-country="台湾" tvg-language="日语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105459178241_22.png" group-title="综艺",[VGA]纬来日本
 https://stream1.freetv.fun/9da2a954a3cb621db9561441401c4e8bc381f81625aa9a3f7c8bf48e852cdf09.m3u8
 #EXTINF:-1 tvg-name="纬来综合" tvg-id="368944" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105407873472_53.png" group-title="综合",[BD]纬来综合
 https://stream1.freetv.fun/ebb2529827731fb54adadf343341e3761a2f0090892fc0c5d48ade3f6e45c975.m3u8
