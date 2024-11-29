@@ -22,7 +22,7 @@
 [BD]黑龙江新闻法治,https://stream1.freetv.fun/6fa84147aa9a9981e4ad84aa4cb21c255f1ff6287fcf1201d1a97f7d4144ea54.m3u8
 
 其它,#genre#
-[BD]cctv-1_综合,https://stream1.freetv.fun/a5fbd31c7ed28a48d9590839db39cd1fd8e07355434581d191d7cb503c417649.m3u8
+[BD]cctv-1_综合,https://stream1.freetv.fun/a5906a28a102dcf06a322abb9f6e26261979346f1fbdf8a7f00d3a55571e061a.m3u8
 [BD]cctv10,https://stream1.freetv.fun/f469851fa4b0067631736e4bded110d5c7590a800adc30e535c02044b6301a09.m3u8
 [BD]cctv17,https://stream1.freetv.fun/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8
 [BD]cctv7,https://stream1.freetv.fun/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8

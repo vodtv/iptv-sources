@@ -7,7 +7,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]cctv 5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/bdc0308a43a8f0afe8179ef9ab849b0c4dbd71454d013ac0f87fb9d43c84edd5.m3u8> |
-| 2 | [BD]cctv-1 综合 | stream1.freetv.fun | <https://stream1.freetv.fun/a5fbd31c7ed28a48d9590839db39cd1fd8e07355434581d191d7cb503c417649.m3u8> |
+| 2 | [BD]cctv-1 综合 | stream1.freetv.fun | <https://stream1.freetv.fun/a5906a28a102dcf06a322abb9f6e26261979346f1fbdf8a7f00d3a55571e061a.m3u8> |
 | 3 | [BD]cctv-1 | stream1.freetv.fun | <https://stream1.freetv.fun/a889719f1fad87b0acb7a227b6b20250cf3636435d50076bf4a134f26e0b2c5a.m3u8> |
 | 4 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/f8b77654ee5202e90044771d42c97306dee3fac5acd35b60e23652873790de01.ctv> |
 | 5 | [BD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/f469851fa4b0067631736e4bded110d5c7590a800adc30e535c02044b6301a09.m3u8> |
@@ -131,7 +131,7 @@
 | 123 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 124 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **11/28/2024 4:17:44 PM**
+Updated at **11/29/2024 9:03:32 AM**
 
 ## 使用说明
 
