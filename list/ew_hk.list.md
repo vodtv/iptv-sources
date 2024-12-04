@@ -60,12 +60,12 @@
 | 52 | [SD]香港电台(34) | stream1.freetv.fun | <https://stream1.freetv.fun/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8> |
 | 53 | [HD]香港面包 | stream1.freetv.fun | <https://stream1.freetv.fun/7bae061b491a674ae4350cefd58c3938bcccdc8edab70e7dcc3e74a64e45174d.m3u8> |
 | 54 | [BD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.ctv> |
-| 55 | [HD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8ae1f8cc1e21c1e2aab742457179830ae5e80e0f70e44a99f5342cce4f486689.ctv> |
-| 56 | [BD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/f28f307d60caeb98e000700b12f96fefab1d01f7c3fe468a91b003d9d00f6343.ctv> |
+| 55 | [HD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/44687b85e5fcafd523422605f8328e6cc34d715045af41210866f1b05a83a481.ctv> |
+| 56 | [VGA]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/9be4ef379c5db777788ff0b82cbc7d6c47a0ebb9c42b42afca25ba9ab52fd39f.m3u8> |
 | 57 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
 | 58 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/22d8b9851b76df67b31f3ab156a80cce3a0dad2f7a58da81b36efc679a149328.ctv> |
 
-Updated at **12/3/2024 4:17:38 PM**
+Updated at **12/4/2024 9:05:10 AM**
 
 ## 使用说明
 
