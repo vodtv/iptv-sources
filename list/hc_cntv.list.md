@@ -77,7 +77,7 @@
 | 69 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=0302d4411733191326> |
 | 70 | 三沙卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=b9f3ea771733191439> |
 
-Updated at **12/3/2024 9:04:56 AM**
+Updated at **12/3/2024 4:17:38 PM**
 
 ## 使用说明
 
