@@ -67,7 +67,7 @@
 | 59 | 东南卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/dnwshd/2300000/mnf.m3u8> |
 | 60 | 兵团卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/btws/1300000/mnf.m3u8> |
 
-Updated at **12/9/2024 9:06:31 AM**
+Updated at **12/9/2024 4:19:22 PM**
 
 ## 使用说明
 
