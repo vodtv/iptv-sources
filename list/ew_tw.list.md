@@ -77,7 +77,7 @@
 | 69 | [HD]国会 1 | stream1.freetv.fun | <https://stream1.freetv.fun/aa456fc18f60a8a6ecd1453e63340483e55f656d8425efdecccadc1106d5e390.m3u8> |
 | 70 | [HD]国会频道2 | stream1.freetv.fun | <https://stream1.freetv.fun/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8> |
 | 71 | [HD]大爱1台 | stream1.freetv.fun | <https://stream1.freetv.fun/cda9c15049fc9a62b363d1018881fe11828f20acfccb0ba7927604e967e003e7.m3u8> |
-| 72 | [HD]大爱2 | stream1.freetv.fun | <https://stream1.freetv.fun/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8> |
+| 72 | [BD]大爱2 | stream1.freetv.fun | <https://stream1.freetv.fun/fccdee5659dfd45d93efddb44de44613ea55be5d22329aa3454de0d523af87ef.m3u8> |
 | 73 | [VGA]好消息 | stream1.freetv.fun | <https://stream1.freetv.fun/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8> |
 | 74 | [BD]客家电视 | stream1.freetv.fun | <https://stream1.freetv.fun/f1567ca52bd4977a1d1a9c738986080b2020b862b5290f813e217f0dfb90b164.ctv> |
 | 75 | [BD]寰宇新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/bf93503dd1e9014f7c464169edb236d98aaa463f66da3335c12d1b841a523564.m3u8> |
@@ -147,7 +147,7 @@
 | 139 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.ctv> |
 | 140 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/98bcec14762b49f4694979eb01f77111b1d76ae30b13a729d77b6cdaa937d2a8.ctv> |
 
-Updated at **12/14/2024 9:02:53 AM**
+Updated at **12/14/2024 4:15:58 PM**
 
 ## 使用说明
 

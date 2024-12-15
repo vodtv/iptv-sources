@@ -41,7 +41,7 @@
 | 33 | [BD]三沙卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/5f41e68a950b6a693abb759616b9aa680709070a571468b367d703cb3f1d5dc9.m3u8> |
 | 34 | [BD]上海新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8> |
 | 35 | [BD]上海都市 | stream1.freetv.fun | <https://stream1.freetv.fun/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8> |
-| 36 | [BD]五星体育 | stream1.freetv.fun | <https://stream1.freetv.fun/74265a626e59503a98ad161d3c2eb76dbe0b2ed6807ebdc7a4d3b5059c413b7e.m3u8> |
+| 36 | [BD]五星体育 | stream1.freetv.fun | <https://stream1.freetv.fun/46db25feb5a101ea38cae1008f737d9483694b044670c1258b3f58473f4ca4ee.m3u8> |
 | 37 | [SD]优漫卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8> |
 | 38 | [SD]内蒙古卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/37fc5c2c33aed43bab26dcbddab8b5b568175179a9e550df8092952c55f09d7c.m3u8> |
 | 39 | [SD]兵团卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/61bc87430c7355851c32a809b26e758c592540877e7caf1494a5d1c3d4f10447.m3u8> |
@@ -119,7 +119,7 @@
 | 111 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/0d44ee99e0aebb0bdb18de41c7c8923f18473f638ed0eb4139d665cd5e3d2a15.m3u8> |
 | 112 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **12/14/2024 9:02:53 AM**
+Updated at **12/14/2024 4:15:58 PM**
 
 ## 使用说明
 

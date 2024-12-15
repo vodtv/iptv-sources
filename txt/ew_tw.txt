@@ -7,7 +7,7 @@
 [HD]创世电视,https://stream1.freetv.fun/dbcb37030ce1e99f5860fd270a76e63d2aa00a6a67f609619ab25c5b81a2e0e5.m3u8
 [HD]唯心电视,https://stream1.freetv.fun/d1cf8bade6ebe3a278d268eed58d4cded514c586b05b8de1d4ccfc5017754f74.m3u8
 [HD]大爱1台,https://stream1.freetv.fun/cda9c15049fc9a62b363d1018881fe11828f20acfccb0ba7927604e967e003e7.m3u8
-[HD]大爱2,https://stream1.freetv.fun/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
+[BD]大爱2,https://stream1.freetv.fun/fccdee5659dfd45d93efddb44de44613ea55be5d22329aa3454de0d523af87ef.m3u8
 [VGA]好消息,https://stream1.freetv.fun/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8
 [BD]民视旅游,https://stream1.freetv.fun/9289a1165376ea4d6d6bcd7e66c6169d5042cd933e5ba3f972a1f262de0cdcc2.ctv
 [BD]生命电视台,https://stream1.freetv.fun/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8
