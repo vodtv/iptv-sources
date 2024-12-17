@@ -90,6 +90,7 @@
 知识,#genre#
 [HD]discovery_channel,https://stream1.freetv.fun/93fcd1594411ac63fda1ea612e8ce8850672cf978164a6054cd2ef35626d5ebb.m3u8
 [BD]love_nature,https://stream1.freetv.fun/0c552589b4fcf164ed142e83d60eeb4e0fe7569f82dfb443b89ae78eb3c7abce.m3u8
+[HD]nat_geo,https://stream1.freetv.fun/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.m3u8
 
 综合,#genre#
 [HD]momo综合,rtmp://f13h.mine.nu/sat/tv761
