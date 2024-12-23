@@ -26,7 +26,7 @@
 | 18 | [VGA]mezzo | stream1.freetv.fun | <https://stream1.freetv.fun/87635f4843d9010131cd46a88543ff8bd4f13e330997c95d928e6971959a98d9.m3u8> |
 | 19 | [HD]momo综合 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv761> |
 | 20 | [HD]nat geo | stream1.freetv.fun | <https://stream1.freetv.fun/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.m3u8> |
-| 21 | [BD]ROCK ENTERTAINMENT | stream1.freetv.fun | <https://stream1.freetv.fun/38fa116a891b753410e4433d4454273c9dc0a7f4f3a484c531bafa589dd95172.ctv> |
+| 21 | [HD]ROCK Entertainment | stream1.freetv.fun | <https://stream1.freetv.fun/b66831a338001b54594bdb64f936140edea505150419a2266b45a5f537dca5fc.ctv> |
 | 22 | [BD]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/8367c93681f2d6627b3575b8919e7df4a246630f0640fbf2ccb3f1aa0ff740a4.ctv> |
 | 23 | [BD]TVBS Asia | stream1.freetv.fun | <https://stream1.freetv.fun/3755f66478283ddf741976fcab316095c250fd57b92808527623d76ff2861730.m3u8> |
 | 24 | [BD]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv> |
@@ -91,7 +91,7 @@
 | 83 | [BD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/07af5ce9e0d331228189888717ee6d91f727f9bbc5720e912578119d64e346dd.m3u8> |
 | 84 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8> |
 
-Updated at **12/22/2024 9:04:26 AM**
+Updated at **12/22/2024 4:14:50 PM**
 
 ## 使用说明
 

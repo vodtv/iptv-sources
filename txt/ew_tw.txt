@@ -32,7 +32,7 @@
 
 综艺,#genre#
 [HD]cmusic,https://stream1.freetv.fun/962b183db2050a7f4995fa60fb432e5da6df5872565cb7f6792a673d3c157248.m3u8
-[BD]ROCK_ENTERTAINMENT,https://stream1.freetv.fun/38fa116a891b753410e4433d4454273c9dc0a7f4f3a484c531bafa589dd95172.ctv
+[HD]ROCK_Entertainment,https://stream1.freetv.fun/b66831a338001b54594bdb64f936140edea505150419a2266b45a5f537dca5fc.ctv
 [BD]tvbs欢乐,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
 [BD]tvn,https://stream1.freetv.fun/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
 [BD]三立都会,https://stream1.freetv.fun/4cf0405feb7da9c71ac8d099a8652a1d7eea3b3bc176256de75a3e4c13899e15.m3u8
