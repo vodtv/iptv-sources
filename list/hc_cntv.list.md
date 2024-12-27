@@ -91,7 +91,7 @@
 | 83 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=34b4ecff1735162859> |
 | 84 | 兵团卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/btws/1300000/mnf.m3u8> |
 
-Updated at **12/26/2024 8:59:00 AM**
+Updated at **12/26/2024 4:16:17 PM**
 
 ## 使用说明
 
