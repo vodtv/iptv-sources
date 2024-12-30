@@ -65,7 +65,7 @@
 | 57 | [BD]八大综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0f49846d96cdc3713a2927b6371a8b8b03ac41098a10253f572bd18f59d4e085.m3u8> |
 | 58 | [BD]八大综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/4d04ee7b8f5c7494488ef4825ea4556a6d33dbe0f585e68d939c4a99e630ac48.ctv> |
 | 59 | [BD]公视 | stream1.freetv.fun | <https://stream1.freetv.fun/239812bc8d7b08228295a2ca4eaa9f8773527dc9478db41e8272bbfea77230b7.ctv> |
-| 60 | [BD]ptsxs小公视1080 | stream1.freetv.fun | <https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8> |
+| 60 | [HD]ptsxs小公视720 | stream1.freetv.fun | <https://stream1.freetv.fun/ca6355af1ed58595d492f59a1882f17ba6d6e0c7b2e41ae6e5582d6200321f4d.m3u8> |
 | 61 | [BD]公视戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/3eddb80d0f5a23691bf236b540e51f0e10f51f7d0811e3c42f03e7b7c21e3beb.ctv> |
 | 62 | [HD]博斯无限二 | stream1.freetv.fun | <https://stream1.freetv.fun/8382d0266b5c6cbe1cbb4cd574ed822f27d0d83733fcae785568328f8ea56df2.ctv> |
 | 63 | [BD]博斯网球 | stream1.freetv.fun | <https://stream1.freetv.fun/adb432ed9c5aa0930de59da773d78e8f4eaad4e8cad452618b0c953250414b50.ctv> |
@@ -147,7 +147,7 @@
 | 139 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/b3cafc1195fc65049e4faa3252721631530e68ef560f3cbd2f0db533d558cf57.ctv> |
 | 140 | [VGA]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/3beb8e85e9bc7d49a711576a7f6832c40a434221e9646bacedcdb8e707392017.ctv> |
 
-Updated at **12/29/2024 9:05:12 AM**
+Updated at **12/29/2024 4:15:13 PM**
 
 ## 使用说明
 

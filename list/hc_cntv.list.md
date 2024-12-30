@@ -65,7 +65,7 @@
 | 57 | 厦门卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/xmws/1300000/mnf.m3u8> |
 | 58 | 吉林卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/jlws/1300000/mnf.m3u8> |
 
-Updated at **12/29/2024 9:05:12 AM**
+Updated at **12/29/2024 4:15:13 PM**
 
 ## 使用说明
 
