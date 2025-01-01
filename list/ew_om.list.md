@@ -6,10 +6,10 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [VGA]澳亚卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/082af507aedc8c88594eb285377c2220e6b116e8e754e098e0ea9f764be2f886.ctv> |
+| 1 | [SD]澳亚卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/082af507aedc8c88594eb285377c2220e6b116e8e754e098e0ea9f764be2f886.ctv> |
 | 2 | [BD]澳门资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/45db1a0bae9d32dd70fce159b47d886c8fbf6ec5ee57af0e2f91ef017ba73338.m3u8> |
 
-Updated at **12/31/2024 8:59:03 AM**
+Updated at **12/31/2024 4:16:18 PM**
 
 ## 使用说明
 

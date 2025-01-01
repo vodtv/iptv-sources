@@ -29,7 +29,8 @@
 [SD]香港卫视,https://stream1.freetv.fun/ba933ab9810a5278aa96e65c3ce2d8d82cda68afaa6f6572a3fcd6ff3f7d771d.m3u8
 
 新闻,#genre#
-[BD]cctv1,https://stream1.freetv.fun/9832662fe7e694c38a14393525475d5c97ad6e1fac50720ea5cf0e1648ee372a.m3u8
+[BD]cctv1,https://stream1.freetv.fun/c00315ad9b435ed611da68ae2fdb376c28b5e053b7ea77876d4ba5f64c997078.m3u8
+[BD]hoy_tv_资讯,https://stream1.freetv.fun/61c9519e70540235a366f9e5c9f5b4e95ad06ee6cb1edc8647cb99dd28c28960.m3u8
 [BD]now新闻,https://stream1.freetv.fun/ccdc0e776ab754370eabb96134e7110e463d82380e600a3b6d9dda9c3c93fbe7.ctv
 [VGA]rthk34,https://stream1.freetv.fun/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
 [BD]RTHK35,https://stream1.freetv.fun/86564020a11d3ce6598f1e944855570a59fed9e02ab9471a5f04509c1e110938.m3u8

@@ -17,7 +17,7 @@
 | 9 | [BD]dazn portugues | stream1.freetv.fun | <https://stream1.freetv.fun/8d5c263adb508ada83ab3b8dc676723eef3c2445bcac4b402bdd6f10a51c6c29.ctv> |
 | 10 | [HD]dazn2 | stream1.freetv.fun | <https://stream1.freetv.fun/94e9f0a64e3104f9d55d2750b441ad14c035d1965f7b9c4dde93aeefb6899eb8.m3u8> |
 | 11 | [BD]discovery channel cee hd | stream1.freetv.fun | <https://stream1.freetv.fun/94376536df0cfe2fdad4a6e4bf5b7fa6cd6d6fe49d9a53e99bcb2344979ffced.m3u8> |
-| 12 | [BD]discovery h h | stream1.freetv.fun | <https://stream1.freetv.fun/c9c060d0b10ceeb34a9b87ca8d8dc3bf29df30b8858063113ae0a1e68553161c.ctv> |
+| 12 | [HD]discovery h h | stream1.freetv.fun | <https://stream1.freetv.fun/c9c060d0b10ceeb34a9b87ca8d8dc3bf29df30b8858063113ae0a1e68553161c.ctv> |
 | 13 | [BD]dreamworks | stream1.freetv.fun | <https://stream1.freetv.fun/ad88982ed14451da4c47551f1d7635ce5e5251530fdad37370860a520d6efc3c.ctv> |
 | 14 | [BD]elta 娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/e6b7d9d7adc7c4b4f2c5394f732d79c7b5704f068b3cd42f525528f926339cb1.ctv> |
 | 15 | [BD]eltv 生活英语 | stream1.freetv.fun | <https://stream1.freetv.fun/564372e613634ab8e210998d4a2c31120f2b319bd9632a73313bc5d4f74ebf84.ctv> |
@@ -27,7 +27,7 @@
 | 19 | [BD]eleven sports 3 | stream1.freetv.fun | <https://stream1.freetv.fun/ae44bb69fe3de6ce88639afd4634b97b235718f8e95193e3494bc97fc41f6c8f.ctv> |
 | 20 | [VGA]food | stream1.freetv.fun | <https://stream1.freetv.fun/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8> |
 | 21 | [HD]hbo signature | stream1.freetv.fun | <https://stream1.freetv.fun/87506f962b90c1e6a534a2768eec4e2caa0b75d1453dedd5b28b87f812cd11c4.ctv> |
-| 22 | [SD]ca hgtv | stream1.freetv.fun | <https://stream1.freetv.fun/13e884e5b38afb0b73fb3fd7594b3a6b4b06f0ab289ea87b5ca13071e7dd7f7c.ctv> |
+| 22 | [BD]hgptv | stream1.freetv.fun | <https://stream1.freetv.fun/e484f83d20b0b53ac6044a0b86c7ad7933e9c8e791e7e2355844a0c58d562010.m3u8> |
 | 23 | [HD]hollywood | stream1.freetv.fun | <https://stream1.freetv.fun/c59d3c0b5995cfbc9c21e89b19a21feb14d250a6626a59bdf8867b898b301f15.ctv> |
 | 24 | [BD]us lifetime movies | stream1.freetv.fun | <https://stream1.freetv.fun/4cf7bd2ab06b194fa19861b364afa88397632b834b17c045ac1d61ee9307f499.ctv> |
 | 25 | [BD]love nature | stream1.freetv.fun | <https://stream1.freetv.fun/0c552589b4fcf164ed142e83d60eeb4e0fe7569f82dfb443b89ae78eb3c7abce.m3u8> |
@@ -95,7 +95,7 @@
 | 87 | [BD]东森戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/63afc04b6f48d6ab1be98e6ac787f6a5ae5341600353f7f32af5bd39bd544b07.m3u8> |
 | 88 | [BD]东森新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.ctv> |
 | 89 | [BD]东森新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/ddded5c8d92d344adc8c91e2517fc69f80ffe905517a315ff881c3b4d4247cc7.ctv> |
-| 90 | [VGA]东森洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/1b93d0e561aedb2226293888f57bcfa6f03c79694e2f4d67968a5aa3eb2300a1.m3u8> |
+| 90 | [BD]东森洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/7e2982f5889af5d8c03c773d7cd2742a1595bf464ac49fdd012b1a29e4a00af3.m3u8> |
 | 91 | [BD]东森综合 | stream1.freetv.fun | <https://stream1.freetv.fun/226ab2f3bdc9d0a3f07d22b13532ba92c0c3d78ea31f0dac0eac6091369a516e.ctv> |
 | 92 | [VGA]东森美洲 | stream1.freetv.fun | <https://stream1.freetv.fun/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8> |
 | 93 | [BD]东森美洲中国 | stream1.freetv.fun | <https://stream1.freetv.fun/0d9d053e113b9f4affb851bf56c0a2ed8755fab592272d0d922555abd74cee95.m3u8> |
@@ -103,7 +103,7 @@
 | 95 | [HD]东森财经 | stream1.freetv.fun | <https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.m3u8> |
 | 96 | [BD]东森财经新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/056f24b278e50a392a87b759f9ee54b1a7058b40a21498556036081b6994692d.ctv> |
 | 97 | [BD]东森超视34.5 | stream1.freetv.fun | <https://stream1.freetv.fun/41abf308e03f0e00cf97633b2892d5477b3329bae64920ad101c87398baf61a6.m3u8> |
-| 98 | [BD]东森电影 | stream1.freetv.fun | <https://stream1.freetv.fun/84b53f0235948b735b69dab43b966bb640c16375861da25c6b29afe29568396e.m3u8> |
+| 98 | [SD]东森电影 | stream1.freetv.fun | <https://stream1.freetv.fun/0a9694115ab1d106fb99666478d5b3760a0f516c85fc0c0ffc23c2ad66943727.m3u8> |
 | 99 | [BD]民视 | stream1.freetv.fun | <https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8> |
 | 100 | [BD]民视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/5894b8838d821283efe476fc68f07338f39c2d48776be1326f3d378cc73aa9e0.m3u8> |
 | 101 | [BD]民视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/b5a6db5a2542010c9bc4e065b1c0e352f7a7695f1ec555ae1adfacd9c3f9c05c.ctv> |
@@ -124,7 +124,7 @@
 | 116 | [BD]台湾戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/798c2f4318e74ea3fcb547668f2a534db13cca465aadb11463ffad5219484fe8.ctv> |
 | 117 | [BD]台视 | stream1.freetv.fun | <https://stream1.freetv.fun/a7dddec93a9aabf57c6cc078c93713caa086c81dca9b15afc481edbf797543e1.ctv> |
 | 118 | [BD]台视新闻 hd | stream1.freetv.fun | <https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
-| 119 | [BD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/3e712c7facb3dbae8eebf29e560978e03f3711827b09e8a4f2ae7f346673716f.m3u8> |
+| 119 | [BD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/b328e01f5c5548ad025bd448593d135d128c2111190bddecfb41f02016d0e954.m3u8> |
 | 120 | [BD]台视财经 | stream1.freetv.fun | <https://stream1.freetv.fun/42fd05315b8ba7cc3f7afcfbadc0f33ac98a5d7797df0b7ed7f5abe620baa6a9.ctv> |
 | 121 | [HD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
 | 122 | [HD]华视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv111> |
@@ -153,7 +153,7 @@
 | 145 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/b3cafc1195fc65049e4faa3252721631530e68ef560f3cbd2f0db533d558cf57.ctv> |
 | 146 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/0eaf3eea204f61f3af2f0e2e6c924ba19d834af134e9ac06be4881567ecbd04a.ctv> |
 
-Updated at **12/31/2024 8:59:03 AM**
+Updated at **12/31/2024 4:16:18 PM**
 
 ## 使用说明
 
