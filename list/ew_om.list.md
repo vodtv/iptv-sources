@@ -15,7 +15,7 @@
 | 7 | [BD]澳门莲花 | stream1.freetv.fun | <https://stream1.freetv.fun/5499880d623a69122a59f962ddc7e383ee4f633ddcee32ba133ac25e98f125e2.ctv> |
 | 8 | [BD]澳门资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/45db1a0bae9d32dd70fce159b47d886c8fbf6ec5ee57af0e2f91ef017ba73338.m3u8> |
 
-Updated at **1/13/2025 9:03:13 AM**
+Updated at **1/13/2025 4:17:40 PM**
 
 ## 使用说明
 
