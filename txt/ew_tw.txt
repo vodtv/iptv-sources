@@ -5,12 +5,12 @@
 [BD]pet_club_tv,https://stream1.freetv.fun/f6708b180e60c524273c559a800d2bd9bb5adf63c23ee027b65317ae1a9815a9.m3u8
 [BD]smart知识,https://stream1.freetv.fun/baba412dc2a200d5a108fe649a79417b2d0fc3b537d527296cbd45f68cead164.m3u8
 [BD]亚洲旅游,https://stream1.freetv.fun/479a8712ed469a1d2f80f4bde73c8dce507c4d97cad8e2404caf1464f5968ace.m3u8
-[BD]人间卫视,https://stream1.freetv.fun/f3c2a5fa1f577636eac760c96c165c988cfc5552416425a79ec9bad11382d07e.m3u8
+[BD]人间卫视,https://stream1.freetv.fun/42db7d21271f321cdd59f552ed6de00b634a389edf2db56e1f2b59852f9551db.ctv
 [HD]唯心电视,https://stream1.freetv.fun/d1cf8bade6ebe3a278d268eed58d4cded514c586b05b8de1d4ccfc5017754f74.m3u8
 [HD]大爱,https://stream1.freetv.fun/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
 [BD]大爱2,https://stream1.freetv.fun/fccdee5659dfd45d93efddb44de44613ea55be5d22329aa3454de0d523af87ef.m3u8
 [VGA]大爱电视,https://stream1.freetv.fun/fc8f9b311bd2c7504c819f68e31d99379ee429db8b3c9848c9c599d578261f26.ctv
-[BD]好消息,https://stream1.freetv.fun/bca85aaf05b8cc5687ea08d40807f28a87e1d63d528e9d63e274af9deab99692.ctv
+[VGA]好消息,https://stream1.freetv.fun/5d65d998e905e9796ceb8cafdb2ce0526e93c07f8d8725130c1d3eb4e95fc8a1.ctv
 [VGA]好消息2,https://stream1.freetv.fun/8ada7929e6e1b921d630798131c4c4c3d9f0331e7a4c457a518cab25c7abeede.ctv
 [VGA]民视旅游,https://stream1.freetv.fun/1598b7d12ca785eaa2fda48dad7b8f428149ad47db6ba2d04f2488707b6efb76.ctv
 [BD]生命电视台,https://stream1.freetv.fun/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8
@@ -21,7 +21,7 @@
 [BD]Cinemax,https://stream1.freetv.fun/d13fb78acb4704c4ad3930d2d3f5db413e0f8b921ed267a5aab0fa8a47f38927.ctv
 [VGA]catchplay_电影,https://stream1.freetv.fun/8627d0598d0c12dea5c2d6e3447b97d35fe34f77e5b03b9da5b97c5aa7556e00.ctv
 [HD]hbo_signature,https://stream1.freetv.fun/87506f962b90c1e6a534a2768eec4e2caa0b75d1453dedd5b28b87f812cd11c4.ctv
-[BD]young_hollywood,https://stream1.freetv.fun/989eb94e870bd36822d0078cb3fa743a9295f65d00b4b471c365c3f5eab578e3.m3u8
+[BD]hollywood,https://stream1.freetv.fun/c59d3c0b5995cfbc9c21e89b19a21feb14d250a6626a59bdf8867b898b301f15.ctv
 [HD]三立戏剧,https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8
 [BD]八大戏剧,https://stream1.freetv.fun/c7f872f6da5871c2bf37d3829e4aed2fc681e8f29d9b0f5bda748557979171c0.m3u8
 [VGA]公视戏剧,https://stream1.freetv.fun/956e52072ae01e488e64bf278238b451e94d7e0769aff6a4956d638b832f6a69.ctv
@@ -39,7 +39,7 @@
 [VGA]靖天映画,https://stream1.freetv.fun/c415cec49c7279377aaa16df2a2258f575c6205597d979b1a7c5039ebb83ae96.ctv
 [BD]靖天电影,https://stream1.freetv.fun/b7b334eee155c0e904ec230e64f4ff9f242a5158d58709ce6e1f5b8d18216b10.ctv
 [VGA]靖洋戏剧,https://stream1.freetv.fun/57c2ffed547267d8801c2048ef82f18dc9cc574ac4088e9aa3b72ea06905434b.ctv
-[BD]龙华偶像,https://stream1.freetv.fun/626104cd52e8588109aa2a21e3feeefad86bc99160649cc9a119b02f405c006c.ctv
+[VGA]龙华偶像,https://stream1.freetv.fun/bd320c62fa7a3e9e8e5cb1e17c51c29f9072df4d874ac2d66855e99de1de92f9.ctv
 [BD]龙华戏剧,https://stream1.freetv.fun/6dfb8189be0e3e69a2b9a63956a201bdd04ba0c3db1eeec0c20406ada33ba775.ctv
 [BD]龙华日韩,https://stream1.freetv.fun/9dac4cd7acdb99c9b9716b802d7049351a1bca582747ddf683aff510bb0c7d01.m3u8
 [BD]龙华洋片,https://stream1.freetv.fun/07af5ce9e0d331228189888717ee6d91f727f9bbc5720e912578119d64e346dd.m3u8
@@ -84,7 +84,7 @@
 [BD]tvbs_精采,https://stream1.freetv.fun/96e316a81100399bcf3af27c922d075b11474dca9f2f6d1f5fde94dd73e53b6c.ctv
 [VGA]tvbs_综艺,https://stream1.freetv.fun/5b01c3285672a7756b902e46c471d4f998c69ad74eb6827590b437f595c7ee8e.ctv
 [BD]tvn,https://stream1.freetv.fun/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
-[BD]concerts,https://stream1.freetv.fun/42f0dac25c2ea23068a852ac00ab166e3ef1d82c54d84c5104d8fa1bc6be8517.m3u8
+[HD]concerts,https://stream1.freetv.fun/42f0dac25c2ea23068a852ac00ab166e3ef1d82c54d84c5104d8fa1bc6be8517.m3u8
 [BD]三立都会,https://stream1.freetv.fun/4cf0405feb7da9c71ac8d099a8652a1d7eea3b3bc176256de75a3e4c13899e15.m3u8
 [HD]中天娱乐,https://stream1.freetv.fun/6e731a583558b18aeb638aee1225a4c8cdab6f367c51130697829a789f8a6134.m3u8
 [BD]八大第一,https://stream1.freetv.fun/0a69db542fb0ffb28f514894c0121fab614596f933505273a7d0443515e1bba1.m3u8
