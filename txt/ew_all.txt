@@ -59,7 +59,7 @@
 [BD]黑龙江影视,https://stream1.freetv.fun/8a14b1a569fab6ad4b9965f5bbebc079dc886cc46d8939c15f5c9e704549a021.m3u8
 
 新闻,#genre#
-[VGA]cctv13,https://stream1.freetv.fun/d4b95c2507fcc9f547ab26d647a8203fd8816a4261d88ef1b028c24e5cedd9b0.m3u8
+[HD]cctv13,https://stream1.freetv.fun/5faa47be190587cc85b9a83523c5bff88b5440ff623beb37d113818557a34903.m3u8
 [HD]cctv2,https://stream1.freetv.fun/948e1847ba45f43092209134bb8af9a9e7bd0dd7d2e76902d8fa7ebd37de712b.m3u8
 [HD]cctv4,https://stream1.freetv.fun/95e9acdecb2ea5eea3c9d38657949238432ac261159b2866833a8890f3ecdcca.m3u8
 [HD]cctv4,https://stream1.freetv.fun/c805ace6027e03363afd9bc5d81417db0c05cdf22eef8ffc6c0c4416e0786877.m3u8
